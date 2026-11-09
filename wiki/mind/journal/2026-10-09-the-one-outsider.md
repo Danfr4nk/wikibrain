@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-09
-date_modified: 2026-11-07
+date_modified: 2026-11-09
 sources:
   - wiki/people/ally-lubin
   - wiki/mind/concepts/attachment-model
@@ -34,7 +34,14 @@ connections:
   - page: wiki/mind/synthesis/annie-ally-contrast
     type: evidenced-by
     claim: "The incumbent-exclusion leg runs on this page's counts: across August 18-19, 2026 he sent 408 messages to Annie and 552 to Ally, threads interleaving hour by hour - the eleven-year primary occupant received no addressed wiki grant while the incoming slot-loading did, which is this entry's discriminator between the ritual reading and ordinary disclosure."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The entry's specimen event runs whole on this page's record: the addressed grant (her entry sent to her at 15:10 UTC on August 18, 2026), the trust-pricing quote one day later ('the literal first person to ever read that wiki,' August 19, 19:52 UTC), the first-reader record ('the first person outside Dan ever to read this wiki'), the 5,328-line thread as primary source for the 2026 span, and the binary termination (Sep 7-8 blowup; Sep 20 coda; relationship_to_dan: severed)."
+  - page: wiki/mind/profile/enneagram-5w4
+    type: evidenced-by
+    claim: "The count-discriminator and both-survived legs run on this page's record: it carries the 2026-08-18 wiki grant as 'the Witness need's one documented completion,' with her hostile audit of it and both parties surviving the transaction without the predicted consumption fear firing - the survival-clause language the entry's rival discriminator (d) runs on, inside row 46's corroborated Enneagram-cluster frame (fusion-or-annihilation)."
 changelog:
+  - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---

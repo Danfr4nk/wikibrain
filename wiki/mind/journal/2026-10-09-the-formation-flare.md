@@ -8,8 +8,9 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-09
-date_modified: 2026-10-19
+date_modified: 2026-11-09
 changelog:
+  - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
   - kb/data/0024-old-wiki-happiness-counter-measure
@@ -41,6 +42,12 @@ connections:
   - page: wiki/mind/concepts/attachment-model
     type: evidences
     claim: "The full-strength-through-2026 evidence (the zero-severance rule, the 129/36s cadence, the collapse-complete-by-2017 while the bond ran eight more years) is what defeats the bond-state rival on this entry's discriminator."
+  - page: wiki/health/cocaine
+    type: evidenced-by
+    claim: "The series itself runs on this page's record: its 'happiness counter-measure' section holds the bin/mine-messages sweep of first-person happiness claims in sent text - 7.86 per 1,000 in Annie's first five weeks (late 2015), then 2.72, 0.73, 0.87, 0.34 across 2016-2019 and 0.41 in 2020, 1.59/1k overall across 106,629 sent messages (dat:0024) - which this entry re-reads as a formation-dated flare rather than a bond-state meter."
+  - page: wiki/interests/music/trap-era
+    type: evidenced-by
+    claim: "The music-handover leg runs on this page's record: its 'handover of the top happiness slot' section carries the corpus's only ranked comparison of happiness sources - December 9, 2015 'Ruin the only thing that's ever made me happy' (music) and April 3, 2016 'You're the only thing that's ever made me happier than making music' - dating the 7.86/1k spike to the exact window where the top happiness slot changed hands from making music to Annie."
 ---
 
 # The Formation Flare

@@ -8,8 +8,9 @@ status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-23
+date_modified: 2026-11-09
 changelog:
+  - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording disposition (a) — Book 5 of the omnibus is a pop specimen of the Enneagram system, recorded as specimen-only and never a source for this page's contested typing. No existing text altered."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile); added reciprocal contradicts edge to big-five-psychometrics (SLOAN fourth-letter dispute)."
   - 2026-10-06: Restructured to canonical template v1 and expanded — wing adjudication extended with the red-team-probe-series and 2026-09-15 head-to-head (dat:1592); instinct-stack evidence folded from the-commissioned-self, the-unbroken-bond, bond-switch-2015, no-platonic-channel, single-channel, attachment-trauma-bond; SLOAN fourth-letter (RLOEI/RLUEI) dispute documented with the big-five cross-instrument conflict; all disputes moved into Conflicts in the record.
@@ -61,6 +62,9 @@ connections:
     type: contradicts
     claim: "The SLOAN fourth-letter dispute — the only dated first-person self-typing in the record gives 5w6sx RLOEI (2024-11-04) against the commissioned 5w4 and RLUEI this cluster is built on — is documented here as a cross-instrument conflict with that page's Big30/SLOAN table; the wing and the fourth letter have never been reconciled."
 
+  - page: wiki/mind/journal/2026-10-09-the-one-outsider
+    type: evidences
+    claim: "The 2026-10-09 entry 'The One Outsider' carries its count and survival legs on this page: the Witness-need completion recorded here (the 2026-08-18 grant, her hostile audit, both parties surviving) is its evidence that the addressed wiki grant was a rite with a survival clause, not a link-drop - and that the count of such completions stands at one."
 ---
 
 # Enneagram — The Contested Typing (5w4 Commissioned vs. 5w6sx Self-Typed)

@@ -6,7 +6,7 @@ aliases: ["Alexandra Lubin", "ALU", "aluuuu", "Ally"]
 status: severed
 knowledge: earned
 date_created: 2026-06-23
-date_modified: 2026-11-07
+date_modified: 2026-11-09
 date_range_start: 2011-05-20
 date_range_end: 2026-09-21
 images:
@@ -105,7 +105,14 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-open-set
     type: evidences
     claim: "The 2026-10-03 entry 'The Open Set' takes the June 1, 2026 burst documented on this page - nine messages to an unmonitored handle, no reply - as its purest open-set case: output re-firing into a channel that could return no closure signal, with this page's misaddressing correction carried as the entry's routing-artifact caveat."
+  - page: wiki/mind/journal/2026-10-09-the-generator-that-never-fired
+    type: evidences
+    claim: "The 2026-10-09 entry 'The Generator That Never Fired' carries two legs on this page: the September 7-20 transcripts recorded here are its searched deployment channel (zero signature-phrase instances), and the severance dates recorded here bound the generator's possible deployment window to twelve days after its 2026-08-26 capture."
+  - page: wiki/mind/journal/2026-10-09-the-one-outsider
+    type: evidences
+    claim: "The 2026-10-09 entry 'The One Outsider' builds its one-slot-offering thesis on this page: the August 18, 2026 addressed grant, the August 19 trust-pricing quote, the first-reader record and the September severance recorded here are its proof that the exocortex grant is the ritual artifact of the single loaded slot, not ordinary disclosure."
 changelog:
+  - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
 ---
 
