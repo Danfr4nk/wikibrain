@@ -3,7 +3,7 @@ domain: interests
 page_type: entity
 status: stable
 date_created: 2026-07-16
-date_modified: 2026-09-27
+date_modified: 2026-11-09
 sources:
   - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -19,6 +19,7 @@ sources:
   - kb/entities/legion-of-skanks.md
   - kb/sources/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25.md
   - kb/interpretations/legion-of-skanks-dildo-episode-attendance-testimony.md
+  - kb/sources/side-chat-20261109-storytime-comedy-cellar-testimony.md
 related:
   - wiki/interests/index
   - wiki/interests/the-office
@@ -138,6 +139,12 @@ Dan's own performing stopped with the pandemic. Going to shows did not. The venu
 
 **After.** On 3 June 2021, to Bobby: *"Btw comedy is back on in nyc. I'm going to see ari, big Jay and Attell on Sunday"* ([FB]). On 3 August 2021, to a friend: *"Like I'm still waiting tables and trying to do comedy living in a studio apartment in nyc. That's the kind of thing you should have outgrown by 25 lol"* ([FB], thread "CJ Lindsay"). That is the last first-person statement of intent to perform in the record. No set after March 2020 is documented. On 1 June 2022: *"I go to a lot of standup shows lol"* ([FB], [[wiki/people/valeria-iglesias-cid]]). The later record has comedy as listening, not doing: Tim Dillon's podcast in March 2026, *Comedy Bang! Bang!* again in August 2026 ([IM]).
 
+**The biggest laugh: the Cellar (date unestablished).** One Cellar night belongs in this section on Dan's testimony alone, told as a story-time session on 9 November 2026 ([`src:side-chat-20261109-storytime-comedy-cellar-testimony`](../../kb/sources/side-chat-20261109-storytime-comedy-cellar-testimony.md); testimony ledger t007–t008, both adjudicated unfalsifiable — the corpus cannot settle them). In Dan's telling: he and Annie were at the Comedy Cellar for a regular 11pm Colin Quinn workout set, with Bobby Kelly and the typical Cellar rotation on the bill. Charlamagne tha God was MC, doing crowd work. They were seated front row — the table literally at the front of the stage. Charlamagne asked the couple at the next table where they met, and the man answered with two words: *"Atlanta Olympics."* His answers to the follow-up questions did little to clear up the confusion — the two words are, in Dan's words, *"slightly... narrowing"* yet *"could describe So many different things"* — which Dan names a nightmare for an MC who needs quick hits and is not really working through a set. Charlamagne then came to Dan and Annie and asked where they met. Dan answered: *"Atlanta Olympics."* The exact same two words.
+
+Dan calls what it got **the biggest and best laugh of his life**. His own analysis of why it worked, given in the same telling: it is *"REALLY hard to get a laugh like that in a fucking boxing gym comedy club like the cellar as an audience member without absolutely humiliating the comic"* — but this was *"as close to good natured humor as i've ever attempted"*: it built on the bit rather than stealing it, and *"i like charlamagne a lot so i was glad"* it landed as a gift rather than a scalp. Set against the rest of this page, the shape is the point: the man who reported of the Chip Chipperson show *"I didn't laugh once"* and whose mode in a room is deconstruction got his life's biggest laugh not by taking the room apart but by handing its MC a second, identical mystery to run with.
+
+Everything in that account beyond Dan's own words and act is as-he-tells-it, attributed, not independently verified: no contemporaneous record of the night exists in the held corpus — Charlamagne tha God appears nowhere in the primary messages, and *"Atlanta Olympics"* appears nowhere in the wiki, the evidence notes, or the primary messages before this telling. The nearest held neighbours do not match it and do not contradict it (see "Coverage limits"). Two pins were asked in the telling's session and left open by Dan: **the exact year and date** — the story belongs to the New York years with Annie; he gave no year — and **what Charlamagne did with the bit after the room reacted**, which the telling does not record.
+
 ## What it amounted to
 
 Dan kept a movie about a delusional aspiring stand-up, *The King of Comedy*, in his eleven-film canon. The corpus holds no discussion of it at all ([[wiki/interests/film-canon]], "The King of Comedy" row: 0 hits). The record of his own attempt reads nothing like Rupert Pupkin's. Dan's self-reports are accurate and deflationary: *"It was okay"*, *"I'm going to bomb again"*, *"i'm not good enough to adopt the term 'comedian' yet"*. He could name the syllable where a room turned. He stayed off social media on purpose until he was better. What drove him was a working comic's floor, *"rich vos AND vic henley can do this"*, not the dream of the big stage.
@@ -174,12 +181,14 @@ Every dated item in the held record bearing on stand-up, as audience or performe
 | 2019-02-15 | I | "The whole point of moving to nyc is to try standup" | Tom Maison, [FB] |
 | 2019-02-19 10:28 | — | RJ: "the thought of you doing stand up and using that story in a bit" | RJ Ritchey, [IM] |
 | 2019-03 (before the 16th) | P | **First open mic**: millennials; what happens to your stuff after you die | Bobby Cole, [FB] 2019-03-16 |
+| 2019-03-05 | A | Comedy Cellar, 9:30 show, proposed the day before ("There's a bunch of good comics on that show") — outcome not recorded | unidentified correspondent (`+1724…5551`), [IM] 2019-03-04 |
 | 2019-03-15 | A | Ron Bennington at the Comedy Cellar; meets Rich Vos | Bobby Cole, [FB] 2019-03-16 |
 | 2019-03-23 | A | The Stand @ Ace Hotel (Big Jay Oakerson, Janeane Garofalo, Ron Bennington, Bonnie McFarlane): order confirmed on 3/16 | Annie, [IM]; Bobby, [FB] |
 | 2019-04-02 17:08 | — | "Nad Knarf" stage name | RJ Ritchey, [IM] |
 | 2019-04-12 22:22–22:25 | P | "heres my comedy set so far"; "a solid 5 minutes" | Jim Shaffer, [IM] |
 | 2019-04-18 | P | Material "to try doing stand up" | Ally Lubin, [FB] |
 | 2019-04-29 | A | Chris DiStefano | [DP] |
+| 2019-05-10 | A | Comedy Cellar, 12:15 show: Ron Bennington and Colin Quinn there ("not to brag...but i'm going to the 12:15 show at the cellar tonight") | Bobby Cole, [FB] |
 | 2019-05-20 22:11 | P | "writing new material like crazy ... had some better shows" | Shelbie Breakiron, [IM] |
 | 2019-06-30 20:52 | A | *Legion of Skanks* tickets offered for a visit by July 8 (outcome not recorded) | RJ Ritchey, [IM] |
 | 2019-07-03 21:58 | P | "trying to get some work doing standup comedy" | Mike Hinkle, [IM] |
@@ -222,10 +231,11 @@ Every dated item in the held record bearing on stand-up, as audience or performe
 | 2021-06-03 | A | "comedy is back on in nyc": Ari Shaffir, Big Jay, Attell "on Sunday" (June 6) | Bobby Cole, [FB] |
 | 2021-08-03 | I | "still waiting tables and trying to do comedy" | CJ Lindsay, [FB] |
 | 2022-06-01 | A | "I go to a lot of standup shows lol" | Valeria Iglesias, [FB] |
+| Undated (New York years; told 2026-11-09) | A | Comedy Cellar, 11pm Colin Quinn workout set; Charlamagne tha God MC-ing crowd work; front row with Annie; "Atlanta Olympics" — the biggest laugh of his life (testimony only; see "The biggest laugh") | [`src:side-chat-20261109-storytime-comedy-cellar-testimony`](../../kb/sources/side-chat-20261109-storytime-comedy-cellar-testimony.md) |
 
 Undated favorites from [DP]: Dave Attell, Ron Bennington, Andrew Schulz. Attell and Bennington both appear in dated rows above.
 
-**Tallies from this log.** 65 rows. 23 are marked P (performing, class, or material), running from March 2019 to June 2020. 25 are marked A (attending or ticketed), running from 2011 to 2022. Thirteen calendar months carry at least one P row. The gaps are June and November 2019, and nothing between the June 2020 cadence note and the August 2021 statement of intent.
+**Tallies from this log.** 68 rows. 23 are marked P (performing, class, or material), running from March 2019 to June 2020. 28 are marked A (attending, ticketed, or proposed), running from 2011 to 2022, plus one undated testimony row. Thirteen calendar months carry at least one P row. The gaps are June and November 2019, and nothing between the June 2020 cadence note and the August 2021 statement of intent.
 
 ## Coverage limits
 
@@ -234,6 +244,7 @@ Undated favorites from [DP]: Dave Attell, Ron Bennington, Andrew Schulz. Attell 
 - **The club itinerary** (the [DP] rows) comes from an unheld dossier. Its October 29–30 and November 4–5 rows are corroborated by independent messages. Its April 29, November 7 and November 21 rows are not.
 - **Not found in any held source**: the 2018-12-03 *"We're going to Philadelphia for a taping of a standup special"* message to Suzanne, the 2019-04-15 *"i already got a third ticket for you"* message, and the *"$7 a piece"* reply, all quoted by earlier versions of this page ([`dat:1339`](../../kb/data/1339-standup-ambition-messages-in-held-corpus.md); rechecked 2026-09-27 against [IM] and [FB]). They are unverified, not disproven. The Chipperson trip itself is corroborated by the tickets and the Bobby thread.
 - **The gun taping's date** is not fixed (see "The room").
+- **The Cellar "Atlanta Olympics" night is testimony only, and its date is unestablished.** Dan told it on 2026-11-09 and gave no year when asked; what Charlamagne tha God did with the bit after the room reacted is likewise unrecorded. No contemporaneous message, ticket, or photo for the night is held, and neither the lineup (a Colin Quinn workout set, Bobby Kelly in the rotation, Charlamagne MC-ing) nor the companion's presence is independently verified — all of it is attributed to Dan's telling in the prose, per [`src:side-chat-20261109-storytime-comedy-cellar-testimony`](../../kb/sources/side-chat-20261109-storytime-comedy-cellar-testimony.md). The held Cellar neighbours — the proposed 9:30 show of 5 March 2019, Bennington on 15 March 2019, and the 12:15 Bennington-and-Quinn show of 10 May 2019 — are different nights on their face (different hour, different named bill, no MC or laugh recorded) and neither confirm nor refute it. The March 5 and May 10 rows and the fuller Bennington residency detail ("tuesdays and Thursday's at the cellar usually the 11:30pm show") entered this log on 2026-11-09: earlier sweeps searched the full phrase "Comedy Cellar" and missed every hit that used only "the cellar" — a search-vocabulary gap in this page's own history, corrected by the story-time sweep.
 - **Messenger timestamps.** The time zone of the [FB] export is inferred from one anchor, and [FB] dates are given as the export stamps them. If the export is in fact UTC, rows stamped between 00:00 and 05:00 belong to the previous evening in ET. The rows affected here are 2012-05-03, 2018-12-08, 2018-12-13, 2019-12-21 and 2020-01-01, and none of them changes a conclusion on this page.
 - **Instagram and TikTok DMs** in the same Drive archive ([`dat:1443`](../../kb/data/1443-messenger-drive-correspondents.md)) were searched only in the combined canonical file. Nothing there bears on performing after 2021.
 
@@ -244,6 +255,7 @@ Undated favorites from [DP]: Dave Attell, Ron Bennington, Andrew Schulz. Attell 
 - Index: [[wiki/interests/index]].
 - **[DP]** `raw/self/dox-scan/Dan Profile.txt` (unheld), via [`dat:1341`](../../kb/data/1341-standup-comedy-page-remainder.md).
 - [`dat:1339`](../../kb/data/1339-standup-ambition-messages-in-held-corpus.md), [`dat:1340`](../../kb/data/1340-standup-only-openmic-evidence-claim-fails.md), [`dat:1408`](../../kb/data/1408-legion-of-skanks-tapings-2019-12-23-2020-08-25.md), [`ent:legion-of-skanks`](../../kb/entities/legion-of-skanks.md), [`int:legion-of-skanks-dildo-episode-attendance-testimony`](../../kb/interpretations/legion-of-skanks-dildo-episode-attendance-testimony.md).
+- [`src:side-chat-20261109-storytime-comedy-cellar-testimony`](../../kb/sources/side-chat-20261109-storytime-comedy-cellar-testimony.md): Dan's 2026-11-09 story-time telling of the Cellar "Atlanta Olympics" night, with its adjudication; testimony ledger t007–t008.
 - Photographs: originals at `raw/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25/` (sha256 in `manifest.json`). The thumbnails below are 480-pixel derivatives, and both are described in "The room, as audience".
 
 [![Legion of Skanks "Skanksmas" taping, 23 December 2019, 21:40, from Dan's seat: MERRY SKANKSMAS projection, elf and Santa hats, full room](wiki/media/derivatives/legion-of-skanks/skanksmas-2019-12-23-thumb.jpg)](raw/legion-of-skanks-tapings-photos-2019-12-23-2020-08-25/photo-01-skanksmas-2019-12-23.jpg)
