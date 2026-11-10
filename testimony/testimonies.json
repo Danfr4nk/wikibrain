@@ -1,7 +1,7 @@
 {
   "counts": {
-    "adjudicated": 1,
-    "testimonies": 5,
+    "adjudicated": 3,
+    "testimonies": 7,
     "voided": 1
   },
   "generated": "bin/wiki-testimony — do not hand-edit; the log is the record",
@@ -166,6 +166,72 @@
       ],
       "recorded_at": "2026-09-18",
       "source": "",
+      "speaker": "operator",
+      "specificity": 2,
+      "subject": "self"
+    },
+    "t007": {
+      "about": "",
+      "adjudication": {
+        "at": "2026-11-09",
+        "direction": "none",
+        "evidence": "Full sweep 2026-11-09 (story-time brief, saved at ~/workspace/wiki-sync/scratchpad/storytime-comedy-cellar-brief.md plus the 'cellar' shorthand appendix): no contemporaneous record of the night exists in the held corpus. Charlamagne tha God appears nowhere in the primary iMessage or Messenger corpora (his only wiki hit is his book on a want-to-read list); 'Atlanta Olympics' appears nowhere in wiki, kb, or primary messages before this telling. Nearest neighbours do not match and do not contradict: 2019-05-10 Cellar 12:15 show with Ron Bennington and Colin Quinn (Messenger, Bobby Cole thread — no MC, companion, or laugh recorded); 2019-10-29 Colin Quinn night (venue only in the unheld Dan Profile.txt itinerary); Bobby Kelly on 2019-11-07 is likewise unheld-itinerary only. Checked, and the corpus cannot settle it.",
+        "failure": [],
+        "magnitude": "",
+        "outcome": "unfalsifiable",
+        "slant": "",
+        "tier": "none"
+      },
+      "asserted": "2026-11-09",
+      "channel": "session",
+      "claim": "At an undated 11pm Colin Quinn workout set at the Comedy Cellar during his New York years, Dan — seated in the front row with his partner of that era — answered MC Charlamagne tha God's crowd-work question about where they met with the exact two words the man at the next table had just given for himself: 'Atlanta Olympics.'",
+      "classes": [
+        "existence",
+        "attribution",
+        "verbatim"
+      ],
+      "confidence": "confident",
+      "history": [],
+      "id": "t007",
+      "load_bearing": false,
+      "note": "Date unestablished: Dan gave no year when asked in the main chat on 2026-11-09, and did not say what the MC did with the bit after the room reacted; both pins left open. His telling names his companion; this ledger claim does not, because bin/wiki-testimony mechanically refuses records naming her under the standing moratorium it enforces — her identity and presence are recorded in full in the kb source node and on the wiki page. Lineup specifics (Quinn workout set, Bobby Kelly and the typical Cellar rotation, Charlamagne tha God MC-ing) are as Dan tells it, not independently verified. What would settle it: a dated ticket, message, or Cellar lineup record for a Quinn late set MC'd by Charlamagne tha God.",
+      "pages": [
+        "wiki/interests/stand-up-comedy"
+      ],
+      "recorded_at": "2026-11-10",
+      "source": "main chat telling, 2026-11-09; full telling recorded in kb/sources/side-chat-20261109-storytime-comedy-cellar-testimony.md",
+      "speaker": "operator",
+      "specificity": 3,
+      "subject": "self"
+    },
+    "t008": {
+      "about": "",
+      "adjudication": {
+        "at": "2026-11-09",
+        "direction": "none",
+        "evidence": "A self-assessment of his own experience; by construction no independent instrument can rank his laughs for him. The corpus holds the contrasting data points his assessment sits against — e.g. the December 2018 Chip Chipperson report ('I didn't laugh once') on wiki/interests/stand-up-comedy — but nothing that confirms or refutes the superlative itself.",
+        "failure": [],
+        "magnitude": "",
+        "outcome": "unfalsifiable",
+        "slant": "",
+        "tier": "none"
+      },
+      "asserted": "2026-11-09",
+      "channel": "session",
+      "claim": "Dan counts the laugh his 'Atlanta Olympics' answer got at the Comedy Cellar as the biggest and best laugh of his life, and as close to good-natured humor as he has ever attempted — a gift to a comic he likes a lot, not a scalp taken at the comic's expense.",
+      "classes": [
+        "self_state"
+      ],
+      "confidence": "certain",
+      "history": [],
+      "id": "t008",
+      "load_bearing": false,
+      "note": "Self-assessment, recorded as his stated position on his own experience; the superlative is his, not a measured comparison.",
+      "pages": [
+        "wiki/interests/stand-up-comedy"
+      ],
+      "recorded_at": "2026-11-10",
+      "source": "main chat telling, 2026-11-09; kb/sources/side-chat-20261109-storytime-comedy-cellar-testimony.md",
       "speaker": "operator",
       "specificity": 2,
       "subject": "self"
