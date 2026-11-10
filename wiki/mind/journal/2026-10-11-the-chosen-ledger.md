@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-11
-date_modified: 2026-10-20
+date_modified: 2026-11-10
 sources:
   - wiki/mind/concepts/chaos-preference.md
   - wiki/mind/concepts/forensic-method.md
@@ -31,7 +31,14 @@ connections:
   - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
     type: distinguishes
     claim: "That entry established the burst-and-collapse rhythm across messaging, creative, and employment channels; this one is about the October mandate regime as the chosen-order container that holds that rhythm honestly — the floor, the goal, the vacation grammar, and the accounting reports."
+  - page: wiki/mind/concepts/chaos-preference
+    type: evidenced-by
+    claim: "Row 15 is this entry's load-bearing axis row (weight 7, verdict supported as reframing): the real axis is imposed-vs-chosen, not order-vs-chaos - which is this page's stated policy in its exception section: maximum investment in the chosen, maximum indifference to the imposed, the chaos appetite aimed at every structure he did not choose and the one structure he did choose defended against it. The page's work-rhythm cross-check prices this same regime: burst-and-collapse as the native rhythm, the long tenures endured via smuggled private objectives."
+  - page: wiki/mind/synthesis/the-embedded-objective
+    type: evidenced-by
+    claim: "Row 8 is load-bearing here (weight 6, verdict leans): no steering column - assignments work only as containers for smuggled private objectives, the rule this page states in its lede (he has never sustained an assignment; he sustains a self-set objective embedded inside one). The entry names the page itself for the general mechanism it instantiates, and its payload section runs whole on the rule: the 10,000-line floor is the container; the durable payload is killing the sub-floor backlog, dated in the October 14 reenable queue (the incidental tierings first, then framework residuals)."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

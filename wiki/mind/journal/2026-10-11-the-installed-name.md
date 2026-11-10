@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-11
-date_modified: 2026-10-20
+date_modified: 2026-11-10
 sources:
   - wiki/mind/concepts/node-locking.md
   - wiki/mind/concepts/explicit-verbal-commitment.md
@@ -33,7 +33,14 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-pattern-engines-governor
     type: distinguishes
     claim: "The Governor prices the adjudication loop that revises clusters and verdicts after elevation. The Installed Name prices a different mechanism: state installation with no adjudication phase — no revision, no confidence re-label, only install and countermand."
+  - page: wiki/mind/concepts/node-locking
+    type: instantiates
+    claim: "Clean-swap observation 5 documents the grammar family on this page: the lock as 'a stated rule issued to a model, acknowledged, and never consolidated afterward' - the entry's rename chain is that protocol aimed at identity: each install a total write of the single name field, and every superseded name retained verbatim as history in the dated chain, never consolidated away, exactly this page's lossless-retention constraint."
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: instantiates
+    claim: "Clean-swap observation 5 documents the second half of the grammar family on this page: the architecture's missing delete operation - positive rules enact, only stated orders change them. The entry's two heaviest rows are this page's mechanism (Row 6, weight 9: rules install and revoke only via explicit statements; Row 19, weight 9.5: a state labeled final holds until a fresh explicit statement supersedes it), and its finality case is this page's rule in name form: the October 6 'set your name for real' install was final because finality itself was explicitly stated."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

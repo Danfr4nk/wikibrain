@@ -8,7 +8,7 @@ knowledge: earned
 importance: high
 layer: interpreted/synthesis
 date_created: 2026-08-02
-date_modified: 2026-11-06
+date_modified: 2026-11-10
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -79,7 +79,11 @@ connections:
   - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
     type: evidences
     claim: "The 2026-10-07 entry 'Collapse Is the Working Condition' applies this page's payload rule to output cadence: two long tenures sustained by installed payloads, against the one-month payload-less tenure, are its employment leg for the schedule as an endured container rather than an inhabited engine."
+  - page: wiki/mind/journal/2026-10-11-the-chosen-ledger
+    type: evidences
+    claim: "The 2026-10-11 entry 'The Chosen Ledger' is this page's payload rule operating on the October mandate regime: the floor/goal pair as the host container and the backlog kill as the installed objective - its dated queue evidence includes the October 7 wave that drained the major-track sub-floor backlog to zero, the queue the regime measures itself against measurably shrinking."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---

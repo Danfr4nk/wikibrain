@@ -7,7 +7,7 @@ status: active
 tier: major
 layer: interpreted/concept
 date_created: 2026-07-15
-date_modified: 2026-10-28
+date_modified: 2026-11-10
 synthesizes:
   - wiki/mind/concepts/exocortex
   - wiki/mind/concepts/forensic-method
@@ -18,6 +18,8 @@ sources:
 tags: [ai-collaboration, forensic-analysis, relationships, digital-footprint]
 knowledge: earned
 changelog:
+  - date: 2026-11-10
+    change: "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - date: 2026-10-28
     change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-07-15
@@ -63,6 +65,9 @@ connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: evidenced-by
     claim: "The measured 129-episode severance series — zero enacted revocations — grounds the people-side half of the lock's write-only asymmetry: stated rules aimed at people never delete, so the only working delete in the system is the machine-side export purge."
+  - page: wiki/mind/journal/2026-10-11-the-installed-name
+    type: instantiates
+    claim: "The 2026-10-11 entry 'The Installed Name' is this page's lock protocol in the identity register: the October 5-10 rename sequence (nine dated installs, each displaced only by an explicit countermand-order) with the full superseded chain preserved verbatim - a stated-rule state, acknowledged and never consolidated afterward, whose field is a name rather than a memory node."
 ---
 
 # Node Locking

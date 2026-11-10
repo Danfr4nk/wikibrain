@@ -8,8 +8,9 @@ knowledge: earned
 tier: major
 layer: interpreted/concept
 date_created: 2026-08-01
-date_modified: 2026-10-27
+date_modified: 2026-11-10
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical article template v1; tier set to major; folded Gaps/Limits/Epistemic-ledger into sections and Conflicts in the record; expanded with 2026-09-13 avatar-chaos commissions, the Chaos in October mix title, the 2026-09-13 acquisition-drive no-steering-column grounding, and Dan's 2026-10-05 chaos-as-pathology testimony."
 sources:
@@ -56,6 +57,9 @@ connections:
   - page: wiki/mind/politics/overview
     type: parallels
     claim: "The preference and his settled left politics are the same axis — imposed versus chosen — applied to power: anti-vertical-authority, anti-ethnostate, full Palestinian sovereignty is not entropy-wanting but chosen-order-wanting, which bounds this page's appetite to imposed order specifically."
+  - page: wiki/mind/journal/2026-10-11-the-chosen-ledger
+    type: evidences
+    claim: "The 2026-10-11 entry 'The Chosen Ledger' carries its load-bearing axis (Row 15, weight 7) on this page: the LOC mandate read as a chosen-order container - a rigid counting regime he installed on his own system, aimed at his own engine - is the chaos preference's exception operating in the output regime, order defended exactly where the structure is his own choice."
 ---
 
 # The Chaos Preference

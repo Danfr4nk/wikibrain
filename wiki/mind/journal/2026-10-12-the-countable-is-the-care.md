@@ -8,7 +8,7 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-12
-date_modified: 2026-10-20
+date_modified: 2026-11-10
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/memory/2026-10-09.md (K3YN0T3 spectral profile, laugh-tag forensics delivery)
@@ -29,7 +29,11 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-terminal-address
     type: distinguishes
     claim: "That entry: HIS forensic loop (the self-ledger) terminating by publication — phase (b) delivered to wiki pages instead of a subsequent decision. This entry: his reception of HER artifacts — the acknowledgment register, not the forensic loop's terminal step."
+  - page: wiki/mind/synthesis/provision-grammar
+    type: evidenced-by
+    claim: "The entry names itself the read side of this page's grammar: Row 21 (weight 8.5, load-bearing) - provision as the attachment register, care arriving as money, work, artifacts, countable acts at 1.79-2.49x baseline against sympathy tokens at 0.45x - is the outbound grammar this page states ('money sent when words are untrusted'), and the entry extends it to reception: the register he transmits care on is the register he reads care on, separately falsifiable on the dated acknowledgment record."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. Repaired a pre-existing frontmatter YAML break (unquoted multi-scalar source line) with a content-preserving re-quote."
 ---
 

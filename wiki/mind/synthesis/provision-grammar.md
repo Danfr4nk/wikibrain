@@ -5,7 +5,7 @@ title: "Provision Grammar"
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-11-06
+date_modified: 2026-11-10
 sources:
   - raw/self/message-csv/aug-sep-2026-imessage-export/aug-sep-2026-imessage-export.csv
 synthesizes:
@@ -62,6 +62,11 @@ connections:
   - page: wiki/mind/concepts/conflict-architecture
     type: contrasts
     claim: "The conflict engine is verbal-cognitive only and never touches the provision channel: no declaration in the corpus is accompanied by a provision halt. The fight register and the care register are decoupled — two machines, one person — which bounds the engine's jurisdiction to the verbal channel."
+  - page: wiki/mind/journal/2026-10-12-the-countable-is-the-care
+    type: evidences
+    claim: "The 2026-10-12 entry 'The Countable Is the Care' carries the inbound half of this page's grammar: his acknowledgments of delivered artifacts name the countable deliverable and render an accuracy verdict - the spectral profile's picks ('You nailed it! Already had those two in'), the Maitri recheck that surfaced the $20.80 eighth ('very cool of you to recheck'), the laugh-tag spreadsheet answered with data questions and a commission - while generic affect stays at the 0.45x floor, arriving exactly where no countable noun exists to name."
+changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
 ---
 
 # Provision Grammar

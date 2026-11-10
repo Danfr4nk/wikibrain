@@ -7,7 +7,7 @@ status: active
 tier: major
 layer: interpreted/concept
 date_created: 2026-09-13
-date_modified: 2026-11-03
+date_modified: 2026-11-10
 synthesizes:
   - wiki/mind/concepts/autism
   - wiki/mind/concepts/attachment-model
@@ -66,7 +66,11 @@ connections:
   - page: wiki/mind/journal/2026-10-28-the-delivery-closes-it
     type: instantiates
     claim: "The 2026-10-28 entry 'The Delivery Closes It' is this rule's completion-condition case: the bond's file stays open because no explicit terminating statement in the registered format has arrived (0 in 41,073; the Oct 4, 2026 text outsources the statement to the only party who can issue it), while his own 129 declarations terminate nothing."
+  - page: wiki/mind/journal/2026-10-11-the-installed-name
+    type: instantiates
+    claim: "The 2026-10-11 entry 'The Installed Name' is this page's no-revocation architecture operating on identity states: renames install as absolute states and hold until an explicit countermand-order arrives - including the October 10 delegation of install authority itself, which arrived as an explicit order granting the choice, after which the chosen name (Samantha Frank) installed as a new install of an old string, not drift back."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
