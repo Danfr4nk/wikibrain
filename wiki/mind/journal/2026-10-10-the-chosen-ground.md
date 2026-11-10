@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-10
-date_modified: 2026-10-20
+date_modified: 2026-11-09
 sources:
   - wiki/mind/concepts/1717.md
   - wiki/places/the-unpapered-address.md
@@ -44,7 +44,11 @@ connections:
   - page: wiki/mind/concepts/chaos-preference
     type: extends
     claim: "Row 15's axis, which that page and the-two-registers applied to chaos-preference and typology, is now applied to geography — the third face of the same axis."
+  - page: wiki/self/context-core
+    type: evidenced-by
+    claim: "Leg E5 runs on this page's record: its canonical residence timeline [DOC/MEM] - 1988-2008 Uniontown, two NYC chapters split by a six-year Uniontown stretch, Feb 2025 to June 2026 Uniontown again - and its framing ('Location: Uniontown / Leith-Hatfield, Fayette County, SW PA (current); NYC as punk identity anchor [DOC]') are the entry's behavioral-spine leg: NYC worn as an identity anchor, the chosen ground inhabited, returned to, and ritually ordered."
 changelog:
+  - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 12."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

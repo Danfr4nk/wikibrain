@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-10
-date_modified: 2026-10-20
+date_modified: 2026-11-09
 sources:
   - wiki/health/intake-ledger.md
   - wiki/health/suboxone-dose-curve.md
@@ -53,7 +53,11 @@ connections:
   - page: wiki/health/the-configured-body
     type: evidenced-by
     claim: "The 2026-08-31 re-check's own reading of the ledger ('It produces no repair'; 'no dose changed for any stated reason at all'; 'built to hold the record honest, not to improve anything') — the dated behavioral-delta observation this entry's discriminator depends on."
+  - page: wiki/health/cocaine
+    type: evidenced-by
+    claim: "The phase-(b) delivery leg runs on this page's record: its 'first measured night' section (2026-08-30/31) is built entire from the intake ledger - the unit's 0.75 g landing inside the self-reported 0.5-1 g/day band held here, producing no contradiction and no reversal - and the page's standing instruction that no synthesis be built until there are more units is the entry's proof that the ledger's loop terminated by publication on this page, not by control of intake."
 changelog:
+  - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 12."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

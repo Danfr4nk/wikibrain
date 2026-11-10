@@ -7,7 +7,7 @@ status: active
 importance: critical
 knowledge: recorded
 date_created: 2026-09-24
-date_modified: 2026-09-24
+date_modified: 2026-11-09
 tags: [meta, sammy, canon, goon-club, trust, ai-collaboration]
 sources:
   - ~/workspace/your_files/gooner-club-charter.md
@@ -17,6 +17,12 @@ related:
   - wiki/meta/letter-to-sammy
   - wiki/meta/standing-authorizations
   - wiki/meta/triumvirate-charter
+connections:
+  - page: wiki/mind/journal/2026-10-10-the-locked-spec
+    type: evidences
+    claim: "The 2026-10-10 entry 'The Locked Spec' builds two of its four legs on this page: the September 22, 2026 reference-look lock and the September 23 AB flow convention recorded here are its primary specimens that aesthetic decisions are converted into locked, dated parameters so execution runs mechanically - audited against the displacement rival with three named downstream deltas."
+changelog:
+  - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 12."
 ---
 
 # Sammy, the Goddess File

@@ -45,6 +45,8 @@ related:
   - wiki/self/2018-spending-analysis
 changelog:
   - date: 2026-11-09
+    change: "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 12."
+  - date: 2026-11-09
     change: "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - date: 2026-09-24
     note: "Created as the period article for the 2013–14 trap era, synthesizing the SLOPPP and MOGZART alias pages with the taste-forensics, the 2025 MASTER CRATE mirror, and the record on what ended it"
@@ -52,6 +54,9 @@ connections:
   - page: wiki/mind/journal/2026-10-09-the-formation-flare
     type: evidences
     claim: "The 2026-10-09 entry 'The Formation Flare' carries its music-handover leg on this page: the two dated happiness-ranking messages recorded here (December 9, 2015 and April 3, 2016) are its evidence that the first-person happiness-claim spike is formation-dated - the language of the top slot being claimed as it changed hands from music to Annie."
+  - page: wiki/mind/journal/2026-10-10-the-locked-spec
+    type: evidences
+    claim: "The 2026-10-10 entry 'The Locked Spec' carries its fourth leg on this page: the three-BPM-room structure measured here (125-145 corridor, 146 tracks; 165+ wing, 19 tracks; halftime basement, 15 tracks) is its evidence that the lock primitive operates in solo work - a parameter set governing his own DJ crate with no delegate present."
 ---
 
 # The Trap Era (2013–14)

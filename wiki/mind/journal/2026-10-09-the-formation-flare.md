@@ -10,6 +10,7 @@ layer: interpreted/journal
 date_created: 2026-10-09
 date_modified: 2026-11-09
 changelog:
+  - "2026-11-09: Engine wave 12 (2026-11-09): applied the deferred correction retargeting the music-as-identity citations (frontmatter sources + body wikilink) to the real page, wiki/mind/synthesis/music-as-identity, and added a reciprocal typed connection from the fresh Jev backlink pass (jev-1.13.0, human full-read gate)."
   - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -19,7 +20,7 @@ sources:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/profile/deviance-mapping
   - wiki/interests/music/trap-era
-  - wiki/interests/music/music-as-identity
+  - wiki/mind/synthesis/music-as-identity
   - wiki/timeline/annie-record
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
 synthesizes:
@@ -48,6 +49,9 @@ connections:
   - page: wiki/interests/music/trap-era
     type: evidenced-by
     claim: "The music-handover leg runs on this page's record: its 'handover of the top happiness slot' section carries the corpus's only ranked comparison of happiness sources - December 9, 2015 'Ruin the only thing that's ever made me happy' (music) and April 3, 2016 'You're the only thing that's ever made me happier than making music' - dating the 7.86/1k spike to the exact window where the top happiness slot changed hands from making music to Annie."
+  - page: wiki/mind/synthesis/music-as-identity
+    type: evidenced-by
+    claim: "The music-handover leg is carried jointly on this page's record: its body holds the same ranked pair the entry dates the flare by - the April 3, 2016 line ('the only thing that's ever made me happier than making music') read against the paired December 9, 2015 line ('the only thing that's ever made me happy') - and the page's own statement of the handover: music held the top happiness slot in December 2015 and had been displaced by exactly one thing by April 2016."
 ---
 
 # The Formation Flare
@@ -78,7 +82,7 @@ The first-person happiness-claim rate in Dan's sent messages spikes within the f
 
 **The spike window is exactly the formation window.** The introduction is back-dated to ~November 24, 2015 (Annie's December 1 message: "HAPPY ONE WEEK SINCE LEX HANDED YOU TO ME"); the corpus opens 2015-11-28 inside the relationship's first week ([[wiki/mind/synthesis/annie-decade-synthesis]]). A directional re-sweep of the FTS index during this pass returns an extraordinary density of first-person declarations on a single day, 2015-11-29 — "I'm so happy I'm in your life," "I'm just so happy I found you," "I've never felt so happy," "I'm trying so hard to not explode with excitement happiness" — all sent ("Me") side, against full-year 2018 and 2016 raw hit counts (448 and 630 across both sides) that sit far below it per-message. The sweep I ran is cruder than the original pattern (it includes interlocutor-side and formulaic uses like "happy bday"); it is direction-check only, not a competing count. Direction agrees with the official series.
 
-**The music handover dates the flare's meaning, in his own words.** The corpus's only ranked comparison of happiness sources: December 9, 2015 — "Ruin the only thing that's ever made me happy" (music); April 3, 2016 — "You're the only thing that's ever made me happier than making music" ([[wiki/interests/music/trap-era]], [[wiki/interests/music/music-as-identity]]). The 7.86/1k spike sits in the exact window where the top happiness slot changed hands from making-music to Annie. A formation flare — the language of the slot being claimed — is the reading his own ranking supports.
+**The music handover dates the flare's meaning, in his own words.** The corpus's only ranked comparison of happiness sources: December 9, 2015 — "Ruin the only thing that's ever made me happy" (music); April 3, 2016 — "You're the only thing that's ever made me happier than making music" ([[wiki/interests/music/trap-era]], [[wiki/mind/synthesis/music-as-identity]]). The 7.86/1k spike sits in the exact window where the top happiness slot changed hands from making-music to Annie. A formation flare — the language of the slot being claimed — is the reading his own ranking supports.
 
 **The bond kept running at full strength while the rate stayed floored.** The [[wiki/mind/concepts/attachment-model]] states it cold: the happiness-claim collapse was complete by 2017, "eight years before the terminal phase. The bond stayed active at full strength throughout." The full-strength legs: 0 severance signals in 41,073 of her messages (primary-verified); 129 declarations, 100% re-engagement, 36s median (page testimony, unheld merged corpus); the 2018 and 2025 volume twin peaks — 40,514 and 41,278 messages — in the crisis years the 2026-10-08 entry establishes (OMNI dossier cut, testimony); the August 2026 field test with 765 messages in the final 72 hours (counted in chat, partially verified). In 2018, a twin-peak volume year, the happiness-claim rate was 0.87/1k; in 2019, 0.34/1k. Maximal bond intensity and the floor of the lexical rate coexist in the same windows.
 

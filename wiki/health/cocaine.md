@@ -91,7 +91,12 @@ connections:
   - page: wiki/mind/journal/2026-10-09-the-formation-flare
     type: evidences
     claim: "The 2026-10-09 entry 'The Formation Flare' builds its thesis on the happiness counter-measure sweep recorded here: the 7.86-to-0.34 series is its specimen that the first-person happiness-claim rate marks a bond's formation window, not its ongoing state - the maximal-intensity years (2018, 2019, Aug 2026) read floor-level rates on this page's counts."
+  - page: wiki/mind/journal/2026-10-10-the-terminal-address
+    type: evidences
+    claim: "The 2026-10-10 entry 'The Terminal Address' carries its delivery leg on this page: the first-measured-night section recorded here (the ledger unit's 0.75 g inside the stated 0.5-1 g/day band; no synthesis built until there are more units) is its evidence that the self-ledger's finished analysis was delivered to a wiki page instead of to any subsequent intake decision - the loop's terminal address is publication."
 changelog:
+  - date: 2026-11-09
+    change: "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 12."
   - date: 2026-11-09
     change: "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - date: 2026-08-19
