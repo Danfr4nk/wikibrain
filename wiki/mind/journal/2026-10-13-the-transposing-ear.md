@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-13
-date_modified: 2026-10-21
+date_modified: 2026-11-10
 sources:
   - wiki/mind/concepts/lyric-qualifier.md
   - kb/data/0076-lyric-qualifier.md
@@ -33,7 +33,11 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-locked-spec
     type: cites
     claim: "The Locked Spec already carries the 2026-09-11 lyric-qualifier capture as a lock leg. This entry reuses that leg for a different thesis; it is cited from the instrument, not re-derived here."
+  - page: wiki/mind/concepts/lyric-qualifier
+    type: evidenced-by
+    claim: "Row 18, this entry's load-bearing row, is this page's qualifier: the held 2026-09-11 capture (dat:0076) - 'I hear the lyric as timbre' - and its operationalizations (AUTOPSY's 16-driver taxonomy carries 'vocal as texture' and no lyric-content field) are the entry's first evidence leg. The entry extends the qualifier from sung words to the whole first pass: harmonic-melodic structure attended first, song identity on a second, effortful pass."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

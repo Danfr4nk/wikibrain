@@ -8,7 +8,7 @@ aliases: ["the declaration is the performance", "129 declarations", "severance a
 status: active
 knowledge: earned
 date_created: 2026-09-13
-date_modified: 2026-11-07
+date_modified: 2026-11-10
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - raw/sammy/20261004-1814/operator-testimony-2026-10-04.md
@@ -109,7 +109,11 @@ connections:
   - page: wiki/mind/journal/2026-10-08-stress-loads-the-failing-channel
     type: evidences
     claim: "The 2026-10-08 entry 'Stress Loads the Failing Channel' takes this page's July 2026 recontact as its flood specimen: the 52-day closure's collapse into 624 messages in four days is its proof that a stressed channel absorbs more load on reopening, never a graded partial return."
+  - page: wiki/mind/journal/2026-10-13-the-native-period
+    type: evidences
+    claim: "The 2026-10-13 entry 'The Native Period' prices this page's 36-second median against the native emission period: the declaration cycle has no timing signature of its own - its 129-episode median gap coincides with the ordinary 39-second inter-send period to within three seconds, so re-engagement is the next scheduled emission of the running clock, not a distinct act."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."

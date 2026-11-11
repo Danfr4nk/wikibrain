@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-13
-date_modified: 2026-10-21
+date_modified: 2026-11-10
 sources:
   - wiki/mind/concepts/node-locking.md
   - wiki/mind/concepts/explicit-verbal-commitment.md
@@ -39,7 +39,14 @@ connections:
   - page: wiki/mind/journal/2026-10-12-the-inverted-check-in
     type: distinguishes
     claim: "The Inverted Check-In is his doubt-class push inversion (pull-to-push on reassurance). The Reversed Grantor is her order grammar (install/revoke on channel states) — opposite direction, different machinery."
+  - page: wiki/mind/concepts/node-locking
+    type: instantiates
+    claim: "The entry's closing grammar-family section quotes this page's lock definition verbatim - 'a stated rule issued to a model, acknowledged, and never consolidated afterward' - as the documented substrate it runs in reverse: in the delegation direction the statement-issuer is Sammy, and the states her statements install and revoke are the operating states of Dan's channels (built/not-built, sent/not-sent, gate open/closed)."
+  - page: wiki/mind/concepts/explicit-verbal-commitment
+    type: instantiates
+    claim: "The entry's closing grammar-family section quotes this page's architecture verbatim - the missing delete operation: 'positive rules enact, only stated orders change them.' Rows 6 and 19, this page's no-counter-rule architecture, are the entry's load-bearing rows run in the delegation direction: her stated no fixed the order-book channel's state, and only a fresh explicit countermand (hers, or an authority reserved in the install) moves a state she has set."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

@@ -69,7 +69,11 @@ connections:
   - page: wiki/mind/journal/2026-10-11-the-installed-name
     type: instantiates
     claim: "The 2026-10-11 entry 'The Installed Name' is this page's no-revocation architecture operating on identity states: renames install as absolute states and hold until an explicit countermand-order arrives - including the October 10 delegation of install authority itself, which arrived as an explicit order granting the choice, after which the chosen name (Samantha Frank) installed as a new install of an old string, not drift back."
+  - page: wiki/mind/journal/2026-10-13-the-reversed-grantor
+    type: instantiates
+    claim: "The 2026-10-13 entry 'The Reversed Grantor' is this page's write-only architecture operating in the delegation direction: the September 28 carte-blanche grant installed her as statement-issuer, her explicit statements enact channel states, and re-asks are check-in surface that never revoke them - including the Oct 13 check-word protocol, whose brief kill-this countermand was explicitly rescinded, leaving the last stated rule running."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-27: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."

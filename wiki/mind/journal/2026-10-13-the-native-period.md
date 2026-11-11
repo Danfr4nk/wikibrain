@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-13
-date_modified: 2026-10-21
+date_modified: 2026-11-10
 sources:
   - wiki/mind/synthesis/severance-declarations.md
   - wiki/mind/synthesis/message-circadian-latency.md
@@ -36,7 +36,17 @@ connections:
   - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
     type: boundary
     claim: "That entry used the sub-2-minute inter-send gaps for the burst-and-collapse claim. This entry reuses the 39-second median inter-send figure for a different claim — declaration-timing uniformity — and does not re-derive burst-and-collapse."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "The declaration side of this entry's timing coincidence is this page's measurement: 258 declaration messages collapsing to 129 episodes (dat:1292), median declaration-to-next-message gap of 36 seconds, 89.1% resumed inside one hour - plus the Aug-Sep 2026 terminal-phase convergence at 23 seconds on a different file family. The entry's thesis is that this 36-second period is the native clock's period, not a distinct mechanism's cadence."
+  - page: wiki/mind/synthesis/message-circadian-latency
+    type: evidenced-by
+    claim: "The native side of this entry's timing coincidence is this page's recomputation: median inter-send gap 0.65 minutes (39 seconds), recomputed 2026-10-07 from the held raw/imessage exports - the ordinary emission period the 36-second declaration gap is compared against. This page's corrected latency picture also killed the entry's first Stage-3 thesis (her replies plausibly did intervene inside the 36-second window), preserved verbatim in its genesis note."
+  - page: wiki/mind/concepts/attachment-model
+    type: evidenced-by
+    claim: "The limit form of this entry's uniformity claim is held on this page: the August 26, 2026 zero-second case - the 130th declaration and its non-execution the 130th re-engagement, 'except there was never even a pause to resume from' (dat:0090, primary-verified) - plus this page's cross-data-type check of the same 129-episode / 36-second figures. A distinct re-engagement act cannot have a zero-second period; a clock that never paused can."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

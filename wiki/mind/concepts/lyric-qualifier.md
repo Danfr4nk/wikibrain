@@ -6,8 +6,9 @@ aliases: ["lyric qualifier", "lyrics-as-timbre", "the timbre qualifier", "voice-
 status: active
 layer: interpreted/concept
 date_created: 2026-09-22
-date_modified: 2026-11-02
+date_modified: 2026-11-10
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-placement-verdict (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
@@ -49,6 +50,9 @@ connections:
   - page: wiki/mind/journal/2026-11-01-the-exception-proves-the-timbre-rule
     type: evidenced-by
     claim: "The 2026-11-01 entry 'The Exception Proves the Timbre Rule' is this qualifier's documented exception class: four tracks stating the exit/return loop register as messages only by pattern match after timbre-first selection (transcription effort required), leaving the qualifier intact rather than breached."
+  - page: wiki/mind/journal/2026-10-13-the-transposing-ear
+    type: evidences
+    claim: "The 2026-10-13 entry 'The Transposing Ear' extends this page's qualifier into a two-pass architecture: structure-first parsing (transposition with chord substitutions, identification from chord grammar alone on solo piano) with identity arriving separately - and able to fail while the structural parse holds, as in the transposed Mirrors take whose harmony was mapped while its identity was misattributed."
 ---
 
 # The Lyric Qualifier

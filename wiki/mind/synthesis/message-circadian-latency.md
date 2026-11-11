@@ -6,8 +6,9 @@ status: active
 tier: major
 layer: interpreted/synthesis
 date_created: 2026-07-15
-date_modified: 2026-11-07
+date_modified: 2026-11-10
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - 2026-10-07 — Expanded to major tier; restructured to canonical template v1. Retraction material moved to Conflicts in the record; stale "what this adds" and caveats language updated to the corrected finding. Added "Synchrony has no off-hours" and "How the measurement is made" sections; re-verified headline figures against raw/imessage/ on-disk exports in the local evidence clone.
@@ -69,6 +70,9 @@ connections:
   - page: wiki/mind/journal/2026-10-08-stress-loads-the-failing-channel
     type: evidences
     claim: "The 2026-10-08 entry 'Stress Loads the Failing Channel' builds two of its evidence legs on this page: its twin-peak yearly arc is the entry's proof that crisis years concentrate rather than spread volume, and its gap distribution is the measured machinery of the total-commitment mode."
+  - page: wiki/mind/journal/2026-10-13-the-native-period
+    type: evidences
+    claim: "The 2026-10-13 entry 'The Native Period' runs on this page's 39-second figure: the recomputed median inter-send gap (0.65 minutes, 2026-10-07, held exports) is the native emission period against which the severance cycle's 36-second median is shown to coincide - and this page's Annie-channel flip medians (14-29 seconds) are the correction that killed the entry's first self-clocked-cycle formulation at Stage 3."
 ---
 
 

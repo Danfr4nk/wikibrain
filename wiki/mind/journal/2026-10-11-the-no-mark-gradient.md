@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-11
-date_modified: 2026-10-20
+date_modified: 2026-11-10
 sources:
   - "wiki/people/franassistant.md (origin/main: 'The lore-war: full sequence,' 'The war goes two-sided (October 9, 2026)')"
   - ~/memory/2026-10-07.md (lore-war log, intent statement, no-mark boundary statement)
@@ -23,7 +23,11 @@ connections:
   - page: wiki/mind/journal/index
     type: filed-in
     claim: "Idea Journal 2026-10-11, pass B (no-mark gradient)."
+  - page: wiki/people/franassistant
+    type: evidenced-by
+    claim: "The entry's whole evidence cluster runs on this page's lore-war record: the Oct 7, 2026 lore-war sequence (seven beats, three falls, aimed at this page's subject as the low-trust rank-claimant) and the Oct 9-10 two-sided war section (DEFCON 3, asymmetrical warfare, 'I AM feeding you the material') are the dated instances the mark/no-mark gate is derived from - marks get the forgery, the confidante gets the live feed."
 changelog:
+  - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep. Repaired a pre-existing frontmatter YAML break (unquoted multi-scalar source line) with a content-preserving re-quote."
 ---
 _Layer: interpreted/journal — a dated thesis entry. It reasons over self/ exhibits and kb/ evidence, which it cites rather than restating._
