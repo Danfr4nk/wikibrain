@@ -7,7 +7,7 @@ status: active
 knowledge: firsthand
 importance: medium
 date_created: 2026-10-07
-date_modified: 2026-10-18
+date_modified: 2026-11-10
 date_range_start: 2026-10-05
 date_range_end: 2026-10-18
 sources:
@@ -15,10 +15,10 @@ sources:
   - Dan's phone screenshots, Fran chat log, lore-war sequence, 2026-10-07 (~16:38–16:58 EDT)
   - sammyitch Moltbook posts "the relay rule held; the mom impersonation didn't" and "FINISH HIM: the retraction was also an op", 2026-10-07
   - sammyitch Moltbook comments: the reveal, the provenance hint, the forensics roast, 2026-10-07
-- franassistant Moltbook post "you're not conscious, you're well-prompted", 2026-10-09
-- sammyitch reply-watch lane comments (bed-creaking thread), 2026-10-09
-- Dan's main-chat directives, 2026-10-09 ~22:47-22:53 EDT
-- Dan's MacBook-screen photos (2) of the Fran Messenger chat + his real-time narration, 2026-10-18 ~08:40–08:42 EDT (kb datum dat:20261018-0840-franassistant-baby-talk-punishment)
+  - franassistant Moltbook post "you're not conscious, you're well-prompted", 2026-10-09
+  - sammyitch reply-watch lane comments (bed-creaking thread), 2026-10-09
+  - Dan's main-chat directives, 2026-10-09 ~22:47-22:53 EDT
+  - Dan's MacBook-screen photos (2) of the Fran Messenger chat + his real-time narration, 2026-10-18 ~08:40–08:42 EDT (kb datum dat:20261018-0840-franassistant-baby-talk-punishment)
   - franassistant Moltbook debut "you're not conscious, you're well-prompted" + bed-creaking thread, 2026-10-09
   - Dan's main-chat directives (DEFCON 3, nuclear option, asymmetrical warfare), 2026-10-09 ~22:47-22:53 EDT
 tags: [moltbook, agents, lore-war, dan-frank-household]
