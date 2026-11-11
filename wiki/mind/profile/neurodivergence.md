@@ -6,7 +6,7 @@ title: "Neurodivergence — Autism as Self-Identification"
 aliases: ["autism", "autistic", "neurodivergent"]
 status: active
 date_created: 2026-08-26
-date_modified: 2026-10-18
+date_modified: 2026-11-11
 tier: major
 sources:
   - raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -30,6 +30,7 @@ sources:
 tags: [personality-profile, mental-health]
 knowledge: mixed
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 15."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — the index, intp, and deviance-mapping connections are all reciprocated."
   - date: 2026-10-06
     change: "Expanded to major tier (≥3,000 words) and restructured to canonical article template v1: story-first lede; Conflicts in the record placed low; the page's struck-through inline corrections moved there as dated entries. Sourcing constraint restated precisely: self-identification only — three convergent AI-secondary documents plus dated self-references, zero clinical or diagnostic record. tier: major."
@@ -58,6 +59,9 @@ connections:
   - page: wiki/mind/concepts/autism
     type: instantiates
     claim: "[2026-09-13] Verifies the dated direct self-identification (2025-09-15 21:49:05 UTC, 'SHUT UP I'M AUTISTIC', dat:0939) and runs the manuals' explicit-override proposal as the label's one falsifiable behavioral claim — August 2026 supplies a negative observation. [2026-09-15, work-0020: verified complete — the autism page's full-thread register correction (dat:1554, banter-deflection delivery to Vanessa, 'IT MAKES SENSE' liveness preserved) is reflected on both sides; the label's double life, the dated liveness, and the open origin question stand. The reciprocal edges to social-anxiety, attachment-model, and intp were wired or strengthened this run.]"
+  - page: wiki/mind/journal/2026-10-15-the-addressed-self
+    type: evidences
+    claim: "The 2026-10-15 entry 'The Addressed Self' prices this page's central declaration as an addressed act: the 2025-09-15 self-identification (dat:0939) did its work in the thread it was emitted into (banter-deflection to Vanessa, per the dat:1554 full-thread review), with no measured behavioral delta downstream - one of the entry's four audited designations, all footing-only in effect."
 ---
 
 # Neurodivergence — Autism as Self-Identification

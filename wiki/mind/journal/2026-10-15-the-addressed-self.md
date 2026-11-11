@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-15
-date_modified: 2026-10-21
+date_modified: 2026-11-11
 sources:
   - kb/data/0937-enneagram-self-typing-5w6sx-rloei.md
   - kb/data/0050-corpus-traces-of-the-type-are-downstream-of-it.md
@@ -46,7 +46,17 @@ connections:
   - page: wiki/mind/journal/2026-10-14-the-analysis-is-the-product
     type: distinguishes
     claim: "That entry ran the general diagnosis-to-behavior audit on dated insight events. This entry's object is narrower: dated self-designations (typed labels, not forensic diagnoses), and the discriminating question is who the label was emitted to, not whether the analysis terminated a pattern."
+  - page: wiki/mind/profile/enneagram-5w4
+    type: evidenced-by
+    claim: "The entry's load-bearing self-typing datum is held whole on this page: the 2024-11-04 'INTP 5w6sx RLOEI - compare them' message (dat:0937, primary-verified) - rows 42/44 - whose prompt-form emission to a counterparty is the entry's first evidence leg for self-designations as addressed acts. This page's contested-typing frame (5w4 commissioned vs. 5w6sx self-typed) is the label history the entry prices."
+  - page: wiki/mind/profile/neurodivergence
+    type: evidenced-by
+    claim: "The entry's autism leg is held whole on this page: the 2025-09-15 'SHUT UP I'M AUTISTIC' declaration (dat:0939, primary-verified) and its full-thread register revision (dat:1554 - banter-deflection delivered to Vanessa, retracted within seconds) are row 48, load-bearing as datum, and the entry's second evidence section. The declaration's addressee and register are the entry's discriminator evidence."
+  - page: wiki/mind/politics/axioms
+    type: evidenced-by
+    claim: "Scoped to a supporting leg (the entry's row 49, weight 4, explicitly not load-bearing): the four core axioms enter the entry as one dated emission case - authored into his AI collaborator's CATO v2.0 bootloader (May 2026) and published in canonical in-wiki form - and the entry quotes this page's own conclusion (the axioms are his framing plus a model's systematization plus his endorsement, drawn from the dat:0044 negative corpus audit) as the designation's priced status: emitted and endorsed, never measured as governing a choice."
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 15."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

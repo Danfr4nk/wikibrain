@@ -5,7 +5,7 @@ knowledge: earned
 title: "Axioms — The Four Core Axioms and the Power Axiom"
 status: active
 date_created: 2026-08-10
-date_modified: 2026-10-06
+date_modified: 2026-11-11
 tier: major
 infobox:
   subject: "Dan Frank's stated political and operating axioms"
@@ -16,6 +16,8 @@ infobox:
   self_label: "democratic socialist (public declaration 2020-10-03)"
   epistemic_tiers: "Four axioms: Tier 3 testimony-grade formulation; Power axiom: interpretation with four convergent legs"
 changelog:
+  - date: 2026-11-11
+    change: "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 15."
   - date: 2026-10-06
     change: "Expanded to major tier and restructured to canonical article template v1: story-first lede; the axiom set in plain form; dated evidence per axiom including a newly surfaced 2025-06-10 held carrier for axiom-1 language (dossier-voiced); the political record in time (2020 conversion through 2026-09-22 verdicts); how the layers cohere and strain; Conflicts in the record with dated revision entries; Assessment from the record. All prior claims preserved; superseded material moved intact into Conflicts."
 sources:
@@ -56,6 +58,9 @@ connections:
     type: component-of
     claim: "The Exocortex catalogues the bootloader and master-prompt artifacts that carry these axioms into Dan's AI sessions as installed rules."
     claim: "The constitution pass: no Big Five facet directly measures either axiom layer. The profile's relevance is negative — the axioms are not traits, they are framings, and the page does not claim otherwise."
+  - page: wiki/mind/journal/2026-10-15-the-addressed-self
+    type: evidences
+    claim: "The 2026-10-15 entry 'The Addressed Self' cites this page's four-axioms conclusion as a supporting emission case: the axioms were addressed to his AI collaborator (the CATO bootloader, May 2026) and endorsed without behavioral delta - the entry's discriminator-2 pattern, in which designations move the counterparty's footing, not his behavior. Row 49 is supporting-only in that entry, and this edge carries the same scope."
 ---
 
 *Part of the [[wiki/mind/politics/index|politics cluster]] — the hub carries the dated primary record this page reasons from.*

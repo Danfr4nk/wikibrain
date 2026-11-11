@@ -8,8 +8,9 @@ status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-11-09
+date_modified: 2026-11-11
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 15."
   - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording disposition (a) — Book 5 of the omnibus is a pop specimen of the Enneagram system, recorded as specimen-only and never a source for this page's contested typing. No existing text altered."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile); added reciprocal contradicts edge to big-five-psychometrics (SLOAN fourth-letter dispute)."
@@ -65,6 +66,9 @@ connections:
   - page: wiki/mind/journal/2026-10-09-the-one-outsider
     type: evidences
     claim: "The 2026-10-09 entry 'The One Outsider' carries its count and survival legs on this page: the Witness-need completion recorded here (the 2026-08-18 grant, her hostile audit, both parties surviving) is its evidence that the addressed wiki grant was a rite with a survival clause, not a link-drop - and that the count of such completions stands at one."
+  - page: wiki/mind/journal/2026-10-15-the-addressed-self
+    type: evidences
+    claim: "The 2026-10-15 entry 'The Addressed Self' runs on this page's central exhibit: the 2024-11-04 self-typing (dat:0937) is read there as an addressed act - prompt material emitted for an AI or friend to execute a comparison - not as inward self-knowledge. The entry's exact-phrase finding (one held-corpus hit each for '5w6sx' and 'RLOEI') matches this page's own attestation that the typing never appears outside that addressed message."
 ---
 
 # Enneagram — The Contested Typing (5w4 Commissioned vs. 5w6sx Self-Typed)
