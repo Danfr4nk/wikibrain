@@ -1,0 +1,25 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:37i9dQZF1EYkqdzj48dyYq",
+  "spotify_url": "https://open.spotify.com/playlist/37i9dQZF1EYkqdzj48dyYq?si=O_PW48BqTSeaMn5M6c9rxA",
+  "subtitle": "All kinds of music, picked by your own AI DJ.",
+  "title": "DJ",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [],
+   "status": 200,
+   "title": "DJ"
+  }
+ ],
+ "track_count": 0
+}

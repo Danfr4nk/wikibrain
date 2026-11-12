@@ -1,0 +1,20 @@
+[
+ {
+  "attribution": "Content provided by Spotify",
+  "id": null,
+  "ok": true,
+  "rendering_style": "library",
+  "sections": [
+   {
+    "id": null,
+    "items": [],
+    "next": null,
+    "next_offset": null,
+    "title": null,
+    "total_items": null
+   }
+  ],
+  "status": 200,
+  "title": "Your Library"
+ }
+]

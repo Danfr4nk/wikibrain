@@ -1,0 +1,470 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:5UqvCvoHW5n3DhxHqPmf1D",
+  "spotify_url": "https://open.spotify.com/playlist/5UqvCvoHW5n3DhxHqPmf1D?si=yTVytPLpT-23V0ydW6eavg",
+  "subtitle": "",
+  "title": "BASS MUSIC - 2025SUMMER",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 146384,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0bhnFakmRioZbuQcmhVwoH",
+       "spotify_url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH?si=7fkiy6rwS0u5jz8w8XNbXw",
+       "subtitle": "Kabin Crew, Lisdoonvarna Crew",
+       "title": "The Spark",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 198857,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0ySW1vdmqRwA95VvQOc0GC",
+       "spotify_url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC?si=QwJXSSuZSpmO2HwtCz9gBA",
+       "subtitle": "Camo & Krooked",
+       "title": "Falling",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 290742,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1gPJ3F2p8rwhlzr1AF58W7",
+       "spotify_url": "https://open.spotify.com/track/1gPJ3F2p8rwhlzr1AF58W7?si=0BNPD8kCSsKgrZktmICwqQ",
+       "subtitle": "Mefjus, Camo & Krooked",
+       "title": "Sientelo",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 272361,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4oudEMs5YRIVz9FqhlxpNs",
+       "spotify_url": "https://open.spotify.com/track/4oudEMs5YRIVz9FqhlxpNs?si=W_8BDHaXR962o2kq3dkcKw",
+       "subtitle": "Mefjus, James French",
+       "title": "Spiralling",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 123491,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2NuS6spiSWMMDVtfklsGMH",
+       "spotify_url": "https://open.spotify.com/track/2NuS6spiSWMMDVtfklsGMH?si=HxBX4p61RWu90WyBDoI0Tg",
+       "subtitle": "Sean & Jimbo",
+       "title": "Big Dawgs",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 252104,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:288X6jHz8RlthWHKtZtBjq",
+       "spotify_url": "https://open.spotify.com/track/288X6jHz8RlthWHKtZtBjq?si=iHcI9ZLfQE-05rpWqSvEPg",
+       "subtitle": "Gydra",
+       "title": "Hearing Damage",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 167314,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3IwA24jZLqPW3tFCWpkr7S",
+       "spotify_url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S?si=7yT-7TY9SvSzBD2WxABQ1g",
+       "subtitle": "Bou, Camo & Krooked, Mefjus, Mila Falls, P Money, D Double E",
+       "title": "Swerve It",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 177291,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2ZWmmrWUgDBcPSLihBMvhg",
+       "spotify_url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg?si=IuxsCqcFRXqEZ8w20Bh16g",
+       "subtitle": "Chase & Status, Bou, Flowdan, IRAH, Trigga, Takura",
+       "title": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 223448,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1dQkPM9dLmmWCLrBWLkdMb",
+       "spotify_url": "https://open.spotify.com/track/1dQkPM9dLmmWCLrBWLkdMb?si=mNiKTv5MTu-bkEmtV8GzRA",
+       "subtitle": "Subsonic, Aleya Mae",
+       "title": "Side2Side",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 184457,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0cNL4jWf1723O9XI14KBus",
+       "spotify_url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus?si=ihMrwgvOSl69oiMcM4Ptlg",
+       "subtitle": "Camo & Krooked, Mefjus",
+       "title": "Lies",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:5UqvCvoHW5n3DhxHqPmf1D/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "BASS MUSIC - 2025SUMMER"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 120522,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2N8gR2yftrHbZR53U5kYnX",
+     "spotify_url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX?si=DxpidsRyRzqc8ZVh7nA1Zg",
+     "subtitle": "Campbell, Alcemist",
+     "title": "Would You (go to bed with me?)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 164914,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:602d2gJewoiF1FivuOMMwE",
+     "spotify_url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE?si=7dj6brMjTGCTmVfwlDSzbA",
+     "subtitle": "Becky Hill, Chase & Status",
+     "title": "Disconnect",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 186514,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1tFJxlTWMtw2kQHUlrLMLz",
+     "spotify_url": "https://open.spotify.com/track/1tFJxlTWMtw2kQHUlrLMLz?si=NY0XKlZwQqaPbGeXJEc0fA",
+     "subtitle": "Mozey, Rusko",
+     "title": "Hands In The Air - VIP",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 199728,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:08zuBTzQbwfmpLAfuEIV6R",
+     "spotify_url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R?si=sUBRcrJvSEKNpyEWzVKAYA",
+     "subtitle": "Basstripper",
+     "title": "Ghosting Your Love",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 224232,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0vMIb12OsAkLzYuuWixnka",
+     "spotify_url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka?si=_o8qB4piSl-iV6B4Bqubvw",
+     "subtitle": "Friction, Basstripper",
+     "title": "Supersonic - Basstripper Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 269424,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0wapju5nFfqi6dRTaWYWcJ",
+     "spotify_url": "https://open.spotify.com/track/0wapju5nFfqi6dRTaWYWcJ?si=MPfF7cOqQBWSsymh3rjkjg",
+     "subtitle": "Document One",
+     "title": "Uh - Huh",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 147019,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4BihwGtI5z8wYsr3GkCi6T",
+     "spotify_url": "https://open.spotify.com/track/4BihwGtI5z8wYsr3GkCi6T?si=Iz54R3GOQXeXFOHTIVkKYQ",
+     "subtitle": "HATO",
+     "title": "Himalaya",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 233324,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1phmlPVWr700JslfcqnWxy",
+     "spotify_url": "https://open.spotify.com/track/1phmlPVWr700JslfcqnWxy?si=b2BrlMbKS1aOuTryscKqBA",
+     "subtitle": "Netsky, Jazmine Johnson, Basstripper",
+     "title": "Hell In High Heels (feat. Jazmine Johnson) - Basstripper Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 249700,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:51uRkSahJICiVwrPe7GgzY",
+     "spotify_url": "https://open.spotify.com/track/51uRkSahJICiVwrPe7GgzY?si=-_Eg7f3iScWwr3F73U6Geg",
+     "subtitle": "Camo & Krooked, Mefjus, P Money, Whiney, Sophie Lindinger",
+     "title": "No Tomorrow (P Money x Whiney Remix)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 300025,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4GheqxnkX53rr0YjNM7bC2",
+     "spotify_url": "https://open.spotify.com/track/4GheqxnkX53rr0YjNM7bC2?si=WolMxZ0VQQ2c7-dYTOteyQ",
+     "subtitle": "A.M.C",
+     "title": "Mind The Gap",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:5UqvCvoHW5n3DhxHqPmf1D/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:5UqvCvoHW5n3DhxHqPmf1D/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 208457,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0Tcy9RRWvcnqepvmVcqv05",
+     "spotify_url": "https://open.spotify.com/track/0Tcy9RRWvcnqepvmVcqv05?si=4Pg69kGTQqKjNMk30_GyUQ",
+     "subtitle": "Phantogram, Subtronics",
+     "title": "Black Out Days - Subtronics Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 245485,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3NvttPtSmUTY0EHZiF9fgs",
+     "spotify_url": "https://open.spotify.com/track/3NvttPtSmUTY0EHZiF9fgs?si=-3JFLQpLTgCoVkVIsmsUyQ",
+     "subtitle": "Camo & Krooked, Mefjus, Joe Killington",
+     "title": "Pray For Me (feat. Joe Killington)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 278454,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4cmI4CAPjtMr6B3ozcAA7N",
+     "spotify_url": "https://open.spotify.com/track/4cmI4CAPjtMr6B3ozcAA7N?si=wQ0PUgAUTXGZwuObKyLA-A",
+     "subtitle": "Tom Finster, Lukher",
+     "title": "No Compromise - Lukher Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 180344,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2qEZgjxNPG4bQ7A22np1Y0",
+     "spotify_url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0?si=ll_s9uVIQN-Ee3HqxyKKoQ",
+     "subtitle": "Hoax",
+     "title": "Goose Chase",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 184827,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2B0xsnWUjm7cPLs9gGoepp",
+     "spotify_url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp?si=hjVm2E9VTwWeLsFRTaloJA",
+     "subtitle": "Sub Focus, bbyclose",
+     "title": "On & On",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 199500,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7lYGb19bGeC6Lb3hTEOK70",
+     "spotify_url": "https://open.spotify.com/track/7lYGb19bGeC6Lb3hTEOK70?si=9RV8s0czTnixEXRpu3kFgw",
+     "subtitle": "Azule, Natty D",
+     "title": "Challenger",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 289371,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1Mze7crzF9BWo82DiAsmjj",
+     "spotify_url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj?si=kR3HpL7oT5uPhjTeiW4wlw",
+     "subtitle": "Macky Gee",
+     "title": "Tour",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 156346,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4U4vRo9EM6DXaLIagwbbMW",
+     "spotify_url": "https://open.spotify.com/track/4U4vRo9EM6DXaLIagwbbMW?si=CxqVe7Z-RUGKhoxiWF6Sew",
+     "subtitle": "Basstripper",
+     "title": "In The City",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 226206,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1ZaP48UAQ78yRQ0spu4MUX",
+     "spotify_url": "https://open.spotify.com/track/1ZaP48UAQ78yRQ0spu4MUX?si=6_J86sJYQVqF-WvF5W1x7A",
+     "subtitle": "Grafix, Nu-La",
+     "title": "Vital Signs",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 224775,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:65SsbtgsqPYv1p4Rq93fC9",
+     "spotify_url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9?si=fRnUpXXqSvOOSpr4FtVLfw",
+     "subtitle": "1991",
+     "title": "Chant",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:5UqvCvoHW5n3DhxHqPmf1D/sections/contents/items?offset=30",
+   "next_offset": 30,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:5UqvCvoHW5n3DhxHqPmf1D/sections/contents/items?offset=20"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 189257,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0LDcW1jwOpYCqdDZbS1J6Y",
+     "spotify_url": "https://open.spotify.com/track/0LDcW1jwOpYCqdDZbS1J6Y?si=7rtQxbJuTWyw4YcGgf9F-w",
+     "subtitle": "Kanine, Nu-La",
+     "title": "Take Me Away",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 248275,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4j3LxTzYF8IY5Y3h80dl8v",
+     "spotify_url": "https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v?si=iwmHySfARDeRgvoFCfa08w",
+     "subtitle": "Metrik",
+     "title": "Immortal",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 160615,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3oh96zFJQ3wDLW9hv0pDKQ",
+     "spotify_url": "https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ?si=RcyD_Pm-TZ6qTku5oFw4kw",
+     "subtitle": "Kai Wachi",
+     "title": "Drown",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 153610,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1kE6giFG9tUr75JHAlm7Zf",
+     "spotify_url": "https://open.spotify.com/track/1kE6giFG9tUr75JHAlm7Zf?si=t3zyPCasSEyPYYzyGl0hIg",
+     "subtitle": "NAAZUK",
+     "title": "Survivor",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:5UqvCvoHW5n3DhxHqPmf1D/sections/contents/items?offset=30"
+  }
+ ],
+ "track_count": 34
+}

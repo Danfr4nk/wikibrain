@@ -1,0 +1,46 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:1telgGImZWZb4noBu6gi1i",
+  "spotify_url": "https://open.spotify.com/playlist/1telgGImZWZb4noBu6gi1i?si=uQ8SMHJKTAO-SbPa2wYRJQ",
+  "subtitle": "",
+  "title": "HITS FROM THE WAVEFRONT",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 172867,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4ZlCqCyH4vfFICGQUU85V5",
+       "spotify_url": "https://open.spotify.com/track/4ZlCqCyH4vfFICGQUU85V5?si=6_xqIdy3QfOfrIDPzbNq-g",
+       "subtitle": "Uffie",
+       "title": "Poolside Goth",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "HITS FROM THE WAVEFRONT"
+  }
+ ],
+ "track_count": 1
+}

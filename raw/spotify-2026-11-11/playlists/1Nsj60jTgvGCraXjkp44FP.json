@@ -1,0 +1,103 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:1Nsj60jTgvGCraXjkp44FP",
+  "spotify_url": "https://open.spotify.com/playlist/1Nsj60jTgvGCraXjkp44FP?si=ALfOHptsTJeDwTBRJcK5FQ",
+  "subtitle": "",
+  "title": "Static Revenger feat. Kay \"Back Off, Bitch!\" (Remixes)",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 217500,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:1HdojiuxGorDXBTOYT0seW",
+       "spotify_url": "https://open.spotify.com/track/1HdojiuxGorDXBTOYT0seW?si=ZmwIIPsBScOGojI3m4Virw",
+       "subtitle": "Static Revenger, Kay, Taco Cat",
+       "title": "Back Off, Bitch! (feat. Kay) - Taco Cat Remix Dub",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 272125,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:1Udf3GxUMPlBhW34RyMDj8",
+       "spotify_url": "https://open.spotify.com/track/1Udf3GxUMPlBhW34RyMDj8?si=IulNrGQ6Qv27BiwSN6v-pw",
+       "subtitle": "Static Revenger, Kay",
+       "title": "Back Off, Bitch! (feat. Kay) - SR Club Mix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 245625,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:1KHtvbERSGSZm3AtuEBIyv",
+       "spotify_url": "https://open.spotify.com/track/1KHtvbERSGSZm3AtuEBIyv?si=LCg4h3f7S52gezNYqmSHGA",
+       "subtitle": "Static Revenger, Kay, J-Trick",
+       "title": "Back Off, Bitch! (feat. Kay) - J-Trick Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 251999,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3l0htCcbWwFPvrJ7sIWo5X",
+       "spotify_url": "https://open.spotify.com/track/3l0htCcbWwFPvrJ7sIWo5X?si=Z2xXzGpIQyOcfSH0ux5csA",
+       "subtitle": "Static Revenger, Kay, Jealous Much?",
+       "title": "Back Off, Bitch! (feat. Kay) - Jealous Much? Mo' Vox Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 251999,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:58jiVVpDcy6klbGNO0SHG1",
+       "spotify_url": "https://open.spotify.com/track/58jiVVpDcy6klbGNO0SHG1?si=FB45gcrFRDqbHYkxcoCqrQ",
+       "subtitle": "Static Revenger, Kay, Jealous Much?",
+       "title": "Back Off, Bitch! (feat. Kay) - Jealous Much? Less Vox Remix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 221995,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:27daqmCncMOIDochbXKc2M",
+       "spotify_url": "https://open.spotify.com/track/27daqmCncMOIDochbXKc2M?si=j16qbUEgSZ6zEuLrFvko5w",
+       "subtitle": "Static Revenger, Kay, The Alter-Natives",
+       "title": "Back Off, Bitch! (feat. Kay) - Alter Natives Remix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Static Revenger feat. Kay \"Back Off, Bitch!\" (Remixes)"
+  }
+ ],
+ "track_count": 6
+}

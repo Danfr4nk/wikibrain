@@ -1,0 +1,46 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:1jT3g6AE4vQObfkh6qQ7wf",
+  "spotify_url": "https://open.spotify.com/playlist/1jT3g6AE4vQObfkh6qQ7wf?si=X4G2mQIWSda2NrYmwcoT7A",
+  "subtitle": "",
+  "title": "Newtoo",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 234461,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4zedwYjb2LIdPBmfOeyXW5",
+       "spotify_url": "https://open.spotify.com/track/4zedwYjb2LIdPBmfOeyXW5?si=nev0BhrBSUqoEL_bkPb3Zw",
+       "subtitle": "Max Styler, Vintage Culture",
+       "title": "You & Me - Vintage Culture Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Newtoo"
+  }
+ ],
+ "track_count": 1
+}

@@ -1,0 +1,746 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au",
+  "spotify_url": "https://open.spotify.com/playlist/1cA1TsHMuFbkyz4Y4cq7au?si=75UInrejQRGrj3nEF7sR4g",
+  "subtitle": "",
+  "title": "Diplo's Summer Playlist",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 218186,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7CTo57E7sZsaTNh3UZLU2d",
+       "spotify_url": "https://open.spotify.com/track/7CTo57E7sZsaTNh3UZLU2d?si=6eYZ8cDPQo2-75FgAMIH4w",
+       "subtitle": "Disclosure, AlunaGeorge",
+       "title": "White Noise - Radio Edit",
+       "traits": [
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 222071,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0s4l4Xesm42Np8nJJK0tj0",
+       "spotify_url": "https://open.spotify.com/track/0s4l4Xesm42Np8nJJK0tj0?si=Iv2CilU7Qka65UMkjRwy-w",
+       "subtitle": "Branko, Roses Gabor",
+       "title": "Waves",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 268914,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:71OdU9BZDB4ce33wTA0y77",
+       "spotify_url": "https://open.spotify.com/track/71OdU9BZDB4ce33wTA0y77?si=pTvWg1ccT2yLvG3hVKbccQ",
+       "subtitle": "Bames",
+       "title": "Chrome Eagle",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 52845,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6jQ4HPBXsD8jClP7xca7Q8",
+       "spotify_url": "https://open.spotify.com/track/6jQ4HPBXsD8jClP7xca7Q8?si=WuPgzuW4QW-FhDNgFeq_qw",
+       "subtitle": "MOB",
+       "title": "Birthday Bash [DJ Snake Edition]",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 246857,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:59P8sfC11Srlf93BnLd8dU",
+       "spotify_url": "https://open.spotify.com/track/59P8sfC11Srlf93BnLd8dU?si=M8UC7HUyRWKjKMGuTberCQ",
+       "subtitle": "DJ Sliink, Flosstradamus",
+       "title": "Crowd Ctrl",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 342000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1MZx9qBLqkknnIRL2TBAmr",
+       "spotify_url": "https://open.spotify.com/track/1MZx9qBLqkknnIRL2TBAmr?si=L3d2JmkbQt2b6aNg5W0RTQ",
+       "subtitle": "Nasher, Cadenza",
+       "title": "Gyal Town",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 230520,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7cNz65PfCatRXoX7QtqM2A",
+       "spotify_url": "https://open.spotify.com/track/7cNz65PfCatRXoX7QtqM2A?si=WRdHTFphTHWOqq11cKiC9A",
+       "subtitle": "Lana Del Rey",
+       "title": "National Anthem",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 304560,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:7Ml5yFM5H8gCQ4U4NSe4Bc",
+       "spotify_url": "https://open.spotify.com/track/7Ml5yFM5H8gCQ4U4NSe4Bc?si=J4pvAMHwTMCmnJAGpr_MfQ",
+       "subtitle": "Missy Elliott, 50 Cent",
+       "title": "Work It (feat. 50 Cent) - Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 247514,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5yBz7cvTj3ZwVcIp4xiEka",
+       "spotify_url": "https://open.spotify.com/track/5yBz7cvTj3ZwVcIp4xiEka?si=AKhEFQFFTrmiQS23ZbLS9w",
+       "subtitle": "Juyen Sebulba",
+       "title": "Superjam",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 254630,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5NGxjsfZ94DPu1KSFwWZko",
+       "spotify_url": "https://open.spotify.com/track/5NGxjsfZ94DPu1KSFwWZko?si=K9klc2bYRLi3XFzf84gmMg",
+       "subtitle": "Sibot",
+       "title": "Magnet Jam",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Diplo's Summer Playlist"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 256775,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1sUe9L5dUBHooUC8eWKPMU",
+     "spotify_url": "https://open.spotify.com/track/1sUe9L5dUBHooUC8eWKPMU?si=uyEJVfNgQ_SHTq33Mo1wKg",
+     "subtitle": "TNGHT, Hudson Mohawke, Lunice",
+     "title": "ACRYLICS",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 180896,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6vMIGFY2ZV91q3RBkgTJUo",
+     "spotify_url": "https://open.spotify.com/track/6vMIGFY2ZV91q3RBkgTJUo?si=HQlxq-sgQzelb-eVlRWn_w",
+     "subtitle": "Ginger & The Ghost",
+     "title": "One Type of Dark - Ta-ku Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 246913,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2mgcy8FEQdXy4neTxnKDKB",
+     "spotify_url": "https://open.spotify.com/track/2mgcy8FEQdXy4neTxnKDKB?si=y2OHBg1pRIefUG-Hxm0Pbw",
+     "subtitle": "Meet Bros Anjjan, DJ Khushi, Kumaar",
+     "title": "Boss (Remix)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 250294,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1JGkK2ZzH3x0iv9FuTFS5R",
+     "spotify_url": "https://open.spotify.com/track/1JGkK2ZzH3x0iv9FuTFS5R?si=BOm_x3JQQmSHzhSwh_Errg",
+     "subtitle": "A-Trak, GTA",
+     "title": "Landline 2.0",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 122790,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4vrboCwjDQZZJdqU2wpkkK",
+     "spotify_url": "https://open.spotify.com/track/4vrboCwjDQZZJdqU2wpkkK?si=f9DqVDMqTuucrRAHJ4zrMg",
+     "subtitle": "tripperbeats (uk)",
+     "title": "Sweater Weather - DnB",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 248612,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5utKhoQ53mGKK0uE4QBANa",
+     "spotify_url": "https://open.spotify.com/track/5utKhoQ53mGKK0uE4QBANa?si=3mXwPXDRR_mZ1u4HlkILQg",
+     "subtitle": "Joker",
+     "title": "Newham Generals",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 203110,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3tOrbCaENsgfaWoFaJ4j7d",
+     "spotify_url": "https://open.spotify.com/track/3tOrbCaENsgfaWoFaJ4j7d?si=jkKC9qB-Taa5977yd-aXBw",
+     "subtitle": "LIZ",
+     "title": "XTC",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 231433,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2h6HBovnmpgvHiB8TTnz7p",
+     "spotify_url": "https://open.spotify.com/track/2h6HBovnmpgvHiB8TTnz7p?si=YoY4n0NYRFK4u_5_UmfCeA",
+     "subtitle": "Vincent Pagani",
+     "title": "Stay Customz Bootleg Branchez - Dub Mix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 126476,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6oDx25RJbNgtZgki91A6DM",
+     "spotify_url": "https://open.spotify.com/track/6oDx25RJbNgtZgki91A6DM?si=BbP2fHXOQ32Ao9WPK_Cz2w",
+     "subtitle": "Jedi Dreams",
+     "title": "Marble Rain",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 260624,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0MzMlKcdr5F0JoO19EQuS7",
+     "spotify_url": "https://open.spotify.com/track/0MzMlKcdr5F0JoO19EQuS7?si=CvtLDyZfRFqhCRokuY6E2w",
+     "subtitle": "Torqux, Lady Leshurr",
+     "title": "Blazin - Extended Club Mix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 333146,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4ecOT7NBAVaLg3p4sodF1S",
+     "spotify_url": "https://open.spotify.com/track/4ecOT7NBAVaLg3p4sodF1S?si=dSJ815EFRW6S7-k_TxRN7A",
+     "subtitle": "A-Trak, Oliver, Funkin Matt",
+     "title": "Disco Nap - Funkin Matt Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 121874,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6sWUWTthhMxzX6ADl8WBAb",
+     "spotify_url": "https://open.spotify.com/track/6sWUWTthhMxzX6ADl8WBAb?si=2Yhotg9mR_KNPfLKLKczoQ",
+     "subtitle": "Baauer",
+     "title": "Dum Dum",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 280627,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3UfnDRZkYCBwGb9VQe9Lhs",
+     "spotify_url": "https://open.spotify.com/track/3UfnDRZkYCBwGb9VQe9Lhs?si=KYC_fOdATNucFdKXdcUIOg",
+     "subtitle": "Lockah",
+     "title": "Platinum Blonde",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 211776,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1ivuWgxFQb2xzxVNSlB1hF",
+     "spotify_url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF?si=UOJ5dOeWQ6ONgr_rTy1xQw",
+     "subtitle": "Yellow Claw",
+     "title": "DJ Turn It Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 206160,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4PyhlL1vrSvPlhYLdphszr",
+     "spotify_url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr?si=u9ZK3s6QRmuB2um_5ikKNw",
+     "subtitle": "Inner City",
+     "title": "Big Fun",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 220891,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1D6X4Tfa7CQdq6LgSbtbsp",
+     "spotify_url": "https://open.spotify.com/track/1D6X4Tfa7CQdq6LgSbtbsp?si=0YQVM57TTI26MOqmWJT16w",
+     "subtitle": "Sliim Bambino",
+     "title": "BOBBY",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 229666,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4qMBuq9LoKQb7thBpQltiN",
+     "spotify_url": "https://open.spotify.com/track/4qMBuq9LoKQb7thBpQltiN?si=_s8d5AnZQLu4LMpDmnOaQg",
+     "subtitle": "Mase, Diddy",
+     "title": "Do You Wanna Get $ (feat. Puff Daddy)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 315140,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4ce29VAx1D8f3HULOHHA3K",
+     "spotify_url": "https://open.spotify.com/track/4ce29VAx1D8f3HULOHHA3K?si=frh1AFsURASavzePS4k5VA",
+     "subtitle": "Knife Party",
+     "title": "LRAD",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 174750,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7mNXqJNUEPqiALzp1I9Yk1",
+     "spotify_url": "https://open.spotify.com/track/7mNXqJNUEPqiALzp1I9Yk1?si=hnzXJvVOTaWLG9ieJUIrkA",
+     "subtitle": "Julien Fade",
+     "title": "Losing You",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 237381,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6M9L1sPBHbVMpEYV8hYiGU",
+     "spotify_url": "https://open.spotify.com/track/6M9L1sPBHbVMpEYV8hYiGU?si=JA0UMcJcTqqL6Yz376UGEQ",
+     "subtitle": "I See MONSTAS, NERO, Skrillex",
+     "title": "Holdin' On - Skrillex & Nero Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=30",
+   "next_offset": 30,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=20"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 285650,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4rFbNHh4gX7kGTbfCGEOMF",
+     "spotify_url": "https://open.spotify.com/track/4rFbNHh4gX7kGTbfCGEOMF?si=JGUuhuzLTaahxxDjlOZDZA",
+     "subtitle": "Dog Blood",
+     "title": "Next Order",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 217799,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1CycpfmXG64dXSq7XWPtob",
+     "spotify_url": "https://open.spotify.com/track/1CycpfmXG64dXSq7XWPtob?si=Wh2md664TUaBjWa7QnBT_Q",
+     "subtitle": "Birdy Nam Nam, Skrillex",
+     "title": "Goin' In - Skrillex \"Goin' Down\" Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 386906,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3EE965qLbCCUaeuZHnR7aY",
+     "spotify_url": "https://open.spotify.com/track/3EE965qLbCCUaeuZHnR7aY?si=KSInzBTCQ62EYgtXqpqesg",
+     "subtitle": "Kendrick Lamar, Jay Rock",
+     "title": "Money Trees",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 195598,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2CUPvqPtpbvF1deQvcSBsn",
+     "spotify_url": "https://open.spotify.com/track/2CUPvqPtpbvF1deQvcSBsn?si=sJOgPQVzRI-wbXk3Ebl60w",
+     "subtitle": "Carnage, Katie Got Bandz",
+     "title": "Kat!E",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 260276,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0HFrCOmhCYXlv4NdEwRAuj",
+     "spotify_url": "https://open.spotify.com/track/0HFrCOmhCYXlv4NdEwRAuj?si=JgHDv2CxQ7-HJ6-aaOPcaA",
+     "subtitle": "Rocko",
+     "title": "U.O.E.N.O. (feat. Rick Ross, Future)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 171580,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7GAaHFDe5UK3xW2ZboEEyM",
+     "spotify_url": "https://open.spotify.com/track/7GAaHFDe5UK3xW2ZboEEyM?si=lNCMyICyRD2C5Izkw8mSbA",
+     "subtitle": "Diplo, Gent, Jawns, Nicky Da B",
+     "title": "Express Yourself - Gent & Jawns Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 174398,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4ZqDXXBMWhuVAz6XKgKZhU",
+     "spotify_url": "https://open.spotify.com/track/4ZqDXXBMWhuVAz6XKgKZhU?si=a4C6k8ZmRuOwTxzYhA8PCw",
+     "subtitle": "Diplo & GTA",
+     "title": "Boy Oh Boy",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 221518,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3JX2JyTLP5nayvmEgfs8I0",
+     "spotify_url": "https://open.spotify.com/track/3JX2JyTLP5nayvmEgfs8I0?si=iiw43hltQZK1Q0ItBFgQ_A",
+     "subtitle": "ETC!ETC!, Brillz",
+     "title": "Swoop",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 227813,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2nZ3DQaL3Q9AB4UcQCE36b",
+     "spotify_url": "https://open.spotify.com/track/2nZ3DQaL3Q9AB4UcQCE36b?si=ETR4mnkLQjmB1NwJsnQLIQ",
+     "subtitle": "Major Lazer, Bruno Mars, Tyga, Mystic",
+     "title": "Bubble Butt",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 212653,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1BR5vhAlaoUiijQ28p6jlN",
+     "spotify_url": "https://open.spotify.com/track/1BR5vhAlaoUiijQ28p6jlN?si=-epuGMFUTm6r2j_24T-r_A",
+     "subtitle": "Kendrick Lamar",
+     "title": "Backseat Freestyle",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=40",
+   "next_offset": 40,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=30"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 226986,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1Xex5Fnp0MMyg7yjbfFyyK",
+     "spotify_url": "https://open.spotify.com/track/1Xex5Fnp0MMyg7yjbfFyyK?si=WLrEqNBWTA-RqPEOEJRbfg",
+     "subtitle": "Crystal Castles, Robert Smith",
+     "title": "Not In Love - Radio Version",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 233707,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1cA9nOQM0bjTR0kjGJumTC",
+     "spotify_url": "https://open.spotify.com/track/1cA9nOQM0bjTR0kjGJumTC?si=Q_H6qC_qSHqsCfroQE0ERg",
+     "subtitle": "Duke Dumont, A*M*E",
+     "title": "Need U (100%) [feat. A*M*E]",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 348444,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4aMRkReQpDryhQ0ho5U8Dh",
+     "spotify_url": "https://open.spotify.com/track/4aMRkReQpDryhQ0ho5U8Dh?si=fvmG91JaQY2-4oXSEbNw_A",
+     "subtitle": "Lenkemz",
+     "title": "Flo",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 125527,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:11jp4SQwBNnnSZ59m9FIqv",
+     "spotify_url": "https://open.spotify.com/track/11jp4SQwBNnnSZ59m9FIqv?si=kwbdsoPTT2argFkSEbqZ6A",
+     "subtitle": "Markul",
+     "title": "Falling in Love",
+     "traits": [
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 165433,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0PDGCtMLGQ6zbKMMuqltuY",
+     "spotify_url": "https://open.spotify.com/track/0PDGCtMLGQ6zbKMMuqltuY?si=GiFLDKd7R8CfEIo7_Rm9WQ",
+     "subtitle": "Action Bronson",
+     "title": "Strictly 4 My Jeeps",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 303216,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3Su4SPsb1yFD0xInslFhzn",
+     "spotify_url": "https://open.spotify.com/track/3Su4SPsb1yFD0xInslFhzn?si=GGteJnNzRUKzHjMgQhCsIQ",
+     "subtitle": "Bart B More",
+     "title": "Jack",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 223846,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4pJjNAiRsyTMLG8Z5B15sb",
+     "spotify_url": "https://open.spotify.com/track/4pJjNAiRsyTMLG8Z5B15sb?si=0FmtPd_oQKazghgA3ifPJQ",
+     "subtitle": "Swick, Diplo",
+     "title": "Keep It Gully",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 244146,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1uQ8qCbeeA39xd1gIcaxgM",
+     "spotify_url": "https://open.spotify.com/track/1uQ8qCbeeA39xd1gIcaxgM?si=gj7nP64iSb6ldjZoNMLYGw",
+     "subtitle": "Bruno Mars, Major Lazer",
+     "title": "Locked out of Heaven - Major Lazer Remix",
+     "traits": [
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 34058,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4mrMad5w7aYv31cwcklFLT",
+     "spotify_url": "https://open.spotify.com/track/4mrMad5w7aYv31cwcklFLT?si=U8qHa5Q_SV2pku0g2Y2h9w",
+     "subtitle": "Dillon Francis",
+     "title": "Bootleg Fireworks (Burning Up) - Continuous Mix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 235306,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6QgkOxBXqVRjZ1JcIDbDYY",
+     "spotify_url": "https://open.spotify.com/track/6QgkOxBXqVRjZ1JcIDbDYY?si=yj7cuz0NTbK0DBBB328YPg",
+     "subtitle": "T-Pain, Joey Galaxy",
+     "title": "Booty Wurk (One Cheek At a Time) (feat. Joey Galaxy)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=50",
+   "next_offset": 50,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=40"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 392831,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6Uc6yEJR5Vdy0SB3kc7ise",
+     "spotify_url": "https://open.spotify.com/track/6Uc6yEJR5Vdy0SB3kc7ise?si=b7KSKyjrR3SvV6yi6YXV8g",
+     "subtitle": "Duke Dumont, A*M*E, Skream",
+     "title": "Need U (100%) (feat. A*M*E) - Skreamix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 294413,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5ApOXuNLOkzFFhJPAedhIN",
+     "spotify_url": "https://open.spotify.com/track/5ApOXuNLOkzFFhJPAedhIN?si=xPtmFOrmQ8-NVYH0XSyxlw",
+     "subtitle": "No Doubt",
+     "title": "Settle Down - Major Lazer Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 211826,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3y6e01poVQDru5OLUu8nhE",
+     "spotify_url": "https://open.spotify.com/track/3y6e01poVQDru5OLUu8nhE?si=ekRgu9WJTNm97NQ-J12eHw",
+     "subtitle": "Snoop Lion, Drake, Cori B.",
+     "title": "No Guns Allowed (feat. Drake & Cori B.)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 126042,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:57OHpXh84fu4FwL02ykMoI",
+     "spotify_url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI?si=7xRYLWDURG2lN1DFGphnUQ",
+     "subtitle": "Shenseea, Vybz Kartel, Rvssian",
+     "title": "Talk To Me Nuh",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 256346,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7i7UIbm5E0DD7aSOYvwp2v",
+     "spotify_url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v?si=kHPHjL2eS8icx43GWsAVqw",
+     "subtitle": "Ciara, Ludacris",
+     "title": "Oh (feat. Ludacris)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 240482,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7oxtPB10UP0wqYw8EBHEsN",
+     "spotify_url": "https://open.spotify.com/track/7oxtPB10UP0wqYw8EBHEsN?si=jUfi2w-nR7K4mGLgmg4P2w",
+     "subtitle": "OSHUN",
+     "title": "Sango",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:1cA1TsHMuFbkyz4Y4cq7au/sections/contents/items?offset=50"
+  }
+ ],
+ "track_count": 56
+}

@@ -1,0 +1,1098 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:18BZiBPwKOuKKRIh4r0T7w",
+  "spotify_url": "https://open.spotify.com/playlist/18BZiBPwKOuKKRIh4r0T7w?si=7TCA596NTqiR8TKtHNi0qw",
+  "subtitle": "",
+  "title": "This Shit Is Personal",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 149538,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2cqS0RaBUKsoVVqh5rm1Br",
+       "spotify_url": "https://open.spotify.com/track/2cqS0RaBUKsoVVqh5rm1Br?si=E7eyEVO_RbGBplo4KE4Yyw",
+       "subtitle": "BONNIE X CLYDE",
+       "title": "Nights Like",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 136615,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:51XUEoPA04upyf0IrEosDA",
+       "spotify_url": "https://open.spotify.com/track/51XUEoPA04upyf0IrEosDA?si=Qiaw9vj0T_iDx7UC_eeB7w",
+       "subtitle": "K3YN0T3, Distan",
+       "title": "Me & You",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 123692,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3ZcYHFnraOC9hRA3ReHRCv",
+       "spotify_url": "https://open.spotify.com/track/3ZcYHFnraOC9hRA3ReHRCv?si=oVOlvYORSQ-4-ciN7bYMzw",
+       "subtitle": "Ash Vanz",
+       "title": "Alone",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 173782,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6Z9xqhS1MqlGUubv7LJaas",
+       "spotify_url": "https://open.spotify.com/track/6Z9xqhS1MqlGUubv7LJaas?si=5OZwU1eAQn2RTeTWHvchjA",
+       "subtitle": "CANNA, maaple",
+       "title": "all that i can say",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 165943,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5QUQKfOB6b9rIIYT9RVbdp",
+       "spotify_url": "https://open.spotify.com/track/5QUQKfOB6b9rIIYT9RVbdp?si=B82TUpz4RBKb0De8MvUa1w",
+       "subtitle": "Toby Romeo",
+       "title": "Fly High",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 175384,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4qDBXgjpBItXeXoCLdEuS6",
+       "spotify_url": "https://open.spotify.com/track/4qDBXgjpBItXeXoCLdEuS6?si=JtsAdWdvQVKsQfoZCNYWDw",
+       "subtitle": "AVE",
+       "title": "Meet Me In The Dark",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 120000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1WcXdZOoIN1apxXQ2iTPh2",
+       "spotify_url": "https://open.spotify.com/track/1WcXdZOoIN1apxXQ2iTPh2?si=q7Egcb2PRr21lqB9rxCxoQ",
+       "subtitle": "Maxé Lune",
+       "title": "Pull Me Back",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 152444,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:40bhHParn81OKyn2pftFtf",
+       "spotify_url": "https://open.spotify.com/track/40bhHParn81OKyn2pftFtf?si=QXAL4CPqRgCKKRkYtITo7A",
+       "subtitle": "SWISH",
+       "title": "Stalking Me",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 141615,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4g5p0EVUtflkSaSTfva5kG",
+       "spotify_url": "https://open.spotify.com/track/4g5p0EVUtflkSaSTfva5kG?si=hUhL12TIRrOfK-OP1ZSesA",
+       "subtitle": "Medo",
+       "title": "Pull Me In",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 135788,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2MDm9UttoqRGBmCyKgp5yR",
+       "spotify_url": "https://open.spotify.com/track/2MDm9UttoqRGBmCyKgp5yR?si=A6STcOuFRcGf8Dj-X5smWQ",
+       "subtitle": "mxbeats, DRYFTMODE, Suzi",
+       "title": "Maybe this Time",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "This Shit Is Personal"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 111490,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3GZIfEmDqifJv0eVCYTBeG",
+     "spotify_url": "https://open.spotify.com/track/3GZIfEmDqifJv0eVCYTBeG?si=O4uUAYnTQ62qLajd1k7X1A",
+     "subtitle": "Boxi",
+     "title": "Magic",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 138169,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:744ixC9j9jJtKjRetGd6wo",
+     "spotify_url": "https://open.spotify.com/track/744ixC9j9jJtKjRetGd6wo?si=CJKXkfO5Trims14IokF5OQ",
+     "subtitle": "Distan, K3YN0T3",
+     "title": "Addicted To You - Sped Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 136339,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5HyzqdOM55hvpXrShgk67i",
+     "spotify_url": "https://open.spotify.com/track/5HyzqdOM55hvpXrShgk67i?si=K81bNfmNQMqAXa2l-1cYPA",
+     "subtitle": "emerge, bystander",
+     "title": "4AM",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 135222,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0C8p25JjLBNGLRs4oMjF4o",
+     "spotify_url": "https://open.spotify.com/track/0C8p25JjLBNGLRs4oMjF4o?si=-8uegDhvTauIUtsewXVA5g",
+     "subtitle": "DAWNLINE",
+     "title": "Drunk Tonight",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 127799,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7qtu2hihxAxUFyqy2Z4ime",
+     "spotify_url": "https://open.spotify.com/track/7qtu2hihxAxUFyqy2Z4ime?si=KQ04wKO7RnOZWlcp49S6aA",
+     "subtitle": "David Stone",
+     "title": "This Way - Sped Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 144669,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:756wX3ER2Z7AW3VAzRJdpd",
+     "spotify_url": "https://open.spotify.com/track/756wX3ER2Z7AW3VAzRJdpd?si=3UJLN9wjT_-fn21XjnBgHg",
+     "subtitle": "Stark",
+     "title": "I Didn't Know - Sped Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 131155,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6pFQrUhbk6lUKxu3TMLirj",
+     "spotify_url": "https://open.spotify.com/track/6pFQrUhbk6lUKxu3TMLirj?si=qhLN0xaCSTCcf0Vm5sSSbA",
+     "subtitle": "Subsurface",
+     "title": "You Got Me Singin' Like (Ayoo)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 140571,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:34VhGGvvznuZv522zX7omQ",
+     "spotify_url": "https://open.spotify.com/track/34VhGGvvznuZv522zX7omQ?si=m7vDYD0FRf-t2f5XCa6_KQ",
+     "subtitle": "K3YN0T3, T3CHN0T3, Distan, LIMIC",
+     "title": "Losing The Fight",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 145970,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4hA1bk7IVY3B0rJM8VOzvg",
+     "spotify_url": "https://open.spotify.com/track/4hA1bk7IVY3B0rJM8VOzvg?si=bCnXOeKWRCOSE2pH509BbA",
+     "subtitle": "emerge",
+     "title": "STAY A LITTLE",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 170337,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:71OPLnDR8X97mX66CI0sEv",
+     "spotify_url": "https://open.spotify.com/track/71OPLnDR8X97mX66CI0sEv?si=1hkwVihJS9uvmt5krayBrQ",
+     "subtitle": "SORBET",
+     "title": "Yes Or No",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 163269,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5jtlepuOI59xPhGrhd8ozy",
+     "spotify_url": "https://open.spotify.com/track/5jtlepuOI59xPhGrhd8ozy?si=M4i4_yJWQTekQAsiZHudxw",
+     "subtitle": "BAN DELLO",
+     "title": "Friends",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 135909,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3dlNmJS09ksZN719Eizlx6",
+     "spotify_url": "https://open.spotify.com/track/3dlNmJS09ksZN719Eizlx6?si=QdYtpavWQPW8aDjK-tdDmg",
+     "subtitle": "no regrets",
+     "title": "should've never loved you",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 191250,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7Lj0xk8V8jaTm58F7s51bE",
+     "spotify_url": "https://open.spotify.com/track/7Lj0xk8V8jaTm58F7s51bE?si=1MwpQJdmSougpR7Pl5vKrA",
+     "subtitle": "Gaullin, WLCH",
+     "title": "Games",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 174390,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1S6zM3qxtd1OFNXwvWLFdq",
+     "spotify_url": "https://open.spotify.com/track/1S6zM3qxtd1OFNXwvWLFdq?si=K2OQtfZ-R_22t3ZGe7sS3Q",
+     "subtitle": "Kyle Watson, Walker & Royce",
+     "title": "Losing Focus",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 146250,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:68GmDrKKspLhOtKTbkIB2c",
+     "spotify_url": "https://open.spotify.com/track/68GmDrKKspLhOtKTbkIB2c?si=BgoVlcpYS5aO3Q8-9aOl5w",
+     "subtitle": "kenu",
+     "title": "on rewind",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 174461,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3shZheouTUpwfpbKYJyWk6",
+     "spotify_url": "https://open.spotify.com/track/3shZheouTUpwfpbKYJyWk6?si=Dl3XkKqETpCZ6baDBFbE_w",
+     "subtitle": "K3YN0T3",
+     "title": "Your Turn",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 121583,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1CY6Jw1jYwi74n9cKNwMm4",
+     "spotify_url": "https://open.spotify.com/track/1CY6Jw1jYwi74n9cKNwMm4?si=2lO9rdhHSnSJ6ohbnDQQnw",
+     "subtitle": "Ben Leuman",
+     "title": "Want More",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 125864,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:23mqAgsmPJbn4velMcjVrP",
+     "spotify_url": "https://open.spotify.com/track/23mqAgsmPJbn4velMcjVrP?si=MYnSFbHVRXO2G-e9NCV9vw",
+     "subtitle": "Lion",
+     "title": "Fade Me Out",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 177177,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1ZVjrE1mB1J5m3VHQvL9Bo",
+     "spotify_url": "https://open.spotify.com/track/1ZVjrE1mB1J5m3VHQvL9Bo?si=iX861YOGRXqkCW0FDCyR6w",
+     "subtitle": "i'm loam",
+     "title": "stay here don't go",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 126535,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3ryK0pHXObp1J2kAbhDj7E",
+     "spotify_url": "https://open.spotify.com/track/3ryK0pHXObp1J2kAbhDj7E?si=SMovDSzwTYyaXL7BnhyDvg",
+     "subtitle": "K3YN0T3, Distan",
+     "title": "Overdose - Sped Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=30",
+   "next_offset": 30,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=20"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 126214,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:07FESfZzL6b864NecrE1tG",
+     "spotify_url": "https://open.spotify.com/track/07FESfZzL6b864NecrE1tG?si=qtKefGzrS7mFNqQAapQ6_g",
+     "subtitle": "sixteen06, emerge",
+     "title": "FALLING FOR YOU",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 183934,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4st45RmUuo86IbefttwrHa",
+     "spotify_url": "https://open.spotify.com/track/4st45RmUuo86IbefttwrHa?si=o7580QG5QGuHxyhFe2o-MQ",
+     "subtitle": "Emmit Fenn",
+     "title": "Catwalk",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 138897,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5yBASTAFuW1Qtpd3ZKCjPp",
+     "spotify_url": "https://open.spotify.com/track/5yBASTAFuW1Qtpd3ZKCjPp?si=Zq6u2noNQOasZDiQ91LwDg",
+     "subtitle": "Jerri",
+     "title": "Loop",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 179074,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6qHO2D1ZEvpSiHNnfclRAa",
+     "spotify_url": "https://open.spotify.com/track/6qHO2D1ZEvpSiHNnfclRAa?si=dgfZY164Sm-mizhWGBL9yw",
+     "subtitle": "Don Diablo, A$AP Ferg",
+     "title": "Plain Jane",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 197209,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:07ZNFGNSzM5LNK5ZpwW2kf",
+     "spotify_url": "https://open.spotify.com/track/07ZNFGNSzM5LNK5ZpwW2kf?si=VCOqY6J9SfGMSTYFIAmFlQ",
+     "subtitle": "Glass Petals, Sophiegrophy",
+     "title": "We Stay Inside",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 141857,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1izuRflozO3h1Fd8dnBRgq",
+     "spotify_url": "https://open.spotify.com/track/1izuRflozO3h1Fd8dnBRgq?si=azbi--XGSPuGGzT9_gOgAw",
+     "subtitle": "KLØCKT",
+     "title": "murda",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 182182,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5aII2U8VFUK3arIjFWbwbh",
+     "spotify_url": "https://open.spotify.com/track/5aII2U8VFUK3arIjFWbwbh?si=lqb1iJ_BTzyqMUq0kYqTqw",
+     "subtitle": "ATALE",
+     "title": "Unstoppable - Sped Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 229714,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2dr6p6VsU7KCrieQDluQDp",
+     "spotify_url": "https://open.spotify.com/track/2dr6p6VsU7KCrieQDluQDp?si=l_xk0BYjSz-G6KbxfQM9dg",
+     "subtitle": "BSEARL, En:vy",
+     "title": "Places",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 177428,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6JIPiaxjoojUMgaZ2dYGUG",
+     "spotify_url": "https://open.spotify.com/track/6JIPiaxjoojUMgaZ2dYGUG?si=PbAME9f1Q6O05EmYfJMubg",
+     "subtitle": "M?STIC",
+     "title": "187",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 165000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5NdyCZdS7DWiTwnDTWw59E",
+     "spotify_url": "https://open.spotify.com/track/5NdyCZdS7DWiTwnDTWw59E?si=B-EKTgInTGWBpu7TnPmT4Q",
+     "subtitle": "AHEE",
+     "title": "Cosmic Club",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=40",
+   "next_offset": 40,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=30"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 241777,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7f9WkDtkzDEZNwJOxb76PE",
+     "spotify_url": "https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE?si=2ZyXFMpjS5CnLnu8II4JbQ",
+     "subtitle": "Distant Matter",
+     "title": "Familiar",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 153931,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6XMs277BRC8vQ4LUSgkne8",
+     "spotify_url": "https://open.spotify.com/track/6XMs277BRC8vQ4LUSgkne8?si=Sju2wNmQS-C3uvTs0HbVXQ",
+     "subtitle": "TRFN, PET3RPUNX",
+     "title": "Pushing Me Away - sped up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 159390,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6nHyY8kHh39ZB4SfsQ35zD",
+     "spotify_url": "https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD?si=0lLdlMiATBW8GVe15Kri4Q",
+     "subtitle": "MA:RK",
+     "title": "Glow",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 188307,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0w6h053ER8qaIsyJhEtdGu",
+     "spotify_url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu?si=Wd7VjZshTsu8LcRt27-6DA",
+     "subtitle": "nimino",
+     "title": "Eat Me Better",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226934,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1EQStqv2yXPpGz7MkaGEzQ",
+     "spotify_url": "https://open.spotify.com/track/1EQStqv2yXPpGz7MkaGEzQ?si=-JGqQ7M0S0atUZ27hum_hg",
+     "subtitle": "Milco",
+     "title": "Tokyo Girl",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 248307,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3OTZPHuI58oQixbk6FojWE",
+     "spotify_url": "https://open.spotify.com/track/3OTZPHuI58oQixbk6FojWE?si=3F1R92SFS4OLdm6cP8s5Gg",
+     "subtitle": "SAiiLOR",
+     "title": "MAYBE - UKG / SPEED GARAGE",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 154744,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:05G2pe9LE5FBfxTjb6YkPB",
+     "spotify_url": "https://open.spotify.com/track/05G2pe9LE5FBfxTjb6YkPB?si=M1C92GdtTiGX6611hYwzIQ",
+     "subtitle": "Dualhï",
+     "title": "Run It Back",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 131076,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5Rciy1SXGbti127WeEtGTX",
+     "spotify_url": "https://open.spotify.com/track/5Rciy1SXGbti127WeEtGTX?si=77JYFLfqRrSEGUwC7tY3Rw",
+     "subtitle": "Billi Royce",
+     "title": "24 HOURS",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 129108,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:65fPnec9ZIWi4YSMYOQXRm",
+     "spotify_url": "https://open.spotify.com/track/65fPnec9ZIWi4YSMYOQXRm?si=xufg0fRtR2mJ7LdVFt4JtA",
+     "subtitle": "Daniel Allan, Port London",
+     "title": "OUTTAHISMIND",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 247285,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0CotCI8T6xld3zwrNOpKxm",
+     "spotify_url": "https://open.spotify.com/track/0CotCI8T6xld3zwrNOpKxm?si=YSB81TtoQfCLDpjjWoe6Uw",
+     "subtitle": "Bassnectar, Donnis",
+     "title": "Noise (feat. Donnis)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=50",
+   "next_offset": 50,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=40"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 141337,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1nGhOmzSQJtrDGNleJVMvT",
+     "spotify_url": "https://open.spotify.com/track/1nGhOmzSQJtrDGNleJVMvT?si=ZbJ7Q-8uTKeWQ5DfOEjPUA",
+     "subtitle": "zone",
+     "title": "can't live without you",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 195482,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0SqKKFMRN50q6JJsRYZjV6",
+     "spotify_url": "https://open.spotify.com/track/0SqKKFMRN50q6JJsRYZjV6?si=CL8E3_gTRFuMAcOzziprvg",
+     "subtitle": "Baclash, rSUN",
+     "title": "Flash",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 186338,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1NSWEN2D4tSseirwne0bhD",
+     "spotify_url": "https://open.spotify.com/track/1NSWEN2D4tSseirwne0bhD?si=akGPdWf1Su-uzaZr0ooE7A",
+     "subtitle": "Hamdi, Princess Superstar, Taiki Nulight",
+     "title": "Counting - Taiki Nulight Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 123750,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2jpXJ41D3ULeMmfdVMi4Nl",
+     "spotify_url": "https://open.spotify.com/track/2jpXJ41D3ULeMmfdVMi4Nl?si=kYWQGC05TIqgLADm6PbHiA",
+     "subtitle": "twoflow, Delaney Jane",
+     "title": "all my exes miss me",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 168000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5eTGFoIU2ORnLiSroqeRp1",
+     "spotify_url": "https://open.spotify.com/track/5eTGFoIU2ORnLiSroqeRp1?si=UZuy-RDTQne1v9fD3Hza5A",
+     "subtitle": "Concio",
+     "title": "Headlights",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 157301,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6wycAIxAeU4rZeROHGw5HT",
+     "spotify_url": "https://open.spotify.com/track/6wycAIxAeU4rZeROHGw5HT?si=yBspdTQ3QYSdAaqEq4OdGg",
+     "subtitle": "DRGN",
+     "title": "Breathe",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 147692,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2I7sbNSSs6W25UIZSAyRna",
+     "spotify_url": "https://open.spotify.com/track/2I7sbNSSs6W25UIZSAyRna?si=BO71VK2NSHSNJFf5HT9VAw",
+     "subtitle": "Know Good",
+     "title": "Can't Get It",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 157572,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5o7GecDUQaw6LWCB6xGjfE",
+     "spotify_url": "https://open.spotify.com/track/5o7GecDUQaw6LWCB6xGjfE?si=fLIh0-tDTdCnPx1Na1qfSg",
+     "subtitle": "K3YN0T3, T3CHN0T3, mxbeats, DRYFTMODE",
+     "title": "Chemical Reaction",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 113191,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2qLt27TF4p9PlkDtZUhLms",
+     "spotify_url": "https://open.spotify.com/track/2qLt27TF4p9PlkDtZUhLms?si=rskaY-jiTFiRtbn2t0bxQw",
+     "subtitle": "K3YN0T3, Distan",
+     "title": "Red Light - Sped Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 142608,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:336nRSNt09Tk4V2akZ1lPg",
+     "spotify_url": "https://open.spotify.com/track/336nRSNt09Tk4V2akZ1lPg?si=T1QxD-j1T3KWPtzObc7ASw",
+     "subtitle": "M-T3CK",
+     "title": "Runaway",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=60",
+   "next_offset": 60,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=50"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 207107,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4cFPRKRL94iG5xjucBqRpO",
+     "spotify_url": "https://open.spotify.com/track/4cFPRKRL94iG5xjucBqRpO?si=tqPlYrd2RTKcG-GHfLGQSA",
+     "subtitle": "ero808",
+     "title": "POUR IT OUT",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 167241,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:10JmIhIKVsuJp9bryX2SGy",
+     "spotify_url": "https://open.spotify.com/track/10JmIhIKVsuJp9bryX2SGy?si=9YPjHKU2QK2oyIhQGO_EKQ",
+     "subtitle": "SP3CTRUM, PET3RPUNX, Milan Gavris",
+     "title": "I Want You To Know",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 212236,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3s2YCL5LHLzXWbw7ezQru3",
+     "spotify_url": "https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3?si=F46Wdmu0T8qAkby1YrHoIg",
+     "subtitle": "True Damage, League of Legends, Sofía Reyes, VIC MENSA, Coco Jones, SOYEON, i-dle",
+     "title": "Know My Name",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 126196,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0MTtl8qCvp28r6E4SAtbIj",
+     "spotify_url": "https://open.spotify.com/track/0MTtl8qCvp28r6E4SAtbIj?si=E-nOoRSkRPKxhL9lW2jKFw",
+     "subtitle": "K3YN0T3, J3RY, T3CHN0T3, Distan",
+     "title": "Don't Hurt My Heart - Sped Up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 145777,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0xxjnGyAvEInpoj67I2eZX",
+     "spotify_url": "https://open.spotify.com/track/0xxjnGyAvEInpoj67I2eZX?si=fATM_C7dStO1llAOQ2hbaA",
+     "subtitle": "Matway",
+     "title": "Spin It",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 115182,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1xZvnmLZX90euv8I0xuGve",
+     "spotify_url": "https://open.spotify.com/track/1xZvnmLZX90euv8I0xuGve?si=22YqLMGBTY6kM1yFsqg2dg",
+     "subtitle": "Matway",
+     "title": "Fire",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 184615,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7DVA2IFeKrXRXZ4xFG84hX",
+     "spotify_url": "https://open.spotify.com/track/7DVA2IFeKrXRXZ4xFG84hX?si=roAZWlxUTGWAH8dtwlvS_w",
+     "subtitle": "PET3RPUNX",
+     "title": "Dubai by night - sped up",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 152228,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6PRn6ArfJqDfEb0TM2C7CO",
+     "spotify_url": "https://open.spotify.com/track/6PRn6ArfJqDfEb0TM2C7CO?si=B7Si8CzhTleF9Bs_7xB6PQ",
+     "subtitle": "BOVSKI, Niall T",
+     "title": "Low Again - Niall T Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 168275,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0j5CaQ9881LxFM8Cwh9JuH",
+     "spotify_url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH?si=omlAkQ6MTDqdppmuq3kjGw",
+     "subtitle": "Control Alt Delete",
+     "title": "Turbo Speed",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 222171,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3yoykYiHLZk6fc0jN6rz9q",
+     "spotify_url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q?si=IKaU6Yv0SlWfmqw2_QqgJA",
+     "subtitle": "Upgrade (UK), Basstripper",
+     "title": "Do You",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=70",
+   "next_offset": 70,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=60"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 139064,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0PsdtLApDW2Uk5ufs9nXy0",
+     "spotify_url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0?si=MUWmjPmJSh-3tWfFeHSnCg",
+     "subtitle": "QUIX, Solesky",
+     "title": "Curry Goat",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 246857,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:15hsxVP6IPOAmwak6xkCEI",
+     "spotify_url": "https://open.spotify.com/track/15hsxVP6IPOAmwak6xkCEI?si=Pu7Nhd6uRP2mUjNcmWV8kg",
+     "subtitle": "BSEARL, Visages",
+     "title": "SOLD MY SOUL (Visages Remix)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 185581,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2BGCtw6TEQBprcHMQ7OCCb",
+     "spotify_url": "https://open.spotify.com/track/2BGCtw6TEQBprcHMQ7OCCb?si=IIVhFuIsSVarlJGIrFvM-A",
+     "subtitle": "LYSTRO",
+     "title": "RUSH",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 124444,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7EyX3JOCX0AiFp5DB9KSdQ",
+     "spotify_url": "https://open.spotify.com/track/7EyX3JOCX0AiFp5DB9KSdQ?si=zR772COvSqedk9Ew-JTSnw",
+     "subtitle": "KHAERIS",
+     "title": "One More Time",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 141290,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:63k51AqQTv8XCFHvDULh1t",
+     "spotify_url": "https://open.spotify.com/track/63k51AqQTv8XCFHvDULh1t?si=oNXZcn4VTVGMrgqQ1ziFwQ",
+     "subtitle": "AXON VALE",
+     "title": "All Night Long",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 161165,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2vOjR3CZiWV8vshraTQ7LN",
+     "spotify_url": "https://open.spotify.com/track/2vOjR3CZiWV8vshraTQ7LN?si=y2uEkeaQS8iTIeWOuaeo6Q",
+     "subtitle": "Beachcrimes",
+     "title": "Good Energy",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 166271,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2LVHyw1tiLBTOBi3MTZQoT",
+     "spotify_url": "https://open.spotify.com/track/2LVHyw1tiLBTOBi3MTZQoT?si=F8rJ6eKQS8WxPHz3DIKmcw",
+     "subtitle": "Galwaro, PET3RPUNX",
+     "title": "Gas Pedal - slowed",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 164651,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1Enc7sgfhB1OB6NYbYWK6L",
+     "spotify_url": "https://open.spotify.com/track/1Enc7sgfhB1OB6NYbYWK6L?si=w06uswfKSyCJf7rS7QETgA",
+     "subtitle": "JAMØ",
+     "title": "like that",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 197717,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4AepWjiAVyxyg4m4ZKdPql",
+     "spotify_url": "https://open.spotify.com/track/4AepWjiAVyxyg4m4ZKdPql?si=DmNW6r9ETm2j2mQRqngHNg",
+     "subtitle": "JR Writer",
+     "title": "Kill Switch",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 153642,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6hHu9pppupiyJSW5IeHiae",
+     "spotify_url": "https://open.spotify.com/track/6hHu9pppupiyJSW5IeHiae?si=rJrDuvpMTd23Ttb7VZpTzg",
+     "subtitle": "Fergie Baby",
+     "title": "Harlem River Drive",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=80",
+   "next_offset": 80,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=70"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 226384,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2Ts0jU1gtlzFZegk4yJcak",
+     "spotify_url": "https://open.spotify.com/track/2Ts0jU1gtlzFZegk4yJcak?si=VE0cwPukQlmrAW2rDo8J2w",
+     "subtitle": "ROMCO",
+     "title": "Soul",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 123145,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3I7T1Mr96ls5VanKA4w0Pk",
+     "spotify_url": "https://open.spotify.com/track/3I7T1Mr96ls5VanKA4w0Pk?si=UYOVeg_-Szu_Rtw_YiSWEg",
+     "subtitle": "emerge, bystander",
+     "title": "4AM - SPED UP",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:18BZiBPwKOuKKRIh4r0T7w/sections/contents/items?offset=80"
+  }
+ ],
+ "track_count": 82
+}

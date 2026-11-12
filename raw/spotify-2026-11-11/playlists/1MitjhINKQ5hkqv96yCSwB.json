@@ -1,0 +1,69 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:1MitjhINKQ5hkqv96yCSwB",
+  "spotify_url": "https://open.spotify.com/playlist/1MitjhINKQ5hkqv96yCSwB?si=4W2vQMsCSCqlt1hnliWKDw",
+  "subtitle": "",
+  "title": "Mix 1",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 177177,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1ZVjrE1mB1J5m3VHQvL9Bo",
+       "spotify_url": "https://open.spotify.com/track/1ZVjrE1mB1J5m3VHQvL9Bo?si=tBN7NSBdT3mEygGWz3xb1g",
+       "subtitle": "i'm loam",
+       "title": "stay here don't go",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 160626,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:47z8JPQCgjtRcFqt1kUyoA",
+       "spotify_url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA?si=yn9NpwkNTh--Vb2tlfd7Fg",
+       "subtitle": "jigitz, Charlotte Plank",
+       "title": "car crash",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 100851,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6jeQXCVFBVAKHiTMsKbXj1",
+       "spotify_url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1?si=RTqrsn91QPmf4SwH-nn9kQ",
+       "subtitle": "R2",
+       "title": "Blah Blah Blah",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Mix 1"
+  }
+ ],
+ "track_count": 3
+}

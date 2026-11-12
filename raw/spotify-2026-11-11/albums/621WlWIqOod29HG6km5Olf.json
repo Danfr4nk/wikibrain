@@ -1,0 +1,135 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:621WlWIqOod29HG6km5Olf",
+  "spotify_url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf?si=EigHK7F8QHKDIjvwwLt0cg",
+  "subtitle": "300SkullsAndCounting, Jenny Sparks",
+  "title": "THIS IS SPA TOWN!",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 205546,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:6dFVY4JKZLMsAsxE7bCwyf",
+       "spotify_url": "https://open.spotify.com/track/6dFVY4JKZLMsAsxE7bCwyf?si=GOWZ7jAYTeqFrtYH7Q-vYQ",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "100% Legal Intro",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 164400,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:0dCz6WW6XZ443XQJIhgQj5",
+       "spotify_url": "https://open.spotify.com/track/0dCz6WW6XZ443XQJIhgQj5?si=Ziket0l2TGmMNaIe3buplg",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "Kill You in the Bace",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 193522,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3pCV00K5AzZ8LtkaNCjiuX",
+       "spotify_url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX?si=TxsXp4dsQ62QoHRVirTZSg",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "The Ballad of St Nick's Park",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 141011,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:7JR4ON8rpjCRPGA5PWQFco",
+       "spotify_url": "https://open.spotify.com/track/7JR4ON8rpjCRPGA5PWQFco?si=fAvQpG-_RdSBSDHoHgXYXg",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "I Have the Pineapple",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 47256,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4Aq1d3vBMuwqOCrMqz1m8P",
+       "spotify_url": "https://open.spotify.com/track/4Aq1d3vBMuwqOCrMqz1m8P?si=ZzUFGaR2SSKN3RWcjZQs3A",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "Ribeye 1",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 185622,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:57Nj0jfDjkZ6tl2awcEWSJ",
+       "spotify_url": "https://open.spotify.com/track/57Nj0jfDjkZ6tl2awcEWSJ?si=0d1Kgo7bSxC2I_k0oVZ9vw",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "Turned Out to Be a Cannon",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 157929,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:0xbxohAkqnkCWmbsZYYAcC",
+       "spotify_url": "https://open.spotify.com/track/0xbxohAkqnkCWmbsZYYAcC?si=gtxxPFDISD-H8_Ia97mcew",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "Can of K",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 36311,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:6gzN6zlHDQqhpzl5kIDrMT",
+       "spotify_url": "https://open.spotify.com/track/6gzN6zlHDQqhpzl5kIDrMT?si=xXxPorA4SeSjQbs87zAIcw",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "Ribeye 2",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 212191,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:0VI4z57J0YYRvxQfTzpBrk",
+       "spotify_url": "https://open.spotify.com/track/0VI4z57J0YYRvxQfTzpBrk?si=kgxfDpgtTWa4OdCJXM3N6Q",
+       "subtitle": "300SkullsAndCounting, Jenny Sparks",
+       "title": "Are Mum's",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "THIS IS SPA TOWN!"
+  }
+ ],
+ "track_count": 9
+}

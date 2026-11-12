@@ -1,0 +1,69 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:1r0dViXbVVRJRbAL7Z6Afv",
+  "spotify_url": "https://open.spotify.com/playlist/1r0dViXbVVRJRbAL7Z6Afv?si=BkKDLiFZRKeMDU5cU2MGIw",
+  "subtitle": "",
+  "title": "MOGZART",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 302760,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5ByAIlEEnxYdvpnezg7HTX",
+       "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX?si=ri3tBU9TT7yF2tTfDPVN5w",
+       "subtitle": "The Notorious B.I.G.",
+       "title": "Juicy - 2005 Remaster",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 284444,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5adUFm4TGGUMBzmbWsIqXf",
+       "spotify_url": "https://open.spotify.com/track/5adUFm4TGGUMBzmbWsIqXf?si=_KAZf4YnTc2BDgNSOIEurw",
+       "subtitle": "Zeds Dead, Memorecks",
+       "title": "Collapse",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 185066,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4mKEP1ZOCpnoH8BcIlNE2M",
+       "spotify_url": "https://open.spotify.com/track/4mKEP1ZOCpnoH8BcIlNE2M?si=ZnMe5MOIT8a1cLjP-DjRSQ",
+       "subtitle": "Uffie",
+       "title": "Art Of Uff",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "MOGZART"
+  }
+ ],
+ "track_count": 3
+}

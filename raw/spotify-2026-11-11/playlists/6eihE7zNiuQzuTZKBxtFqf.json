@@ -1,0 +1,56 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6eihE7zNiuQzuTZKBxtFqf",
+  "spotify_url": "https://open.spotify.com/playlist/6eihE7zNiuQzuTZKBxtFqf?si=wzt_3WylTYW9qGP9kFMwgw",
+  "subtitle": "",
+  "title": "Duck Sauce - Radio Stereo",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 172300,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2d2o9soBALASv0Ui3QGI63",
+       "spotify_url": "https://open.spotify.com/track/2d2o9soBALASv0Ui3QGI63?si=RvlOFvHIS_e8k9BjRL5geQ",
+       "subtitle": "Duck Sauce, A-Trak, Armand Van Helden",
+       "title": "Radio Stereo",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 309098,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:26q1onVE8XhFuSllqOar7G",
+       "spotify_url": "https://open.spotify.com/track/26q1onVE8XhFuSllqOar7G?si=IoJtdo_qT22NKzKlueSaCA",
+       "subtitle": "Duck Sauce, A-Trak, Armand Van Helden, Bingo Players",
+       "title": "Radio Stereo - Bingo Players Remix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Duck Sauce - Radio Stereo"
+  }
+ ],
+ "track_count": 2
+}

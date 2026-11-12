@@ -1,0 +1,45 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:4CZyglEoLwa1gilNSGgsND",
+  "spotify_url": "https://open.spotify.com/playlist/4CZyglEoLwa1gilNSGgsND?si=Ec4czJVDShS17u9BQgy6Qg",
+  "subtitle": "",
+  "title": "GALAXY CUTTER",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 335538,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0rw5KQ55Cc0XV3AOkBVzNo",
+       "spotify_url": "https://open.spotify.com/track/0rw5KQ55Cc0XV3AOkBVzNo?si=Pgf1kxP9QnuMJV2L8kSylQ",
+       "subtitle": "Hyleo, Sakuraburst",
+       "title": "Galaxy Cutter",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "GALAXY CUTTER"
+  }
+ ],
+ "track_count": 1
+}

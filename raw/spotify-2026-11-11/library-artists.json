@@ -1,0 +1,272 @@
+[
+ {
+  "attribution": "Content provided by Spotify",
+  "id": null,
+  "ok": true,
+  "rendering_style": "library",
+  "sections": [
+   {
+    "id": null,
+    "items": [
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:5FCJIOVRjZ7W6q0wfdNlPa",
+      "spotify_url": "https://open.spotify.com/artist/5FCJIOVRjZ7W6q0wfdNlPa?si=ummF780FTi69A90BG0dWjw",
+      "subtitle": "390,844 monthly listeners",
+      "title": "Distan",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:0ZsoOmc3MklnRauPm4FxlL",
+      "spotify_url": "https://open.spotify.com/artist/0ZsoOmc3MklnRauPm4FxlL?si=IcCmfS-hTI-V4U_Db_7VdQ",
+      "subtitle": "1,944 monthly listeners",
+      "title": "1SEC",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3",
+      "spotify_url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3?si=DNrlByqlQ7eVMF2QjUK7Ig",
+      "subtitle": "538,158 monthly listeners",
+      "title": "Ganja White Night",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:3Hrqjumb6WHg2aAUHJHLND",
+      "spotify_url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND?si=z4Fg7uBER3a-1j5Cztn1DA",
+      "subtitle": "380,253 monthly listeners",
+      "title": "LSDREAM",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:3e3riRnIankd5kcDNvsZFi",
+      "spotify_url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi?si=IkCwNOdHRhOTYGai5Gau0g",
+      "subtitle": "314,649 monthly listeners",
+      "title": "BSEARL",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t",
+      "spotify_url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t?si=XeFeSBolR-CwGiBPJv4tBA",
+      "subtitle": "16,374,197 monthly listeners",
+      "title": "Alesso",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4Ok1Cm5YX5StCQZgH0r2xF",
+      "spotify_url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF?si=YyWpiLYXT96OLnqVODts0Q",
+      "subtitle": "700,391 monthly listeners",
+      "title": "PEEKABOO",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4QWmN97HRZya55JvxN3I5a",
+      "spotify_url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a?si=Z95JI-oOTtmdnab17yv4vA",
+      "subtitle": "648,517 monthly listeners",
+      "title": "Taiki Nulight",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4U9672jXtdpL01GCOiX7TW",
+      "spotify_url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW?si=RkC8UZKASLK7Aywp9ZIAWQ",
+      "subtitle": "61,284 monthly listeners",
+      "title": "Xotix",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn",
+      "spotify_url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn?si=L3-yxlKZRd-bOo1IYK9WWQ",
+      "subtitle": "953,212 monthly listeners",
+      "title": "Death",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe",
+      "spotify_url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe?si=Bl5ZZyL_S--xdxxltCZmhA",
+      "subtitle": "26,627,161 monthly listeners",
+      "title": "Fred again..",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4qLwtWhlhyAoQ4S9mSrDW9",
+      "spotify_url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9?si=00Q51VbFQey81C2RYSye4w",
+      "subtitle": "4,461,723 monthly listeners",
+      "title": "Odd Mob",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:4yimrbAH3tCaYHxuwksfY6",
+      "spotify_url": "https://open.spotify.com/artist/4yimrbAH3tCaYHxuwksfY6?si=Nie5ub2RSvqqFu3Q3Iu3og",
+      "subtitle": "10,230 monthly listeners",
+      "title": "Bleep Bloop",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:5Q2ZtOZ0vOdtcjGDOq6ZQc",
+      "spotify_url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc?si=GpcWn0ZcQ76i3alYAWVlBA",
+      "subtitle": "454,967 monthly listeners",
+      "title": "Ryan Montbleau",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:5nEtdd8cmhvf1zgNMFoQcI",
+      "spotify_url": "https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI?si=MIJraRnAQvyZuWgyf3Pfqg",
+      "subtitle": "84,695 monthly listeners",
+      "title": "STVSH",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+      "spotify_url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp?si=nV5mQZhFSnuXwpplARfEOA",
+      "subtitle": "50,561,296 monthly listeners",
+      "title": "The Chainsmokers",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:6NcZzdLXWxAUZMvEgVhIx2",
+      "spotify_url": "https://open.spotify.com/artist/6NcZzdLXWxAUZMvEgVhIx2?si=rS0AAryFRbmVAE00kvsMmQ",
+      "subtitle": "4,020 monthly listeners",
+      "title": "Lushreds",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:6PvbsGQbMgeGhkeqBE0l8b",
+      "spotify_url": "https://open.spotify.com/artist/6PvbsGQbMgeGhkeqBE0l8b?si=aZMKrWO_SLaZ8L9USD8RXg",
+      "subtitle": "1,020 monthly listeners",
+      "title": "Chris Yamez",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:6ZJDt01Lh0XOPMMJbUMcUi",
+      "spotify_url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi?si=IaOhxc1_S1abVd6EicH8Bg",
+      "subtitle": "444,192 monthly listeners",
+      "title": "Ghost Rider",
+      "traits": [
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:artist:6hBrJJrcYoNhvLC6KaFR4b",
+      "spotify_url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b?si=fkLsx-vBR5an4s-8ELQIHQ",
+      "subtitle": "208,197 monthly listeners",
+      "title": "Eliminate",
+      "traits": [
+       "SAVED"
+      ]
+     }
+    ],
+    "next": "https://partner.spotify.dev/v2/experiences/library/sections/contents/items?filter=Artists&offset=20",
+    "next_offset": 20,
+    "title": null,
+    "total_items": null
+   }
+  ],
+  "status": 200,
+  "title": "Your Library"
+ },
+ {
+  "attribution": "Content provided by Spotify",
+  "items": [
+   {
+    "is_explicit": false,
+    "spotify_uri": "spotify:artist:7xqIp1044Z2vd9v9ZphjLa",
+    "spotify_url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa?si=3PRxnr0uSGCF4i0tJVFgxA",
+    "subtitle": "1,964,516 monthly listeners",
+    "title": "LYNY",
+    "traits": [
+     "SAVED"
+    ]
+   },
+   {
+    "is_explicit": false,
+    "spotify_uri": "spotify:artist:0fVqst4UD6o7SKW6SsWPfU",
+    "spotify_url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU?si=_nCiMT2xRne6grWR4x4-XQ",
+    "subtitle": "423,535 monthly listeners",
+    "title": "NXSTY",
+    "traits": [
+     "SAVED"
+    ]
+   },
+   {
+    "is_explicit": false,
+    "spotify_uri": "spotify:artist:6FJVj6JOHaEU7onQS9jH2u",
+    "spotify_url": "https://open.spotify.com/artist/6FJVj6JOHaEU7onQS9jH2u?si=-3C-SDDxS6S_xQ5lcnbrMQ",
+    "subtitle": "1,060,770 monthly listeners",
+    "title": "K3YN0T3",
+    "traits": [
+     "SAVED"
+    ]
+   },
+   {
+    "is_explicit": false,
+    "spotify_uri": "spotify:artist:2N8IPNZTiNo3nj4mreOlHU",
+    "spotify_url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU?si=sDAY2UO0TWaBg3C2ChGXDg",
+    "subtitle": "716,141 monthly listeners",
+    "title": "Camo & Krooked",
+    "traits": [
+     "SAVED"
+    ]
+   }
+  ],
+  "next": null,
+  "next_offset": null,
+  "ok": true,
+  "status": 200,
+  "total_items": null,
+  "url": "https://partner.spotify.dev/v2/experiences/library/sections/contents/items?filter=Artists&offset=20"
+ }
+]

@@ -1,0 +1,53 @@
+[
+ {
+  "attribution": "Content provided by Spotify",
+  "id": null,
+  "ok": true,
+  "rendering_style": "library",
+  "sections": [
+   {
+    "id": null,
+    "items": [
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:playlist:37i9dQZF1FgnTBfUlzkeKt",
+      "spotify_url": "https://open.spotify.com/playlist/37i9dQZF1FgnTBfUlzkeKt?si=y9uLH6bgRJm7HY_56wpBdA",
+      "subtitle": "",
+      "title": "Your Episodes",
+      "traits": [
+       "PINNED"
+      ]
+     },
+     {
+      "is_explicit": true,
+      "spotify_uri": "spotify:show:5MfQNeGILinrJFkf2UHLVK",
+      "spotify_url": "https://open.spotify.com/show/5MfQNeGILinrJFkf2UHLVK?si=jmDmzRcNT0uvu3pHa57YQw",
+      "subtitle": "The Adam Friedland Show",
+      "title": "The Adam Friedland Show",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": true,
+      "spotify_uri": "spotify:show:6RtKrF0L0oIPp6QHFRtfL9",
+      "spotify_url": "https://open.spotify.com/show/6RtKrF0L0oIPp6QHFRtfL9?si=TdxJh5YQSlW9g9jqTspkyQ",
+      "subtitle": "The Yeehaw Gaming Podcast",
+      "title": "The Yeehaw Gaming Podcast",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     }
+    ],
+    "next": null,
+    "next_offset": null,
+    "title": null,
+    "total_items": 0
+   }
+  ],
+  "status": 200,
+  "title": "Your Library"
+ }
+]

@@ -1,0 +1,57 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:31FpruLRMlL2nvpL39tI2m",
+  "spotify_url": "https://open.spotify.com/playlist/31FpruLRMlL2nvpL39tI2m?si=OpadSrEsS26cLf_ndz_cow",
+  "subtitle": "",
+  "title": "MIXES & LIVE SETS",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 180062,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5ba6t78YDKotBOjKpLUEja",
+       "spotify_url": "https://open.spotify.com/track/5ba6t78YDKotBOjKpLUEja?si=NxDAzLXYQ-6zAMDAzKVlIQ",
+       "subtitle": "SL",
+       "title": "Tropical",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 131099,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:2hYZTbo4UBlbMkrZh9vC3Z",
+       "spotify_url": "https://open.spotify.com/track/2hYZTbo4UBlbMkrZh9vC3Z?si=pZO7CPd_QAa16AqgDiWrjA",
+       "subtitle": "biz, DJ Ess",
+       "title": "SNOW WHITE - Dj ess mixx",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "MIXES & LIVE SETS"
+  }
+ ],
+ "track_count": 2
+}

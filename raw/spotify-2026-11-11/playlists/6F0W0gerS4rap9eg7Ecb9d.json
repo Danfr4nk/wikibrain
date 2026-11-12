@@ -1,0 +1,387 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6F0W0gerS4rap9eg7Ecb9d",
+  "spotify_url": "https://open.spotify.com/playlist/6F0W0gerS4rap9eg7Ecb9d?si=rw5u6ZbCS_eJC7g0iKFcbg",
+  "subtitle": "",
+  "title": "Deal",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 186666,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:431KvcIeLTgVEqlz42WzU3",
+       "spotify_url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3?si=nYY80-jUQT-ltLzTxRRc3g",
+       "subtitle": "Nikita, the Wicked, Jkyl & Hyde, CREG",
+       "title": "HORSEPOWER",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 146363,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4IFgk53G59zYisPF8hBQkF",
+       "spotify_url": "https://open.spotify.com/track/4IFgk53G59zYisPF8hBQkF?si=OniP1foBSA6XwEVZ0QsKmw",
+       "subtitle": "Austin Ashtin",
+       "title": "I Run (Austin Ashtin Remix)",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 206598,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:6HfMZs0fb0RyyTnBRUun0x",
+       "spotify_url": "https://open.spotify.com/track/6HfMZs0fb0RyyTnBRUun0x?si=6x_69-soTWOWF1-QMPr47A",
+       "subtitle": "33 Below, Pocket, Crybaby",
+       "title": "Close To Me",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 160018,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3NHpU2fTOOas6AuLUxGSrr",
+       "spotify_url": "https://open.spotify.com/track/3NHpU2fTOOas6AuLUxGSrr?si=TUqnAxfKQE-nORCrs8BeZA",
+       "subtitle": "fromclay",
+       "title": "TU",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 168275,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0j5CaQ9881LxFM8Cwh9JuH",
+       "spotify_url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH?si=RI6j6W3IToGaMyl5RZ3ZDQ",
+       "subtitle": "Control Alt Delete",
+       "title": "Turbo Speed",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 224370,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:04Ya6RPms2RppYRKKvxb9U",
+       "spotify_url": "https://open.spotify.com/track/04Ya6RPms2RppYRKKvxb9U?si=mUuRsEmfTuWWQg0NtPJT6w",
+       "subtitle": "Ship Wrek, fkblnde",
+       "title": "Electrify",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 155520,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:57Io4RkZ8RyQVMfmhxjBdo",
+       "spotify_url": "https://open.spotify.com/track/57Io4RkZ8RyQVMfmhxjBdo?si=vJxq-Y-ERB-XdHaP3lSgKw",
+       "subtitle": "Rootkit",
+       "title": "Fade",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 230400,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1Ij3ZK3bBYiaAHPMbXAFP5",
+       "spotify_url": "https://open.spotify.com/track/1Ij3ZK3bBYiaAHPMbXAFP5?si=sGxJCh9dTKq8INp5NxFfig",
+       "subtitle": "Rome in Silver",
+       "title": "Fool",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 166874,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2H8E73XoNftcw6dD5wfpKG",
+       "spotify_url": "https://open.spotify.com/track/2H8E73XoNftcw6dD5wfpKG?si=RR_fCfnRROGiHvbhqCrvCg",
+       "subtitle": "Jey Vazz, Jaxxtone",
+       "title": "next to you",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 121714,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7pmbkUDdF1bdS6h9OMhsEb",
+       "spotify_url": "https://open.spotify.com/track/7pmbkUDdF1bdS6h9OMhsEb?si=fKYXDWKYSjCeIWIepDlAiA",
+       "subtitle": "MONOWIRE",
+       "title": "PURPLE",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6F0W0gerS4rap9eg7Ecb9d/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Deal"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 224541,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6xV85BMyeEd8caRP57kHkf",
+     "spotify_url": "https://open.spotify.com/track/6xV85BMyeEd8caRP57kHkf?si=AiehLnMlSZyXyWpnyMdPzg",
+     "subtitle": "rrotik, Smalltown DJs",
+     "title": "Do You Want Me",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 209299,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4jnKKSidsD6llLQhauro0N",
+     "spotify_url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N?si=LhstpsfLQye1cqRBfLGX0w",
+     "subtitle": "sumthin sumthin",
+     "title": "Vivid",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 183934,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4st45RmUuo86IbefttwrHa",
+     "spotify_url": "https://open.spotify.com/track/4st45RmUuo86IbefttwrHa?si=AsdC348rRCO7UPtjAkOySg",
+     "subtitle": "Emmit Fenn",
+     "title": "Catwalk",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 139064,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0PsdtLApDW2Uk5ufs9nXy0",
+     "spotify_url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0?si=vIfdViBSQOObgliT3_YEVw",
+     "subtitle": "QUIX, Solesky",
+     "title": "Curry Goat",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 209445,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0tdHittlEah9GOXVRx3CHu",
+     "spotify_url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu?si=_YNUd-1rThuLs3oBM-micw",
+     "subtitle": "Ahadadream, Priya Ragu, Skrillex, Taiki Nulight",
+     "title": "TAKA - Taiki Nulight Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 184888,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1u3SkEgGroT2Kcfnd4v4ON",
+     "spotify_url": "https://open.spotify.com/track/1u3SkEgGroT2Kcfnd4v4ON?si=N-XETnGPQEuTyP7cPoWtxQ",
+     "subtitle": "Ekali, mossy.",
+     "title": "Stay Hollow (with mossy.)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 176000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3AZyW6Bz7paox5xChTqvHp",
+     "spotify_url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp?si=oSxXfwQpSJmWZed5xJkTVQ",
+     "subtitle": "Jauz, Nevve",
+     "title": "Chains",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 247285,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0CotCI8T6xld3zwrNOpKxm",
+     "spotify_url": "https://open.spotify.com/track/0CotCI8T6xld3zwrNOpKxm?si=dQVGEgVwRsGDAO6LkXXDmQ",
+     "subtitle": "Bassnectar, Donnis",
+     "title": "Noise (feat. Donnis)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 169936,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7bg0lafMRl0eTz6eajzVK6",
+     "spotify_url": "https://open.spotify.com/track/7bg0lafMRl0eTz6eajzVK6?si=1sBJygI6RDWHzRv4F8EvlA",
+     "subtitle": "LAWRENCE LEWIS",
+     "title": "LIKE LIGHT",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 194076,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:17WGZkgxe1U2qYpT7wjUQV",
+     "spotify_url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV?si=2dl2oaWbTDWCyGp3oqYoTw",
+     "subtitle": "Matt Faulk",
+     "title": "Ice Cold",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6F0W0gerS4rap9eg7Ecb9d/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6F0W0gerS4rap9eg7Ecb9d/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 177428,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6JIPiaxjoojUMgaZ2dYGUG",
+     "spotify_url": "https://open.spotify.com/track/6JIPiaxjoojUMgaZ2dYGUG?si=SToQhDddQW-lsp9h-EttQA",
+     "subtitle": "M?STIC",
+     "title": "187",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 134400,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:21lk4LSxItVHNNOUOZyWPR",
+     "spotify_url": "https://open.spotify.com/track/21lk4LSxItVHNNOUOZyWPR?si=gMQUqOjWTq2iqOVfdJPz1Q",
+     "subtitle": "Amp Live",
+     "title": "Rolling Down The Street",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 207887,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0w1pczzsvV3CmYY9VlyeoO",
+     "spotify_url": "https://open.spotify.com/track/0w1pczzsvV3CmYY9VlyeoO?si=OEYwsW1mTN2bWcRLIGKgRw",
+     "subtitle": "HerShe, Roto",
+     "title": "DIAMONDS",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 245273,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:34negURT6NVTALh9x2J6ue",
+     "spotify_url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue?si=v_oGmQKESfuxcpXp6diZKQ",
+     "subtitle": "MARTHA",
+     "title": "Vandal",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 153230,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5p9bc20VnBkRtjt6dCgWEg",
+     "spotify_url": "https://open.spotify.com/track/5p9bc20VnBkRtjt6dCgWEg?si=oE6lKKHUQQWwPXWH2SSKKw",
+     "subtitle": "OMNOM, Sven Lochenhoer, Sophiegrophy",
+     "title": "Shake That, Move That (with Sophiegrophy)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 234838,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0uFLeIjkSPV3xH5NKOi0o1",
+     "spotify_url": "https://open.spotify.com/track/0uFLeIjkSPV3xH5NKOi0o1?si=DgxNB6KfRIGULnUmp49Vnw",
+     "subtitle": "SLUMBERJACK, Vera Blue",
+     "title": "Fracture",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 245188,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7bU9pCv3zaUp8Jprqkhc4G",
+     "spotify_url": "https://open.spotify.com/track/7bU9pCv3zaUp8Jprqkhc4G?si=GyUwrQA1SNmVz3-mzY7PlQ",
+     "subtitle": "K+Lab, SAÍGO",
+     "title": "Bettur",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 160714,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5VbLbaB2BRDCrThqQ7WQnL",
+     "spotify_url": "https://open.spotify.com/track/5VbLbaB2BRDCrThqQ7WQnL?si=qm9CFPsqSh2yk5UiKYasPw",
+     "subtitle": "Haasy, Maggi",
+     "title": "Just Friends - Haasy VIP",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 275832,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:09aZFA90eVPFEmuFg1W8cS",
+     "spotify_url": "https://open.spotify.com/track/09aZFA90eVPFEmuFg1W8cS?si=NEyZZx35SR2XXt2SYtzPjg",
+     "subtitle": "Golden Features",
+     "title": "Vigil",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 125418,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1adcQaTVllcf5Hgvarc2is",
+     "spotify_url": "https://open.spotify.com/track/1adcQaTVllcf5Hgvarc2is?si=9igLu2DoTeO_K-eQHI4t4g",
+     "subtitle": "Filthy",
+     "title": "Windfall of Resonance",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6F0W0gerS4rap9eg7Ecb9d/sections/contents/items?offset=20"
+  }
+ ],
+ "track_count": 30
+}

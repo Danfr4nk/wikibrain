@@ -1,0 +1,183 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6hmbjkq4sTrqBFOV8eUu0t",
+  "spotify_url": "https://open.spotify.com/playlist/6hmbjkq4sTrqBFOV8eUu0t?si=SI_HUoMWSlae0sFZHZt5Sw",
+  "subtitle": "",
+  "title": "xxx Free DL xxx",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 224516,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4ExuwHZRURryhwQ08x8uKU",
+       "spotify_url": "https://open.spotify.com/track/4ExuwHZRURryhwQ08x8uKU?si=AH_5asb8S5SzmO9cZ9REqA",
+       "subtitle": "Marten Lou, Rivo",
+       "title": "Technicolor",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 260869,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1hdZ9mlykFzni7k3xPUSYZ",
+       "spotify_url": "https://open.spotify.com/track/1hdZ9mlykFzni7k3xPUSYZ?si=JQVDs-guTXmw605FClA1Lw",
+       "subtitle": "Guau",
+       "title": "Heavy Hitters",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 218823,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0w5PuoCf5Qi4DI1D3IcFIo",
+       "spotify_url": "https://open.spotify.com/track/0w5PuoCf5Qi4DI1D3IcFIo?si=Q4JZql9pROCLJxvJQjEwyQ",
+       "subtitle": "Grandtheft, Smalltown DJs",
+       "title": "Flying",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 284101,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3XDG86sJ0K8Pr6kstpI3db",
+       "spotify_url": "https://open.spotify.com/track/3XDG86sJ0K8Pr6kstpI3db?si=idCwSiB1R-GwrsoZ3bCUEg",
+       "subtitle": "Doctors On Decks, Chris Luno",
+       "title": "The Fog - Chris Luno Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 226986,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1Xex5Fnp0MMyg7yjbfFyyK",
+       "spotify_url": "https://open.spotify.com/track/1Xex5Fnp0MMyg7yjbfFyyK?si=zZnXd8gzTjCd9Cla9bsBbA",
+       "subtitle": "Crystal Castles, Robert Smith",
+       "title": "Not In Love - Radio Version",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 93407,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5BUDqvEil4LlJQ2V8XCoaF",
+       "spotify_url": "https://open.spotify.com/track/5BUDqvEil4LlJQ2V8XCoaF?si=L8wlUtvbS8qXhq-uDCy6wA",
+       "subtitle": "Riad",
+       "title": "miley",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 195428,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1KYaMLrmON0D5LtzDJHC28",
+       "spotify_url": "https://open.spotify.com/track/1KYaMLrmON0D5LtzDJHC28?si=xK0sxTuOQQa3SFOtwy1ZLg",
+       "subtitle": "A-Trak, Tommy Trash, Grandtheft",
+       "title": "Tuna Melt - Grandtheft Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 194142,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:54wQjNf7HIae8K2I9KI58T",
+       "spotify_url": "https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T?si=PMCIToWrSPqYRM0TBDlWoA",
+       "subtitle": "Control Freak",
+       "title": "WE RUN THIS",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 255885,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3oZX3QaZ6mfxlxv3HYOohh",
+       "spotify_url": "https://open.spotify.com/track/3oZX3QaZ6mfxlxv3HYOohh?si=hBTuyCMHTCGfqrhdBMA-zA",
+       "subtitle": "Gilbere Forté",
+       "title": "Polaroids",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 214153,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2NzVDk5VdGkFlsDf8iJJFM",
+       "spotify_url": "https://open.spotify.com/track/2NzVDk5VdGkFlsDf8iJJFM?si=8_Kra0VpRqWI7JKa5ONAwA",
+       "subtitle": "Don Diablo",
+       "title": "Smalltown Boy",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6hmbjkq4sTrqBFOV8eUu0t/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "xxx Free DL xxx"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 84776,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4bG3fAUNSfLYRGnuVl8sMp",
+     "spotify_url": "https://open.spotify.com/track/4bG3fAUNSfLYRGnuVl8sMp?si=Z7pWIfOXQXOc874JlUclLg",
+     "subtitle": "Bready Bandsome",
+     "title": "Free Ddo3️⃣Ⓜ️(Captain Crunch Freestyle)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 241511,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:386P8B1GtXHizvFmZSVbcc",
+     "spotify_url": "https://open.spotify.com/track/386P8B1GtXHizvFmZSVbcc?si=tQFnT060RM6lH1HGnwgTjg",
+     "subtitle": "Grandtheft",
+     "title": "Gangsta Muzik",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6hmbjkq4sTrqBFOV8eUu0t/sections/contents/items?offset=10"
+  }
+ ],
+ "track_count": 12
+}

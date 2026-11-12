@@ -1,0 +1,58 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:0fbFoK2IWjRcKBCcLmNzRq",
+  "spotify_url": "https://open.spotify.com/playlist/0fbFoK2IWjRcKBCcLmNzRq?si=lMb61OS5R1aZ2_Y8BdEnGw",
+  "subtitle": "",
+  "title": "THE PRESTIGE CRATE",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 282812,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3W2ZcrRsInZbjWylOi6KhZ",
+       "spotify_url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ?si=s5KtCkvbReWLg-Yegym69A",
+       "subtitle": "Disclosure, Eliza Doolittle, Flume",
+       "title": "You & Me - Flume Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 246400,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6XUTEtA2ukvI1wjGnFo2yy",
+       "spotify_url": "https://open.spotify.com/track/6XUTEtA2ukvI1wjGnFo2yy?si=hJ26YsbcQsiuRxUY6sYb8A",
+       "subtitle": "Grizzly Bear, Diplo",
+       "title": "Will Calls - Diplo Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "THE PRESTIGE CRATE"
+  }
+ ],
+ "track_count": 2
+}

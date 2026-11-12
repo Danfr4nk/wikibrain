@@ -1,0 +1,46 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:5GcvJA2ioIP7rXvqMykO7k",
+  "spotify_url": "https://open.spotify.com/album/5GcvJA2ioIP7rXvqMykO7k?si=-CU3jv7fTQ20h-Au7x8btQ",
+  "subtitle": "300SkullsAndCounting",
+  "title": "i found the new chill spot, pt. 2",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 76183,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7nSAXQ0d0zG3QMwCO9ib06",
+       "spotify_url": "https://open.spotify.com/track/7nSAXQ0d0zG3QMwCO9ib06?si=cjph1Ox-SRCvECaAxIrG-g",
+       "subtitle": "300SkullsAndCounting",
+       "title": "i found the new chill spot, pt. 2",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "i found the new chill spot, pt. 2"
+  }
+ ],
+ "track_count": 1
+}

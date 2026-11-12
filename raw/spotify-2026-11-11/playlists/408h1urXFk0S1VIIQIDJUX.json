@@ -1,0 +1,81 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:408h1urXFk0S1VIIQIDJUX",
+  "spotify_url": "https://open.spotify.com/playlist/408h1urXFk0S1VIIQIDJUX?si=CcEsY9j6QeCWe_gqGBtxPA",
+  "subtitle": "",
+  "title": "Future Screw Crew Vol.1: Purple Summer [Free DL Via ClubTapes.com]",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 277710,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0FVuyC9RP5MACjp4lgU3qZ",
+       "spotify_url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ?si=mf4MNHilRMSflikeBXYiIw",
+       "subtitle": "Clams Casino, Imogen Heap",
+       "title": "I'm God",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 74461,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:00YOv0m6ECqgoaQoYvE3fr",
+       "spotify_url": "https://open.spotify.com/track/00YOv0m6ECqgoaQoYvE3fr?si=DlfglCXWRSOZ6vQZ3w12Jg",
+       "subtitle": "Sefu Linella",
+       "title": "Body - Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 153241,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:64wmyHnHM3jYBNXN7QGsam",
+       "spotify_url": "https://open.spotify.com/track/64wmyHnHM3jYBNXN7QGsam?si=_1iwYEOGTbyKL6WvpWwRbw",
+       "subtitle": "Camilo Branca",
+       "title": "Future Self",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 206564,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3w4J2cs9Y212TodwC58FaK",
+       "spotify_url": "https://open.spotify.com/track/3w4J2cs9Y212TodwC58FaK?si=D8WiQDZhQ9C_cQrKGYjguw",
+       "subtitle": "Fluxhaven",
+       "title": "Future Frequency",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Future Screw Crew Vol.1: Purple Summer [Free DL Via ClubTapes.com]"
+  }
+ ],
+ "track_count": 4
+}

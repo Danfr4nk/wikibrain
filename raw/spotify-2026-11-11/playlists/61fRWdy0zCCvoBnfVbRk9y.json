@@ -1,0 +1,378 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:61fRWdy0zCCvoBnfVbRk9y",
+  "spotify_url": "https://open.spotify.com/playlist/61fRWdy0zCCvoBnfVbRk9y?si=yGLvBje3RPyX1xTRM6xBog",
+  "subtitle": "",
+  "title": "Xterm",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 220444,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6kNLgs7ioyGMDN027wnKng",
+       "spotify_url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng?si=URFMP5KhSPWnU1Xo6s2Lgw",
+       "subtitle": "Knock2",
+       "title": "sound di alarm",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 182769,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:01ttMtGfWUAvSuMsZSvGIH",
+       "spotify_url": "https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH?si=ngdfkTv9THCjeyUWNmdWYQ",
+       "subtitle": "Odd Mob, FAST BOY",
+       "title": "Super High",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 195840,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:62hqNk13CuFLOpCw1cPMAF",
+       "spotify_url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF?si=95V3V_G2RaGb0ImQuLffQQ",
+       "subtitle": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.., Etienne de Crécy , Grand Theft Auto VI",
+       "title": "Sexy Magic (from GTAVI: The Album)",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 169655,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2wYpjZhsjvNXDy54gM0rLk",
+       "spotify_url": "https://open.spotify.com/track/2wYpjZhsjvNXDy54gM0rLk?si=m-5Udmf8Sdy2up5P2MjJzg",
+       "subtitle": "Koven",
+       "title": "juST to breAThE",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 144843,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3py6ylZiCGaPQa1MWltbTz",
+       "spotify_url": "https://open.spotify.com/track/3py6ylZiCGaPQa1MWltbTz?si=6Zei8fbdTvS3QnSh0zymmA",
+       "subtitle": "HUGEL, Neton Vega",
+       "title": "Mami",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 141885,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:37bpc5BHARugosOjyAqDq2",
+       "spotify_url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2?si=4tvVWnS4SnOJuo7jvznd6Q",
+       "subtitle": "Coi Leray, Diplo",
+       "title": "Nothing Into Something",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 205063,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2tYfPquoioikwqPSIotQAf",
+       "spotify_url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf?si=KtiJpCDmQh-NaI_2c-vO-Q",
+       "subtitle": "Adriatique",
+       "title": "Palm Of Your Hands",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 166270,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:1kLpWLn4PSgKJAQz8X5dl4",
+       "spotify_url": "https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4?si=AQXVWuHpT-2A7ULa9DZv4g",
+       "subtitle": "Chase & Status, Skrillex",
+       "title": "Essa Ta Quente",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 191818,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2naxCYSOhwt1IWZsTNFElk",
+       "spotify_url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk?si=FXR__6_uQaCkyMTDLB7vCg",
+       "subtitle": "Valentino Khan, Datti",
+       "title": "Stimulation",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 267230,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3s92xvGedWuDry9PWcW7k7",
+       "spotify_url": "https://open.spotify.com/track/3s92xvGedWuDry9PWcW7k7?si=wpGHtvNnR_a6D1KZBpL_xQ",
+       "subtitle": "Biscits",
+       "title": "algorhythm",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:61fRWdy0zCCvoBnfVbRk9y/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Xterm"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 199696,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6LMdNshhDtSq5pUSlPjTsE",
+     "spotify_url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE?si=WqulbV1fRZGgsqQed-tsxw",
+     "subtitle": "Slayyyter",
+     "title": "crank 2",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 154285,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3c3U56j8F1rb6yt3kKe40J",
+     "spotify_url": "https://open.spotify.com/track/3c3U56j8F1rb6yt3kKe40J?si=zs4UiqfKTKaWPQ6LgrS1Tg",
+     "subtitle": "HerShe, Bass Ventura",
+     "title": "MAXIMUM SHELLA",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 217714,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0T7T8wnGrWKyhTUf8yWHmh",
+     "spotify_url": "https://open.spotify.com/track/0T7T8wnGrWKyhTUf8yWHmh?si=BQ0ppyiHQCqv9Fu6qGJa_A",
+     "subtitle": "Partiboi69, Habstrakt",
+     "title": "Losing Control",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 164224,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6c43cKnG5XEa9BYxoEhfJE",
+     "spotify_url": "https://open.spotify.com/track/6c43cKnG5XEa9BYxoEhfJE?si=JbAN6aqnQmOWCDuvs9dyIw",
+     "subtitle": "AC Slater",
+     "title": "Work Your Body",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 197133,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6ukoKgaAueZa5CSMxpJTqp",
+     "spotify_url": "https://open.spotify.com/track/6ukoKgaAueZa5CSMxpJTqp?si=zL1z653yTp6Hb7W9zDGJ6g",
+     "subtitle": "K.Flay",
+     "title": "Ants",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202693,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4pjbDOtfSjUR3qKWQrgAqT",
+     "spotify_url": "https://open.spotify.com/track/4pjbDOtfSjUR3qKWQrgAqT?si=ZWgn_NqeT7awaGwxgmvOhA",
+     "subtitle": "jigitz, Charlotte Plank",
+     "title": "makeup sex",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226285,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6yyVwtzuKV7ZPxLz60Wxp4",
+     "spotify_url": "https://open.spotify.com/track/6yyVwtzuKV7ZPxLz60Wxp4?si=VTIA5-IwRIqn39m1zgpL9w",
+     "subtitle": "Tape B, Effin",
+     "title": "I'll Never Know",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 186000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3bDW6K1DGiIqWlvLoPxDMN",
+     "spotify_url": "https://open.spotify.com/track/3bDW6K1DGiIqWlvLoPxDMN?si=PyzbrZj9QE290HMukb300w",
+     "subtitle": "Jon Casey, Angrybaby",
+     "title": "CLENCH MY FIST (Jon Casey VIP)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 179074,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6qHO2D1ZEvpSiHNnfclRAa",
+     "spotify_url": "https://open.spotify.com/track/6qHO2D1ZEvpSiHNnfclRAa?si=rejQfaQ9Qc-8zru9jrd7kQ",
+     "subtitle": "Don Diablo, A$AP Ferg",
+     "title": "Plain Jane",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 169384,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0ckYQwxryH6ahhOYuzCoiF",
+     "spotify_url": "https://open.spotify.com/track/0ckYQwxryH6ahhOYuzCoiF?si=6d-QXFotRjSaghG9p4YIrw",
+     "subtitle": "Westend, Twin Diplomacy",
+     "title": "Sensational",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:61fRWdy0zCCvoBnfVbRk9y/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:61fRWdy0zCCvoBnfVbRk9y/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 138666,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1ws9HNQVmC84LcyG2pfIhH",
+     "spotify_url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH?si=UFImV8p1S4Wf8RWS0oT3vQ",
+     "subtitle": "AVELLO, Abi Flynn",
+     "title": "in my dreams",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 185142,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:71xrBs59anFCJGkmMleMpM",
+     "spotify_url": "https://open.spotify.com/track/71xrBs59anFCJGkmMleMpM?si=SvI0BokUQ0ujHLIaEa1PvQ",
+     "subtitle": "Gryffin, AVELLO, Phrva, Sasha Alex Sloan",
+     "title": "Without You - Phrva Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 229714,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4eMuPLoETMcowDdFERoJcq",
+     "spotify_url": "https://open.spotify.com/track/4eMuPLoETMcowDdFERoJcq?si=6MLJ-DPhQm2QX4dhJpq1QA",
+     "subtitle": "CØNTRA, Chef Boyarbeatz",
+     "title": "No Worries if Not",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 286666,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3GLbxyOPtaAoLTJR0mIK32",
+     "spotify_url": "https://open.spotify.com/track/3GLbxyOPtaAoLTJR0mIK32?si=fi-5P1GASwaiL9bxdcl-zw",
+     "subtitle": "Ashez, Chmura",
+     "title": "Say Nothing",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 159634,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1JGsdh4feCHUHWRrzaH9Bp",
+     "spotify_url": "https://open.spotify.com/track/1JGsdh4feCHUHWRrzaH9Bp?si=3FRPhRQcQ7mokOnLxfJaug",
+     "subtitle": "Moceans, moez",
+     "title": "With U (feat. moez)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 153083,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2zOk9axSPQeU5Dshj8GUO0",
+     "spotify_url": "https://open.spotify.com/track/2zOk9axSPQeU5Dshj8GUO0?si=X2zCwJLHTmyElmIwSF7DoQ",
+     "subtitle": "CID, Taylr Renee",
+     "title": "1800",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 204342,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1GAFotCDNRPqC4PgpG20Fo",
+     "spotify_url": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo?si=SBr_0zmmTCSfoBnQqqNhqQ",
+     "subtitle": "Primate, Nersha",
+     "title": "Gravity",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 205454,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:30QbRQyKtBmYGLhBPc1LFE",
+     "spotify_url": "https://open.spotify.com/track/30QbRQyKtBmYGLhBPc1LFE?si=WLnSS_oITE2C9qYzKBYuhA",
+     "subtitle": "Devault",
+     "title": "Keep Your Body Pumpin'",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 157714,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:60aHIkvrdPwvba2bq7Ggxr",
+     "spotify_url": "https://open.spotify.com/track/60aHIkvrdPwvba2bq7Ggxr?si=oBHBL-onQIWG2i1y9I67Uw",
+     "subtitle": "ERBES",
+     "title": "So Bad",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:61fRWdy0zCCvoBnfVbRk9y/sections/contents/items?offset=20"
+  }
+ ],
+ "track_count": 29
+}

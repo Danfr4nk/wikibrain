@@ -1,0 +1,68 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:2j6h4rRjkdcdJpiNzIe2so",
+  "spotify_url": "https://open.spotify.com/album/2j6h4rRjkdcdJpiNzIe2so?si=L99p7-5LSXi6qTaz-8V8Yw",
+  "subtitle": "Bass Mode",
+  "title": "I Got You",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 123809,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4J1qv8K0ZjUmK5GbbkRCY0",
+       "spotify_url": "https://open.spotify.com/track/4J1qv8K0ZjUmK5GbbkRCY0?si=pD01Jdw1SWeZqZyJNuX78w",
+       "subtitle": "Bass Mode",
+       "title": "I Got You",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 111428,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2rXculCsW9IcGY6fjT5eU1",
+       "spotify_url": "https://open.spotify.com/track/2rXculCsW9IcGY6fjT5eU1?si=JpX51ZcJR5OtzTges81ung",
+       "subtitle": "Bass Mode",
+       "title": "I Got You - Sped Up",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 141818,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5qqkDRnYesETzFgWFSpzaW",
+       "spotify_url": "https://open.spotify.com/track/5qqkDRnYesETzFgWFSpzaW?si=a1tgWlg4RFOEXR_hELN-1w",
+       "subtitle": "Bass Mode",
+       "title": "I Got You - Slowed",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "I Got You"
+  }
+ ],
+ "track_count": 3
+}

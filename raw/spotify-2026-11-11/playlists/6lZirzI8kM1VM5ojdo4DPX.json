@@ -1,0 +1,126 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6lZirzI8kM1VM5ojdo4DPX",
+  "spotify_url": "https://open.spotify.com/playlist/6lZirzI8kM1VM5ojdo4DPX?si=DsnQGsWnQ9mjKhUiOvYE-w",
+  "subtitle": "",
+  "title": "SLØPPP REMIXES",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 284444,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5adUFm4TGGUMBzmbWsIqXf",
+       "spotify_url": "https://open.spotify.com/track/5adUFm4TGGUMBzmbWsIqXf?si=3cxytmv4T7SLgGMhDu4qIQ",
+       "subtitle": "Zeds Dead, Memorecks",
+       "title": "Collapse",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 215672,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5jrdCoLpJSvHHorevXBATy",
+       "spotify_url": "https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy?si=dCTNCytIRtS8B_v37DAIew",
+       "subtitle": "Katy Perry, Juicy J",
+       "title": "Dark Horse",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 90184,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6HZL4Qd1wpjBCeM9EYfAOp",
+       "spotify_url": "https://open.spotify.com/track/6HZL4Qd1wpjBCeM9EYfAOp?si=AN2v-vkYQ42JIrFwcXM_iw",
+       "subtitle": "ASTRXLX",
+       "title": "Gladiator Grind",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 284571,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0P2ocV35z76ICOZkVK12mU",
+       "spotify_url": "https://open.spotify.com/track/0P2ocV35z76ICOZkVK12mU?si=0rO1X-mtSliQWATzMSE9pw",
+       "subtitle": "Herobust",
+       "title": "Get Busted",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 277500,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:20mVPqCCZXPYgOIBpvt4aL",
+       "spotify_url": "https://open.spotify.com/track/20mVPqCCZXPYgOIBpvt4aL?si=4cJehJ00Sby5pRbGt0GCNw",
+       "subtitle": "Caked Up",
+       "title": "Bang Your Head",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 190154,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3oQcLTeM9dG7Yg3PaVv8rG",
+       "spotify_url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG?si=b-wJ1BJRT_2lFJ2LLw0Q7w",
+       "subtitle": "Above & Beyond",
+       "title": "Major Drop",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 237826,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:4Ox97hNeJSWFCZ8vp76vog",
+       "spotify_url": "https://open.spotify.com/track/4Ox97hNeJSWFCZ8vp76vog?si=kfP8dndsSnu5L8HK6MK6dg",
+       "subtitle": "2 Chainz, Drake",
+       "title": "No Lie",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 109727,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2q1o8E9edYiQrXKAzlx3yu",
+       "spotify_url": "https://open.spotify.com/track/2q1o8E9edYiQrXKAzlx3yu?si=IsGMh7xeSWy0-Pcs36Wl6g",
+       "subtitle": "Ziahfyah, Indo2x",
+       "title": "GOOD LOVING #jerseyclub",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "SLØPPP REMIXES"
+  }
+ ],
+ "track_count": 8
+}

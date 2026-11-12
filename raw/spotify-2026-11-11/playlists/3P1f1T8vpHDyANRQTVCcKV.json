@@ -1,0 +1,70 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:3P1f1T8vpHDyANRQTVCcKV",
+  "spotify_url": "https://open.spotify.com/playlist/3P1f1T8vpHDyANRQTVCcKV?si=Fam_hMmwQcOvhXAdRyiTOA",
+  "subtitle": "128ish BPM",
+  "title": "HOUSE - CAKEHORN VIP CRATE",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 271219,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2XjPFBHDIKXNRzB1QrEhpP",
+       "spotify_url": "https://open.spotify.com/track/2XjPFBHDIKXNRzB1QrEhpP?si=PKEoYkceQhajyGWbNTizJw",
+       "subtitle": "Malaa",
+       "title": "Notorious",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 207292,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7hU38LHqMSPFrvoqADFJp4",
+       "spotify_url": "https://open.spotify.com/track/7hU38LHqMSPFrvoqADFJp4?si=wXKd4pt4Q5idWvXFIRRJSw",
+       "subtitle": "Skrillex, Habstrakt",
+       "title": "Chicken Soup",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 278400,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:26xlCgHpcF4GE0FFVsS6Oy",
+       "spotify_url": "https://open.spotify.com/track/26xlCgHpcF4GE0FFVsS6Oy?si=fnE-_SoaQCWY5Ws6TUnnmg",
+       "subtitle": "AC Slater, Chris Lorenzo, Wax Motif",
+       "title": "Fly Kicks - Wax Motif Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "HOUSE - CAKEHORN VIP CRATE"
+  }
+ ],
+ "track_count": 3
+}

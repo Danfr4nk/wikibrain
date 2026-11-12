@@ -1,0 +1,288 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:3jA3kDXflLfVx04u6W3iyv",
+  "spotify_url": "https://open.spotify.com/playlist/3jA3kDXflLfVx04u6W3iyv?si=Yz40q770TEqBw_Lh5IDAYw",
+  "subtitle": "",
+  "title": "Sep 2011",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 256623,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0agOsA6ua6TZ9YtRem2qs4",
+       "spotify_url": "https://open.spotify.com/track/0agOsA6ua6TZ9YtRem2qs4?si=ISFnroxzR32JghnqD39EBQ",
+       "subtitle": "Jack's Mannequin",
+       "title": "My Racing Thoughts",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 243021,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:602yOjjco8BtdznV8wRb41",
+       "spotify_url": "https://open.spotify.com/track/602yOjjco8BtdznV8wRb41?si=Z06tEnFpTw2aYpQ6896wvA",
+       "subtitle": "M83",
+       "title": "Midnight City",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 140493,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5Og9VyCOfxmZCuv1UhIyxE",
+       "spotify_url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE?si=3G4675EeQjSwu7oY_05Ccw",
+       "subtitle": "Black Flag",
+       "title": "Six Pack",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 302113,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6KphstrCdfOz54bM0RKFCq",
+       "spotify_url": "https://open.spotify.com/track/6KphstrCdfOz54bM0RKFCq?si=VQKFk79YQIS4M1CScan4mA",
+       "subtitle": "Wavves",
+       "title": "I Wanna Meet Dave Grohl",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 314666,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2EJTpgOBRvSIJ5XWwBP20o",
+       "spotify_url": "https://open.spotify.com/track/2EJTpgOBRvSIJ5XWwBP20o?si=m7T9835dRaKQYpNrv4S-xQ",
+       "subtitle": "Jets To Brazil",
+       "title": "Sweet Avenue",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 225693,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0PJ2ekwe6MMPtMXasNmK7u",
+       "spotify_url": "https://open.spotify.com/track/0PJ2ekwe6MMPtMXasNmK7u?si=w7jr3mOER8e0bV9fqAGSJQ",
+       "subtitle": "Handsome Furs",
+       "title": "Memories of the Future",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 172960,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0OLyp6n6yMwIzzlubXDrsK",
+       "spotify_url": "https://open.spotify.com/track/0OLyp6n6yMwIzzlubXDrsK?si=CPeH1hzLSyGlbom3Edm50A",
+       "subtitle": "Cults",
+       "title": "Abducted",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 198400,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:54VjRUQSCkCgtmmbQsi3y4",
+       "spotify_url": "https://open.spotify.com/track/54VjRUQSCkCgtmmbQsi3y4?si=_8TfYgyQRRCUvmrz1xWDVg",
+       "subtitle": "Jay Reatard",
+       "title": "My Shadow",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 206826,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7afgVilItdKuPZYlL2dWpM",
+       "spotify_url": "https://open.spotify.com/track/7afgVilItdKuPZYlL2dWpM?si=wugFGHxUT6aQeyyhWaKU5w",
+       "subtitle": "Flobots",
+       "title": "Handlebars",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 282810,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7dliC7d9P1S2TXeBaLG8ZY",
+       "spotify_url": "https://open.spotify.com/track/7dliC7d9P1S2TXeBaLG8ZY?si=8Mo_k5JHQdSC5jgM4Etk2Q",
+       "subtitle": "Handsome Furs",
+       "title": "When I Get Back",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3jA3kDXflLfVx04u6W3iyv/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Sep 2011"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 310066,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5KZpeVAA2m8MzrlvEqw7FS",
+     "spotify_url": "https://open.spotify.com/track/5KZpeVAA2m8MzrlvEqw7FS?si=Pyp8PtwsR4eaR0WX4wnhWA",
+     "subtitle": "Wings",
+     "title": "Let 'Em In",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 170773,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6Bhpt42jgn4nHRuGBN7H5f",
+     "spotify_url": "https://open.spotify.com/track/6Bhpt42jgn4nHRuGBN7H5f?si=EOLupkHeTHimt_cKqZOtzQ",
+     "subtitle": "Jedi Mind Tricks, Ras Kass",
+     "title": "Rise Of The Machines",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 219346,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4Cavh4L7Y5JVBFxLXvpy2o",
+     "spotify_url": "https://open.spotify.com/track/4Cavh4L7Y5JVBFxLXvpy2o?si=CLtndFMHRrCY5lgqvP8rMw",
+     "subtitle": "Mates of State",
+     "title": "The Kissaway",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 282810,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7dliC7d9P1S2TXeBaLG8ZY",
+     "spotify_url": "https://open.spotify.com/track/7dliC7d9P1S2TXeBaLG8ZY?si=JOBYt42BThiJK7f56IYrzw",
+     "subtitle": "Handsome Furs",
+     "title": "When I Get Back",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 285040,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7eNIKoSbBOizqIuY92c5DA",
+     "spotify_url": "https://open.spotify.com/track/7eNIKoSbBOizqIuY92c5DA?si=56XV2w4SQLOgeRpt1Q4HrA",
+     "subtitle": "The Blood Brothers",
+     "title": "Every Breath Is A Bomb",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 255613,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5Q7vla0EpIHVcEL9SuE0Ka",
+     "spotify_url": "https://open.spotify.com/track/5Q7vla0EpIHVcEL9SuE0Ka?si=HuVEzxQkTmKu40O-0ntfaw",
+     "subtitle": "of Montreal",
+     "title": "Wraith Pinned To The Mist And Other Games",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 276613,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6RykHdc2JWXV6T3S8fpbV3",
+     "spotify_url": "https://open.spotify.com/track/6RykHdc2JWXV6T3S8fpbV3?si=8oLH5b3OSYuJk9oPHX3atQ",
+     "subtitle": "Wolf Parade",
+     "title": "I'll Believe In Anything",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 251680,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1SJLlIf5ysToitpOQLzi81",
+     "spotify_url": "https://open.spotify.com/track/1SJLlIf5ysToitpOQLzi81?si=wGloL-l4SdyJ9jz6UQvHWQ",
+     "subtitle": "Tune-Yards",
+     "title": "Gangsta (Cut Chemist Remix)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 300301,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4pld3u5X1kPCzU3U0xhNWS",
+     "spotify_url": "https://open.spotify.com/track/4pld3u5X1kPCzU3U0xhNWS?si=yJWuEEYiTdyVGhR67gk__A",
+     "subtitle": "Radiohead",
+     "title": "Lotus Flower",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 243353,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4rwpZEcnalkuhPyGkEdhu0",
+     "spotify_url": "https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0?si=7PZlSl0RQ4KJHWAletd81A",
+     "subtitle": "Skrillex",
+     "title": "Scary Monsters and Nice Sprites",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3jA3kDXflLfVx04u6W3iyv/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3jA3kDXflLfVx04u6W3iyv/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 234600,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3ATfsEiBwoNVSq1JPDNwcb",
+     "spotify_url": "https://open.spotify.com/track/3ATfsEiBwoNVSq1JPDNwcb?si=sa1cwEQlQBmakhWPKseucg",
+     "subtitle": "Metric",
+     "title": "Gimme Sympathy",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3jA3kDXflLfVx04u6W3iyv/sections/contents/items?offset=20"
+  }
+ ],
+ "track_count": 21
+}

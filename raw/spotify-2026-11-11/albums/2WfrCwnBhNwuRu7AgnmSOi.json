@@ -1,0 +1,57 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:2WfrCwnBhNwuRu7AgnmSOi",
+  "spotify_url": "https://open.spotify.com/album/2WfrCwnBhNwuRu7AgnmSOi?si=HKJjHnyDRQqS1iQN8N_Gtg",
+  "subtitle": "K3YN0T3, T3CHN0T3, J3RY",
+  "title": "Sleepless Dream",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 155807,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1Xhez7Yk36ReoyHU1OocgJ",
+       "spotify_url": "https://open.spotify.com/track/1Xhez7Yk36ReoyHU1OocgJ?si=uIwHUEINSpCCo6AnCZx9xQ",
+       "subtitle": "K3YN0T3, T3CHN0T3, J3RY",
+       "title": "Sleepless Dream",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 210021,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6FE8Rn7oJB5MnbIG53hxdG",
+       "spotify_url": "https://open.spotify.com/track/6FE8Rn7oJB5MnbIG53hxdG?si=7yfuuIs4Q8W6Jn4Wa3rmRA",
+       "subtitle": "K3YN0T3, T3CHN0T3, J3RY",
+       "title": "Sleepless Dream - Extended Mix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Sleepless Dream"
+  }
+ ],
+ "track_count": 2
+}

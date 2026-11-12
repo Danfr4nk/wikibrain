@@ -1,0 +1,90 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:75j4E3164w6FWVoRH3Ygdg",
+  "spotify_url": "https://open.spotify.com/album/75j4E3164w6FWVoRH3Ygdg?si=uzkjYV4-ScKtz9bFuiu4AQ",
+  "subtitle": "MONOWIRE",
+  "title": "SUGAR EP",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 108500,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6L2Z5xaZ5zDYI5CCb2L2UY",
+       "spotify_url": "https://open.spotify.com/track/6L2Z5xaZ5zDYI5CCb2L2UY?si=ELgenGFTTw2EgVFtl0TFUQ",
+       "subtitle": "MONOWIRE",
+       "title": "SUGAR",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 121714,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7pmbkUDdF1bdS6h9OMhsEb",
+       "spotify_url": "https://open.spotify.com/track/7pmbkUDdF1bdS6h9OMhsEb?si=bfgGsrbzSvW0nf1-upa_QA",
+       "subtitle": "MONOWIRE",
+       "title": "PURPLE",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 113142,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2CUbLSuOAwAvuXFoN4yYlR",
+       "spotify_url": "https://open.spotify.com/track/2CUbLSuOAwAvuXFoN4yYlR?si=41g1x62TS9GZ4cG2jZxodg",
+       "subtitle": "MONOWIRE",
+       "title": "WOWIE",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 113142,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2yr1iRLY2HvN662BsfggSN",
+       "spotify_url": "https://open.spotify.com/track/2yr1iRLY2HvN662BsfggSN?si=E9DMiMNwR8eDL_AniUHH-Q",
+       "subtitle": "MONOWIRE",
+       "title": "FROG STOMP",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 132000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3rKiCe5gCMGBw97uL6NVk4",
+       "spotify_url": "https://open.spotify.com/track/3rKiCe5gCMGBw97uL6NVk4?si=pzYvOWMsR3W9intfqveB8Q",
+       "subtitle": "MONOWIRE",
+       "title": "DUBSTEP CHARCUTERIE",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "SUGAR EP"
+  }
+ ],
+ "track_count": 5
+}

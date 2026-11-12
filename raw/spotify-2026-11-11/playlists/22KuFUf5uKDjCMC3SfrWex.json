@@ -1,0 +1,46 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:22KuFUf5uKDjCMC3SfrWex",
+  "spotify_url": "https://open.spotify.com/playlist/22KuFUf5uKDjCMC3SfrWex?si=b5I1bqZPRFWmiFp2WVaJWw",
+  "subtitle": "",
+  "title": "666TRVP666  - CAKEHORN VIP CRATE",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 240000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5rzHkSHRyZUdQcCX6noFDB",
+       "spotify_url": "https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB?si=UKo4iXHnT6eMcIjyPLrMHQ",
+       "subtitle": "ISOxo, Knock2, RL Grime, ISOKNOCK",
+       "title": "SMACK TALK",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "666TRVP666  - CAKEHORN VIP CRATE"
+  }
+ ],
+ "track_count": 1
+}

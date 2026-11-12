@@ -1,0 +1,4215 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6Fc1FRckZqBe7kduUSeBV3",
+  "spotify_url": "https://open.spotify.com/playlist/6Fc1FRckZqBe7kduUSeBV3?si=uROCvyK3S2mUYgt5OaRnKA",
+  "subtitle": "GOOD TRACK CRATE",
+  "title": "D̴̙̤̩͑̕͝Ä̸̘͍͎́͌N̸̢̝͕̍̐ ̴̛̤͈̻̿͌F̷̰̍R̵͇͉͓͂̎Ä̶̮̼́͂͊͠N̸̲͉̖̑̿̚͝K̷̡̜̼̈́ ̸̝́͋̋̿M̷͎͎̅̓̍̍A̴̛͓̓̾̚S̶͎̤̗̅Ṯ̶̔́ͅE̷̠͐́R̷̦̃L̷͇͒Ḯ̴͕̤̈́̿S̶̬̾̐͌T̴̡̻͑̍̿ ̶̛̱̙͐̈́͊V̴̳̔́͘I̸̩̖̖̎͌͒P̸͎͍̤͐̐̾͝ ̵̨̠̓C̷̦̅͑͆͘R̶̍̋͛ͅĀ̶͎̫̯̈́͗͘T̶̞͉̟́̓E̵̼͎̰͛",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 270800,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:4dmh3OPtAhbEybhGoOG9TE",
+       "spotify_url": "https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE?si=8ULLn11STrS9rvBAv3Pjyw",
+       "subtitle": "GZA",
+       "title": "Liquid Swords",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 331333,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5bucc34poGOBnycWgSqHev",
+       "spotify_url": "https://open.spotify.com/track/5bucc34poGOBnycWgSqHev?si=RphgK_TRQ86uRrVcIsqKBg",
+       "subtitle": "Atmosphere",
+       "title": "F'@k You Lucy",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 356832,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:09avKKLKXaJcbeaGTmLCOs",
+       "spotify_url": "https://open.spotify.com/track/09avKKLKXaJcbeaGTmLCOs?si=QpIeXNnnQLKcsomLo2dlVQ",
+       "subtitle": "Ab-Soul",
+       "title": "D.R.U.G.S.",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 329320,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:4qikXelSRKvoCqFcHLB2H2",
+       "spotify_url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2?si=YW7IACqBRfCZELAAI-aUrg",
+       "subtitle": "Kanye West, Big Sean, Pusha T, 2 Chainz",
+       "title": "Mercy",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 214066,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:2HoDr1yVksl19omOhc1zWy",
+       "spotify_url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy?si=18Yq4S32Q_m7GN2VXxF8cg",
+       "subtitle": "Dead Prez",
+       "title": "Hip-Hop",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 182800,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7N1Z5IAGMEWXZcxfpFt87k",
+       "spotify_url": "https://open.spotify.com/track/7N1Z5IAGMEWXZcxfpFt87k?si=iDEHpg5tRECBddjFIHqbGQ",
+       "subtitle": "Madvillain, Madlib, MF DOOM",
+       "title": "Money Folder",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 371019,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:4mrR64jwacrmiZluhBelDB",
+       "spotify_url": "https://open.spotify.com/track/4mrR64jwacrmiZluhBelDB?si=BrUoLcQSQeClA_lTA8t2lA",
+       "subtitle": "Outkast",
+       "title": "Chonkyfire",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 161400,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3ABG1UQTk0eLYUAeWkmfMi",
+       "spotify_url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi?si=Ft2To7xWQ66_cw4KEC3lRw",
+       "subtitle": "Ol' Dirty Bastard",
+       "title": "Shimmy Shimmy Ya",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 333293,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5RjbFGeWVsCpw8EcE8OrvZ",
+       "spotify_url": "https://open.spotify.com/track/5RjbFGeWVsCpw8EcE8OrvZ?si=1jQSM9YQSZyuPR8dtGhnLg",
+       "subtitle": "Kanye West, Consequence, Cam'ron",
+       "title": "Gone",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 312933,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1R6nmC4HUGOGSKU02Wqa0v",
+       "spotify_url": "https://open.spotify.com/track/1R6nmC4HUGOGSKU02Wqa0v?si=-XRuUtyjRHCG2syIS3wFVg",
+       "subtitle": "Lupe Fiasco",
+       "title": "The Coolest",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "D̴̙̤̩͑̕͝Ä̸̘͍͎́͌N̸̢̝͕̍̐ ̴̛̤͈̻̿͌F̷̰̍R̵͇͉͓͂̎Ä̶̮̼́͂͊͠N̸̲͉̖̑̿̚͝K̷̡̜̼̈́ ̸̝́͋̋̿M̷͎͎̅̓̍̍A̴̛͓̓̾̚S̶͎̤̗̅Ṯ̶̔́ͅE̷̠͐́R̷̦̃L̷͇͒Ḯ̴͕̤̈́̿S̶̬̾̐͌T̴̡̻͑̍̿ ̶̛̱̙͐̈́͊V̴̳̔́͘I̸̩̖̖̎͌͒P̸͎͍̤͐̐̾͝ ̵̨̠̓C̷̦̅͑͆͘R̶̍̋͛ͅĀ̶͎̫̯̈́͗͘T̶̞͉̟́̓E̵̼͎̰͛"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 194453,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0Qk949NHy8yYcAZFfvBzn2",
+     "spotify_url": "https://open.spotify.com/track/0Qk949NHy8yYcAZFfvBzn2?si=aawYldamRLe8tps0d-heRA",
+     "subtitle": "Atmosphere",
+     "title": "You",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 293840,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1h6kgem1ai8vUgO1rZOwfB",
+     "spotify_url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB?si=Q1YtoE1bR-OJmUQVKDiGnQ",
+     "subtitle": "Chief Keef, Lil Reese",
+     "title": "I Don't Like",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 300000,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0gpFiquPvir7e3RrM4kii9",
+     "spotify_url": "https://open.spotify.com/track/0gpFiquPvir7e3RrM4kii9?si=EiYiru1nTn6lVz9cIqd9sQ",
+     "subtitle": "Keith Ape, A$AP Ferg, Father, Dumbfoundead, Waka Flocka Flame",
+     "title": "IT G MA REMIX (feat. A$AP Ferg, Father, Dumbfoundead, Waka Flocka Flame)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 313573,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2yJ9GVCLMmzBBfQAnfzlwr",
+     "spotify_url": "https://open.spotify.com/track/2yJ9GVCLMmzBBfQAnfzlwr?si=TmbJWdaxQ567CcmrBoEU7g",
+     "subtitle": "ScHoolboy Q, Kanye West",
+     "title": "THat Part",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 214306,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0uMn8WKu3qtQLaUyal1bsz",
+     "spotify_url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz?si=lfDgqWH0Tj-bhcbdz3mY6g",
+     "subtitle": "Deltron 3030, Del The Funky Homosapien, Dan The Automator, Kid Koala",
+     "title": "Mastermind",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 146746,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1Z7qnPAL1RwerFirINUR4w",
+     "spotify_url": "https://open.spotify.com/track/1Z7qnPAL1RwerFirINUR4w?si=CwXi2vBBTjKQqQMOGNbPvw",
+     "subtitle": "Riff Raff",
+     "title": "Orions Belt",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 232866,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4vqzjztjulHDhcbJmSjWkY",
+     "spotify_url": "https://open.spotify.com/track/4vqzjztjulHDhcbJmSjWkY?si=WP9Ir89vRq6rVKo0V0XiKA",
+     "subtitle": "Mistah F.A.B.",
+     "title": "Ghost Ride IT",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 261853,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6UgxOrbHWJeqHvh0ost7Aa",
+     "spotify_url": "https://open.spotify.com/track/6UgxOrbHWJeqHvh0ost7Aa?si=62KeC78zQ1mRx_fY0zcjHA",
+     "subtitle": "Drake, Sampha",
+     "title": "Too Much",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 239573,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2JI71GHwq2LN8mtq3iCLYo",
+     "spotify_url": "https://open.spotify.com/track/2JI71GHwq2LN8mtq3iCLYo?si=M6agKnDiRxyD1zonpIP3pA",
+     "subtitle": "O.T. Genasis",
+     "title": "CoCo",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 237826,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6j9iyrrmqWlQZ5SD1hSTaq",
+     "spotify_url": "https://open.spotify.com/track/6j9iyrrmqWlQZ5SD1hSTaq?si=7htUWFPNQq6Zomx7tHnJEw",
+     "subtitle": "2 Chainz, Drake",
+     "title": "No Lie",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 236840,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6mlGXuG5FmzcePHsMn6rIA",
+     "spotify_url": "https://open.spotify.com/track/6mlGXuG5FmzcePHsMn6rIA?si=_A_9ci6rSXq1gsqpJaBayw",
+     "subtitle": "Die Antwoord",
+     "title": "Baby's On Fire",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 251653,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2QloUyCqK1enErCSmUniNu",
+     "spotify_url": "https://open.spotify.com/track/2QloUyCqK1enErCSmUniNu?si=pRf2q2HxSMqDMhrfDkPpow",
+     "subtitle": "Tyler, The Creator",
+     "title": "Yonkers",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 221786,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3vnk9AsovxewWkXdPLZQEW",
+     "spotify_url": "https://open.spotify.com/track/3vnk9AsovxewWkXdPLZQEW?si=xt_Sy-QEQ5mvtwTmtQRp8g",
+     "subtitle": "Atmosphere, Slug, Ant",
+     "title": "Puppets",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 252613,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6js4GbrJjNU0Kp5ipDQ9vc",
+     "spotify_url": "https://open.spotify.com/track/6js4GbrJjNU0Kp5ipDQ9vc?si=kNJNuxJ6QHKHeraX4w3hoA",
+     "subtitle": "Geto Boys",
+     "title": "G Code",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 232093,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7mlhOgD7MObyiXqcCGwCKa",
+     "spotify_url": "https://open.spotify.com/track/7mlhOgD7MObyiXqcCGwCKa?si=1bUDdKTVTP2YqJTIWTnRWw",
+     "subtitle": "R.A. The Rugged Man",
+     "title": "Lessons",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 203000,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5xllEWq8rUH9s8H0p6WiAw",
+     "spotify_url": "https://open.spotify.com/track/5xllEWq8rUH9s8H0p6WiAw?si=_4A7hknQSxCiYAkvn0B01g",
+     "subtitle": "Young Buck",
+     "title": "Got 5 On It",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 276000,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:613KmeuXIuqBM0plNinzUh",
+     "spotify_url": "https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh?si=CXnrtqr5TOGTem-xYXGFNg",
+     "subtitle": "Lil B",
+     "title": "I'm God",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 256093,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4cAgkb0ifwn0FSHGXnr4F6",
+     "spotify_url": "https://open.spotify.com/track/4cAgkb0ifwn0FSHGXnr4F6?si=tCerg38iSXi8GzPkBEve7g",
+     "subtitle": "Kanye West",
+     "title": "New Slaves",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 183586,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6ohrNpsMNhDnEEku38CB2K",
+     "spotify_url": "https://open.spotify.com/track/6ohrNpsMNhDnEEku38CB2K?si=f_SBm37tTHWQso-c1trk-Q",
+     "subtitle": "Vince Staples",
+     "title": "Norf Norf",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 249973,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7aOHJPPIzSAOlz3vhikB0Q",
+     "spotify_url": "https://open.spotify.com/track/7aOHJPPIzSAOlz3vhikB0Q?si=ak-ejoZuTfaSbq5I7bvUwg",
+     "subtitle": "Killer Mike",
+     "title": "Reagan",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=30",
+   "next_offset": 30,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=20"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 289586,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2JPavCWYtpCSnyLwnLBvXZ",
+     "spotify_url": "https://open.spotify.com/track/2JPavCWYtpCSnyLwnLBvXZ?si=2HnVFoiGQDKXQk91Xt8JfQ",
+     "subtitle": "A$AP Rocky",
+     "title": "Long Live A$AP",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 310203,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1zOtStOZd9nvnFiRM5Namm",
+     "spotify_url": "https://open.spotify.com/track/1zOtStOZd9nvnFiRM5Namm?si=fplVVPmwTDm9BvcTchgLXw",
+     "subtitle": "Dj Smokey",
+     "title": "Salute 2 el Chapo",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 234613,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7hakCyC6VG1kZPkBGrFqVI",
+     "spotify_url": "https://open.spotify.com/track/7hakCyC6VG1kZPkBGrFqVI?si=4RWQ3QHBRsGQBIOsN5eUnQ",
+     "subtitle": "Plies",
+     "title": "Plenty Money",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 187000,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4Tb8qX7tYoldJtS3djYGks",
+     "spotify_url": "https://open.spotify.com/track/4Tb8qX7tYoldJtS3djYGks?si=55Y0S3trSIaYGLuUAfaQJA",
+     "subtitle": "Lil Debbie",
+     "title": "F That",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 201253,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6gDBKJ69zXvz3JSqcHlKN4",
+     "spotify_url": "https://open.spotify.com/track/6gDBKJ69zXvz3JSqcHlKN4?si=ZCPrGrBNQzKdBIBEFx1lUw",
+     "subtitle": "Kreayshawn",
+     "title": "Left Ey3",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 238088,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7t2xveDk2f46i8riy1nywS",
+     "spotify_url": "https://open.spotify.com/track/7t2xveDk2f46i8riy1nywS?si=uvvoQ6pqQaaRbv6ic5fiMA",
+     "subtitle": "Brick Squad Monopoly",
+     "title": "Activist (feat. Waka Flocka Flame, Ben G.)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 205093,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:21yRtB6B8EMounImAfHRCP",
+     "spotify_url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP?si=7sWzFlq_ST2z_29BqJ23tQ",
+     "subtitle": "Tyler, The Creator, A$AP Rocky",
+     "title": "Who Dat Boy (feat. A$AP Rocky)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 305840,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4Izx6tlGNTpflkxmVLQqkq",
+     "spotify_url": "https://open.spotify.com/track/4Izx6tlGNTpflkxmVLQqkq?si=TFE1RnRdTKGOZnKbjtvwmw",
+     "subtitle": "Lil Wayne, Drake",
+     "title": "She Will (feat. Drake)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 243773,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6plT7nFGiXKSBP9HFSI4ef",
+     "spotify_url": "https://open.spotify.com/track/6plT7nFGiXKSBP9HFSI4ef?si=a6PFK0nUTvueE4kDc0HENQ",
+     "subtitle": "Earl Sweatshirt",
+     "title": "Chum",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 227426,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1LM6EReMkAxuDXDF26ekl2",
+     "spotify_url": "https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2?si=XYaP55bjTdq0YZlgUgvVWg",
+     "subtitle": "Talib Kweli",
+     "title": "Get By",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=40",
+   "next_offset": 40,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=30"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 208120,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6mapJIPnQ23RTAevUoE0DL",
+     "spotify_url": "https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL?si=DPS9zQ51QhWMGNy3kN6b3w",
+     "subtitle": "Rae Sremmurd",
+     "title": "Swang",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 126345,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7floNISpH8VF4z4459Qo18",
+     "spotify_url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18?si=Jbg8kB7vSJ2LpoI3QTWjgw",
+     "subtitle": "XXXTENTACION",
+     "title": "Look At Me!",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 238333,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0m3Ze0cy8qBHSsV2exAfCw",
+     "spotify_url": "https://open.spotify.com/track/0m3Ze0cy8qBHSsV2exAfCw?si=swtly5XLRzyMU6IXsaBJhA",
+     "subtitle": "Kanye West, Jeezy",
+     "title": "Amazing",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 190080,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0vB2Rfcz6xC5FsCpBqrZZI",
+     "spotify_url": "https://open.spotify.com/track/0vB2Rfcz6xC5FsCpBqrZZI?si=IO3ay25UR2y4FWYp1l297A",
+     "subtitle": "Trinidad James",
+     "title": "Female$ Welcomed",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 217813,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5ZFFQEEINuTztkeFUJT4an",
+     "spotify_url": "https://open.spotify.com/track/5ZFFQEEINuTztkeFUJT4an?si=N6_RHN_yQ629PMekCv7x7w",
+     "subtitle": "Yelawolf, Bun B",
+     "title": "Good To Go",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 187453,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6NWl2m8asvH83xjuXVNsuG",
+     "spotify_url": "https://open.spotify.com/track/6NWl2m8asvH83xjuXVNsuG?si=lAQd5BNMTdOIfFhQQQCzUQ",
+     "subtitle": "Lil Xan",
+     "title": "Betrayed",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 161093,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3bpEKv2yAsMjipSx3j2riX",
+     "spotify_url": "https://open.spotify.com/track/3bpEKv2yAsMjipSx3j2riX?si=19PoVeLLTMqbeQGPbY7dbQ",
+     "subtitle": "Riff Raff",
+     "title": "Larry Bird",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 206000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0PSPw9H35cdqKo7YzkjNiT",
+     "spotify_url": "https://open.spotify.com/track/0PSPw9H35cdqKo7YzkjNiT?si=cFq8AL0lSB6ZLOSSxJHaGA",
+     "subtitle": "D/R Period",
+     "title": "Money",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 251573,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2Fy3LEGuvWl82AyOCJbwfQ",
+     "spotify_url": "https://open.spotify.com/track/2Fy3LEGuvWl82AyOCJbwfQ?si=uHcIWNrsS-2a0FUoMLhIIQ",
+     "subtitle": "M.O.P.",
+     "title": "World Famous",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 279346,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5vb6PvAnSoKQpNypJAdm6k",
+     "spotify_url": "https://open.spotify.com/track/5vb6PvAnSoKQpNypJAdm6k?si=p7NTfY7IR9WNfPYoyiWKSQ",
+     "subtitle": "Bun B",
+     "title": "What I Represent",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=50",
+   "next_offset": 50,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=40"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 288666,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3UFQM2oW4KXP3ZZ3jtBx2P",
+     "spotify_url": "https://open.spotify.com/track/3UFQM2oW4KXP3ZZ3jtBx2P?si=rlYEqQyBS4mU5nrysHYmfg",
+     "subtitle": "Immortal Technique, Tonedeff, Pumpkinhead, Poison Pen, Loucipher, Diabolic, C-Rayz Walz",
+     "title": "Peruvian Cocaine",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 261093,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2ulWTEGFSGdV85pweEluAS",
+     "spotify_url": "https://open.spotify.com/track/2ulWTEGFSGdV85pweEluAS?si=YZ6EcqM4TB6x2M6Bc5Hoyw",
+     "subtitle": "Jedi Mind Tricks",
+     "title": "Razorblade Salvation",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 216737,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2UlqyTvN462RKJ83bCyw5N",
+     "spotify_url": "https://open.spotify.com/track/2UlqyTvN462RKJ83bCyw5N?si=WO3FRoGFSyOocKAIE_ZiUQ",
+     "subtitle": "Waka Flocka Flame, Gucci Mane",
+     "title": "50k - feat. Gucci Mane",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 215826,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3PyI8d4eB4fI4khD0SnPbS",
+     "spotify_url": "https://open.spotify.com/track/3PyI8d4eB4fI4khD0SnPbS?si=PwdbtrDBRVyTT3B5x7pqSA",
+     "subtitle": "Beastie Boys",
+     "title": "The Move",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 260560,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3N5oiETJEStSB71TjTFkWV",
+     "spotify_url": "https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV?si=g3vn5PUhQE2O6CgPiypeCw",
+     "subtitle": "Juicy J, Wale, Trey Songz",
+     "title": "Bounce It (feat. Wale & Trey Songz)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 574040,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7efgw8QUcsUdcEEYcLh7Pv",
+     "spotify_url": "https://open.spotify.com/track/7efgw8QUcsUdcEEYcLh7Pv?si=f9KcDAIDQxW_vXTS_GYlcA",
+     "subtitle": "Aesop Rock, John Darnielle",
+     "title": "Coffee",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 161000,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1xfFPJdRjgDAaMcDgbXwyh",
+     "spotify_url": "https://open.spotify.com/track/1xfFPJdRjgDAaMcDgbXwyh?si=tbhLgiaARLu7W5EWagCY2A",
+     "subtitle": "BROCKHAMPTON",
+     "title": "STAR",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 215080,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0ZRYBBiutc28k4GLEIa6sD",
+     "spotify_url": "https://open.spotify.com/track/0ZRYBBiutc28k4GLEIa6sD?si=R8LL-ZZbRJSY-z2XShKtiw",
+     "subtitle": "Kid Cudi, Crookers",
+     "title": "Embrace The Martian",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 205200,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1ixbwbeBi5ufN4noUKmW5a",
+     "spotify_url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a?si=buGfSn6TSA6a1YcWIjpZ7g",
+     "subtitle": "M.I.A.",
+     "title": "Paper Planes",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202560,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4zBRdLegVtJFYsxVZMHDUt",
+     "spotify_url": "https://open.spotify.com/track/4zBRdLegVtJFYsxVZMHDUt?si=pbiFHLzoSOGnvfpdEkMlWg",
+     "subtitle": "Kid Sister, Kanye West",
+     "title": "Pro Nails",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=60",
+   "next_offset": 60,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=50"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 232940,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2wudVhkfXT2h2bLxofOlrR",
+     "spotify_url": "https://open.spotify.com/track/2wudVhkfXT2h2bLxofOlrR?si=IlP6GbuGSZShejVcTUimtg",
+     "subtitle": "P.O.S",
+     "title": "Fuck Your Stuff",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 229584,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3adoFmMI4TIiMFZTEjy7dM",
+     "spotify_url": "https://open.spotify.com/track/3adoFmMI4TIiMFZTEjy7dM?si=FRIy7lpBQxKxMjx42MWLkA",
+     "subtitle": "Spark Master Tape",
+     "title": "Kkam",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 171720,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0AzD1FEuvkXP1verWfaZdv",
+     "spotify_url": "https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv?si=HFm3HMxXSzeabv-qvl9pGg",
+     "subtitle": "Hudson Mohawke",
+     "title": "Cbat",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 196400,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1cXj8FZ6aZupf1kAxTYdf6",
+     "spotify_url": "https://open.spotify.com/track/1cXj8FZ6aZupf1kAxTYdf6?si=eGAkuw-SRqGBJ5Q0qbv-9w",
+     "subtitle": "DJ Shadow, Run The Jewels",
+     "title": "Nobody Speak (feat. Run The Jewels)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 264253,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:18uxdxYSbjqsOwc0J6Iawz",
+     "spotify_url": "https://open.spotify.com/track/18uxdxYSbjqsOwc0J6Iawz?si=KPudFtn4TaCDQnTfEBmxAA",
+     "subtitle": "Johnny Polygon",
+     "title": "LoveSick (Super Nintendo)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 253413,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7hTA34zHD3gRagk4U5qB2i",
+     "spotify_url": "https://open.spotify.com/track/7hTA34zHD3gRagk4U5qB2i?si=-gEa4BOMSRWl6INXrU2Oaw",
+     "subtitle": "Major Lazer, The Partysquad",
+     "title": "Original Don",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 163157,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3qYVWB6ICwOzTqApjQa6h8",
+     "spotify_url": "https://open.spotify.com/track/3qYVWB6ICwOzTqApjQa6h8?si=2R7ofymUSBGc0u9Ko8ZZXw",
+     "subtitle": "Mizmo",
+     "title": "Higher Ground",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 213340,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4YIoQqE50AdyG4BQafCi3u",
+     "spotify_url": "https://open.spotify.com/track/4YIoQqE50AdyG4BQafCi3u?si=2lQpCx4sQFe84VVd-iibXw",
+     "subtitle": "What So Not, Branchez",
+     "title": "High You Are (Branchez Remix)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 191041,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5BgBRWf4chxXGyD1rMbPUG",
+     "spotify_url": "https://open.spotify.com/track/5BgBRWf4chxXGyD1rMbPUG?si=Iz8kPBDoR3-1pRFR4pFl4g",
+     "subtitle": "Flosstradamus, Bauuer",
+     "title": "Roll Up - Bauuer Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 383546,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2idmlkd8oUaQvYEtINpLBX",
+     "spotify_url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX?si=pQuiueM0TYmHEeLgJz0BoQ",
+     "subtitle": "Yeah Yeah Yeahs, A-Trak",
+     "title": "Heads Will Roll - A-Trak Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=70",
+   "next_offset": 70,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=60"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 164539,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7HlbQCdVXgANsk2FMXICUs",
+     "spotify_url": "https://open.spotify.com/track/7HlbQCdVXgANsk2FMXICUs?si=w6VlUdIQSA68Ehb-v2Gjtg",
+     "subtitle": "Noisia, Kill The Noise Remix",
+     "title": "Diplodocus - Kill The Noise Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 282812,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:034Or1251K13U8kTi4dlLg",
+     "spotify_url": "https://open.spotify.com/track/034Or1251K13U8kTi4dlLg?si=cez0C6srSTWzjmOdWq7-gg",
+     "subtitle": "Disclosure, Eliza Doolittle, Flume",
+     "title": "You & Me - Flume Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 241440,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
+     "spotify_url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt?si=pZ2XVIO3SiiORB_qW2JYIA",
+     "subtitle": "M83",
+     "title": "Midnight City",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 229946,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5brMyscUnQg14hMriS91ks",
+     "spotify_url": "https://open.spotify.com/track/5brMyscUnQg14hMriS91ks?si=Uek5zpjQSIid-99pFtEAug",
+     "subtitle": "The Chainsmokers, sirenXX",
+     "title": "Kanye",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 209160,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:14OxJlLdcHNpgsm4DRwDOB",
+     "spotify_url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB?si=dmrfhDY_SumLWOgiKKr6zQ",
+     "subtitle": "Tove Lo",
+     "title": "Habits (Stay High)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 221440,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3swc6WTsr7rl9DqQKQA55C",
+     "spotify_url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C?si=T9G_tBFhQtq5B7fA7CF77w",
+     "subtitle": "Post Malone, Ty Dolla $ign",
+     "title": "Psycho (feat. Ty Dolla $ign)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 310312,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2780vKj4IUvNu26FfCQ66u",
+     "spotify_url": "https://open.spotify.com/track/2780vKj4IUvNu26FfCQ66u?si=A3iybX6dSgmvsJXb3tkjTA",
+     "subtitle": "Tommy Trash",
+     "title": "Monkey In Love",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 209080,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6FwulO51932yA6ksMi1rj4",
+     "spotify_url": "https://open.spotify.com/track/6FwulO51932yA6ksMi1rj4?si=BlBDGY8fRmyPq5jubP_QNA",
+     "subtitle": "Anamanaguchi",
+     "title": "Jetpack Blues, Sunset Hues",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 252590,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6hB1qjBxLKp3ykezHkyxeA",
+     "spotify_url": "https://open.spotify.com/track/6hB1qjBxLKp3ykezHkyxeA?si=WsQ-yxSwSiOfc43UkVe9-w",
+     "subtitle": "Skrux",
+     "title": "You & Me",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 347611,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1mUUUaB58ingYU0hMSjveh",
+     "spotify_url": "https://open.spotify.com/track/1mUUUaB58ingYU0hMSjveh?si=iAsVxTQwQga4FY6AAWtq-w",
+     "subtitle": "Allosaurus",
+     "title": "Hello St. Louis",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=80",
+   "next_offset": 80,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=70"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 200746,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7DfFc7a6Rwfi3YQMRbDMau",
+     "spotify_url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau?si=KNDujCHmR72EyNX9RV0szw",
+     "subtitle": "Frank Ocean",
+     "title": "Thinkin Bout You",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 257775,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6m9qPYXmhge2QhBLfFKnVF",
+     "spotify_url": "https://open.spotify.com/track/6m9qPYXmhge2QhBLfFKnVF?si=2AT0Ww3LRDK3qrr91x-yZQ",
+     "subtitle": "Chance the Rapper",
+     "title": "Same Drugs",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 257986,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6x0ex5urwhqB3AYLREVRUd",
+     "spotify_url": "https://open.spotify.com/track/6x0ex5urwhqB3AYLREVRUd?si=xpiKlYB8ShmQ9tjGtxLbaA",
+     "subtitle": "Sia, The Weeknd, Diplo",
+     "title": "Elastic Heart - From \"The Hunger Games: Catching Fire\" Soundtrack",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 284400,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0t2QiRkpag0fAgs9zuCPlH",
+     "spotify_url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH?si=Kri8pBeEQeeyHf45jpGmIw",
+     "subtitle": "Santigold",
+     "title": "Disparate Youth",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 234973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
+     "spotify_url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy?si=rBqSWlEJRAKOxYcJXHb46g",
+     "subtitle": "Pixies",
+     "title": "Where Is My Mind? - 2007 Remaster",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 204173,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:66XKXxfXwNHfkuQ9JcOOyA",
+     "spotify_url": "https://open.spotify.com/track/66XKXxfXwNHfkuQ9JcOOyA?si=nUkv9Dp5TmCV9J91uHTb_w",
+     "subtitle": "Guttermouth",
+     "title": "God, Steve McQeen \"The Work Song\"",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 222517,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5WyuRWUcOOhAic0tj9Pl28",
+     "spotify_url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28?si=jlRFqDIyTjO-IK0C_Dvm-A",
+     "subtitle": "Lou Reed",
+     "title": "Satellite of Love",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 242746,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:12ettGOse4b5vko513KTuX",
+     "spotify_url": "https://open.spotify.com/track/12ettGOse4b5vko513KTuX?si=jKrJa0ElTyiE0FYa-EDC5A",
+     "subtitle": "Jack's Mannequin",
+     "title": "Bruised - 2015 Remaster",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 128426,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5LgiqEgpK54OfXC6947wbU",
+     "spotify_url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU?si=Y5qwXQGvSD-p2-Xyz-v22A",
+     "subtitle": "Misfits, Glenn Danzig",
+     "title": "Where Eagles Dare",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 179173,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1RhrMPd8wdpM2gTI6aiUQA",
+     "spotify_url": "https://open.spotify.com/track/1RhrMPd8wdpM2gTI6aiUQA?si=h0yCWDIuRdmmUqBhRU5OhQ",
+     "subtitle": "All Time Low",
+     "title": "A Party Song (The Walk of Shame)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=90",
+   "next_offset": 90,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=80"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 251373,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3m1OyPw3fzMPAwDMcYcM6Z",
+     "spotify_url": "https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z?si=LkP-hNVQQkmvAMOiwTXBUQ",
+     "subtitle": "Taking Back Sunday",
+     "title": "This Photograph Is Proof (I Know You Know)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 297493,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:69BMd64Zq2W84cOeCRguEp",
+     "spotify_url": "https://open.spotify.com/track/69BMd64Zq2W84cOeCRguEp?si=L-OrzhYrQ8acbS0cUA94Tg",
+     "subtitle": "Manchester Orchestra",
+     "title": "I've Got Friends",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 222400,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4YpXh3rVf556kJHLljnTHp",
+     "spotify_url": "https://open.spotify.com/track/4YpXh3rVf556kJHLljnTHp?si=yfRbXz8VR5-dpjiexK6TUw",
+     "subtitle": "New Found Glory",
+     "title": "My Friends Over You",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 241666,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2fKO33xCTSd9DiJmTyUHNF",
+     "spotify_url": "https://open.spotify.com/track/2fKO33xCTSd9DiJmTyUHNF?si=n-PjMBLbTPOiNiB8tSe5JA",
+     "subtitle": "The Format",
+     "title": "Time Bomb",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 206973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6Fe3Flc9SjE03pqwD6PVQl",
+     "spotify_url": "https://open.spotify.com/track/6Fe3Flc9SjE03pqwD6PVQl?si=6hDd3vmKTU6AJWFlhQ9Wxw",
+     "subtitle": "311",
+     "title": "Amber",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 174266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7lX1XgbH84nUVMnZIEmaqa",
+     "spotify_url": "https://open.spotify.com/track/7lX1XgbH84nUVMnZIEmaqa?si=uNShI6I3S12Nvqlu9woK6g",
+     "subtitle": "The Academy Is...",
+     "title": "Skeptics and True Believers",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 229106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4c5xqqf1kdVBPiQnO4fKDB",
+     "spotify_url": "https://open.spotify.com/track/4c5xqqf1kdVBPiQnO4fKDB?si=PJFNsiXeQlG91mg2HrotDg",
+     "subtitle": "Something Corporate",
+     "title": "Straw Dog",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 251626,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6GWNDW8TXls6Vbr8L6P3oD",
+     "spotify_url": "https://open.spotify.com/track/6GWNDW8TXls6Vbr8L6P3oD?si=t4OEuI05SGWkaHykE0lf4w",
+     "subtitle": "The Early November",
+     "title": "The Mountain Range In My Living Room",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 234840,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:291y5K3NOGAUGS7MwiPfGn",
+     "spotify_url": "https://open.spotify.com/track/291y5K3NOGAUGS7MwiPfGn?si=UpO3SAuKQ06pqJGG-cKv-A",
+     "subtitle": "Punchline",
+     "title": "Heart Transplant",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 177453,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5Tj9CegEANcJq3Bq0ff1Lg",
+     "spotify_url": "https://open.spotify.com/track/5Tj9CegEANcJq3Bq0ff1Lg?si=ZO4_6lZ3RMSFAvLnhu8XYg",
+     "subtitle": "October Fall",
+     "title": "Second Chances",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=100",
+   "next_offset": 100,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=90"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 195106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2PKgrfkc1HRaN9FnGlz9o5",
+     "spotify_url": "https://open.spotify.com/track/2PKgrfkc1HRaN9FnGlz9o5?si=a80A293zTguHfaBZfSGEcQ",
+     "subtitle": "Death From Above 1979",
+     "title": "Romantic Rights",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 354360,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1aDLUzCyYpRXgrjwUWzV2X",
+     "spotify_url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X?si=18SfKo9NQ2SYfqGqgCYeeA",
+     "subtitle": "Silversun Pickups",
+     "title": "Lazy Eye",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 241722,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:72xhTz7tFCPjDGIl2w76D7",
+     "spotify_url": "https://open.spotify.com/track/72xhTz7tFCPjDGIl2w76D7?si=WHBWkhEeReihCDjp1_bOlg",
+     "subtitle": "Stroke 9",
+     "title": "Kick Some Ass - Remastered",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202573,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4b9jRNwMUvABxTD1amyfA6",
+     "spotify_url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6?si=e7zpwcPoRGePUL3tSyLsKQ",
+     "subtitle": "The Spill Canvas",
+     "title": "All over You",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 548253,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:58KPPL1AdLHMvR2O2PZejr",
+     "spotify_url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr?si=KkatzbOrRzGuP1pu195MFw",
+     "subtitle": "Green Day",
+     "title": "Jesus of Suburbia",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 223573,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7fh2bdy4tG4lhaJMpRiRA7",
+     "spotify_url": "https://open.spotify.com/track/7fh2bdy4tG4lhaJMpRiRA7?si=-OiPivCoS7iGKj333pGxZg",
+     "subtitle": "The Limousines",
+     "title": "Dancing at Her Funeral",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 161333,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0KQ1LhU7vGiXqn7eAw1nfl",
+     "spotify_url": "https://open.spotify.com/track/0KQ1LhU7vGiXqn7eAw1nfl?si=MiI3UHd7RHSTyGnEv4eC2A",
+     "subtitle": "Meg & Dia",
+     "title": "Monster",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 238733,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6O2lo7245XfRbIfpL5yRLJ",
+     "spotify_url": "https://open.spotify.com/track/6O2lo7245XfRbIfpL5yRLJ?si=-XhZSObzRcCQcPQD2qLCYQ",
+     "subtitle": "Sara Evans",
+     "title": "A Real Fine Place to Start",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 250706,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6RGV97HIkgZJjme2dzilfg",
+     "spotify_url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg?si=CV32_99HQZ-h0ynfJz-SNA",
+     "subtitle": "AFI",
+     "title": "Silver And Cold",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 219346,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3oPGypGms49FalSmKRLtQJ",
+     "spotify_url": "https://open.spotify.com/track/3oPGypGms49FalSmKRLtQJ?si=-4GMdX03TZSM2-YE87FGaA",
+     "subtitle": "Mates of State",
+     "title": "The Kissaway",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=110",
+   "next_offset": 110,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=100"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 264546,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3U5TzKrZP6sqiR43LQArV7",
+     "spotify_url": "https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7?si=gEA0rmB5TqmnTSbFlK23gQ",
+     "subtitle": "Thursday",
+     "title": "Understanding In A Car Crash",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 241453,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7GUizFgoBcD2RT6BKIdOYl",
+     "spotify_url": "https://open.spotify.com/track/7GUizFgoBcD2RT6BKIdOYl?si=95JGD-YGQaG5kSWfhKZkvA",
+     "subtitle": "Straylight Run",
+     "title": "Existentialism On Prom Night",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 210426,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6mCjOSXkABONouTVa6PQOy",
+     "spotify_url": "https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy?si=F8FPpmQOS0uZQkI1tgmIhQ",
+     "subtitle": "Fall Out Boy",
+     "title": "Tell That Mick He Just Made My List of Things to Do Today",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 325546,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0U0p8weaMIbIFMJ0CPlvHV",
+     "spotify_url": "https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV?si=-S9I54_rR3CNDI_WuWRA3g",
+     "subtitle": "Arcade Fire",
+     "title": "Sprawl II (Mountains Beyond Mountains)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 187853,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1OSTJFMNAxzJ3fx7D7p6f7",
+     "spotify_url": "https://open.spotify.com/track/1OSTJFMNAxzJ3fx7D7p6f7?si=XvAloSndSgS3Y883voAKCw",
+     "subtitle": "The Decemberists",
+     "title": "Rox In The Box",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 384813,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0IVdlBreRkZn0ftoUwB0T6",
+     "spotify_url": "https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6?si=AuZMgw0KTrmVRo0ailX3UQ",
+     "subtitle": "Cradle Of Filth",
+     "title": "Her Ghost in the Fog",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 222933,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5aBgb12NSTBcho6iWFNqKp",
+     "spotify_url": "https://open.spotify.com/track/5aBgb12NSTBcho6iWFNqKp?si=tXzEzVWVSNeCFqu0GvMFZA",
+     "subtitle": "Neutral Milk Hotel",
+     "title": "Song Against Sex",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 259026,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6GHYC5wFfCWKlZBNZ2t2ex",
+     "spotify_url": "https://open.spotify.com/track/6GHYC5wFfCWKlZBNZ2t2ex?si=gnunUbiMQ4CDyWjr8vYMvQ",
+     "subtitle": "Jack's Mannequin",
+     "title": "My Racing Thoughts",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 140493,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5Og9VyCOfxmZCuv1UhIyxE",
+     "spotify_url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE?si=3CJlyeGlTNuRgK-TBrYw5A",
+     "subtitle": "Black Flag",
+     "title": "Six Pack",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 302113,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:48TrG16S6Qg3NxOlfRI73b",
+     "spotify_url": "https://open.spotify.com/track/48TrG16S6Qg3NxOlfRI73b?si=pNYIEvd4QM26YrLYOhrj_Q",
+     "subtitle": "Wavves",
+     "title": "I Wanna Meet Dave Grohl",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=120",
+   "next_offset": 120,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=110"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 198173,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0PkqVbqo5Y9CLMayxMmf4i",
+     "spotify_url": "https://open.spotify.com/track/0PkqVbqo5Y9CLMayxMmf4i?si=aALXKhTcTcq19iLXAdzuLA",
+     "subtitle": "Ted Leo and the Pharmacists",
+     "title": "Bottled in Cork",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 276173,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1wv8znqSJDcyI60eRkSaRc",
+     "spotify_url": "https://open.spotify.com/track/1wv8znqSJDcyI60eRkSaRc?si=GWJbf2YnQIuT81zk-Buyrw",
+     "subtitle": "Foster The People",
+     "title": "Helena Beat",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 306373,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7KWGfnsUU4Ri46TIvjpAPx",
+     "spotify_url": "https://open.spotify.com/track/7KWGfnsUU4Ri46TIvjpAPx?si=jbFyS36nRiSmy_htq4Vb1w",
+     "subtitle": "Edward Sharpe & The Magnetic Zeros",
+     "title": "Home - 2019 - Remaster",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 328706,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:29ufIwomYfLbWBxPMdaUZm",
+     "spotify_url": "https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm?si=UaDi9kZtRp-TS8CT3TTzAA",
+     "subtitle": "LCD Soundsystem",
+     "title": "North American Scum",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 257000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1kSO3mfMjW9AaKx6B3opJY",
+     "spotify_url": "https://open.spotify.com/track/1kSO3mfMjW9AaKx6B3opJY?si=chmybr86QqakItVJaTPU0Q",
+     "subtitle": "Say Anything",
+     "title": "I Used To Have A Heart",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 190573,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2yYASbXnAV71CLbNY1HCWf",
+     "spotify_url": "https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf?si=CJSYgW6UT_eFCQpyiitCFQ",
+     "subtitle": "Placebo",
+     "title": "The Bitter End",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 134974,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2GiIgyJtwPI8MufbswB5hR",
+     "spotify_url": "https://open.spotify.com/track/2GiIgyJtwPI8MufbswB5hR?si=7yFYq4YpT3SxquBFyfJ0qw",
+     "subtitle": "The Dopamines",
+     "title": "Public Domain",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 199573,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4dKu1HkVL1xh96F1JfDTrn",
+     "spotify_url": "https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn?si=sTYDufBlQw2IglNIyA47XA",
+     "subtitle": "Saves The Day",
+     "title": "Shoulder to the Wheel",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 407160,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2XbqxKjCnE9YWfPRqwgtPq",
+     "spotify_url": "https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq?si=-3hJov6HRUexPAbHwb4ZGg",
+     "subtitle": "The Joy Formidable",
+     "title": "Whirring",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 246600,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:25nzKGDiua1lE9Qo5V19GL",
+     "spotify_url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL?si=6B5mJhjZSFmWCi4KIemk0w",
+     "subtitle": "The Naked And Famous",
+     "title": "Young Blood",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=130",
+   "next_offset": 130,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=120"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 205600,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2krCgSTjz6Ex8tJ6j8Qllj",
+     "spotify_url": "https://open.spotify.com/track/2krCgSTjz6Ex8tJ6j8Qllj?si=9SvXEPyMQTGFSviLu2XNgw",
+     "subtitle": "The Mountain Goats",
+     "title": "Cotton",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 178760,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1uiMIYFziXyxDC6HuXhgmN",
+     "spotify_url": "https://open.spotify.com/track/1uiMIYFziXyxDC6HuXhgmN?si=hu9k1KwFQ0aWOjWCqtaL7Q",
+     "subtitle": "Mates of State",
+     "title": "My Only Offer",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 263853,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2n5xlfjZ9nvNtHy2gLWprS",
+     "spotify_url": "https://open.spotify.com/track/2n5xlfjZ9nvNtHy2gLWprS?si=_hp2hEbWTgy8Q03yD9MEgA",
+     "subtitle": "Steve Winwood",
+     "title": "Back In The High Life Again",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 216053,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0GONea6G2XdnHWjNZd6zt3",
+     "spotify_url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3?si=BjkgtMV0SMKgZsjQyiXGMw",
+     "subtitle": "Bryan Adams",
+     "title": "Summer Of '69",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 200106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:57TcwVXrJEnFt5Rpe262X1",
+     "spotify_url": "https://open.spotify.com/track/57TcwVXrJEnFt5Rpe262X1?si=HtU395akRoiq3D1AYh2jxA",
+     "subtitle": "Anarbor",
+     "title": "Let The Games Begin",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 166533,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2QhpHppbPvYurQ09uhGLus",
+     "spotify_url": "https://open.spotify.com/track/2QhpHppbPvYurQ09uhGLus?si=_C1dWYaLRVSp5McSU39Ipw",
+     "subtitle": "Saves The Day",
+     "title": "Let It All Go",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 220733,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:463wBlCYhDPuOVvAU8bS1h",
+     "spotify_url": "https://open.spotify.com/track/463wBlCYhDPuOVvAU8bS1h?si=cPOlAe4ZTiuJ0lWWqBR6hA",
+     "subtitle": "Jimmy Eat World",
+     "title": "Big Casino",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 220200,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0MGyaqvvdEujbVidS2X0GR",
+     "spotify_url": "https://open.spotify.com/track/0MGyaqvvdEujbVidS2X0GR?si=d2jmvkJWSvSJRDUX0p8fpg",
+     "subtitle": "The Summer Set",
+     "title": "Mannequin",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 148866,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3JtdmGmWOoZ4j37gj9Uzmp",
+     "spotify_url": "https://open.spotify.com/track/3JtdmGmWOoZ4j37gj9Uzmp?si=eKsDydd6SjOoxgl4pHqUYA",
+     "subtitle": "The Thermals",
+     "title": "Here's Your Future",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 192080,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4V0x90QcMh4ZxwHzEWOdtK",
+     "spotify_url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK?si=V-xt3FJNR-OH5c58sSLEvw",
+     "subtitle": "Washed Out",
+     "title": "Feel It All Around",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=140",
+   "next_offset": 140,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=130"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 190106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7eWuBTL35BSBBiIjWJk0KB",
+     "spotify_url": "https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB?si=1xnj65csS0-FkuSyhv0isg",
+     "subtitle": "As I Lay Dying",
+     "title": "Confined",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 209386,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6HPZo9krwjbhMGKbqVkkDQ",
+     "spotify_url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ?si=W_6cLEZORFSqq7jy0CMrqw",
+     "subtitle": "Fiona Apple",
+     "title": "Every Single Night",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 368986,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4UaQNw4hgvSDftmGxXgJ1j",
+     "spotify_url": "https://open.spotify.com/track/4UaQNw4hgvSDftmGxXgJ1j?si=eE0VDtVuTZyeYT_qaXAjpg",
+     "subtitle": "Swans",
+     "title": "Lunacy",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 151960,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:55mKuESqpfgqe0kooIkTH2",
+     "spotify_url": "https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2?si=yMrLUu04QOSVKsTLvG7UpQ",
+     "subtitle": "Ramones",
+     "title": "Beat on the Brat - 2016 Remaster",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 201946,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1nK3sKV6p7qMFJ9QzvHYTH",
+     "spotify_url": "https://open.spotify.com/track/1nK3sKV6p7qMFJ9QzvHYTH?si=I-z26EbgQbKKyze1vvijKw",
+     "subtitle": "Eagles Of Death Metal",
+     "title": "Beat On The Brat",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 183933,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4589wtRhDebcQsRJtAqTl7",
+     "spotify_url": "https://open.spotify.com/track/4589wtRhDebcQsRJtAqTl7?si=h-DyRQeyTgiYUMa8cLv4rA",
+     "subtitle": "The White Stripes",
+     "title": "Dead Leaves and the Dirty Ground",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 200973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1AKJnUOmNwlyXzOYptQhwx",
+     "spotify_url": "https://open.spotify.com/track/1AKJnUOmNwlyXzOYptQhwx?si=q8uK5BkxQS2oIKRXuumuRw",
+     "subtitle": "Kylie Minogue",
+     "title": "I Believe in You",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 395373,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:20VuO95A8RxUPlShnfYArW",
+     "spotify_url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW?si=DlBTBbhDQIOnhLlP-JOnKw",
+     "subtitle": "Labi Siffre",
+     "title": "I Got The... - 2006 Remaster",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 335480,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5rAff9XfcWx7rguN3t0fkW",
+     "spotify_url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW?si=cKPyMI9iQxObZdba3fkr3g",
+     "subtitle": "LCD Soundsystem",
+     "title": "New York, I Love You but You're Bringing Me Down",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 222586,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7oK9VyNzrYvRFo7nQEYkWN",
+     "spotify_url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN?si=m1lAMvLjSu-kMpbTOVcD-g",
+     "subtitle": "The Killers",
+     "title": "Mr. Brightside",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=150",
+   "next_offset": 150,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=140"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 177986,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5EM4S6pTv68dX7qCaYy4dL",
+     "spotify_url": "https://open.spotify.com/track/5EM4S6pTv68dX7qCaYy4dL?si=sCLKyVPSSCutILrcZjkM3w",
+     "subtitle": "Valencia",
+     "title": "Holiday",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 277533,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4hL16CY1B75JaHl0n9tZK9",
+     "spotify_url": "https://open.spotify.com/track/4hL16CY1B75JaHl0n9tZK9?si=qCS-OpEnSF247Fa0YF_Ouw",
+     "subtitle": "Dead Kennedys",
+     "title": "Holiday in Cambodia",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 273014,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4YWLXT4VwXzxnh26ibqzov",
+     "spotify_url": "https://open.spotify.com/track/4YWLXT4VwXzxnh26ibqzov?si=JpjyRk0vTHOd1g954rt1GA",
+     "subtitle": "Doctor P",
+     "title": "Sweet Shop",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 186488,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0bKs1y9PTFBddM9qj0JGvb",
+     "spotify_url": "https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb?si=E2htIKveQya7UN6BeW0Uyw",
+     "subtitle": "Dimmu Borgir",
+     "title": "Puritania",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 177613,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1h9ACt0sFymqhR41Fe1r71",
+     "spotify_url": "https://open.spotify.com/track/1h9ACt0sFymqhR41Fe1r71?si=YfzReXUaS4KrKAy066kV6A",
+     "subtitle": "Sims",
+     "title": "Burn It Down",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 190613,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3O30ywyRk6EKT68sBvVqOP",
+     "spotify_url": "https://open.spotify.com/track/3O30ywyRk6EKT68sBvVqOP?si=324sgG9yRMWRyB-uGZLAzw",
+     "subtitle": "Father John Misty",
+     "title": "Hollywood Forever Cemetery Sings",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 214453,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:663XpYXOdyF2zv4bTIXffh",
+     "spotify_url": "https://open.spotify.com/track/663XpYXOdyF2zv4bTIXffh?si=i4AzGbHdRFmpGNnBJfYCsA",
+     "subtitle": "Saosin",
+     "title": "Bury Your Head",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 263400,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3r7gP3kGBkldTrOO6ebMGy",
+     "spotify_url": "https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy?si=YRWdgLwRTm67eLW91gIekw",
+     "subtitle": "Citizen Cope",
+     "title": "Bullet and a Target",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 149146,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6tmd7lZnptixmQpROCKfoq",
+     "spotify_url": "https://open.spotify.com/track/6tmd7lZnptixmQpROCKfoq?si=zOmsYTEmRka1Kb_BA41aog",
+     "subtitle": "Dashboard Confessional",
+     "title": "Where There's Gold",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 222080,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4w7hIjpuEfvMPiyEgdqlf6",
+     "spotify_url": "https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6?si=xLbXbvpwTxacHiYkK8WZVw",
+     "subtitle": "Brand New",
+     "title": "Jude Law And A Semester Abroad",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=160",
+   "next_offset": 160,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=150"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 194973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:30Df6lLrwfK4XcttjwNkS1",
+     "spotify_url": "https://open.spotify.com/track/30Df6lLrwfK4XcttjwNkS1?si=8npf2JLSRWezcSRPbMfNvg",
+     "subtitle": "The Matches",
+     "title": "Chain Me Free",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 215720,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5vgqOlg6pHwqYqUGIGQKRY",
+     "spotify_url": "https://open.spotify.com/track/5vgqOlg6pHwqYqUGIGQKRY?si=cBmWsqsBQuqb4LGS3pUQdQ",
+     "subtitle": "Bloc Party",
+     "title": "Flux",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 240760,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3lgN3kbDO9FL4kB1lrd2MS",
+     "spotify_url": "https://open.spotify.com/track/3lgN3kbDO9FL4kB1lrd2MS?si=0J8mFvvMToqC7kGAiczdkw",
+     "subtitle": "Hey Monday",
+     "title": "I Don't Wanna Dance",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 216626,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:54jGdUgkPfGNVPVj0wlS3v",
+     "spotify_url": "https://open.spotify.com/track/54jGdUgkPfGNVPVj0wlS3v?si=7u0E9f6PQIGg6IoYFHygMg",
+     "subtitle": "Hey Monday",
+     "title": "Arizona",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 224040,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:70MLCfNoBdpSFjlvVTQE7c",
+     "spotify_url": "https://open.spotify.com/track/70MLCfNoBdpSFjlvVTQE7c?si=Vagp-tLKS0ufojzCZLvZNA",
+     "subtitle": "Cute Is What We Aim For",
+     "title": "Practice Makes Perfect",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202560,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6CAG3rBGPTAinoqgVD7fBJ",
+     "spotify_url": "https://open.spotify.com/track/6CAG3rBGPTAinoqgVD7fBJ?si=oltSgfIoTn-MxsNZpZrldA",
+     "subtitle": "Cat Power",
+     "title": "The Greatest",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 180533,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2CplFcQ3N7SOSmkJg7xzfI",
+     "spotify_url": "https://open.spotify.com/track/2CplFcQ3N7SOSmkJg7xzfI?si=KRq_LVePQBi7wCGX6v9xTQ",
+     "subtitle": "The Years Gone By",
+     "title": "Reckless",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 228866,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5mSVJjVzZEoVrg6amF8udl",
+     "spotify_url": "https://open.spotify.com/track/5mSVJjVzZEoVrg6amF8udl?si=DZbsQb4JR9eXnPOFXY0Qhg",
+     "subtitle": "The All-American Rejects",
+     "title": "My Paper Heart",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 230426,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6IxQ0PdozaZKch1m8tGCwb",
+     "spotify_url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb?si=OaHK_9A3ToyRoUsjdRZyZQ",
+     "subtitle": "The Used",
+     "title": "All That I've Got",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 180840,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4Zz1ctRTK04dytKiFuavBX",
+     "spotify_url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX?si=Wj36x7llT6CX7_gr0DaVjA",
+     "subtitle": "Elvis Costello & The Attractions",
+     "title": "Oliver's Army",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=170",
+   "next_offset": 170,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=160"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 295282,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2374M0fQpWi3dLnB54qaLX",
+     "spotify_url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX?si=bd5KsQO7RfGitz0zmGyisA",
+     "subtitle": "TOTO",
+     "title": "Africa",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 373747,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2QSUyofqpGDCo026OPiTBQ",
+     "spotify_url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ?si=s-ju8eZSQIWOrOVVb5EFaw",
+     "subtitle": "Prince",
+     "title": "1999 - 2019 Remaster",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 240440,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:30FURVTCpbKyykjSEQzGkH",
+     "spotify_url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH?si=rxyHhLriR3C4gpLPEW3sTw",
+     "subtitle": "Amy Winehouse",
+     "title": "Back To Black",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 748773,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3I7gJOfTamHWpDfbwQUO6T",
+     "spotify_url": "https://open.spotify.com/track/3I7gJOfTamHWpDfbwQUO6T?si=1JSAFaJ8RC-ROUfxC3ikpQ",
+     "subtitle": "The Mars Volta",
+     "title": "Cicatriz Esp",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 208640,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:62d5LKCG0ZgpzFkFjM1ObF",
+     "spotify_url": "https://open.spotify.com/track/62d5LKCG0ZgpzFkFjM1ObF?si=t5nyXnmvTJOIapZFu2gGmQ",
+     "subtitle": "Owl City",
+     "title": "Designer Skyline",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 215853,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5whEXN8r6D7qe9iAIf7A7N",
+     "spotify_url": "https://open.spotify.com/track/5whEXN8r6D7qe9iAIf7A7N?si=kg1o-fJTRvudJqQvOooWTQ",
+     "subtitle": "From First To Last",
+     "title": "Shame Shame",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 146160,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5KHhsH8FqVs5CxyDeMOFAT",
+     "spotify_url": "https://open.spotify.com/track/5KHhsH8FqVs5CxyDeMOFAT?si=u0jbe7xfTX-pgUrYH4msLw",
+     "subtitle": "Atreyu",
+     "title": "Bleeding Mascara",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 205533,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5skHiyNrZ7i7hSMhz9jSTs",
+     "spotify_url": "https://open.spotify.com/track/5skHiyNrZ7i7hSMhz9jSTs?si=YLfw-IPVRS2axuZxaVBWfw",
+     "subtitle": "Metric",
+     "title": "Dead Disco",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 261266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5yh1LmyANpuUVy5vqaHBvg",
+     "spotify_url": "https://open.spotify.com/track/5yh1LmyANpuUVy5vqaHBvg?si=n4Xbdk8ER6O_gJH6z0s0YQ",
+     "subtitle": "Emmanuel",
+     "title": "El Rey Azul",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 299920,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7grzMnF1FHponm2aJBWj8E",
+     "spotify_url": "https://open.spotify.com/track/7grzMnF1FHponm2aJBWj8E?si=_jjE39vxTWiG_0zagtdv1g",
+     "subtitle": "Lana Del Rey",
+     "title": "Off To The Races",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=180",
+   "next_offset": 180,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=170"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 156266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1nWmXWGAveQr0tcqW293ky",
+     "spotify_url": "https://open.spotify.com/track/1nWmXWGAveQr0tcqW293ky?si=hx8vDRTsQ0a8euK8YKu0Ew",
+     "subtitle": "Attack Attack!",
+     "title": "Party Foul",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 183920,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:05jNrrouvvb07kGZ75ML2q",
+     "spotify_url": "https://open.spotify.com/track/05jNrrouvvb07kGZ75ML2q?si=b9nuCI6fQWe4i2zEe4z9wQ",
+     "subtitle": "Andre Nickatina",
+     "title": "Bakin Soda In Minnesota",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 187720,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7I5eQZFdlPV8LZWH2FeqaW",
+     "spotify_url": "https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW?si=i4S3TscESuG207wV1_LatA",
+     "subtitle": "Q Lazzarus",
+     "title": "Goodbye Horses - Single",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 244186,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5krOROgmf8adn3SJzeKLZy",
+     "spotify_url": "https://open.spotify.com/track/5krOROgmf8adn3SJzeKLZy?si=lwgCu5b0QOaDhW_YPSeqhQ",
+     "subtitle": "Mike Jones",
+     "title": "Back Then",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 191773,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:60p03EMhcCFUFyzAKS6m3p",
+     "spotify_url": "https://open.spotify.com/track/60p03EMhcCFUFyzAKS6m3p?si=m7OPTNw1TAamPV0STXBZVg",
+     "subtitle": "Elliott Smith",
+     "title": "High Times",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 280106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5AMrnF761nziCWUfjBgRUI",
+     "spotify_url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI?si=3Xz1I_kgRjGn0RveCVVp-w",
+     "subtitle": "Elliott Smith",
+     "title": "Waltz #2 (XO)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 297973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5BtbRb1XfakaECaQoa0AOo",
+     "spotify_url": "https://open.spotify.com/track/5BtbRb1XfakaECaQoa0AOo?si=vc0viQBKRYSXIXS3GVUHEA",
+     "subtitle": "Elliott Smith",
+     "title": "King's Crossing",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 264066,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:63OQupATfueTdZMWTxW03A",
+     "spotify_url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A?si=4Q_MyaxGTMK4bp6DFl_Zwg",
+     "subtitle": "Radiohead",
+     "title": "Karma Police",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202400,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7uIYZtnuaa4fz5VxQZVmX6",
+     "spotify_url": "https://open.spotify.com/track/7uIYZtnuaa4fz5VxQZVmX6?si=hrko6H5SRf-syuHmycV0Bw",
+     "subtitle": "Midtown",
+     "title": "Recluse",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 309600,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7vbv1mNw1fhMCaqbJ5haAT",
+     "spotify_url": "https://open.spotify.com/track/7vbv1mNw1fhMCaqbJ5haAT?si=1eW-gjefRwutjjON99sm5A",
+     "subtitle": "Cam'ron, JAŸ-Z, Juelz Santana",
+     "title": "Welcome To New York City",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=190",
+   "next_offset": 190,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=180"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 186493,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:42A4dSYBf0g9OHreccqU5o",
+     "spotify_url": "https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o?si=XOZpRlq6T2iuzfq492SEOw",
+     "subtitle": "Brand New",
+     "title": "Sic Transit Gloria ... Glory Fades",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 219866,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:625SmNWs5ggrNdqqaQNp7p",
+     "spotify_url": "https://open.spotify.com/track/625SmNWs5ggrNdqqaQNp7p?si=ft1a0FyrTB-OtPPYzHFQxg",
+     "subtitle": "Far East Movement, Riff Raff",
+     "title": "The Illest",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 291226,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:48dxLly3L9QERpreYM7MKv",
+     "spotify_url": "https://open.spotify.com/track/48dxLly3L9QERpreYM7MKv?si=-y_EJkAOTdWgkQRzsWGILw",
+     "subtitle": "Tyler, The Creator, Hodgy",
+     "title": "Sandwitches",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 231131,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6ciXM2ZqX2v5vzfPm8DHGa",
+     "spotify_url": "https://open.spotify.com/track/6ciXM2ZqX2v5vzfPm8DHGa?si=3dFJhkuARKWkG2I0gW18yg",
+     "subtitle": "T-Mass",
+     "title": "Beauty in Thirds",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 175124,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0LElIcqYsk9bkk8v5EHVbc",
+     "spotify_url": "https://open.spotify.com/track/0LElIcqYsk9bkk8v5EHVbc?si=zkYkuclnTyCLkT6TpJrGYA",
+     "subtitle": "Lil Wayne",
+     "title": "Throw It In",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 204800,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1mxTCArq9EhSg4QPGqhjhT",
+     "spotify_url": "https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT?si=CwyJTkt4ReivPLY2zLUxqQ",
+     "subtitle": "Backstreet Boys",
+     "title": "The Call",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 193659,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:35hlQfjBxCEULp5M20imRc",
+     "spotify_url": "https://open.spotify.com/track/35hlQfjBxCEULp5M20imRc?si=CrL9sKcoTHajz5QGAVCN9w",
+     "subtitle": "Yellow Claw, Rochelle",
+     "title": "Shotgun",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 194882,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7hABI1LTG3KXe131AzTfvk",
+     "spotify_url": "https://open.spotify.com/track/7hABI1LTG3KXe131AzTfvk?si=vmWfKH_FTsikPug5cmfEHA",
+     "subtitle": "Young Dolph",
+     "title": "Royalty",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 182400,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5YRmvwA6P4fABxRhc61iH9",
+     "spotify_url": "https://open.spotify.com/track/5YRmvwA6P4fABxRhc61iH9?si=dsTNpusNRAusMc3crFBXoQ",
+     "subtitle": "Flosstradamus, 24hrs",
+     "title": "2 MUCH (feat. 24hrs)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 152893,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3n9ABQpqK6EgaOPEtfzD4I",
+     "spotify_url": "https://open.spotify.com/track/3n9ABQpqK6EgaOPEtfzD4I?si=HlqINtuSSgCdBjOrCEVAZg",
+     "subtitle": "Bo Burnham",
+     "title": "Art Is Dead",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=200",
+   "next_offset": 200,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=190"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 229666,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7pHz9U4AZVAQXjs6ik0duH",
+     "spotify_url": "https://open.spotify.com/track/7pHz9U4AZVAQXjs6ik0duH?si=NgDsk4sJQcSJZz6PiDnevw",
+     "subtitle": "Death Cab for Cutie",
+     "title": "Cath...",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 255175,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6YEs8KWsFKQmULF5CUOz4n",
+     "spotify_url": "https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n?si=tl8jF4LVS6ukL5Mc0HGYsQ",
+     "subtitle": "Say Anything",
+     "title": "Alive With the Glory of Love",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 204200,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4toNCOvSAD6UmIcshU0tL3",
+     "spotify_url": "https://open.spotify.com/track/4toNCOvSAD6UmIcshU0tL3?si=TGSzZbvxS62lH_G4LJIBmg",
+     "subtitle": "Tegan and Sara",
+     "title": "Hell",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 263773,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:16Elz7HJPLZPMylp13ewxv",
+     "spotify_url": "https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv?si=I5y65T9TT--toArX4-3piQ",
+     "subtitle": "The Mars Volta",
+     "title": "Inertiatic Esp",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 741600,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4HoGyB1LUwZlO0m3h56bPy",
+     "spotify_url": "https://open.spotify.com/track/4HoGyB1LUwZlO0m3h56bPy?si=04ustxpSRrCcDsG5PZR3EA",
+     "subtitle": "The Mars Volta",
+     "title": "L'Via L'Viaquez",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 195013,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2d1D1E8M48hHE99u6BO8RN",
+     "spotify_url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN?si=bmwz3eTrSDGfZGcEbtA1fg",
+     "subtitle": "Panic! At The Disco",
+     "title": "That Green Gentleman (Things Have Changed)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 196653,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4xSVkbqCz1xaevkjP8xXL5",
+     "spotify_url": "https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5?si=410crxKKSjmnpBJR5hZQTQ",
+     "subtitle": "Panic! At The Disco",
+     "title": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 209933,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7IiuoNT64ygM75BEvekwYo",
+     "spotify_url": "https://open.spotify.com/track/7IiuoNT64ygM75BEvekwYo?si=dV28K1U9RnSQX7L-Us6U3A",
+     "subtitle": "All Time Low",
+     "title": "Time-Bomb",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 200133,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0bDgqN6snQ3JCl0ybPn6CA",
+     "spotify_url": "https://open.spotify.com/track/0bDgqN6snQ3JCl0ybPn6CA?si=8Km8U0p4Sny45nE2U5K91Q",
+     "subtitle": "All Time Low",
+     "title": "Keep The Change, You Filthy Animal",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 149613,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2GeLSYKBAMQVFuND07R99K",
+     "spotify_url": "https://open.spotify.com/track/2GeLSYKBAMQVFuND07R99K?si=gTRVooS_QGCqUut3ZmNC0Q",
+     "subtitle": "All Time Low",
+     "title": "This Is How We Do",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=210",
+   "next_offset": 210,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=200"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 180693,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7xyiVGD6wP114goNQ5FjM2",
+     "spotify_url": "https://open.spotify.com/track/7xyiVGD6wP114goNQ5FjM2?si=Xx7LUDVkTCmaIR1s4UQHpA",
+     "subtitle": "All Time Low",
+     "title": "Running From Lions",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 182160,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0xCNCDofDmt1iwBXhoX9wq",
+     "spotify_url": "https://open.spotify.com/track/0xCNCDofDmt1iwBXhoX9wq?si=iwK7F-AeRIGFJDLlfzoFjw",
+     "subtitle": "The Summer Set",
+     "title": "The Boys You Do (Get Back At You)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 217373,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5weqqLD5pDadqumvcrRCVA",
+     "spotify_url": "https://open.spotify.com/track/5weqqLD5pDadqumvcrRCVA?si=86nNc13CQ46aFnpn5B1kuw",
+     "subtitle": "Metro Station",
+     "title": "Kelsey",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 258266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1Up4RdOBpChNDytatxKDXP",
+     "spotify_url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP?si=BTlVoXZpTPadRIJ1AkHm3g",
+     "subtitle": "The Starting Line",
+     "title": "The Best Of Me",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 255600,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6kWPgqYEwEDAk5kHMJdrDo",
+     "spotify_url": "https://open.spotify.com/track/6kWPgqYEwEDAk5kHMJdrDo?si=Z1oq-FywScKgImAppj97GA",
+     "subtitle": "The Early November",
+     "title": "Ever So Sweet",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 251626,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6htLkgVPbqwnunLKYy7ztE",
+     "spotify_url": "https://open.spotify.com/track/6htLkgVPbqwnunLKYy7ztE?si=38pxTa8OTj6NWFJ0ck6tvA",
+     "subtitle": "The Early November",
+     "title": "The Mountain Range In My Living Room",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 199293,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4EPgjvnIn2Nv5pZLPa4IFU",
+     "spotify_url": "https://open.spotify.com/track/4EPgjvnIn2Nv5pZLPa4IFU?si=Mhh2gKPbRuaUGabW_JdJxA",
+     "subtitle": "Spitalfield",
+     "title": "I Loved the Way She Said L.A.",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 171266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3xVps0LVwCCw7mE0zEQi5O",
+     "spotify_url": "https://open.spotify.com/track/3xVps0LVwCCw7mE0zEQi5O?si=9sWTTYHrRE-ivJypW1hjrg",
+     "subtitle": "From Autumn To Ashes",
+     "title": "The After Dinner Payback",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 146160,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4G6pR5UAn4slysJMciH7XO",
+     "spotify_url": "https://open.spotify.com/track/4G6pR5UAn4slysJMciH7XO?si=78yijpeySEuYt-4I71oqhw",
+     "subtitle": "Atreyu",
+     "title": "Bleeding Mascara",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 244480,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6QfnvcOKsdN4Q6exUWVuzn",
+     "spotify_url": "https://open.spotify.com/track/6QfnvcOKsdN4Q6exUWVuzn?si=3_LsBQCSS2mBol5SMIDsZg",
+     "subtitle": "Hawthorne Heights",
+     "title": "Ohio Is for Lovers",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=220",
+   "next_offset": 220,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=210"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 228866,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2CCaFbnGcOkSZIkgdmvXcP",
+     "spotify_url": "https://open.spotify.com/track/2CCaFbnGcOkSZIkgdmvXcP?si=wDsrLR0SQA6Vb8ni7oESbg",
+     "subtitle": "The All-American Rejects",
+     "title": "My Paper Heart",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 237533,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1g5CHtsDQl7KVWaUiAwat0",
+     "spotify_url": "https://open.spotify.com/track/1g5CHtsDQl7KVWaUiAwat0?si=b_VKF97qQByNhEtTpKFIxw",
+     "subtitle": "+44",
+     "title": "Lycanthrope",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 205533,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7CfMr0QIGRlttIFjeLC6cA",
+     "spotify_url": "https://open.spotify.com/track/7CfMr0QIGRlttIFjeLC6cA?si=A-xT7cUdTaKw46LPjryjYA",
+     "subtitle": "Metric",
+     "title": "Dead Disco",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 300000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:28qrhTemF8wDtkj3nRHJcI",
+     "spotify_url": "https://open.spotify.com/track/28qrhTemF8wDtkj3nRHJcI?si=L2_fr9NwQSKy2NwxTwYK3Q",
+     "subtitle": "Keith Ape",
+     "title": "잊지마 It G Ma (Remix) [feat. A$AP Ferg, Father, Dumbfoundead & Waka Flocka Flame]",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 203180,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0SujigeT7cxuxBfhN3eOcp",
+     "spotify_url": "https://open.spotify.com/track/0SujigeT7cxuxBfhN3eOcp?si=1173F_8DSnqFry6mxUiUkQ",
+     "subtitle": "Major Lazer, PARTYNEXTDOOR, Nicki Minaj",
+     "title": "Run Up",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 167253,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7gCuKTyBb5nurNalzs0Hvp",
+     "spotify_url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp?si=Lu3CjtDoRTeDTRvUikuYGw",
+     "subtitle": "Skrillex, Noisia, josh pan, Dylan Brady",
+     "title": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 212226,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6C2nRgaujO84uuHZkaXcZQ",
+     "spotify_url": "https://open.spotify.com/track/6C2nRgaujO84uuHZkaXcZQ?si=7F734bN8TJGtOvDFdaU85A",
+     "subtitle": "Chuck Mangione",
+     "title": "Feels So Good - Single Version",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 300106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4jDmJ51x1o9NZB5Nxxc7gY",
+     "spotify_url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY?si=98lU1NurSZaCJlqEoCZTrw",
+     "subtitle": "George Michael",
+     "title": "Careless Whisper",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 218626,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:47No93LxERvV6MtOAmQzHS",
+     "spotify_url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS?si=OLy5Ni_9RZqXSBBhTfQbhw",
+     "subtitle": "Paramore",
+     "title": "Ignorance",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 130266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4uB28m7RAflobYpnLMb6A2",
+     "spotify_url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2?si=-_umdSftQjyFZ0JrbDSd5Q",
+     "subtitle": "NOFX",
+     "title": "Linoleum",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=230",
+   "next_offset": 230,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=220"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 299933,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3uUCgL0cbSd0isnqhHCm1f",
+     "spotify_url": "https://open.spotify.com/track/3uUCgL0cbSd0isnqhHCm1f?si=gaGwVNfMT1SkmQgcvlkqpg",
+     "subtitle": "Lana Del Rey",
+     "title": "Off To The Races",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 275616,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0dssTLrqY79Klk6jx2RXCj",
+     "spotify_url": "https://open.spotify.com/track/0dssTLrqY79Klk6jx2RXCj?si=5mqttNyjT6ig2F5-R9_mug",
+     "subtitle": "Lana Del Rey",
+     "title": "When The World Was At War We Kept Dancing",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 337333,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2QR5DdJfnpnKiidtCS7KGD",
+     "spotify_url": "https://open.spotify.com/track/2QR5DdJfnpnKiidtCS7KGD?si=9upRIBjNTmCnJ8X9AkN44g",
+     "subtitle": "Wu-Tang Clan, Erykah Badu, Dhani Harrison, John Frusciante",
+     "title": "The Heart Gently Weeps",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 224533,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1EHkLFZZd9BCwd95RhQgJ4",
+     "spotify_url": "https://open.spotify.com/track/1EHkLFZZd9BCwd95RhQgJ4?si=w1ksbb4aT86g7h-YEUxHlA",
+     "subtitle": "Ghostface Killah",
+     "title": "Shakey Dog",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 197800,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2kfpH2OAAdpk5J3JaraAIh",
+     "spotify_url": "https://open.spotify.com/track/2kfpH2OAAdpk5J3JaraAIh?si=Nu1tZKncRXm1_FXKendykg",
+     "subtitle": "ScHoolboy Q, A$AP Rocky",
+     "title": "Hands On The Wheel",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 253946,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1a9YW7fATU351ok4zWjU7a",
+     "spotify_url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a?si=mGKQrBivSO6xaXFUSYCv8Q",
+     "subtitle": "Paramore",
+     "title": "Brick by Boring Brick",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 185066,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7lbVFd0T5yZGt7MNU4Kf8Y",
+     "spotify_url": "https://open.spotify.com/track/7lbVFd0T5yZGt7MNU4Kf8Y?si=6xdnebm1SzqGDktwjXYwMg",
+     "subtitle": "Uffie",
+     "title": "Art Of Uff",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 249333,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1zsAAnB6dMpGOvXjoYP9Um",
+     "spotify_url": "https://open.spotify.com/track/1zsAAnB6dMpGOvXjoYP9Um?si=bJy7Iq2HTSa4UgmAHBEbSQ",
+     "subtitle": "Tyler, The Creator",
+     "title": "Yonkers",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 206266,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:430qNtapCS3Ue1yoSql1oV",
+     "spotify_url": "https://open.spotify.com/track/430qNtapCS3Ue1yoSql1oV?si=Zlne8SpdSFmvQHzoFMMp_A",
+     "subtitle": "Tyler, The Creator",
+     "title": "I Ain't Got Time!",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 310733,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7in3GxNPphXDq1Mcm586el",
+     "spotify_url": "https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el?si=M8Qv1Ny4R3mjSTWGFpufBA",
+     "subtitle": "Young Scooter, Birdman & Gucci Mane, Rick Ross",
+     "title": "Columbia Remix (Dirty)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=240",
+   "next_offset": 240,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=230"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 200026,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7kmhvwI0VlpqdoX5QBTo6Z",
+     "spotify_url": "https://open.spotify.com/track/7kmhvwI0VlpqdoX5QBTo6Z?si=iTMxo0s_Q_yXtPK5ikoVHw",
+     "subtitle": "The Matches",
+     "title": "Audio Blood",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 209973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0TZ1MAPCWb2jpaKzS5Muyz",
+     "spotify_url": "https://open.spotify.com/track/0TZ1MAPCWb2jpaKzS5Muyz?si=TWDKkkfcRlCx7iJh54Kuqw",
+     "subtitle": "Streetlight Manifesto",
+     "title": "Everything Went Numb",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 297706,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:44OxMEnyeiF4KoABexhPwz",
+     "spotify_url": "https://open.spotify.com/track/44OxMEnyeiF4KoABexhPwz?si=GcO_9HjdT4iLiWUcAlpoFA",
+     "subtitle": "The Dears",
+     "title": "Omega Dog",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226693,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4XjXXK9GhDdMVR8xMKZLih",
+     "spotify_url": "https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih?si=0V70JOL8RUuuZGJN5-SYLg",
+     "subtitle": "Smith Westerns",
+     "title": "All Die Young",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226423,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4tBDO1ph3o0y4PLxJ79gZq",
+     "spotify_url": "https://open.spotify.com/track/4tBDO1ph3o0y4PLxJ79gZq?si=-EJfnDqRSdiA0f4a0cSJqw",
+     "subtitle": "Nick Lutsko",
+     "title": "Spineless",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 309093,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7xqeIdLJSf3bgmZ7vUvHrE",
+     "spotify_url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE?si=fUTkL010QniKrTXhE2bJxw",
+     "subtitle": "Radiohead",
+     "title": "Idioteque",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 236133,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4QfXw1g9RlZ97gwK4Qqrqf",
+     "spotify_url": "https://open.spotify.com/track/4QfXw1g9RlZ97gwK4Qqrqf?si=vvea_ZHsSCW2YG7MMmIUbA",
+     "subtitle": "Tapes 'n Tapes",
+     "title": "Badaboom",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 250133,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1YusvISvGXpEDHYjOZfyoX",
+     "spotify_url": "https://open.spotify.com/track/1YusvISvGXpEDHYjOZfyoX?si=lo1XkluIRnym5n5s-jpMCg",
+     "subtitle": "Bright Eyes",
+     "title": "Jejune Stars",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 152626,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5ynVnBhfQNJGzG359vlgp7",
+     "spotify_url": "https://open.spotify.com/track/5ynVnBhfQNJGzG359vlgp7?si=Vho1syOGRgq1C1dWPGCtuA",
+     "subtitle": "Hellogoodbye",
+     "title": "Bonnie Taylor Shake Down...2K4",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 196466,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0M9VqYG0wVun054JIdwFO8",
+     "spotify_url": "https://open.spotify.com/track/0M9VqYG0wVun054JIdwFO8?si=NLFa3h2HSOW3yrvOM29DxQ",
+     "subtitle": "Demi Lovato",
+     "title": "La La Land",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=250",
+   "next_offset": 250,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=240"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 212026,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5FsZsAbtxjkdicClDyUdQi",
+     "spotify_url": "https://open.spotify.com/track/5FsZsAbtxjkdicClDyUdQi?si=oIXFfn3uRqqNXNAq8n0bbg",
+     "subtitle": "Punchline",
+     "title": "The Fake, the Snake, and the Birthday Cake",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 256333,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4UWcrSViQZwzFzc47ltS42",
+     "spotify_url": "https://open.spotify.com/track/4UWcrSViQZwzFzc47ltS42?si=HCbwy7WeTvO8xqNNiqZH-A",
+     "subtitle": "Bright Eyes",
+     "title": "Four Winds",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 165186,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:00AAj1kdx0mf5agqVniktg",
+     "spotify_url": "https://open.spotify.com/track/00AAj1kdx0mf5agqVniktg?si=4DNObohPTCuE-_BWMJh58A",
+     "subtitle": "ILL BILL",
+     "title": "My Uncle",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 213066,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0KhMj83N700Wrofm3hgyiN",
+     "spotify_url": "https://open.spotify.com/track/0KhMj83N700Wrofm3hgyiN?si=BoLqdevLRnC6l7RU85-5hQ",
+     "subtitle": "Less Than Jake",
+     "title": "The Rest of My Life",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226026,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4h8nJVEsWTAKKWqVu8Fjho",
+     "spotify_url": "https://open.spotify.com/track/4h8nJVEsWTAKKWqVu8Fjho?si=YdgCQlQnQDyeYLqfUsdsiQ",
+     "subtitle": "Skindred",
+     "title": "The Fear",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 231211,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0xMd5bcWTbyXS7wPrBtZA6",
+     "spotify_url": "https://open.spotify.com/track/0xMd5bcWTbyXS7wPrBtZA6?si=XYb_2fXaQQShxOyfdX66Bw",
+     "subtitle": "Ellie Goulding",
+     "title": "Burn",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 234600,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3ATfsEiBwoNVSq1JPDNwcb",
+     "spotify_url": "https://open.spotify.com/track/3ATfsEiBwoNVSq1JPDNwcb?si=nISjx7OyRTaT1k9t6i-HAQ",
+     "subtitle": "Metric",
+     "title": "Gimme Sympathy",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 198173,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:58m9LH2EpkEIxjpwqhQlEg",
+     "spotify_url": "https://open.spotify.com/track/58m9LH2EpkEIxjpwqhQlEg?si=iX0sMqXoTYSD8GSYHVIcmA",
+     "subtitle": "Ted Leo and the Pharmacists",
+     "title": "Bottled In Cork",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 213173,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4PuVBdvrBLyoIWRiXfHDCO",
+     "spotify_url": "https://open.spotify.com/track/4PuVBdvrBLyoIWRiXfHDCO?si=GQr10qohTRmUqIkfIeiy4g",
+     "subtitle": "Jack's Mannequin",
+     "title": "Amy, I",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 178626,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF",
+     "spotify_url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF?si=rKy6ni-_RBKV2obwurfCAA",
+     "subtitle": "Ariana Grande",
+     "title": "7 rings",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=260",
+   "next_offset": 260,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=250"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 208014,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2dam1YcpllKLaeIunQvIrV",
+     "spotify_url": "https://open.spotify.com/track/2dam1YcpllKLaeIunQvIrV?si=c7zxWGZjS9Cig66GyoO4Kw",
+     "subtitle": "Anamanaguchi",
+     "title": "Jetpack Blues, Sunset Hues",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 239733,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6wGTA8BOJZFZNlzP5KgGYs",
+     "spotify_url": "https://open.spotify.com/track/6wGTA8BOJZFZNlzP5KgGYs?si=CvWeCKHNSdiT_PUENgg2yw",
+     "subtitle": "The Tallest Man On Earth",
+     "title": "1904",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 261240,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2IsXzSI88vNpFGMXG7wD9K",
+     "spotify_url": "https://open.spotify.com/track/2IsXzSI88vNpFGMXG7wD9K?si=TMsD3lw0Si-z055Wpn_eSA",
+     "subtitle": "Vampire Weekend, Danny Brown, Heems, Despot",
+     "title": "Step",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 228293,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2IBM7pWht51SaU52GZGiEc",
+     "spotify_url": "https://open.spotify.com/track/2IBM7pWht51SaU52GZGiEc?si=_HEuXAsiRzOah0MALhJQ-g",
+     "subtitle": "Paramore",
+     "title": "For a Pessimist, I'm Pretty Optimistic",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 217053,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0fonaf88IEDQM309zmU80L",
+     "spotify_url": "https://open.spotify.com/track/0fonaf88IEDQM309zmU80L?si=JironzyzQHubljqOuyLhjA",
+     "subtitle": "Ariana Grande, Cashmere Cat",
+     "title": "Be My Baby",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 181818,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6FoVj4XLb8Aro1gxcCT6Rk",
+     "spotify_url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk?si=u_C9qj86Rb2zBZQNWTnE1Q",
+     "subtitle": "bradeazy, Mike Renza",
+     "title": "Backstage Baddies",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 242840,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1KvoW6HPuW7Mu9i55XaibE",
+     "spotify_url": "https://open.spotify.com/track/1KvoW6HPuW7Mu9i55XaibE?si=epat-TYiQfmeFOm7uWEEhg",
+     "subtitle": "JoJo",
+     "title": "Leave (Get Out)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 214883,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5XVjNRubJUW0iPhhSWpLCj",
+     "spotify_url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj?si=iw-Pg6GLRjyF5KtNK6Curg",
+     "subtitle": "Alice Deejay",
+     "title": "Better Off Alone",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202583,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5N6M8yDiMV32T6Rkzh8EbW",
+     "spotify_url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW?si=8_XknyOrRIe0kubNQv5VuQ",
+     "subtitle": "Vengaboys",
+     "title": "Boom, Boom, Boom, Boom!!",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 214533,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5qPkEnq2wSbnLJTK31mZy4",
+     "spotify_url": "https://open.spotify.com/track/5qPkEnq2wSbnLJTK31mZy4?si=MhqU3ysvTHe4x4Ef6nhMxw",
+     "subtitle": "Scarface",
+     "title": "On My Block",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=270",
+   "next_offset": 270,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=260"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 198973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1GLco0U2FinSfaZuAXWsw3",
+     "spotify_url": "https://open.spotify.com/track/1GLco0U2FinSfaZuAXWsw3?si=HRUYSEb7SE-Xl-eTMo-AqQ",
+     "subtitle": "Paramore",
+     "title": "Fences",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 191133,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5heRy6IDNiQXDJf1tZ6SUc",
+     "spotify_url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc?si=wijG_VzQSSSjotoht9x1Xw",
+     "subtitle": "Taking Back Sunday",
+     "title": "Liar (It Takes One To Know One)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 175919,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5OF5BXeoXG4IJKVM6dxAbO",
+     "spotify_url": "https://open.spotify.com/track/5OF5BXeoXG4IJKVM6dxAbO?si=Tv28CD4zQxmAQmuQKi4UXQ",
+     "subtitle": "SHAE., Haasy",
+     "title": "SOUL",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 182608,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:688MRabbIVRJRtZxef04Um",
+     "spotify_url": "https://open.spotify.com/track/688MRabbIVRJRtZxef04Um?si=kbXGE4dRSUWh6LzJZhLwSA",
+     "subtitle": "Levity",
+     "title": "The Deep",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 226285,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5f9lGdQdpuJLCINacT7AEZ",
+     "spotify_url": "https://open.spotify.com/track/5f9lGdQdpuJLCINacT7AEZ?si=PL2Bsw_HTGaAwaMW6JnCGg",
+     "subtitle": "saka",
+     "title": "Shenlong",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 217266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7cz70nyRXlCJOE85whEkgU",
+     "spotify_url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU?si=Edxjy12wSq2M_Otck8idlQ",
+     "subtitle": "Harvey Danger",
+     "title": "Flagpole Sitta",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 254896,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3mof6Z6vz6gonsuIEQXank",
+     "spotify_url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank?si=obt65gVqR6mk_hbCSvERgw",
+     "subtitle": "Just A Gent, NGHTMRE",
+     "title": "Limelight (NGHTMRE Remix)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 165372,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3qL63QvSTHvC4Uw8eEhz4z",
+     "spotify_url": "https://open.spotify.com/track/3qL63QvSTHvC4Uw8eEhz4z?si=Q7fDatYYSdu2IZNn-IgwOA",
+     "subtitle": "Skrillex, Noisia, josh pan, Dylan Brady",
+     "title": "Supersonic (my existence)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 214285,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5lIW37wg5kwRWcbUYlTpuP",
+     "spotify_url": "https://open.spotify.com/track/5lIW37wg5kwRWcbUYlTpuP?si=rmMTTprVTVe0QNqQsaBrPg",
+     "subtitle": "Subtronics, ILLENIUM, Royal & the Serpent",
+     "title": "Got Away (feat. Royal & the Serpent)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 238466,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5Tl0HJvynZtKdSUMKbFVVX",
+     "spotify_url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX?si=DTX3KTZGQ4CF7H_uFf09dA",
+     "subtitle": "JAŸ-Z",
+     "title": "Hard Knock Life (Ghetto Anthem)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=280",
+   "next_offset": 280,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=270"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 173858,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:44XOYeAmO5L8tGiwMp4K7b",
+     "spotify_url": "https://open.spotify.com/track/44XOYeAmO5L8tGiwMp4K7b?si=XHX9LVwbRXKvBoKUgNzE8Q",
+     "subtitle": "Louis The Child, K.Flay",
+     "title": "It's Strange (feat. K.Flay) - Euphoria VIP",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 315200,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2UWdUez9MB9yzL7Y81Mcip",
+     "spotify_url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip?si=H_a9rd7oSpeOBw1laWg9kQ",
+     "subtitle": "Arcade Fire",
+     "title": "The Suburbs",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 197559,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4zWAI3re2nG4MxYbnu6g43",
+     "spotify_url": "https://open.spotify.com/track/4zWAI3re2nG4MxYbnu6g43?si=6NEPeqC_R_6autKYAUv12A",
+     "subtitle": "Mac Miller",
+     "title": "Frick Park Market",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 240693,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1DIXPcTDzTj8ZMHt3PDt8p",
+     "spotify_url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p?si=BRdZetJZTR2wmTnkHhUf-w",
+     "subtitle": "Coolio, L.V.",
+     "title": "Gangsta's Paradise",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 51387,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1RjgQ5btVt82Urns3Fyzbc",
+     "spotify_url": "https://open.spotify.com/track/1RjgQ5btVt82Urns3Fyzbc?si=3HJvBd_1TwysQhGthyBXew",
+     "subtitle": "Nick Lutsko",
+     "title": "I Wanna Be at the RNC",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 298666,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0Q0IVlqMV64kNLlwjPj0Hl",
+     "spotify_url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl?si=OmczO1iwSh2DS73kQ53r_w",
+     "subtitle": "Fugees, Ms. Lauryn Hill",
+     "title": "Killing Me Softly With His Song",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 261426,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:24yaR0CyO2oRISmeL2AvVj",
+     "spotify_url": "https://open.spotify.com/track/24yaR0CyO2oRISmeL2AvVj?si=ysf6_XyzR-enoueAnEM9FQ",
+     "subtitle": "Radiohead",
+     "title": "Karma Police - Remastered",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 204266,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2tkmkThbmSsJvBH8Q0y12d",
+     "spotify_url": "https://open.spotify.com/track/2tkmkThbmSsJvBH8Q0y12d?si=cT7PsExzQyGmPfT6o8fOzQ",
+     "subtitle": "Forever The Sickest Kids",
+     "title": "Love Story",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 241701,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:77EfrbrhSpMJcJmTgRigPO",
+     "spotify_url": "https://open.spotify.com/track/77EfrbrhSpMJcJmTgRigPO?si=-nE2sKHLRt2ZMYcapcz4_w",
+     "subtitle": "Flosstradamus, Waka Flocka Flame",
+     "title": "TTU (Too Turnt Up) (feat. Waka Flocka Flame)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 261000,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4iG2gAwKXsOcijVaVXzRPW",
+     "spotify_url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW?si=HcoJUB-3QYu-K2OoP-gtlQ",
+     "subtitle": "MGMT",
+     "title": "Time to Pretend",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=290",
+   "next_offset": 290,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=280"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 305168,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5XfeHUB3HCzm4jLxtpC349",
+     "spotify_url": "https://open.spotify.com/track/5XfeHUB3HCzm4jLxtpC349?si=rCZa5y_aQuupLJmnRqrmEg",
+     "subtitle": "Parachute Youth, What So Not",
+     "title": "Awake Now - What So Not Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 186480,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7lRlq939cDG4SzWOF4VAnd",
+     "spotify_url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd?si=OczosjDQQxyA-FR5by05YQ",
+     "subtitle": "My Chemical Romance",
+     "title": "I'm Not Okay (I Promise)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 184827,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6xAu3QW0qtNmMRRwTLOtvi",
+     "spotify_url": "https://open.spotify.com/track/6xAu3QW0qtNmMRRwTLOtvi?si=ZX6ioTbzQKKZRlHraJ1WJQ",
+     "subtitle": "Primate",
+     "title": "Wanted",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 251800,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1A2PWRltFrX8iB8IP3CUgo",
+     "spotify_url": "https://open.spotify.com/track/1A2PWRltFrX8iB8IP3CUgo?si=UXSUWW-5SQOJ2ys6rAZkjg",
+     "subtitle": "John Parr",
+     "title": "St. Elmos Fire (Man in Motion)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 216866,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7dhyG5sdLYlvR7uwDKa1fH",
+     "spotify_url": "https://open.spotify.com/track/7dhyG5sdLYlvR7uwDKa1fH?si=jQ80VPwtQz-9cvpv_ikT8Q",
+     "subtitle": "The Starting Line",
+     "title": "Up And Go",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 195403,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4ZdbgG1lzEJY5YFWomSnKZ",
+     "spotify_url": "https://open.spotify.com/track/4ZdbgG1lzEJY5YFWomSnKZ?si=90TPSK2URqa8Ynd9048Cdg",
+     "subtitle": "Ashez, Gallium",
+     "title": "Headway",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 181746,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6SNcS3vZRU4CCwntDbjeXs",
+     "spotify_url": "https://open.spotify.com/track/6SNcS3vZRU4CCwntDbjeXs?si=0vRoHI8lT8uIj_tNhEEteQ",
+     "subtitle": "Tegan and Sara",
+     "title": "I Know I Know I Know - Live",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 220720,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4rstj4vgkFq49R2VV0fbxX",
+     "spotify_url": "https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX?si=f074jdXbRMKqjTQ8_3PEsw",
+     "subtitle": "Panic! At The Disco",
+     "title": "Build God, Then We'll Talk",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 208581,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3VuMvmrQgXoGmuJYXqMtW1",
+     "spotify_url": "https://open.spotify.com/track/3VuMvmrQgXoGmuJYXqMtW1?si=uCvSdQd0SKq12KzmBGYI7w",
+     "subtitle": "Kromestar",
+     "title": "The Progress",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 636213,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:53dkS3h9uTNsWYZTPacnpx",
+     "spotify_url": "https://open.spotify.com/track/53dkS3h9uTNsWYZTPacnpx?si=arIkvtuJQXiG01VzhssRYw",
+     "subtitle": "Odd Future",
+     "title": "Oldie",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=300",
+   "next_offset": 300,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=290"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 149793,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0FXEclPDVfUNHYDiyAPXYP",
+     "spotify_url": "https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP?si=iCgAu9rNTSCAtD4j9QhpEg",
+     "subtitle": "Mary Droppinz",
+     "title": "Drop In",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 213800,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2Srd8Jgif3kc6ou6Z4pSYJ",
+     "spotify_url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ?si=x04Qizq-TfWNVfSfZzAfhw",
+     "subtitle": "Placebo",
+     "title": "Every You Every Me",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 183160,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4uQ7wYsuL0DryknoDc11Hk",
+     "spotify_url": "https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk?si=dPowPQTeQb-mN8sqBSqVyw",
+     "subtitle": "Vince Staples",
+     "title": "Norf Norf",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 201106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7ehvyx8K9ZRbOofjeUyIic",
+     "spotify_url": "https://open.spotify.com/track/7ehvyx8K9ZRbOofjeUyIic?si=5yBDLafQTN-t8S9ZKb-usQ",
+     "subtitle": "Frank Ocean",
+     "title": "Thinkin Bout You",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202346,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1NiAMp0CzUdG6e97VYRB1a",
+     "spotify_url": "https://open.spotify.com/track/1NiAMp0CzUdG6e97VYRB1a?si=HYlN6O5cSc-y9tGQTlXFaQ",
+     "subtitle": "Neutral Milk Hotel",
+     "title": "In the Aeroplane Over the Sea",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 258030,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0mwlZQjUxspUTpAzLwexw7",
+     "spotify_url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7?si=NQs27IH4SGe5kK5ghMunNA",
+     "subtitle": "Clipse, Tyler, The Creator, Pusha T, Malice",
+     "title": "P.O.V.",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 232031,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2D6makyG9bp5Zve7nUXUP2",
+     "spotify_url": "https://open.spotify.com/track/2D6makyG9bp5Zve7nUXUP2?si=gwyAhZvkTPywdNLvempcWQ",
+     "subtitle": "INZO, Blookah, DijahSB",
+     "title": "Go Mode",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 194440,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4NaPX1b3NsQqJrrAwkkvVc",
+     "spotify_url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc?si=3N-iQTWDRUm0H1dXYsOMXw",
+     "subtitle": "Jack's Mannequin",
+     "title": "The Mixed Tape - 2015 Remastered",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226222,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:23loNjKp3yxyc7NTuwphrn",
+     "spotify_url": "https://open.spotify.com/track/23loNjKp3yxyc7NTuwphrn?si=qzq_X2HRT4eAFHo2AwGNww",
+     "subtitle": "Fred again.., CA7RIEL & Paco Amoroso",
+     "title": "Beto’s Horns - fred remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 278400,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:26xlCgHpcF4GE0FFVsS6Oy",
+     "spotify_url": "https://open.spotify.com/track/26xlCgHpcF4GE0FFVsS6Oy?si=Y-ybn_B5TKu2hRkkS9WR8w",
+     "subtitle": "AC Slater, Chris Lorenzo, Wax Motif",
+     "title": "Fly Kicks - Wax Motif Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=310",
+   "next_offset": 310,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=300"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 137790,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4KNjK6R0aB4j8IT9LU0o6T",
+     "spotify_url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T?si=txcGWxkkQl2rOwYvJMp_Zw",
+     "subtitle": "oskar med k",
+     "title": "Spellbound",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 437647,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0pyjqTGLsrg1r6m5YR4tuq",
+     "spotify_url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq?si=bQhem_m8TU2psFFcx29VAA",
+     "subtitle": "Adriatique, Marino Canal, Delhia De France, Mind Against",
+     "title": "Home - Mind Against Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 200086,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1VKWQgq0g2uKtgNfL0ceNM",
+     "spotify_url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM?si=7TnJt1oMTyyAxnVZhWA5zw",
+     "subtitle": "Mason, Princess Superstar, 1991",
+     "title": "Perfect (Exceeder) - 1991 Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 146384,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0bhnFakmRioZbuQcmhVwoH",
+     "spotify_url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH?si=KGm9LBWITyaPCn7sJmLfzg",
+     "subtitle": "Kabin Crew, Lisdoonvarna Crew",
+     "title": "The Spark",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 261240,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4jpiU50GLkAqZgwgQbSezT",
+     "spotify_url": "https://open.spotify.com/track/4jpiU50GLkAqZgwgQbSezT?si=zCSdwajxTBiLTkletrZIJA",
+     "subtitle": "Vampire Weekend, Danny Brown, Heems, Despot",
+     "title": "Step",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 178285,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7EyhssM3gS5EwyrRpJ802Z",
+     "spotify_url": "https://open.spotify.com/track/7EyhssM3gS5EwyrRpJ802Z?si=YvsnOTeKTcOHDsNecj5m0g",
+     "subtitle": "Know Good",
+     "title": "Sock'em Bop'em",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 154066,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1JvQhXD5FxkK2GjHCyFmZa",
+     "spotify_url": "https://open.spotify.com/track/1JvQhXD5FxkK2GjHCyFmZa?si=gfDrxZzyS3KVl9VbZieIdA",
+     "subtitle": "Clipse, Pusha T, Malice",
+     "title": "Ace Trumpets",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 290742,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1gPJ3F2p8rwhlzr1AF58W7",
+     "spotify_url": "https://open.spotify.com/track/1gPJ3F2p8rwhlzr1AF58W7?si=86oESrEETYedUMBJH9rMvg",
+     "subtitle": "Mefjus, Camo & Krooked",
+     "title": "Sientelo",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 164284,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2kOdk4z9GlgxA7LSgTPb7S",
+     "spotify_url": "https://open.spotify.com/track/2kOdk4z9GlgxA7LSgTPb7S?si=_KvMxzZaTTagg6RJng1rCA",
+     "subtitle": "Charli xcx",
+     "title": "Von dutch",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 140500,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2YHUlS8D0qH6GUUMNBHFgT",
+     "spotify_url": "https://open.spotify.com/track/2YHUlS8D0qH6GUUMNBHFgT?si=oZAbbHT0QeeoHb019TNdMg",
+     "subtitle": "HUGEL, Diplo, Malou, Yuna",
+     "title": "Forever (feat. Malou & Yuna)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=320",
+   "next_offset": 320,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=310"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 199916,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0aHWzIvtnkG3FVcBoFQ6BG",
+     "spotify_url": "https://open.spotify.com/track/0aHWzIvtnkG3FVcBoFQ6BG?si=L2y-v662Svupo47E4HPnkQ",
+     "subtitle": "Fall Out Boy",
+     "title": "The Patron Saint of Liars and Fakes",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 198857,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0ySW1vdmqRwA95VvQOc0GC",
+     "spotify_url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC?si=MpQ57G7yRumrX_b47W4BCw",
+     "subtitle": "Camo & Krooked",
+     "title": "Falling",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 205752,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2ZqTtndqAZDRAWw2vgZwQK",
+     "spotify_url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK?si=S4P_fNpBRHSthYE-EUdRNQ",
+     "subtitle": "Panic! At The Disco",
+     "title": "But It's Better If You Do",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 224232,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0vMIb12OsAkLzYuuWixnka",
+     "spotify_url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka?si=0QiVigWcS3aYLUZ3IK57tA",
+     "subtitle": "Friction, Basstripper",
+     "title": "Supersonic - Basstripper Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 143450,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1XvGtoO3ubLRFHXChk3Q1P",
+     "spotify_url": "https://open.spotify.com/track/1XvGtoO3ubLRFHXChk3Q1P?si=YNBn13VoT5iWOwiLesdkaA",
+     "subtitle": "Eliminate",
+     "title": "BodyMove",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 183333,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:33n3pRhzyat73ZGUzluZjx",
+     "spotify_url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx?si=0DxJeeWmTnePZ6NS51LLXA",
+     "subtitle": "Taking Back Sunday",
+     "title": "Set Phasers To Stun",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 250906,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1TmMehHY1wPOkukAVBA7fb",
+     "spotify_url": "https://open.spotify.com/track/1TmMehHY1wPOkukAVBA7fb?si=bm4RH_l6Sgu7ftscBTYOOw",
+     "subtitle": "Brand New",
+     "title": "Handcuffs",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 186818,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6qJhrI2BMuA8qHcmycD3fL",
+     "spotify_url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL?si=9dlHiQRXRdWJBQa5VqRing",
+     "subtitle": "Mau P",
+     "title": "TESLA",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 174857,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:13IFfr6kVUSLb19xnQjMk6",
+     "spotify_url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6?si=Mb2JwbRHQQO1dEVHq3lwQw",
+     "subtitle": "LYNY",
+     "title": "Section",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 216000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0ezzY28pW6MYCb5RLkWQg8",
+     "spotify_url": "https://open.spotify.com/track/0ezzY28pW6MYCb5RLkWQg8?si=GEEVtAVaS8-7sOq3mT20wA",
+     "subtitle": "Subtronics, ILLENIUM, Royal & the Serpent",
+     "title": "Got Away (feat. Royal & the Serpent)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=330",
+   "next_offset": 330,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=320"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 229093,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2TfSHkHiFO4gRztVIkggkE",
+     "spotify_url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE?si=dxGpjDhBTyywLOH1aeKzBw",
+     "subtitle": "Fall Out Boy",
+     "title": "Sugar, We're Goin Down",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 146059,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6XIh9BtczdxO7HRQwrIPti",
+     "spotify_url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti?si=NSHMfKzPSr6detunzoHiuQ",
+     "subtitle": "Disco Lines, Ship Wrek",
+     "title": "I Don't Trust A Soul",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 186240,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1GfJCWGLfdev016PSsrUO8",
+     "spotify_url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8?si=Es_R8m12TZOxAJggsUInYw",
+     "subtitle": "oskar med k",
+     "title": "Make Me Feel",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 170317,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7A1QLN9c3uKeQdhp05o0jp",
+     "spotify_url": "https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp?si=g5oKuKJUTwKgkLxtkfHmjw",
+     "subtitle": "BUNT., Tom Odell",
+     "title": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 186000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:37iVjhBGNBnxVSuF67TX0H",
+     "spotify_url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H?si=AWZ9IlWcQoKzoxN4Df8QZg",
+     "subtitle": "NGHTMRE, Viperactive, JT Roach",
+     "title": "Cyanide",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 200170,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2lSDVBIWbWQ7z5Lw15GRNw",
+     "spotify_url": "https://open.spotify.com/track/2lSDVBIWbWQ7z5Lw15GRNw?si=-zo4-2ZPSIOgeDhvq_akkQ",
+     "subtitle": "A$AP Rocky, BossMan Dlow, Sauce Walka",
+     "title": "STOP SNITCHING (feat. BossMan Dlow & Sauce Walka)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 140288,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1UsvO5U72YRU8Xnq8Lp14O",
+     "spotify_url": "https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O?si=VqvVuULoSaq8zm1-xiCJew",
+     "subtitle": "$uicideboy$, Germ",
+     "title": "Champagne Face",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226222,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:53rDh4kB1LJyLgnxm8K6Np",
+     "spotify_url": "https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np?si=gZwzlQNIRq-NimYdZzROvQ",
+     "subtitle": "Fred again.., CA7RIEL & Paco Amoroso",
+     "title": "Beto’s Horns - fred remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 212307,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4fX5TrTpbze93zEzkhDOBb",
+     "spotify_url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb?si=6ojapo94T9GMnYx3WraaSw",
+     "subtitle": "Chris Lorenzo, Parris Mitchell, Waxmaster",
+     "title": "Hell Yeah (Feat. Waxmaster)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 204179,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1UAY4CHyzaFtqZDQ8z63GS",
+     "spotify_url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS?si=BqNphifiQI6_Jz8iEwHXoA",
+     "subtitle": "Odd Mob, Lizzy Land",
+     "title": "Never Alone (feat. Lizzy Land)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=340",
+   "next_offset": 340,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=330"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 232806,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7ub14NqqyR1MDUTXyFBTzO",
+     "spotify_url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO?si=-16lQO13RM-NdXCYMA5v4w",
+     "subtitle": "SOPHIE",
+     "title": "Immaterial",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 178285,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:3HD9GLv9hzwTPAkhmBIXKq",
+     "spotify_url": "https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq?si=Vqhwt6OhQ9W3zqFuPrexhA",
+     "subtitle": "Adventure Club, Flux Pavilion, Jaira Burns",
+     "title": "Goddess",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:6Fc1FRckZqBe7kduUSeBV3/sections/contents/items?offset=340"
+  }
+ ],
+ "track_count": 342
+}

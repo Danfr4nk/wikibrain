@@ -1,0 +1,46 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:0h4heO9tqNE35ZvDF7DhDc",
+  "spotify_url": "https://open.spotify.com/playlist/0h4heO9tqNE35ZvDF7DhDc?si=OCyndwhvQbWlxg5xvXflAQ",
+  "subtitle": "",
+  "title": "Schoolboy Q - Hell Of A Night (Yogi Remix)",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 272453,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5DOR49R0fehoBmyNL8m4sN",
+       "spotify_url": "https://open.spotify.com/track/5DOR49R0fehoBmyNL8m4sN?si=DYh8NSp1TOOYyXpx9-C-Gg",
+       "subtitle": "ScHoolboy Q",
+       "title": "Hell Of A Night",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Schoolboy Q - Hell Of A Night (Yogi Remix)"
+  }
+ ],
+ "track_count": 1
+}

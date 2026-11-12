@@ -1,0 +1,46 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6Tma9G3UI07oZIn2bLoeXq",
+  "spotify_url": "https://open.spotify.com/playlist/6Tma9G3UI07oZIn2bLoeXq?si=SiiQGTu3RtaFt0zobtfauA",
+  "subtitle": "",
+  "title": "HEAT EP (WERK004)",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 137142,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:0HGItm7Ox9AnHZbx26nkE4",
+       "spotify_url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4?si=XcxRql2XQFa6a99ouGbcew",
+       "subtitle": "Shoreline Mafia, OHGEESY, Fenix Flexin",
+       "title": "HEAT STICK",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "HEAT EP (WERK004)"
+  }
+ ],
+ "track_count": 1
+}

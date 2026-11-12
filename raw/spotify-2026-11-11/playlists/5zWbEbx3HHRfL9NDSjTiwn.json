@@ -1,0 +1,46 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:5zWbEbx3HHRfL9NDSjTiwn",
+  "spotify_url": "https://open.spotify.com/playlist/5zWbEbx3HHRfL9NDSjTiwn?si=oC8fj0cKRMiKT9z1DyMYNQ",
+  "subtitle": "",
+  "title": "LOUDPVCK & NGHTMRE - Click Clack",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 187221,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4hcCUmWAxXT36YHZyyUNyX",
+       "spotify_url": "https://open.spotify.com/track/4hcCUmWAxXT36YHZyyUNyX?si=13wBnLxPRQ6lwmbo_fo3CA",
+       "subtitle": "LOUDPVCK, NGHTMRE",
+       "title": "Click Clack",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "LOUDPVCK & NGHTMRE - Click Clack"
+  }
+ ],
+ "track_count": 1
+}

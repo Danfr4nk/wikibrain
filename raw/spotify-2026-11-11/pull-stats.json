@@ -1,0 +1,19 @@
+{
+ "library_all_items": 103,
+ "filters": {
+  "PLAYLISTS": 68,
+  "ALBUMS": 9,
+  "ARTISTS": 24,
+  "EPISODES": 3,
+  "PODCASTS": 3,
+  "SHOWS": 3,
+  "AUDIOBOOKS": 0,
+  "PODCASTS_AND_SHOWS": 3
+ },
+ "playlists_expanded": 15,
+ "albums_expanded": 0,
+ "rate_limited": true,
+ "playlists_expanded_total": 67,
+ "albums_expanded_total": 9,
+ "resume_rate_limited": false
+}

@@ -1,0 +1,117 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:3z92Od0WImStOFQBcAVgcQ",
+  "spotify_url": "https://open.spotify.com/playlist/3z92Od0WImStOFQBcAVgcQ?si=5o4jqlOOSWOsi9UJnhxcMA",
+  "subtitle": "",
+  "title": "thought feeler",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 192000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7t965wkcC0hYChDApy5oVy",
+       "spotify_url": "https://open.spotify.com/track/7t965wkcC0hYChDApy5oVy?si=6a3uhUOtTbOkT0gU6biwjg",
+       "subtitle": "Champagne Drip",
+       "title": "Final Boss",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 307013,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7zDC5KGOLAD0FOtLbfFVYC",
+       "spotify_url": "https://open.spotify.com/track/7zDC5KGOLAD0FOtLbfFVYC?si=BHu5_ngJTteGHfpQRB3GSg",
+       "subtitle": "Dorrough Music, Snoop Dogg, Jim Jones, Nipsey Hussle, Soulja Boy, E-40",
+       "title": "Ice Cream Paint Job (g-funk Remix)",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 281372,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6XnO9XzFGkXgUSZUouN3Ud",
+       "spotify_url": "https://open.spotify.com/track/6XnO9XzFGkXgUSZUouN3Ud?si=_xOJVmzfSlmBDUgB3-ddgw",
+       "subtitle": "Party Tyme Karaoke",
+       "title": "Hate Bein' Sober (Made Popular By Chief Keef ft. 50 Cent And Wiz Khalifa) [Instrumental Version]",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 168000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6vZ36EEaMNq9jGZBrDWFe4",
+       "spotify_url": "https://open.spotify.com/track/6vZ36EEaMNq9jGZBrDWFe4?si=k4C_ScO7SsOkY1YQlN_5ow",
+       "subtitle": "Sully",
+       "title": "No Signal",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 232200,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:1UCVgSDDlH4vJ0jI4txWXP",
+       "spotify_url": "https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP?si=5qKhbH_XSiS-cKEeQ8B3_g",
+       "subtitle": "Static-X, Dead Prez",
+       "title": "Hip Hop",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 118285,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3I9cwSchJ7rXzGTRqmGyZr",
+       "spotify_url": "https://open.spotify.com/track/3I9cwSchJ7rXzGTRqmGyZr?si=idVXIolmShWtdwlLi8veXg",
+       "subtitle": "Oddly Eazy",
+       "title": "I TURNT IT DOWN",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 237344,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:514joG57v4yKTsfQmz7stz",
+       "spotify_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz?si=0oO0yPUVQrG7PWumrBnJ5A",
+       "subtitle": "Drake",
+       "title": "Janice STFU",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "thought feeler"
+  }
+ ],
+ "track_count": 7
+}

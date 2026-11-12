@@ -1,0 +1,120 @@
+[
+ {
+  "attribution": "Content provided by Spotify",
+  "id": null,
+  "ok": true,
+  "rendering_style": "library",
+  "sections": [
+   {
+    "id": null,
+    "items": [
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:1ulUmoJiH69rf9xhVLMxF7",
+      "spotify_url": "https://open.spotify.com/album/1ulUmoJiH69rf9xhVLMxF7?si=UKF5QN0rTZGCmS9LlmcBnA",
+      "subtitle": "LYNY",
+      "title": "Disc Jockey",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:7cmRbhdxDrYISo64xQHM3O",
+      "spotify_url": "https://open.spotify.com/album/7cmRbhdxDrYISo64xQHM3O?si=V7kOev5CSQu06jqg4J89lw",
+      "subtitle": "ATALE",
+      "title": "Don't Look Back",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:2ITnf8HOokOJxjv483Dszk",
+      "spotify_url": "https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk?si=4wGd85qaTxarYHEqroS5hg",
+      "subtitle": "Chat Pile",
+      "title": "Who Loves The Sun",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:621WlWIqOod29HG6km5Olf",
+      "spotify_url": "https://open.spotify.com/album/621WlWIqOod29HG6km5Olf?si=EigHK7F8QHKDIjvwwLt0cg",
+      "subtitle": "300SkullsAndCounting, Jenny Sparks",
+      "title": "THIS IS SPA TOWN!",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:5GcvJA2ioIP7rXvqMykO7k",
+      "spotify_url": "https://open.spotify.com/album/5GcvJA2ioIP7rXvqMykO7k?si=-CU3jv7fTQ20h-Au7x8btQ",
+      "subtitle": "300SkullsAndCounting",
+      "title": "i found the new chill spot, pt. 2",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:2EFv6Dh9VkSMawgTW7RLXT",
+      "spotify_url": "https://open.spotify.com/album/2EFv6Dh9VkSMawgTW7RLXT?si=q609WzzvQQO7iPfEmwNAAQ",
+      "subtitle": "Eliminate",
+      "title": "Mula",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:2j6h4rRjkdcdJpiNzIe2so",
+      "spotify_url": "https://open.spotify.com/album/2j6h4rRjkdcdJpiNzIe2so?si=L99p7-5LSXi6qTaz-8V8Yw",
+      "subtitle": "Bass Mode",
+      "title": "I Got You",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:2WfrCwnBhNwuRu7AgnmSOi",
+      "spotify_url": "https://open.spotify.com/album/2WfrCwnBhNwuRu7AgnmSOi?si=HKJjHnyDRQqS1iQN8N_Gtg",
+      "subtitle": "K3YN0T3, T3CHN0T3, J3RY",
+      "title": "Sleepless Dream",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     },
+     {
+      "is_explicit": false,
+      "spotify_uri": "spotify:album:75j4E3164w6FWVoRH3Ygdg",
+      "spotify_url": "https://open.spotify.com/album/75j4E3164w6FWVoRH3Ygdg?si=uzkjYV4-ScKtz9bFuiu4AQ",
+      "subtitle": "MONOWIRE",
+      "title": "SUGAR EP",
+      "traits": [
+       "PLAYABLE",
+       "SAVED"
+      ]
+     }
+    ],
+    "next": null,
+    "next_offset": null,
+    "title": null,
+    "total_items": null
+   }
+  ],
+  "status": 200,
+  "title": "Your Library"
+ }
+]

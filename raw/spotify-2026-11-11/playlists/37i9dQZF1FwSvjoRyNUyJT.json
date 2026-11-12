@@ -1,0 +1,384 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:37i9dQZF1FwSvjoRyNUyJT",
+  "spotify_url": "https://open.spotify.com/playlist/37i9dQZF1FwSvjoRyNUyJT?si=d1XKEpN6Qzmy-Hpwk_fOcA",
+  "subtitle": "Synth-driven electronic music matching the atmospheric sound of BSEARL.",
+  "title": "BSEARL Synth Echoes",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 149466,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:62cC7C7e8buEM15ReSWjff",
+       "spotify_url": "https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff?si=3-Qt8QfvTWCjWpJQEGqZ6w",
+       "subtitle": "oskar med k",
+       "title": "i'm way too self aware",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 124620,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7yNQ5oPcuCC4wTqTcMRIrE",
+       "spotify_url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE?si=RGA_6CPaTh-iuErFTjSk9A",
+       "subtitle": "Ely Oaks",
+       "title": "Running Around",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 191818,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1NCgR6Ma8b7OQ3DjE373w4",
+       "spotify_url": "https://open.spotify.com/track/1NCgR6Ma8b7OQ3DjE373w4?si=odYk79j5SeGo4mow3GIb7A",
+       "subtitle": "NETT, puremind, shoco",
+       "title": "Don't Slow Down",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 133636,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7EQjPEL70tzjlTgCgU0QrV",
+       "spotify_url": "https://open.spotify.com/track/7EQjPEL70tzjlTgCgU0QrV?si=AgC1EUOKTDaGtk6SvTGXsA",
+       "subtitle": "Connor Price, Nic D",
+       "title": "Too Easy",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 120578,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1OcV53oesLQw3VTW9I3uD3",
+       "spotify_url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3?si=S6bf4kSMRaSjCNu1wVrbgA",
+       "subtitle": "James Hype, Sam Harper, Bobby Harvey",
+       "title": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 204444,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:25xwXe0ltT13r00fwDxfps",
+       "spotify_url": "https://open.spotify.com/track/25xwXe0ltT13r00fwDxfps?si=QLjmpEpdSy2kxXtHNyUG9A",
+       "subtitle": "Scammacist",
+       "title": "Sure Thing - WIKSIM Remix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 236481,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7bDG33UjUHFSM7Q5icKBwE",
+       "spotify_url": "https://open.spotify.com/track/7bDG33UjUHFSM7Q5icKBwE?si=25N09ATTTvymDOz-5iHzog",
+       "subtitle": "Dusky, Rromarin",
+       "title": "Next Life",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 165733,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5icShTlF1tVIkGIGGrzVaK",
+       "spotify_url": "https://open.spotify.com/track/5icShTlF1tVIkGIGGrzVaK?si=K7l8lzzuSym0eH1h_ardOw",
+       "subtitle": "BabyJake",
+       "title": "Do I Fit In Your Shoes?",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 113529,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:79AOO7PFpynRbOtknq7XWT",
+       "spotify_url": "https://open.spotify.com/track/79AOO7PFpynRbOtknq7XWT?si=d67TJFpzRi-OiYK4W3eOrg",
+       "subtitle": "TellaX",
+       "title": "Alienz vs Monsterz",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 209534,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1dfs70eiZmlIo88oDCjodF",
+       "spotify_url": "https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF?si=J1Hp35jZSWqg9bXtbXOS9g",
+       "subtitle": "EXUM",
+       "title": "Losing Focus",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:37i9dQZF1FwSvjoRyNUyJT/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "BSEARL Synth Echoes"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 186070,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0Jspxf6aQbVmZo0o6TSm00",
+     "spotify_url": "https://open.spotify.com/track/0Jspxf6aQbVmZo0o6TSm00?si=5zu_59oiS0epwKUMypFD9Q",
+     "subtitle": "Evening Elephants",
+     "title": "Snow on The Bluff",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 192727,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:78w0bmnJ5UMOFq7b1Zu2ls",
+     "spotify_url": "https://open.spotify.com/track/78w0bmnJ5UMOFq7b1Zu2ls?si=3xLs9CNmRtC6CVgMUe1VUg",
+     "subtitle": "Oliver River",
+     "title": "you've changed",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 194250,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3xk4DtJZKWMqREHQd8xsew",
+     "spotify_url": "https://open.spotify.com/track/3xk4DtJZKWMqREHQd8xsew?si=9vDKavNZSYGacDdMmB9Dng",
+     "subtitle": "Alok, SOMETHING ELSE, Labi Siffre",
+     "title": "I Wonder If You Know",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 228330,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3WjKzQniNtTD6mrAf29AEc",
+     "spotify_url": "https://open.spotify.com/track/3WjKzQniNtTD6mrAf29AEc?si=AFgqo1JZQSmKVPSdBHgulA",
+     "subtitle": "Killen.",
+     "title": "Stay Like This Forever",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 207721,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3zKLmUHdyvEgptGMHQYyJ1",
+     "spotify_url": "https://open.spotify.com/track/3zKLmUHdyvEgptGMHQYyJ1?si=cb5ilG5jR9uGumcWzliK1A",
+     "subtitle": "Sycco",
+     "title": "All In",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 110238,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2TUfH53azuNtcEsPmA6EPW",
+     "spotify_url": "https://open.spotify.com/track/2TUfH53azuNtcEsPmA6EPW?si=OBJysHkNTZWZ8SLg9Gi7kw",
+     "subtitle": "Tony Slumz",
+     "title": "This Is an Addiction Not a Hobby",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 118857,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1YkfpbQOWKBbCqwB7Tt78y",
+     "spotify_url": "https://open.spotify.com/track/1YkfpbQOWKBbCqwB7Tt78y?si=cV5CCYQfSnmxMLVSXBjibg",
+     "subtitle": "TellaX",
+     "title": "Fuck Mask off",
+     "traits": []
+    },
+    {
+     "duration_ms": 157995,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0F5fFIOOn5r2ozS9A93cYJ",
+     "spotify_url": "https://open.spotify.com/track/0F5fFIOOn5r2ozS9A93cYJ?si=11kG3iAURzCz6HFF0n8stw",
+     "subtitle": "Dominic Dailey, char!",
+     "title": "dirt",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 181747,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5awSOJQB2PpuSAk41kbCCe",
+     "spotify_url": "https://open.spotify.com/track/5awSOJQB2PpuSAk41kbCCe?si=4FOROh10RkCTu4K1I4BMUg",
+     "subtitle": "Namu Serpentard, Nikops",
+     "title": "AWAY",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 253560,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6YaOyLCNPydfoaDhvUzzzp",
+     "spotify_url": "https://open.spotify.com/track/6YaOyLCNPydfoaDhvUzzzp?si=bbk3_8c7RLW0vR-MbBLrfw",
+     "subtitle": "Lynnic, ItsArius",
+     "title": "Afterglow",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:37i9dQZF1FwSvjoRyNUyJT/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:37i9dQZF1FwSvjoRyNUyJT/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 158359,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6DYLWAdxEJvwWmT7EkeDkX",
+     "spotify_url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX?si=U1COhgHRTeyKO-Filq-UXQ",
+     "subtitle": "Σtella, Redinho",
+     "title": "Charmed",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 218536,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1CBs1VWJO7O6OXyxkyPhq6",
+     "spotify_url": "https://open.spotify.com/track/1CBs1VWJO7O6OXyxkyPhq6?si=BwxYL7KqT6qkwfTd7xavVA",
+     "subtitle": "Nox Vahn, Marsh",
+     "title": "Nemora",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 231737,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3efypTRurdVvf2kCuUWr2Q",
+     "spotify_url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q?si=9s7MTim9SymxG_mAA0qsxg",
+     "subtitle": "Barry Can't Swim",
+     "title": "Childhood",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 174000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2LnlsuPFsJI2ZhSR0UadVB",
+     "spotify_url": "https://open.spotify.com/track/2LnlsuPFsJI2ZhSR0UadVB?si=cOmwBo6ARhSk76pPy_CigA",
+     "subtitle": "PLÜM",
+     "title": "Stay",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 152366,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1XE4JE7KkYcaySBLXXmGJg",
+     "spotify_url": "https://open.spotify.com/track/1XE4JE7KkYcaySBLXXmGJg?si=P9Kx-6OATCGmOw10Xyp41Q",
+     "subtitle": "Tiger Lewis",
+     "title": "Mr. Right Now",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 212707,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2bqWo67hUC1mXH3HycjtOj",
+     "spotify_url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj?si=anT3bWXcT_6DC9itvPa9KA",
+     "subtitle": "Elderbrook, Rules",
+     "title": "Staring at the Sun",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 202734,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:14bHw2NS6a0aoMZi7Fbb47",
+     "spotify_url": "https://open.spotify.com/track/14bHw2NS6a0aoMZi7Fbb47?si=0z1q3L67TnOtzU9UdVEf9w",
+     "subtitle": "Emmit Fenn",
+     "title": "Summer Days",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 168750,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1juVEeNjoN2R3A6KnP9ad5",
+     "spotify_url": "https://open.spotify.com/track/1juVEeNjoN2R3A6KnP9ad5?si=D7RyxorESAiPzknrdAA-bQ",
+     "subtitle": "abelon",
+     "title": "signs",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 273642,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3EUbxkyjOzUzF2oERdCXzz",
+     "spotify_url": "https://open.spotify.com/track/3EUbxkyjOzUzF2oERdCXzz?si=6g-xub3eRlKl07W_y7fP8w",
+     "subtitle": "Jan Blomqvist, Elena Pitoulis, Klangkarussell",
+     "title": "More - Klangkarussell Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 192495,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:1CGzOkrxB9bNaMf95Nd3EF",
+     "spotify_url": "https://open.spotify.com/track/1CGzOkrxB9bNaMf95Nd3EF?si=Gql9lwhXRs6_13aApsDefg",
+     "subtitle": "Tom Misch",
+     "title": "Slow Tonight",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:37i9dQZF1FwSvjoRyNUyJT/sections/contents/items?offset=20"
+  }
+ ],
+ "track_count": 30
+}

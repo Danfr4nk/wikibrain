@@ -1,0 +1,296 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:7ogyl7O8jMyu1RTrqg6ngY",
+  "spotify_url": "https://open.spotify.com/playlist/7ogyl7O8jMyu1RTrqg6ngY?si=quPaSCJ_Raysno--5jL2PQ",
+  "subtitle": "",
+  "title": "Uploads",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 186000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:37iVjhBGNBnxVSuF67TX0H",
+       "spotify_url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H?si=wJdSkpGkQEme0Hv1oOzmoQ",
+       "subtitle": "NGHTMRE, Viperactive, JT Roach",
+       "title": "Cyanide",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 185066,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4mKEP1ZOCpnoH8BcIlNE2M",
+       "spotify_url": "https://open.spotify.com/track/4mKEP1ZOCpnoH8BcIlNE2M?si=TI6o2P1ARuqFMgoWk6E79A",
+       "subtitle": "Uffie",
+       "title": "Art Of Uff",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 204179,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5oUyHGfZTseyZ50J6a7Ikk",
+       "spotify_url": "https://open.spotify.com/track/5oUyHGfZTseyZ50J6a7Ikk?si=cE-HqWqFTbGwM2ek5ck0HA",
+       "subtitle": "Odd Mob, Lizzy Land",
+       "title": "Never Alone (feat. Lizzy Land)",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 143992,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0nKVLfa90DfEeCUEv0HbuG",
+       "spotify_url": "https://open.spotify.com/track/0nKVLfa90DfEeCUEv0HbuG?si=h0IhOuA8S92VPSFaXojj7g",
+       "subtitle": "Nebularity",
+       "title": "Garage Thrum",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 302760,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5ByAIlEEnxYdvpnezg7HTX",
+       "spotify_url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX?si=-v2PSNTaSlyh8XAoMZUjCg",
+       "subtitle": "The Notorious B.I.G.",
+       "title": "Juicy - 2005 Remaster",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 131099,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:2hYZTbo4UBlbMkrZh9vC3Z",
+       "spotify_url": "https://open.spotify.com/track/2hYZTbo4UBlbMkrZh9vC3Z?si=ezBr6Z5UT6CNExNmCpwuXA",
+       "subtitle": "biz, DJ Ess",
+       "title": "SNOW WHITE - Dj ess mixx",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 187200,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:7gTXrtcgGGvTxQoXbkJdMu",
+       "spotify_url": "https://open.spotify.com/track/7gTXrtcgGGvTxQoXbkJdMu?si=NOUQLqUAQJKZy-HEY18Z1w",
+       "subtitle": "Far East Movement, Rell the Soundbender, YG",
+       "title": "Grimey Thirsty",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 284444,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5adUFm4TGGUMBzmbWsIqXf",
+       "spotify_url": "https://open.spotify.com/track/5adUFm4TGGUMBzmbWsIqXf?si=S2_QF3TcR5-6eDZhn5idPQ",
+       "subtitle": "Zeds Dead, Memorecks",
+       "title": "Collapse",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 277500,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:20mVPqCCZXPYgOIBpvt4aL",
+       "spotify_url": "https://open.spotify.com/track/20mVPqCCZXPYgOIBpvt4aL?si=KEz_YT4nT2-5HQC3HHmbBw",
+       "subtitle": "Caked Up",
+       "title": "Bang Your Head",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 237826,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:4Ox97hNeJSWFCZ8vp76vog",
+       "spotify_url": "https://open.spotify.com/track/4Ox97hNeJSWFCZ8vp76vog?si=HVO95uUtRFaf0d1tf2OKyQ",
+       "subtitle": "2 Chainz, Drake",
+       "title": "No Lie",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:7ogyl7O8jMyu1RTrqg6ngY/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Uploads"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 192727,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0wpo6zv1KYJDJlF4bnq47m",
+     "spotify_url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m?si=FtbwBho7TpKd_12Jr0IVJw",
+     "subtitle": "Wasiu, Apashe",
+     "title": "Lazarus Rise",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 144064,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4R0asLnkJDBzBcBbcQSPpX",
+     "spotify_url": "https://open.spotify.com/track/4R0asLnkJDBzBcBbcQSPpX?si=MmsP2JdZSXmb0mi7lnthYg",
+     "subtitle": "Benny The Butcher, Armani Caesar",
+     "title": "Buffalo Kitchen Club (with Armani Caesar)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 190154,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3oQcLTeM9dG7Yg3PaVv8rG",
+     "spotify_url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG?si=SYJfWif1TW2iytvR2y7uGQ",
+     "subtitle": "Above & Beyond",
+     "title": "Major Drop",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 90184,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6HZL4Qd1wpjBCeM9EYfAOp",
+     "spotify_url": "https://open.spotify.com/track/6HZL4Qd1wpjBCeM9EYfAOp?si=Dw-6HkPSQOyVvh-HTeBISw",
+     "subtitle": "ASTRXLX",
+     "title": "Gladiator Grind",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 180062,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:5ba6t78YDKotBOjKpLUEja",
+     "spotify_url": "https://open.spotify.com/track/5ba6t78YDKotBOjKpLUEja?si=oEnPGYlHTVCXwhVeL8Z0gg",
+     "subtitle": "SL",
+     "title": "Tropical",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 215672,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5jrdCoLpJSvHHorevXBATy",
+     "spotify_url": "https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy?si=pmaITDK7R1ucGhoFwYrjoQ",
+     "subtitle": "Katy Perry, Juicy J",
+     "title": "Dark Horse",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 284571,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0P2ocV35z76ICOZkVK12mU",
+     "spotify_url": "https://open.spotify.com/track/0P2ocV35z76ICOZkVK12mU?si=fVRh_gpzQkGefrhzT23pEQ",
+     "subtitle": "Herobust",
+     "title": "Get Busted",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 109727,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2q1o8E9edYiQrXKAzlx3yu",
+     "spotify_url": "https://open.spotify.com/track/2q1o8E9edYiQrXKAzlx3yu?si=GQdXNwmRTwSNqYdFZjNRyQ",
+     "subtitle": "Ziahfyah, Indo2x",
+     "title": "GOOD LOVING #jerseyclub",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 235426,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:0PqRZ1lmSEeRhkslB6FVkg",
+     "spotify_url": "https://open.spotify.com/track/0PqRZ1lmSEeRhkslB6FVkg?si=4cPwMgT0Q9KptjIIgYVf2w",
+     "subtitle": "2 Chainz, Fergie",
+     "title": "Netflix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 160995,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2MPmTHGVRlZaPFibFOXUSC",
+     "spotify_url": "https://open.spotify.com/track/2MPmTHGVRlZaPFibFOXUSC?si=3qJ3BIiQSbm6_ZjFz1SEkQ",
+     "subtitle": "PureSnow",
+     "title": "Uber",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:7ogyl7O8jMyu1RTrqg6ngY/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:7ogyl7O8jMyu1RTrqg6ngY/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 179306,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7tYbWugeSE0fhZEKyy5SSs",
+     "spotify_url": "https://open.spotify.com/track/7tYbWugeSE0fhZEKyy5SSs?si=qsUwmYKpQ6SXyVOc7uuatA",
+     "subtitle": "Young Nudy, Pi’erre Bourne",
+     "title": "Swisher Backwood",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:7ogyl7O8jMyu1RTrqg6ngY/sections/contents/items?offset=20"
+  }
+ ],
+ "track_count": 21
+}

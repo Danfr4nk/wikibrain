@@ -1,0 +1,46 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:37i9dQZF1FgnTBfUlzkeKt",
+  "spotify_url": "https://open.spotify.com/playlist/37i9dQZF1FgnTBfUlzkeKt?si=d1_TyljBSyiEN5LN4pXFGg",
+  "subtitle": "",
+  "title": "Your Episodes",
+  "traits": [
+   "PINNED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 3160960,
+       "is_explicit": false,
+       "spotify_uri": "spotify:episode:1r8G8roSMNQK1HxZtJAEMZ",
+       "spotify_url": "https://open.spotify.com/episode/1r8G8roSMNQK1HxZtJAEMZ?si=aNgDqhTNRuGFAiOa_AOezA",
+       "subtitle": "The Adam Friedland Show",
+       "title": "NATE SOARES talks Ai Doomsday, Elon Musk, The Matrix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Your Episodes"
+  }
+ ],
+ "track_count": 1
+}

@@ -1,0 +1,82 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6K0rqCVIewFu1vfyMiaBho",
+  "spotify_url": "https://open.spotify.com/playlist/6K0rqCVIewFu1vfyMiaBho?si=05bBTosnSmKT3LBKDx1RdQ",
+  "subtitle": "",
+  "title": "Pull Me In",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 141615,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4g5p0EVUtflkSaSTfva5kG",
+       "spotify_url": "https://open.spotify.com/track/4g5p0EVUtflkSaSTfva5kG?si=elfrY5fATdCekBocjr7dtg",
+       "subtitle": "Medo",
+       "title": "Pull Me In",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 149538,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2cqS0RaBUKsoVVqh5rm1Br",
+       "spotify_url": "https://open.spotify.com/track/2cqS0RaBUKsoVVqh5rm1Br?si=KM8mkRobR8qYOosVqu1ioA",
+       "subtitle": "BONNIE X CLYDE",
+       "title": "Nights Like",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 129108,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:65fPnec9ZIWi4YSMYOQXRm",
+       "spotify_url": "https://open.spotify.com/track/65fPnec9ZIWi4YSMYOQXRm?si=TGs-Pb9AQwKCjp0cDA6Saw",
+       "subtitle": "Daniel Allan, Port London",
+       "title": "OUTTAHISMIND",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 125070,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6z8oaQddFe1WhFvurnn9fi",
+       "spotify_url": "https://open.spotify.com/track/6z8oaQddFe1WhFvurnn9fi?si=s43Lh7TBRnCjG7Ol5-5O_A",
+       "subtitle": "K3YN0T3, Distan",
+       "title": "Me & You - Sped Up",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Pull Me In"
+  }
+ ],
+ "track_count": 4
+}

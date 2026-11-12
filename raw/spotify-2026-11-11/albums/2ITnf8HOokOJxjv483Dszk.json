@@ -1,0 +1,146 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:2ITnf8HOokOJxjv483Dszk",
+  "spotify_url": "https://open.spotify.com/album/2ITnf8HOokOJxjv483Dszk?si=4wGd85qaTxarYHEqroS5hg",
+  "subtitle": "Chat Pile",
+  "title": "Who Loves The Sun",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 263613,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:0Qe3E4QCgFlpN5bQhtVF3S",
+       "spotify_url": "https://open.spotify.com/track/0Qe3E4QCgFlpN5bQhtVF3S?si=BPrSB8tmRDifhlrMlffmIg",
+       "subtitle": "Chat Pile",
+       "title": "Creature",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 245293,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6pzqlBQEh1G1LZ7uPQIPBF",
+       "spotify_url": "https://open.spotify.com/track/6pzqlBQEh1G1LZ7uPQIPBF?si=21QqDGbQSzyoRcWJF__Nxw",
+       "subtitle": "Chat Pile",
+       "title": "Deep Blue",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 227453,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5M2QWUeXhxqw8y1iY7MAYi",
+       "spotify_url": "https://open.spotify.com/track/5M2QWUeXhxqw8y1iY7MAYi?si=62tSXF62S4aVwE-vrkeFUA",
+       "subtitle": "Chat Pile",
+       "title": "Same Rules",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 298360,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4mjgs3GDe6DPlGC4cSsoKU",
+       "spotify_url": "https://open.spotify.com/track/4mjgs3GDe6DPlGC4cSsoKU?si=o9DabpsSRWKVxnR-gVZAZw",
+       "subtitle": "Chat Pile",
+       "title": "PEN I S MALL",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 277946,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:663lLE4Rhv6P8WRu0DZgyJ",
+       "spotify_url": "https://open.spotify.com/track/663lLE4Rhv6P8WRu0DZgyJ?si=Hqe-FQUtTRmmWMiNUHKeNw",
+       "subtitle": "Chat Pile",
+       "title": "Shrine",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 305680,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2cUXQPlcBNNdtGFQWGQvhf",
+       "spotify_url": "https://open.spotify.com/track/2cUXQPlcBNNdtGFQWGQvhf?si=lLJv2AOAT_W9qqcP-AhBcQ",
+       "subtitle": "Chat Pile",
+       "title": "Intruder",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 236906,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:1COHnGl0qINzNT2eVTV0Tv",
+       "spotify_url": "https://open.spotify.com/track/1COHnGl0qINzNT2eVTV0Tv?si=E42_mZWHROCWNEj3sR7ANw",
+       "subtitle": "Chat Pile",
+       "title": "Christabel '26",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 269560,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5xyiunXv8yNftdiKzac72S",
+       "spotify_url": "https://open.spotify.com/track/5xyiunXv8yNftdiKzac72S?si=fxGFDtHbTG-Npm-pxDSaEw",
+       "subtitle": "Chat Pile",
+       "title": "Influence",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 302040,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:13s6S16LheEcDfevp2gGDQ",
+       "spotify_url": "https://open.spotify.com/track/13s6S16LheEcDfevp2gGDQ?si=EYO82vYPQxWLoOsAMF220A",
+       "subtitle": "Chat Pile",
+       "title": "Family Funeral",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 203626,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4qpsnvJ7s213WBSLcq9x60",
+       "spotify_url": "https://open.spotify.com/track/4qpsnvJ7s213WBSLcq9x60?si=wMJHUuHlScanpUnyklX-tg",
+       "subtitle": "Chat Pile",
+       "title": "October All the Time",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Who Loves The Sun"
+  }
+ ],
+ "track_count": 10
+}

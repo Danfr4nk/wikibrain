@@ -1,0 +1,68 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:7cmRbhdxDrYISo64xQHM3O",
+  "spotify_url": "https://open.spotify.com/album/7cmRbhdxDrYISo64xQHM3O?si=V7kOev5CSQu06jqg4J89lw",
+  "subtitle": "ATALE",
+  "title": "Don't Look Back",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 181885,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:28BQlcWGQzNMsOc1MuF1oT",
+       "spotify_url": "https://open.spotify.com/track/28BQlcWGQzNMsOc1MuF1oT?si=9BdLJij1T4Gjv-fIn8kUWw",
+       "subtitle": "ATALE",
+       "title": "Don't Look Back",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 166294,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7rh4L2msMFPWQCYsAZM9co",
+       "spotify_url": "https://open.spotify.com/track/7rh4L2msMFPWQCYsAZM9co?si=xlaCk9JTR8K-_u8CiT5cxw",
+       "subtitle": "ATALE",
+       "title": "Don't Look Back - Sped Up",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 211648,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5hkEhlHu2qXpNZd9toSPKy",
+       "spotify_url": "https://open.spotify.com/track/5hkEhlHu2qXpNZd9toSPKy?si=vIte-IUKRq6nbyOwdOnUlA",
+       "subtitle": "ATALE",
+       "title": "Don't Look Back - Slowed",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Don't Look Back"
+  }
+ ],
+ "track_count": 3
+}

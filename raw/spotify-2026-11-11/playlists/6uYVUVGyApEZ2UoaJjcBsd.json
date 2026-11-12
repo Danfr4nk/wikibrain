@@ -1,0 +1,91 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:6uYVUVGyApEZ2UoaJjcBsd",
+  "spotify_url": "https://open.spotify.com/playlist/6uYVUVGyApEZ2UoaJjcBsd?si=0vwLyrcbQmiTk5pCp6-tjw",
+  "subtitle": "",
+  "title": "WhatDirt 2014 Feb 16",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 245347,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3Ga3bsyy8CdtI6ar9y7ep5",
+       "spotify_url": "https://open.spotify.com/track/3Ga3bsyy8CdtI6ar9y7ep5?si=EsgzU7VYQQuumWU2rqd63w",
+       "subtitle": "Tropkillaz",
+       "title": "Ghetto Blasta",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 198719,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:4T7aCLHutfA22BKNgmWdaJ",
+       "spotify_url": "https://open.spotify.com/track/4T7aCLHutfA22BKNgmWdaJ?si=y2gC02QLRD2OoZVx9mC6pg",
+       "subtitle": "Flosstradamus, Casino",
+       "title": "Mosh Pit (feat. Casino)",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 218592,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2udhjCsJkt0xq4d5qD8hO3",
+       "spotify_url": "https://open.spotify.com/track/2udhjCsJkt0xq4d5qD8hO3?si=FD0qjJThQlm6GWp-JvuwSQ",
+       "subtitle": "ta1ls",
+       "title": "Neon",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 131330,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:3G95pAhR93NqxjjX8S3FIG",
+       "spotify_url": "https://open.spotify.com/track/3G95pAhR93NqxjjX8S3FIG?si=c2ErcMcpR6-iMI58jVyi9g",
+       "subtitle": "Yung Bleu, Cheyenne Lavene",
+       "title": "Shakira (feat. Cheyenne Lavene)",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 282857,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:6mtpp6fBsz3G18MgMQz8Uk",
+       "spotify_url": "https://open.spotify.com/track/6mtpp6fBsz3G18MgMQz8Uk?si=4vtY5iekQkqqyZ96DBbfUg",
+       "subtitle": "El Diablo, Too $hort, Oh Blimey",
+       "title": "Weird Science",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "WhatDirt 2014 Feb 16"
+  }
+ ],
+ "track_count": 5
+}

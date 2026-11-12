@@ -1,0 +1,184 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:2RDlxAkLobJoySN0BYMB0R",
+  "spotify_url": "https://open.spotify.com/playlist/2RDlxAkLobJoySN0BYMB0R?si=CGDKhCgxQGS7SsPA482Yyw",
+  "subtitle": "",
+  "title": "Dan & Dan: Attorney at Law",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 140288,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:1UsvO5U72YRU8Xnq8Lp14O",
+       "spotify_url": "https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O?si=SryoL-UMRTGJUfY_u67yKg",
+       "subtitle": "$uicideboy$, Germ",
+       "title": "Champagne Face",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 174857,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2V1eowXHI3hjSJkVauC7DS",
+       "spotify_url": "https://open.spotify.com/track/2V1eowXHI3hjSJkVauC7DS?si=NEEZX_ntSmqmEhcQTLp_aQ",
+       "subtitle": "LYNY",
+       "title": "Section",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 237344,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:514joG57v4yKTsfQmz7stz",
+       "spotify_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz?si=_yOWKDMoSQer_4AwnbI-ig",
+       "subtitle": "Drake",
+       "title": "Janice STFU",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 197910,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1isYUV8dk5bEhJuVmhKtgq",
+       "spotify_url": "https://open.spotify.com/track/1isYUV8dk5bEhJuVmhKtgq?si=XgUcVAnpTCaBjF3BbXVjNA",
+       "subtitle": "Valentino Khan, No/Me",
+       "title": "What Can I Say",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 213234,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:5ju7hV8Kb2p2loZz9WyOWv",
+       "spotify_url": "https://open.spotify.com/track/5ju7hV8Kb2p2loZz9WyOWv?si=z98OHVVkSy-W41jbUGJDDw",
+       "subtitle": "Glass Petals",
+       "title": "Crazy Shit",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 188307,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0w6h053ER8qaIsyJhEtdGu",
+       "spotify_url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu?si=gXintt7BQNWhfvfcPAISEQ",
+       "subtitle": "nimino",
+       "title": "Eat Me Better",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 180340,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1V8eQfZ1zpcdA9ctIb6fY7",
+       "spotify_url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7?si=cPkUlbfcTzySJuqMXu9k4g",
+       "subtitle": "John Summit, The Chainsmokers, Ilsey",
+       "title": "ALL THE TIME",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 195403,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4ZdbgG1lzEJY5YFWomSnKZ",
+       "spotify_url": "https://open.spotify.com/track/4ZdbgG1lzEJY5YFWomSnKZ?si=KqwgjQrMTo6hupKc4oPrKQ",
+       "subtitle": "Ashez, Gallium",
+       "title": "Headway",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 178285,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:7EyhssM3gS5EwyrRpJ802Z",
+       "spotify_url": "https://open.spotify.com/track/7EyhssM3gS5EwyrRpJ802Z?si=8ccmAVnRQlqN9mD2nua2IA",
+       "subtitle": "Know Good",
+       "title": "Sock'em Bop'em",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 199550,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1ntTbMpOJSjBj2mLbMAJfB",
+       "spotify_url": "https://open.spotify.com/track/1ntTbMpOJSjBj2mLbMAJfB?si=HrUQVxZmR8qHDnxIGl9yaw",
+       "subtitle": "BSEARL",
+       "title": "SOLD MY SOUL",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:2RDlxAkLobJoySN0BYMB0R/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Dan & Dan: Attorney at Law"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 177177,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1ZVjrE1mB1J5m3VHQvL9Bo",
+     "spotify_url": "https://open.spotify.com/track/1ZVjrE1mB1J5m3VHQvL9Bo?si=517xUiorQN2fvhj5W44EeQ",
+     "subtitle": "i'm loam",
+     "title": "stay here don't go",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 222154,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2NssfmOLDE2UoiJglUY7Za",
+     "spotify_url": "https://open.spotify.com/track/2NssfmOLDE2UoiJglUY7Za?si=rcN3QoE4RZC9ov2-aSrpvw",
+     "subtitle": "WILL K",
+     "title": "Hot Off the Press",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:2RDlxAkLobJoySN0BYMB0R/sections/contents/items?offset=10"
+  }
+ ],
+ "track_count": 12
+}

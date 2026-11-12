@@ -1,0 +1,362 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:3VdUo18AeJPpvT4CpZYlKR",
+  "spotify_url": "https://open.spotify.com/playlist/3VdUo18AeJPpvT4CpZYlKR?si=kKvRjXGWTFu0jINRH_Llfg",
+  "subtitle": "",
+  "title": "Won't Come Down",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 173782,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6Z9xqhS1MqlGUubv7LJaas",
+       "spotify_url": "https://open.spotify.com/track/6Z9xqhS1MqlGUubv7LJaas?si=JO7HjmM3Sf6AnwwqhYg0RQ",
+       "subtitle": "CANNA, maaple",
+       "title": "all that i can say",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 175384,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:4qDBXgjpBItXeXoCLdEuS6",
+       "spotify_url": "https://open.spotify.com/track/4qDBXgjpBItXeXoCLdEuS6?si=LIBrydLXT6qrmnu2CHN_xQ",
+       "subtitle": "AVE",
+       "title": "Meet Me In The Dark",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 131155,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6pFQrUhbk6lUKxu3TMLirj",
+       "spotify_url": "https://open.spotify.com/track/6pFQrUhbk6lUKxu3TMLirj?si=ofGHJverTI2nTuiP0xoaYw",
+       "subtitle": "Subsurface",
+       "title": "You Got Me Singin' Like (Ayoo)",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 212671,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3nnimZotOr3KofQvYYdIev",
+       "spotify_url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev?si=HiDXl-6CTpiR0o7t7jhYjQ",
+       "subtitle": "Flava D, Stush",
+       "title": "Energy",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 229714,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:2dr6p6VsU7KCrieQDluQDp",
+       "spotify_url": "https://open.spotify.com/track/2dr6p6VsU7KCrieQDluQDp?si=_FFtdYVoSamQUzya1zYTkQ",
+       "subtitle": "BSEARL, En:vy",
+       "title": "Places",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 171066,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1cPDRuKq2ghZrBu1VoktKD",
+       "spotify_url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD?si=FVIarYc_Rvea7Es1TU69Gw",
+       "subtitle": "blunn",
+       "title": "don't need u (i do)",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 179074,
+       "is_explicit": true,
+       "spotify_uri": "spotify:track:6qHO2D1ZEvpSiHNnfclRAa",
+       "spotify_url": "https://open.spotify.com/track/6qHO2D1ZEvpSiHNnfclRAa?si=LhBQP1lYSqOm1gGzd59Qxw",
+       "subtitle": "Don Diablo, A$AP Ferg",
+       "title": "Plain Jane",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 162187,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:097XuYiqI3sS1SlTlncfmU",
+       "spotify_url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU?si=He5GGvZ7SzWSsgOS_Ns1sg",
+       "subtitle": "Dirty Palm, KDH",
+       "title": "Vibe",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 159390,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6nHyY8kHh39ZB4SfsQ35zD",
+       "spotify_url": "https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD?si=olH6td_LTe2bDOSKmB9e6Q",
+       "subtitle": "MA:RK",
+       "title": "Glow",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 200086,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1VKWQgq0g2uKtgNfL0ceNM",
+       "spotify_url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM?si=uWvBodMnSUa6lIgNUrMj6w",
+       "subtitle": "Mason, Princess Superstar, 1991",
+       "title": "Perfect (Exceeder) - 1991 Remix",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3VdUo18AeJPpvT4CpZYlKR/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Won't Come Down"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 238588,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2nVkaBHPUf8qrxDooNAHzE",
+     "spotify_url": "https://open.spotify.com/track/2nVkaBHPUf8qrxDooNAHzE?si=wT2HvhBOTwmP6OnMXmdn6w",
+     "subtitle": "Fourward",
+     "title": "Lose Control",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 246857,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:15hsxVP6IPOAmwak6xkCEI",
+     "spotify_url": "https://open.spotify.com/track/15hsxVP6IPOAmwak6xkCEI?si=VfabaqMKRQGd3xze1IrNEA",
+     "subtitle": "BSEARL, Visages",
+     "title": "SOLD MY SOUL (Visages Remix)",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 181081,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:2dHUh2sCSZu4YMLG0YaKsd",
+     "spotify_url": "https://open.spotify.com/track/2dHUh2sCSZu4YMLG0YaKsd?si=Wi1_bxACRpuUAL2rYNU-VA",
+     "subtitle": "FindMyName",
+     "title": "Rebel",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 222171,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:42Ab8hKXJ2tR8CzTOkil9i",
+     "spotify_url": "https://open.spotify.com/track/42Ab8hKXJ2tR8CzTOkil9i?si=FU4_BdAOTGOHhoMMRmzMeA",
+     "subtitle": "ALOTT",
+     "title": "Won't Come Down",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 148945,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:23RgrKjFnKrCBMcVQ203G7",
+     "spotify_url": "https://open.spotify.com/track/23RgrKjFnKrCBMcVQ203G7?si=rt6tVz2lR3Sg_8GI2z4wfg",
+     "subtitle": "Siik, Sickrate",
+     "title": "Out of My Mind",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 162077,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:7Hpx5yBYAO0tALKQYUwLSe",
+     "spotify_url": "https://open.spotify.com/track/7Hpx5yBYAO0tALKQYUwLSe?si=1ZnjKKySQS6ISLOw2RewaA",
+     "subtitle": "Know Good",
+     "title": "Parasite",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 231803,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6rqicO2m83wiLH6HcTRkZu",
+     "spotify_url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu?si=i_u2kRHPTJGUiJg2dtICgA",
+     "subtitle": "Flume, LAUREL",
+     "title": "I Can't Tell (feat. LAUREL)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 207360,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2mzCGYud0IBj8Z97iEKTgf",
+     "spotify_url": "https://open.spotify.com/track/2mzCGYud0IBj8Z97iEKTgf?si=g-ap-KrdQ8mwasy6AND2cQ",
+     "subtitle": "Cymek",
+     "title": "Untouchable",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 222857,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2yVNc5eNXLpK3W2WsAiXTX",
+     "spotify_url": "https://open.spotify.com/track/2yVNc5eNXLpK3W2WsAiXTX?si=ETWIdy7JSvWNFvi_8oKz4g",
+     "subtitle": "Nitepunk, Silcrow, josh pan",
+     "title": "Ether",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 226285,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:6yyVwtzuKV7ZPxLz60Wxp4",
+     "spotify_url": "https://open.spotify.com/track/6yyVwtzuKV7ZPxLz60Wxp4?si=0VE6cRlKRWSAGPhz8DsPzA",
+     "subtitle": "Tape B, Effin",
+     "title": "I'll Never Know",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3VdUo18AeJPpvT4CpZYlKR/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3VdUo18AeJPpvT4CpZYlKR/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 149538,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2cqS0RaBUKsoVVqh5rm1Br",
+     "spotify_url": "https://open.spotify.com/track/2cqS0RaBUKsoVVqh5rm1Br?si=JyUBr1l6RVi5SqbqK_B4Jw",
+     "subtitle": "BONNIE X CLYDE",
+     "title": "Nights Like",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 205190,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0VFmkwR6SCmT7TIJThlCn9",
+     "spotify_url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9?si=J-N4-sEhTc24E8VaO9KvSQ",
+     "subtitle": "nimino",
+     "title": "Orla",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 176729,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7KUPK7cI9Fs5ySmvLjZDx7",
+     "spotify_url": "https://open.spotify.com/track/7KUPK7cI9Fs5ySmvLjZDx7?si=hG6PHV5WT1yvgb6n3K7Gpw",
+     "subtitle": "VisionV, Courtney Storm",
+     "title": "Sober",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 165230,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2K3dkPePjsw5vYuYFZutIP",
+     "spotify_url": "https://open.spotify.com/track/2K3dkPePjsw5vYuYFZutIP?si=0a_qYwqUTBWsO5cma9CdrQ",
+     "subtitle": "Lonelysoul.",
+     "title": "Say My Name Again",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 129108,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:65fPnec9ZIWi4YSMYOQXRm",
+     "spotify_url": "https://open.spotify.com/track/65fPnec9ZIWi4YSMYOQXRm?si=D3HEVcQ2RQ6yj8kW-tOzhQ",
+     "subtitle": "Daniel Allan, Port London",
+     "title": "OUTTAHISMIND",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 241777,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7f9WkDtkzDEZNwJOxb76PE",
+     "spotify_url": "https://open.spotify.com/track/7f9WkDtkzDEZNwJOxb76PE?si=2q8znjrQTnO8ft9FLOTusA",
+     "subtitle": "Distant Matter",
+     "title": "Familiar",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:3VdUo18AeJPpvT4CpZYlKR/sections/contents/items?offset=20"
+  }
+ ],
+ "track_count": 26
+}

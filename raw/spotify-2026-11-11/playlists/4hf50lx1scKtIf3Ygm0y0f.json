@@ -1,0 +1,469 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:4hf50lx1scKtIf3Ygm0y0f",
+  "spotify_url": "https://open.spotify.com/playlist/4hf50lx1scKtIf3Ygm0y0f?si=W1rmkEkxRuW82WEccCp18Q",
+  "subtitle": "",
+  "title": "☀ RTT Future Summer Playlist ☀",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 281142,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:5HmOTLgXEBP4cHFVeYAlhv",
+       "spotify_url": "https://open.spotify.com/track/5HmOTLgXEBP4cHFVeYAlhv?si=6fc1fG-OR5WmjW99Mp5cwQ",
+       "subtitle": "RL Grime, What So Not",
+       "title": "Tell Me",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 228989,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:44DwGouibLla1QsKYhxs3m",
+       "spotify_url": "https://open.spotify.com/track/44DwGouibLla1QsKYhxs3m?si=mFtCsJiGSLyfrr1SDHgiTQ",
+       "subtitle": "Joanne Robertson, Dean Blunt",
+       "title": "PUSHER",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 189466,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7ihjUSR7CPFnpjyPFgIbS6",
+       "spotify_url": "https://open.spotify.com/track/7ihjUSR7CPFnpjyPFgIbS6?si=DQKKubgpS_G7rcFiGdZXeg",
+       "subtitle": "KMNZ",
+       "title": "WAVE",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 230900,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0xXQknl1HA6xXlfYSbDWl6",
+       "spotify_url": "https://open.spotify.com/track/0xXQknl1HA6xXlfYSbDWl6?si=eOfGuPtsQ_WVSekMNcB4vQ",
+       "subtitle": "Akouo",
+       "title": "Last Time",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 302084,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:20uNuDhGOpheRKKs8jF0YL",
+       "spotify_url": "https://open.spotify.com/track/20uNuDhGOpheRKKs8jF0YL?si=n2rlFk1RSF2P5b1QZBsaaA",
+       "subtitle": "Cashmere Cat",
+       "title": "Wedding Bells",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 155000,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:3bFJ65huxQw84xttnbDyX6",
+       "spotify_url": "https://open.spotify.com/track/3bFJ65huxQw84xttnbDyX6?si=i1qiEZN8QhmWR_qpTLy38w",
+       "subtitle": "ONE PACT",
+       "title": "U so hot",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 288711,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6EOr1A9KMD98xYd7c6I1QV",
+       "spotify_url": "https://open.spotify.com/track/6EOr1A9KMD98xYd7c6I1QV?si=UDxBw-Q-QbyvEZpd_x-B5w",
+       "subtitle": "Ellie Goulding, Vindata",
+       "title": "Beating Heart - Vindata Remix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 178581,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:6CmDmlDELWh1pGGq9jDZBY",
+       "spotify_url": "https://open.spotify.com/track/6CmDmlDELWh1pGGq9jDZBY?si=mE_q_5g3QxGC0X61EVY0KQ",
+       "subtitle": "Logical 1",
+       "title": "Break It Down",
+       "traits": [
+        "PLAYABLE"
+       ]
+      },
+      {
+       "duration_ms": 185849,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:0tccd6GKZWBhwZDiWNfrWq",
+       "spotify_url": "https://open.spotify.com/track/0tccd6GKZWBhwZDiWNfrWq?si=9afI_-X8Q6Wuc9WTdLs5dQ",
+       "subtitle": "Ryan Hemsworth, Wave Racer",
+       "title": "Ryan Must Be Destroyed (Wave Racer Remix)",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      },
+      {
+       "duration_ms": 209302,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:7lkzFGxJtP0f44NBRYHuyT",
+       "spotify_url": "https://open.spotify.com/track/7lkzFGxJtP0f44NBRYHuyT?si=Z5i_8REfTKWleZJVq3SACA",
+       "subtitle": "Madison Avenue, Joshwa",
+       "title": "Don't Call Me Baby - Joshwa Remix",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:4hf50lx1scKtIf3Ygm0y0f/sections/contents/items?offset=10",
+     "next_offset": 10,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "☀ RTT Future Summer Playlist ☀"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 127511,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:28m1Lu18ZJ3QBmthNjaKIO",
+     "spotify_url": "https://open.spotify.com/track/28m1Lu18ZJ3QBmthNjaKIO?si=27sM-RtKSm2OmEBeqJrY4A",
+     "subtitle": "Mcet",
+     "title": "Basenji",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 271333,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7H6ev70Weq6DdpZyyTmUXk",
+     "spotify_url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk?si=kfBp-3hPTOK5nS1Ynl9ThA",
+     "subtitle": "Destiny's Child",
+     "title": "Say My Name",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 233707,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1I0mRrowc6HCoED6hoAB2q",
+     "spotify_url": "https://open.spotify.com/track/1I0mRrowc6HCoED6hoAB2q?si=RN8ksZIFRpyeHQlcqMbK-w",
+     "subtitle": "Duke Dumont, A*M*E",
+     "title": "Need U (100%) (feat. A*M*E)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 152993,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5d1ejZDlrGzODwJgJWkM1W",
+     "spotify_url": "https://open.spotify.com/track/5d1ejZDlrGzODwJgJWkM1W?si=6PudozSHRg6MkVxh4WSaHA",
+     "subtitle": "LIZ",
+     "title": "Y2K",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 220906,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5WOUxxPGNLVqpvd7LAwwYB",
+     "spotify_url": "https://open.spotify.com/track/5WOUxxPGNLVqpvd7LAwwYB?si=vp7pe3lmSECnvZ6lAvClEg",
+     "subtitle": "HWLS, Noah Breakfast",
+     "title": "004",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 292935,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:443DEFzNtI8552B3FgDVjM",
+     "spotify_url": "https://open.spotify.com/track/443DEFzNtI8552B3FgDVjM?si=Nvb_m9FaQh6mM_gxub30qQ",
+     "subtitle": "Lxury",
+     "title": "Playground",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 200706,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5tLACLrjV90HBmrnyvkawz",
+     "spotify_url": "https://open.spotify.com/track/5tLACLrjV90HBmrnyvkawz?si=4bSlgP9XSRmVWSj-Td1cUA",
+     "subtitle": "viceversa",
+     "title": "IF I DIE",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 269973,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7D0bR3u69JxTKL7CqIVc3I",
+     "spotify_url": "https://open.spotify.com/track/7D0bR3u69JxTKL7CqIVc3I?si=KtuPUNjERQyQjEi51whOtA",
+     "subtitle": "L D R U",
+     "title": "The Tropics",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 133818,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:46jL2rOnIBmVYByIUei8Rk",
+     "spotify_url": "https://open.spotify.com/track/46jL2rOnIBmVYByIUei8Rk?si=8Cvn9ZbpQUGwVlm2U70I2Q",
+     "subtitle": "Lindsay Lowend",
+     "title": "GT40",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 267283,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7kzlSa6SLHopEBT4C4IwQg",
+     "spotify_url": "https://open.spotify.com/track/7kzlSa6SLHopEBT4C4IwQg?si=7C5vlV39TEu6otl7agqHzw",
+     "subtitle": "Chromeo",
+     "title": "Jealous (I Ain't With It) - DJ Hoodboi Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:4hf50lx1scKtIf3Ygm0y0f/sections/contents/items?offset=20",
+   "next_offset": 20,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:4hf50lx1scKtIf3Ygm0y0f/sections/contents/items?offset=10"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 354015,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6t0jDHb9NGAODCLFoyxmZc",
+     "spotify_url": "https://open.spotify.com/track/6t0jDHb9NGAODCLFoyxmZc?si=353rNSQoQ9yJLUUWOWFcGw",
+     "subtitle": "Timecop1983",
+     "title": "Cruise",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 226204,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:5zJPSXmzvHXjuKTulmWC41",
+     "spotify_url": "https://open.spotify.com/track/5zJPSXmzvHXjuKTulmWC41?si=g_gvURzPRL6C5bSbH3aZQQ",
+     "subtitle": "DZA, 813",
+     "title": "Fluffernutter - 813 Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 263716,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1e8g8Zypak1hTK8l12olYd",
+     "spotify_url": "https://open.spotify.com/track/1e8g8Zypak1hTK8l12olYd?si=_Phmq2uQTi-kxwj8_WqzLw",
+     "subtitle": "Diplo, Faustix, Imanos, kai",
+     "title": "Revolution",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 210017,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6wb61u8ayuanWSHZzle5od",
+     "spotify_url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od?si=mjBGTXZ6SCiVLiJN3SZw3w",
+     "subtitle": "Alison Wonderland",
+     "title": "I Want U",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 290000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:3hEZ5NMvLYlaYz80eiFNAN",
+     "spotify_url": "https://open.spotify.com/track/3hEZ5NMvLYlaYz80eiFNAN?si=jATEyZGQSiKZjhffbN1cKQ",
+     "subtitle": "Hermitude, GANZ, Flume",
+     "title": "HyperParadise - Flume Remix (Ganz Flip)",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 191807,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:1285n66OGGUB3Bnh6c18nS",
+     "spotify_url": "https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS?si=cEuwYHpDRpiFKxR3hkGhLQ",
+     "subtitle": "BROODS",
+     "title": "Bridges",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 191477,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0QSh6OjacO0U2Ie5g2i3Uu",
+     "spotify_url": "https://open.spotify.com/track/0QSh6OjacO0U2Ie5g2i3Uu?si=uJJ5h1TjSwWyYALixPnpUA",
+     "subtitle": "Jailo, Kappa Kavi",
+     "title": "Soda Glaciers",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 151080,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:55Mb3fQRQWmWZJwof5tqfC",
+     "spotify_url": "https://open.spotify.com/track/55Mb3fQRQWmWZJwof5tqfC?si=KOUJNOvhRGm_fiBmdJq4yg",
+     "subtitle": "Jonah Baseball",
+     "title": "Louisville Slugger",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 274653,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4vd5POsDm1JblJT9ZpYM5L",
+     "spotify_url": "https://open.spotify.com/track/4vd5POsDm1JblJT9ZpYM5L?si=czSmR-OIS4uB51bjILAVdw",
+     "subtitle": "Bombay Bicycle Club",
+     "title": "Home By Now",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 64000,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:6Gu0lpV6yhzErFMWLImcEL",
+     "spotify_url": "https://open.spotify.com/track/6Gu0lpV6yhzErFMWLImcEL?si=XrnL-U0VR-22RGo0QfisEQ",
+     "subtitle": "count anselm",
+     "title": "Lost & Found",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": "https://partner.spotify.dev/v2/experiences/spotify:playlist:4hf50lx1scKtIf3Ygm0y0f/sections/contents/items?offset=30",
+   "next_offset": 30,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:4hf50lx1scKtIf3Ygm0y0f/sections/contents/items?offset=20"
+  },
+  {
+   "attribution": "Content provided by Spotify",
+   "items": [
+    {
+     "duration_ms": 363958,
+     "is_explicit": true,
+     "spotify_uri": "spotify:track:4fnBNNoBiRqDgTTk3ZQo3E",
+     "spotify_url": "https://open.spotify.com/track/4fnBNNoBiRqDgTTk3ZQo3E?si=wW9E3l0JQj-xKcoZkw260A",
+     "subtitle": "Lorde, Flume",
+     "title": "Tennis Court - Flume Remix",
+     "traits": [
+      "PLAYABLE",
+      "SAVED"
+     ]
+    },
+    {
+     "duration_ms": 244480,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:4FjT3dqUW2Uq0R3pMz5V7C",
+     "spotify_url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C?si=IcLG_nCFR2u-JFitnsz3sA",
+     "subtitle": "Disclosure, London Grammar",
+     "title": "Help Me Lose My Mind",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 181320,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:2KcqzkIu38HYksrSLnNKpR",
+     "spotify_url": "https://open.spotify.com/track/2KcqzkIu38HYksrSLnNKpR?si=NYRk39D4QgCnzLAzlR6Png",
+     "subtitle": "Flight Facilities, Micky Green, Slow Magic",
+     "title": "Stand Still - Slow Magic Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 281147,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:29szsGgcOLSeuCulMYFB9s",
+     "spotify_url": "https://open.spotify.com/track/29szsGgcOLSeuCulMYFB9s?si=5o4gPYJzRrycoqFsp9WlgQ",
+     "subtitle": "L D R U, Yahtzel",
+     "title": "The Only One",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 268920,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:7mhyoF7ccDOmTb5qeRqBYC",
+     "spotify_url": "https://open.spotify.com/track/7mhyoF7ccDOmTb5qeRqBYC?si=wkWb8XSRTfehud28sdZ3sQ",
+     "subtitle": "Alice Russell, Boub",
+     "title": "Hurry on Now - Boub Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    },
+    {
+     "duration_ms": 206106,
+     "is_explicit": false,
+     "spotify_uri": "spotify:track:0TfszhFwh4kNJH2APe7g2D",
+     "spotify_url": "https://open.spotify.com/track/0TfszhFwh4kNJH2APe7g2D?si=i9hBYS2bTYSNoiyTeqjHSA",
+     "subtitle": "Wet, Branchez",
+     "title": "Don't Wanna Be Your Girl - Branchez Remix",
+     "traits": [
+      "PLAYABLE"
+     ]
+    }
+   ],
+   "next": null,
+   "next_offset": null,
+   "ok": true,
+   "status": 200,
+   "total_items": null,
+   "url": "https://partner.spotify.dev/v2/experiences/spotify:playlist:4hf50lx1scKtIf3Ygm0y0f/sections/contents/items?offset=30"
+  }
+ ],
+ "track_count": 36
+}

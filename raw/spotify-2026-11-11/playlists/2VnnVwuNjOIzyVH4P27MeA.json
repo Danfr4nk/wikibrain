@@ -1,0 +1,45 @@
+{
+ "playlist_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:playlist:2VnnVwuNjOIzyVH4P27MeA",
+  "spotify_url": "https://open.spotify.com/playlist/2VnnVwuNjOIzyVH4P27MeA?si=2fgdiBUiRDC8U2lQnA4E2g",
+  "subtitle": "",
+  "title": "Starrah & Diplo - Swerve",
+  "traits": [
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 194231,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:53uFSzd19XyMVUYF51DYlR",
+       "spotify_url": "https://open.spotify.com/track/53uFSzd19XyMVUYF51DYlR?si=Fny9Dah7TUuw-UlgK8Rr9Q",
+       "subtitle": "Starrah, Diplo",
+       "title": "Swerve",
+       "traits": [
+        "PLAYABLE"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Starrah & Diplo - Swerve"
+  }
+ ],
+ "track_count": 1
+}

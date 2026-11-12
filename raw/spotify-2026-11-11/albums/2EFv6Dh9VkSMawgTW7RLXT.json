@@ -1,0 +1,47 @@
+{
+ "album_meta": {
+  "is_explicit": false,
+  "spotify_uri": "spotify:album:2EFv6Dh9VkSMawgTW7RLXT",
+  "spotify_url": "https://open.spotify.com/album/2EFv6Dh9VkSMawgTW7RLXT?si=q609WzzvQQO7iPfEmwNAAQ",
+  "subtitle": "Eliminate",
+  "title": "Mula",
+  "traits": [
+   "PLAYABLE",
+   "SAVED"
+  ]
+ },
+ "pages": [
+  {
+   "attribution": "Content provided by Spotify",
+   "id": null,
+   "ok": true,
+   "rendering_style": "entity",
+   "sections": [
+    {
+     "id": null,
+     "items": [
+      {
+       "duration_ms": 216800,
+       "is_explicit": false,
+       "spotify_uri": "spotify:track:1rc8XBktYkxYkMAcJLQRxa",
+       "spotify_url": "https://open.spotify.com/track/1rc8XBktYkxYkMAcJLQRxa?si=KfBzAfTiRaaOwT2hlrHwRQ",
+       "subtitle": "Eliminate",
+       "title": "Mula",
+       "traits": [
+        "PLAYABLE",
+        "SAVED"
+       ]
+      }
+     ],
+     "next": null,
+     "next_offset": null,
+     "title": "",
+     "total_items": null
+    }
+   ],
+   "status": 200,
+   "title": "Mula"
+  }
+ ],
+ "track_count": 1
+}
