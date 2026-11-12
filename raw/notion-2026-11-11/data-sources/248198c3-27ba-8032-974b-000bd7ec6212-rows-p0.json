@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"Status\":\"Not started\",\"Name\":\"\",\"url\":\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a\"},{\"Status\":\"Not started\",\"Name\":\"\",\"url\":\"https://app.notion.com/p/248198c327ba8008bf64d50b62035a0c\"}],\"has_more\":false}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"Status\":\"Not started\",\"Name\":\"\",\"url\":\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a\"},{\"Status\":\"Not started\",\"Name\":\"\",\"url\":\"https://app.notion.com/p/248198c327ba8008bf64d50b62035a0c\"}],\"has_more\":false}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:43:26.695-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:43:26.695Z"
+ },
+ "tool_name": "notion-query-data-sources"
+}

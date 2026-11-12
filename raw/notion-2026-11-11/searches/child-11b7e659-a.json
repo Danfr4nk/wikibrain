@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"id\":\"11b7e659-3016-4c2f-9a48-fb0b8f592d94\",\"title\":\"LLM Chat Archive\",\"url\":\"https://app.notion.com/p/11b7e65930164c2f9a48fb0b8f592d94?pvs=204\",\"type\":\"database\",\"highlight\":\"LLM Chat Archive\",\"timestamp\":\"2026-03-25T22:18:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"id\":\"11b7e659-3016-4c2f-9a48-fb0b8f592d94\",\"title\":\"LLM Chat Archive\",\"url\":\"https://app.notion.com/p/11b7e65930164c2f9a48fb0b8f592d94?pvs=204\",\"type\":\"database\",\"highlight\":\"LLM Chat Archive\",\"timestamp\":\"2026-03-25T22:18:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T23:10:05.182-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T04:10:05.182Z"
+ },
+ "tool_name": "notion-search"
+}

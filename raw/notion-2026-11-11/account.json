@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"workspace\":{\"id\":\"94e198c3-27ba-81da-aaa3-0003f4fa72e3\",\"name\":\"Dan Frank’s Notion\"},\"user\":{\"type\":\"person\",\"id\":\"247d872b-594c-81c8-8178-00020009e1f8\",\"name\":\"Dan Frank\",\"email\":\"dfrank88@gmail.com\"}}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"workspace\":{\"id\":\"94e198c3-27ba-81da-aaa3-0003f4fa72e3\",\"name\":\"Dan Frank’s Notion\"},\"user\":{\"type\":\"person\",\"id\":\"247d872b-594c-81c8-8178-00020009e1f8\",\"name\":\"Dan Frank\",\"email\":\"dfrank88@gmail.com\"}}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:10.855-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:10.855Z"
+ },
+ "tool_name": "notion-get-self"
+}

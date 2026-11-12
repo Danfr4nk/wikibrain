@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"id\":\"32e198c3-27ba-80cb-bbf5-d44f3c89e99d\",\"title\":\"Gemini History [2024-2025]\",\"url\":\"https://app.notion.com/p/32e198c327ba80cbbbf5d44f3c89e99d?pvs=204\",\"type\":\"page\",\"highlight\":\"**Gemini** History [2024-2025]\",\"timestamp\":\"2026-03-25T22:44:00.000Z\",\"path\":\"Master Profile Hub\",\"verification\":{\"state\":\"unverified\"},\"parent_data_source_url\":\"collection://02789c8d-ed97-430e-b22d-355296b99ca8\"},{\"id\":\"247198c3-27ba-8179-9c82-d77187f7e557\",\"title\":\"varungodbole/prompt-tuning-playbook: A playbook for effectively prompting post-trained LLMs\",\"url\":\"https://app.notion.com/p/247198c327ba81799c82d77187f7e557?pvs=204\",\"type\":\"page\",\"highlight\":\"This guide services.google.com/fh/files/misc/**gemini**-for-google-workspace-prompting-guide-101.pdf for **Gemini**. --- **Gemini** 1.5 Flash and run it on **Gemini** 1.0 Pro, it might not work the...\",\"timestamp\":\"2025-08-06T23:12:00.000Z\",\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"}},{\"id\":\"247198c3-27ba-8192-a408-c67136ce1627\",\"title\":\"varungodbole/prompt-tuning-playbook: A playbook for effectively prompting post-trained LLMs\",\"url\":\"https://app.notion.com/p/247198c327ba8192a408c67136ce1627?pvs=204\",\"type\":\"page\",\"highlight\":\"This guide services.google.com/fh/files/misc/**gemini**-for-google-workspace-prompting-guide-101.pdf for **Gemini**. --- **Gemini** 1.5 Flash and run it on **Gemini** 1.0 Pro, it might not work the...\",\"timestamp\":\"2025-08-06T23:12:00.000Z\",\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"id\":\"32e198c3-27ba-80cb-bbf5-d44f3c89e99d\",\"title\":\"Gemini History [2024-2025]\",\"url\":\"https://app.notion.com/p/32e198c327ba80cbbbf5d44f3c89e99d?pvs=204\",\"type\":\"page\",\"highlight\":\"**Gemini** History [2024-2025]\",\"timestamp\":\"2026-03-25T22:44:00.000Z\",\"path\":\"Master Profile Hub\",\"verification\":{\"state\":\"unverified\"},\"parent_data_source_url\":\"collection://02789c8d-ed97-430e-b22d-355296b99ca8\"},{\"id\":\"247198c3-27ba-8179-9c82-d77187f7e557\",\"title\":\"varungodbole/prompt-tuning-playbook: A playbook for effectively prompting post-trained LLMs\",\"url\":\"https://app.notion.com/p/247198c327ba81799c82d77187f7e557?pvs=204\",\"type\":\"page\",\"highlight\":\"This guide services.google.com/fh/files/misc/**gemini**-for-google-workspace-prompting-guide-101.pdf for **Gemini**. --- **Gemini** 1.5 Flash and run it on **Gemini** 1.0 Pro, it might not work the...\",\"timestamp\":\"2025-08-06T23:12:00.000Z\",\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"}},{\"id\":\"247198c3-27ba-8192-a408-c67136ce1627\",\"title\":\"varungodbole/prompt-tuning-playbook: A playbook for effectively prompting post-trained LLMs\",\"url\":\"https://app.notion.com/p/247198c327ba8192a408c67136ce1627?pvs=204\",\"type\":\"page\",\"highlight\":\"This guide services.google.com/fh/files/misc/**gemini**-for-google-workspace-prompting-guide-101.pdf for **Gemini**. --- **Gemini** 1.5 Flash and run it on **Gemini** 1.0 Pro, it might not work the...\",\"timestamp\":\"2025-08-06T23:12:00.000Z\",\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:34.173-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:34.173Z"
+ },
+ "tool_name": "notion-search"
+}

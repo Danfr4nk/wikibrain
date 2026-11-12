@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[],\"type\":\"workspace_search\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[],\"type\":\"workspace_search\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T23:09:59.496-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T04:09:59.496Z"
+ },
+ "tool_name": "notion-search"
+}

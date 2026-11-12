@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"type\":\"person\",\"id\":\"247d872b-594c-81c8-8178-00020009e1f8\",\"name\":\"Dan Frank\",\"email\":\"dfrank88@gmail.com\"},{\"type\":\"bot\",\"id\":\"2e6198c3-27ba-81c3-a402-0027444d6dc1\",\"name\":\"Gemini to Motion\"},{\"type\":\"bot\",\"id\":\"249198c3-27ba-81a2-9630-002762ebbe37\",\"name\":\"Notion MCP\"}],\"has_more\":false}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"type\":\"person\",\"id\":\"247d872b-594c-81c8-8178-00020009e1f8\",\"name\":\"Dan Frank\",\"email\":\"dfrank88@gmail.com\"},{\"type\":\"bot\",\"id\":\"2e6198c3-27ba-81c3-a402-0027444d6dc1\",\"name\":\"Gemini to Motion\"},{\"type\":\"bot\",\"id\":\"249198c3-27ba-81a2-9630-002762ebbe37\",\"name\":\"Notion MCP\"}],\"has_more\":false}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:12.123-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:12.123Z"
+ },
+ "tool_name": "notion-get-users"
+}

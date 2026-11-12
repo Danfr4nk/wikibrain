@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"userDefined:URL\":\"\",\"Archive\":\"__NO__\",\"date:Chat Time:is_datetime\":0,\"Source\":\"formulaResult://2e6198c3-27ba-81b8-b9ad-000b058e0d89/32e198c3-27ba-8035-99f5-c5c2ca5b1a95/Y15sQA\",\"Created at\":\"2026-03-25T21:14:18.887Z\",\"Favorite\":\"__NO__\",\"Title\":\"default template\",\"url\":\"https://app.notion.com/p/32e198c327ba803599f5c5c2ca5b1a95\"},{\"userDefined:URL\":\"https://chatgpt2notion.com\",\"Archive\":\"__YES__\",\"date:Chat Time:start\":\"2025-07-10\",\"date:Chat Time:is_datetime\":0,\"Source\":\"formulaResult://2e6198c3-27ba-81b8-b9ad-000b058e0d89/2e6198c3-27ba-811a-b4f0-d46d1d915e49/Y15sQA\",\"Created at\":\"2026-01-12T20:01:54.894Z\",\"Tags\":\"[\\\"Gemini\\\"]\",\"Favorite\":\"__NO__\",\"Title\":\"default template\",\"url\":\"https://app.notion.com/p/2e6198c327ba811ab4f0d46d1d915e49\"}],\"has_more\":false}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"userDefined:URL\":\"\",\"Archive\":\"__NO__\",\"date:Chat Time:is_datetime\":0,\"Source\":\"formulaResult://2e6198c3-27ba-81b8-b9ad-000b058e0d89/32e198c3-27ba-8035-99f5-c5c2ca5b1a95/Y15sQA\",\"Created at\":\"2026-03-25T21:14:18.887Z\",\"Favorite\":\"__NO__\",\"Title\":\"default template\",\"url\":\"https://app.notion.com/p/32e198c327ba803599f5c5c2ca5b1a95\"},{\"userDefined:URL\":\"https://chatgpt2notion.com\",\"Archive\":\"__YES__\",\"date:Chat Time:start\":\"2025-07-10\",\"date:Chat Time:is_datetime\":0,\"Source\":\"formulaResult://2e6198c3-27ba-81b8-b9ad-000b058e0d89/2e6198c3-27ba-811a-b4f0-d46d1d915e49/Y15sQA\",\"Created at\":\"2026-01-12T20:01:54.894Z\",\"Tags\":\"[\\\"Gemini\\\"]\",\"Favorite\":\"__NO__\",\"Title\":\"default template\",\"url\":\"https://app.notion.com/p/2e6198c327ba811ab4f0d46d1d915e49\"}],\"has_more\":false}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:43:30.887-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:43:30.887Z"
+ },
+ "tool_name": "notion-query-data-sources"
+}

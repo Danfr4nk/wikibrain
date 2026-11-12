@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[]}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[]}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:16.139-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:16.139Z"
+ },
+ "tool_name": "notion-list-shared-pages"
+}

@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"id\":\"247198c3-27ba-8147-a33f-c1aa4905bdde\",\"title\":\"Monthly Budget\",\"url\":\"https://app.notion.com/p/247198c327ba8147a33fc1aa4905bdde?pvs=204\",\"type\":\"page\",\"highlight\":\"income sources for **the** month and their amount in **the** Income table and your expenses in **the** Expenses table. Find you totals at **the**\",\"timestamp\":\"2025-08-06T23:07:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"id\":\"247198c3-27ba-8147-a33f-c1aa4905bdde\",\"title\":\"Monthly Budget\",\"url\":\"https://app.notion.com/p/247198c327ba8147a33fc1aa4905bdde?pvs=204\",\"type\":\"page\",\"highlight\":\"income sources for **the** month and their amount in **the** Income table and your expenses in **the** Expenses table. Find you totals at **the**\",\"timestamp\":\"2025-08-06T23:07:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T23:10:29.697-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T04:10:29.697Z"
+ },
+ "tool_name": "notion-search"
+}

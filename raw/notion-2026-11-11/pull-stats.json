@@ -1,0 +1,87 @@
+{
+ "discovered_initial": 270,
+ "fetched_total_files": 338,
+ "data_sources": {
+  "05d00285-025e-49a5-b344-27d6170c0a70": {
+   "parent": "247198c3-27ba-8147-a33f-c1aa4905bdde",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "ac526bcd-a19f-48d8-a84b-dd8b9af25f57": {
+   "parent": "247198c3-27ba-8147-a33f-c1aa4905bdde",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "247198c3-27ba-806d-a384-000b22e17bb9": {
+   "parent": "247198c3-27ba-8002-8f68-cfe2d38e3db8",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "247198c3-27ba-8106-a6ad-000bc6b9c5e9": {
+   "parent": "247198c3-27ba-805a-873a-c92bea2c65a0",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "247198c3-27ba-8185-b15a-000b3c114096": {
+   "parent": "247198c3-27ba-804f-9464-fad9af868f12",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "248198c3-27ba-8032-974b-000bd7ec6212": {
+   "parent": "248198c3-27ba-8099-8f4b-f28c574e347e",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "252198c3-27ba-8107-813c-000bd29ec3aa": {
+   "parent": "252198c3-27ba-80b9-b93a-ed24e2e34ffa",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "248198c3-27ba-80d0-9347-000bafb854c2": {
+   "parent": "248198c3-27ba-808c-bb74-fec95f5aa709",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "2e6198c3-27ba-81ed-a3ff-000b23ea82f6": {
+   "parent": "2e6198c3-27ba-81f1-ae3d-fb74f19e5010",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "2e6198c3-27ba-81b8-b9ad-000b058e0d89": {
+   "parent": "2e6198c3-27ba-8108-a647-f79541f9ebad",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "add63b21-33dc-435f-b4c5-c501bd7593c5": {
+   "parent": "2e6198c3-27ba-8108-a647-f79541f9ebad",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "02789c8d-ed97-430e-b22d-355296b99ca8": {
+   "parent": "537a36f2-2670-4c3a-9aa6-f9240a0eb349",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "614d0570-2873-4aa2-b5b3-e33b3d370b48": {
+   "parent": "11b7e659-3016-4c2f-9a48-fb0b8f592d94",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "32e198c3-27ba-8067-9280-000b2c40c968": {
+   "parent": "32e198c3-27ba-8044-b140-cceb9f0064a8",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "32f198c3-27ba-800d-9f1d-000bfe2e3397": {
+   "parent": "32f198c3-27ba-8075-a527-c63de5c1ea71",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  },
+  "32e198c3-27ba-811b-8c75-000b2ec98e87": {
+   "parent": "32e198c3-27ba-8085-9280-dcd286ab39b5",
+   "rows_pulled": 0,
+   "row_pages_fetched": 0
+  }
+ },
+ "rate_limited": false
+}

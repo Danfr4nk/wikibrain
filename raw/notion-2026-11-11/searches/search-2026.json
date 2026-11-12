@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"id\":\"330198c3-27ba-803b-8cdd-dd8c9b5bd040\",\"title\":\"‣\",\"url\":\"https://app.notion.com/p/330198c327ba803b8cdddd8c9b5bd040?pvs=204\",\"type\":\"page\",\"highlight\":\"Meeting March 27, **2026** March 27, **2026** --- Ricky Churry Incident Follow-Up March 27, **2026**\",\"timestamp\":\"2026-03-27T05:04:00.000Z\",\"verification\":{\"state\":\"unverified\"}},{\"id\":\"330198c3-27ba-8073-8750-f5ad6c9664d7\",\"title\":\"Untitled\",\"url\":\"https://app.notion.com/p/330198c327ba80738750f5ad6c9664d7?pvs=204\",\"type\":\"page\",\"highlight\":\"Dog Custody Arrangement March 27, **2026** --- Meeting Summary March 27, **2026**\",\"timestamp\":\"2026-03-27T07:28:00.000Z\",\"verification\":{\"state\":\"unverified\"}},{\"id\":\"330198c3-27ba-803a-9497-dcb4f0f680c5\",\"title\":\"Untitled\",\"url\":\"https://app.notion.com/p/330198c327ba803a9497dcb4f0f680c5?pvs=204\",\"type\":\"page\",\"highlight\":\"Meeting March 27, **2026** --- Casual Conversation About Old Neighbors March 27, **2026** --- Meeting March 27, **2026** --- Meeting Summary March 27, **2026** --- Easter Basket Preparation March...\",\"timestamp\":\"2026-03-27T05:25:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"id\":\"330198c3-27ba-803b-8cdd-dd8c9b5bd040\",\"title\":\"‣\",\"url\":\"https://app.notion.com/p/330198c327ba803b8cdddd8c9b5bd040?pvs=204\",\"type\":\"page\",\"highlight\":\"Meeting March 27, **2026** March 27, **2026** --- Ricky Churry Incident Follow-Up March 27, **2026**\",\"timestamp\":\"2026-03-27T05:04:00.000Z\",\"verification\":{\"state\":\"unverified\"}},{\"id\":\"330198c3-27ba-8073-8750-f5ad6c9664d7\",\"title\":\"Untitled\",\"url\":\"https://app.notion.com/p/330198c327ba80738750f5ad6c9664d7?pvs=204\",\"type\":\"page\",\"highlight\":\"Dog Custody Arrangement March 27, **2026** --- Meeting Summary March 27, **2026**\",\"timestamp\":\"2026-03-27T07:28:00.000Z\",\"verification\":{\"state\":\"unverified\"}},{\"id\":\"330198c3-27ba-803a-9497-dcb4f0f680c5\",\"title\":\"Untitled\",\"url\":\"https://app.notion.com/p/330198c327ba803a9497dcb4f0f680c5?pvs=204\",\"type\":\"page\",\"highlight\":\"Meeting March 27, **2026** --- Casual Conversation About Old Neighbors March 27, **2026** --- Meeting March 27, **2026** --- Meeting Summary March 27, **2026** --- Easter Basket Preparation March...\",\"timestamp\":\"2026-03-27T05:25:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:38.708-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:38.708Z"
+ },
+ "tool_name": "notion-search"
+}

@@ -1,0 +1,25 @@
+{
+ "content": [
+  {
+   "text": "{\"name\":\"APIResponseError\",\"code\":\"validation_error\",\"status\":400,\"headers\":{},\"body\":\"{\\\"object\\\":\\\"error\\\",\\\"status\\\":400,\\\"code\\\":\\\"validation_error\\\",\\\"message\\\":\\\"Failed to execute query: Data source not found with URL: collection://05d00285-025e-49a5-b344-27d6170c0a70\\\",\\\"additional_data\\\":{\\\"tool_error_code\\\":\\\"object_not_found\\\",\\\"tool_error_class\\\":\\\"not_found\\\",\\\"tool_error_retryable\\\":\\\"false\\\",\\\"tool_error_message_template\\\":\\\"Data source not found with URL: {url}\\\"},\\\"request_id\\\":\\\"eac9e03a-3643-4ffa-8cd2-e47108870636\\\"}\",\"additional_data\":{\"tool_error_code\":\"object_not_found\",\"tool_error_class\":\"not_found\",\"tool_error_retryable\":\"false\",\"tool_error_message_template\":\"Data source not found with URL: {url}\"},\"request_id\":\"eac9e03a-3643-4ffa-8cd2-e47108870636\",\"message\":\"Failed to execute query: Data source not found with URL: collection://05d00285-025e-49a5-b344-27d6170c0a70\"}",
+   "type": "text"
+  }
+ ],
+ "error": "{\"name\":\"APIResponseError\",\"code\":\"validation_error\",\"status\":400,\"headers\":{},\"body\":\"{\\\"object\\\":\\\"error\\\",\\\"status\\\":400,\\\"code\\\":\\\"validation_error\\\",\\\"message\\\":\\\"Failed to execute query: Data source not found with URL: collection://05d00285-025e-49a5-b344-27d6170c0a70\\\",\\\"additional_data\\\":{\\\"tool_error_code\\\":\\\"object_not_found\\\",\\\"tool_error_class\\\":\\\"not_found\\\",\\\"tool_error_retryable\\\":\\\"false\\\",\\\"tool_error_message_template\\\":\\\"Data source not found with URL: {url}\\\"},\\\"request_id\\\":\\\"eac9e03a-3643-4ffa-8cd2-e47108870636\\\"}\",\"additional_data\":{\"tool_error_code\":\"object_not_found\",\"tool_error_class\":\"not_found\",\"tool_error_retryable\":\"false\",\"tool_error_message_template\":\"Data source not found with URL: {url}\"},\"request_id\":\"eac9e03a-3643-4ffa-8cd2-e47108870636\",\"message\":\"Failed to execute query: Data source not found with URL: collection://05d00285-025e-49a5-b344-27d6170c0a70\"}",
+ "ok": false,
+ "result": {
+  "content": [
+   {
+    "text": "{\"name\":\"APIResponseError\",\"code\":\"validation_error\",\"status\":400,\"headers\":{},\"body\":\"{\\\"object\\\":\\\"error\\\",\\\"status\\\":400,\\\"code\\\":\\\"validation_error\\\",\\\"message\\\":\\\"Failed to execute query: Data source not found with URL: collection://05d00285-025e-49a5-b344-27d6170c0a70\\\",\\\"additional_data\\\":{\\\"tool_error_code\\\":\\\"object_not_found\\\",\\\"tool_error_class\\\":\\\"not_found\\\",\\\"tool_error_retryable\\\":\\\"false\\\",\\\"tool_error_message_template\\\":\\\"Data source not found with URL: {url}\\\"},\\\"request_id\\\":\\\"eac9e03a-3643-4ffa-8cd2-e47108870636\\\"}\",\"additional_data\":{\"tool_error_code\":\"object_not_found\",\"tool_error_class\":\"not_found\",\"tool_error_retryable\":\"false\",\"tool_error_message_template\":\"Data source not found with URL: {url}\"},\"request_id\":\"eac9e03a-3643-4ffa-8cd2-e47108870636\",\"message\":\"Failed to execute query: Data source not found with URL: collection://05d00285-025e-49a5-b344-27d6170c0a70\"}",
+    "type": "text"
+   }
+  ],
+  "isError": true
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:43:21.056-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:43:21.056Z"
+ },
+ "tool_name": "notion-query-data-sources"
+}

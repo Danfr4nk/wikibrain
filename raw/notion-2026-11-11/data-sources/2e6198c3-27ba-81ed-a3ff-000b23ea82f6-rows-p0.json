@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"userDefined:URL\":\"https://chatgpt2notion.com\",\"Archive\":\"__YES__\",\"date:Chat Time:start\":\"2025-07-10\",\"date:Chat Time:is_datetime\":0,\"Source\":\"formulaResult://2e6198c3-27ba-81ed-a3ff-000b23ea82f6/2e6198c3-27ba-81d5-bd30-de1aef06215f/Y15sQA\",\"Created at\":\"2026-01-12T19:59:08.585Z\",\"Tags\":\"[\\\"Gemini\\\"]\",\"Favorite\":\"__NO__\",\"Title\":\"default template\",\"url\":\"https://app.notion.com/p/2e6198c327ba81d5bd30de1aef06215f\"}],\"has_more\":false}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"userDefined:URL\":\"https://chatgpt2notion.com\",\"Archive\":\"__YES__\",\"date:Chat Time:start\":\"2025-07-10\",\"date:Chat Time:is_datetime\":0,\"Source\":\"formulaResult://2e6198c3-27ba-81ed-a3ff-000b23ea82f6/2e6198c3-27ba-81d5-bd30-de1aef06215f/Y15sQA\",\"Created at\":\"2026-01-12T19:59:08.585Z\",\"Tags\":\"[\\\"Gemini\\\"]\",\"Favorite\":\"__NO__\",\"Title\":\"default template\",\"url\":\"https://app.notion.com/p/2e6198c327ba81d5bd30de1aef06215f\"}],\"has_more\":false}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:43:33.089-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:43:33.089Z"
+ },
+ "tool_name": "notion-query-data-sources"
+}

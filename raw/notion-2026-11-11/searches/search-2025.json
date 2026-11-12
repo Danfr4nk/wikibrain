@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"results\":[{\"id\":\"32e198c3-27ba-80cb-bbf5-d44f3c89e99d\",\"title\":\"Gemini History [2024-2025]\",\"url\":\"https://app.notion.com/p/32e198c327ba80cbbbf5d44f3c89e99d?pvs=204\",\"type\":\"page\",\"highlight\":\"Gemini History [2024-**2025**]\",\"timestamp\":\"2026-03-25T22:44:00.000Z\",\"path\":\"Master Profile Hub\",\"verification\":{\"state\":\"unverified\"},\"parent_data_source_url\":\"collection://02789c8d-ed97-430e-b22d-355296b99ca8\"},{\"id\":\"32e198c3-27ba-8017-9837-d6ba92941ccd\",\"title\":\"ChatGPT History [2024-2025]\",\"url\":\"https://app.notion.com/p/32e198c327ba80179837d6ba92941ccd?pvs=204\",\"type\":\"page\",\"highlight\":\"ChatGPT History [2024-**2025**]\",\"timestamp\":\"2026-03-25T22:44:00.000Z\",\"path\":\"Master Profile Hub\",\"verification\":{\"state\":\"unverified\"},\"parent_data_source_url\":\"collection://02789c8d-ed97-430e-b22d-355296b99ca8\"},{\"id\":\"252198c3-27ba-80af-8366-eb68836b3051\",\"title\":\"Try AI Meeting Notes ‣\",\"url\":\"https://app.notion.com/p/252198c327ba80af8366eb68836b3051?pvs=204\",\"type\":\"page\",\"highlight\":\"Try AI Meeting Notes  August 17, **2025** 7:12 AM (EDT)\",\"timestamp\":\"2025-08-17T11:12:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"results\":[{\"id\":\"32e198c3-27ba-80cb-bbf5-d44f3c89e99d\",\"title\":\"Gemini History [2024-2025]\",\"url\":\"https://app.notion.com/p/32e198c327ba80cbbbf5d44f3c89e99d?pvs=204\",\"type\":\"page\",\"highlight\":\"Gemini History [2024-**2025**]\",\"timestamp\":\"2026-03-25T22:44:00.000Z\",\"path\":\"Master Profile Hub\",\"verification\":{\"state\":\"unverified\"},\"parent_data_source_url\":\"collection://02789c8d-ed97-430e-b22d-355296b99ca8\"},{\"id\":\"32e198c3-27ba-8017-9837-d6ba92941ccd\",\"title\":\"ChatGPT History [2024-2025]\",\"url\":\"https://app.notion.com/p/32e198c327ba80179837d6ba92941ccd?pvs=204\",\"type\":\"page\",\"highlight\":\"ChatGPT History [2024-**2025**]\",\"timestamp\":\"2026-03-25T22:44:00.000Z\",\"path\":\"Master Profile Hub\",\"verification\":{\"state\":\"unverified\"},\"parent_data_source_url\":\"collection://02789c8d-ed97-430e-b22d-355296b99ca8\"},{\"id\":\"252198c3-27ba-80af-8366-eb68836b3051\",\"title\":\"Try AI Meeting Notes ‣\",\"url\":\"https://app.notion.com/p/252198c327ba80af8366eb68836b3051?pvs=204\",\"type\":\"page\",\"highlight\":\"Try AI Meeting Notes  August 17, **2025** 7:12 AM (EDT)\",\"timestamp\":\"2025-08-17T11:12:00.000Z\",\"verification\":{\"state\":\"unverified\"}}],\"type\":\"workspace_search\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:37.258-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:37.258Z"
+ },
+ "tool_name": "notion-search"
+}
