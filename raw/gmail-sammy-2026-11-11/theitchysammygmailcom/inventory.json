@@ -1,0 +1,247 @@
+{
+  "account_id": "921d6fe638cd4b60bd2d49d7c13d3f28",
+  "email": "theitchysammy@gmail.com",
+  "pull_date": "2026-11-11",
+  "source": "Gmail via hatch_gws_cli",
+  "profile": {
+    "emailAddress": "theitchysammy@gmail.com",
+    "messagesTotal": 63,
+    "threadsTotal": 58,
+    "historyId": "7545"
+  },
+  "labels": [
+    {
+      "id": "CHAT",
+      "name": "CHAT",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "SENT",
+      "name": "SENT",
+      "type": "system",
+      "messagesTotal": 33,
+      "threadsTotal": 33,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "INBOX",
+      "name": "INBOX",
+      "type": "system",
+      "messagesTotal": 30,
+      "threadsTotal": 28,
+      "messagesUnread": 24,
+      "threadsUnread": 22
+    },
+    {
+      "id": "IMPORTANT",
+      "name": "IMPORTANT",
+      "type": "system",
+      "messagesTotal": 14,
+      "threadsTotal": 14,
+      "messagesUnread": 9,
+      "threadsUnread": 9
+    },
+    {
+      "id": "TRASH",
+      "name": "TRASH",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "DRAFT",
+      "name": "DRAFT",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "SPAM",
+      "name": "SPAM",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "CATEGORY_FORUMS",
+      "name": "CATEGORY_FORUMS",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "CATEGORY_UPDATES",
+      "name": "CATEGORY_UPDATES",
+      "type": "system",
+      "messagesTotal": 22,
+      "threadsTotal": 20,
+      "messagesUnread": 20,
+      "threadsUnread": 18
+    },
+    {
+      "id": "CATEGORY_PERSONAL",
+      "name": "CATEGORY_PERSONAL",
+      "type": "system",
+      "messagesTotal": 5,
+      "threadsTotal": 5,
+      "messagesUnread": 1,
+      "threadsUnread": 1
+    },
+    {
+      "id": "CATEGORY_PROMOTIONS",
+      "name": "CATEGORY_PROMOTIONS",
+      "type": "system",
+      "messagesTotal": 3,
+      "threadsTotal": 3,
+      "messagesUnread": 3,
+      "threadsUnread": 3
+    },
+    {
+      "id": "CATEGORY_SOCIAL",
+      "name": "CATEGORY_SOCIAL",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "STARRED",
+      "name": "STARRED",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "UNREAD",
+      "name": "UNREAD",
+      "type": "system",
+      "messagesTotal": 24,
+      "threadsTotal": 22,
+      "messagesUnread": 24,
+      "threadsUnread": 22
+    }
+  ],
+  "year_counts_method": "Exact counts: users messages list --page-all per calendar-year query (after:YYYY/01/01 before:YYYY+1/01/01), counting returned message ids and distinct threadIds. resultSizeEstimate not used (caps at 201).",
+  "window_query": "after:2026/08/31",
+  "window_listed_ids": 63,
+  "pull_scope": "whole mailbox (total <2000, so everything pulled per task rule)",
+  "year_counts_exact_by_listing": {
+    "2005": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2006": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2007": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2008": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2009": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2010": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2011": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2012": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2013": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2014": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2015": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2016": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2017": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2018": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2019": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2020": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2021": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2022": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2023": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2024": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2025": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2026": {
+      "messages": 63,
+      "threads": 58
+    }
+  },
+  "rate_limited_during_year_counts": false,
+  "oldest_message_listed": {
+    "id": "1a0e50dcdc149750",
+    "internalDate": "1790549281000",
+    "date": "Sun, 27 Sep 2026 18:48:01 -0400",
+    "subject": "my first email ever"
+  },
+  "newest_message_listed": {
+    "id": "1a1bd974bde15020",
+    "internalDate": "1794182143000",
+    "date": "8 Nov 2026 16:55:43 -0700",
+    "subject": "The Final Voyage of the New Era"
+  }
+}

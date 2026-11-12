@@ -1,0 +1,12 @@
+{
+  "whole_mailbox": {
+    "listed": 63,
+    "in_file": 63,
+    "rate_limited": false
+  },
+  "window_2026-09-01_onward": {
+    "listed": 63,
+    "note": "window is a subset of the whole-mailbox pull; whole mailbox pulled because total <2000"
+  },
+  "extension": "not applicable: whole mailbox exhausted (63 total)"
+}
