@@ -4,7 +4,7 @@ page_type: entity
 tier: major
 status: active
 date_created: 2026-06-23
-date_modified: 2026-11-07
+date_modified: 2026-11-11
 date_range_start: 2018-02-16
 date_range_end: 2024-12-26
 sources:
@@ -47,6 +47,7 @@ connections:
 changelog:
   - "2026-10-04: Restructured to canonical template v1"
   - "2026-10-05: Expanded to major floor — realtor thread, Suz rivalry, social layer, Conflicts; canonical template v1"
+  - "2026-11-11: Provenance pinned for the November 2024 recording (recorded by Annie, for Dan, on her phone, Nov 2 2024); birthday-displacement and identity conflicts flagged"
 ---
 
 # Danny Matthews
@@ -132,6 +133,25 @@ Danny is the only person who appears at 117 Belmont Circle in both of its ending
 | Direction | Unreliable in this export (see note above) — read as two-way |
 | Handle | +17248803413 |
 
+## The November 2024 recording — provenance pinned
+
+The corpus holds a second Danny Matthews record, distinct from the
+thread above: a November 2024 iMessage thread between Annie and a man
+saved in her phone as Danny Matthews — a Savannah-based field training
+rep for a Fortune 500 CPG company (territory NC/SC/GA/northern FL), per
+the thread itself. The thread survives as a screen recording, and its
+provenance was pinned by Dan on 2026-10-21: **the recording was made by
+Annie, on her phone, for Dan, on November 2, 2024** — the Saturday after
+Dan's November 1 birthday. On that provenance it is a report-back
+artifact, not a caught or leaked one: Annie recorded her own thread and
+sent it to Dan, consistent with Dan's standing framing that the exchange
+was an arrangement made with his awareness (her in-thread line: "We have
+spoken about you often danny"). The recording shows flight planning but
+no booking; whether the planned trip happened is not established. Two
+conflicts attach to this record and are flagged in Conflicts in the
+record below: the birthday framing, and whether this man is the man of
+this page's thread at all.
+
 ## Conflicts in the record
 
 - **The handle.** The infobox masks the handle as +1724***3413 while the Corpus Dimensions table gives +17248803413 in full. Both refer to the same thread; the masking is inconsistent, not two numbers. (The full number appears because it was already published in this page's earlier version.)
@@ -140,6 +160,9 @@ Danny is the only person who appears at 117 Belmont Circle in both of its ending
 - **The $250,000 close.** Operator testimony (2026-08-27) gives the summer-2019 close at $250,000. The message record never returns to the subject after Danny's July 11, 2019 "finally went pending" line, so the figure is single-source and the buyer is unknown.
 - **"A grade above me at school, known as a dork then."** The only account of how they knew each other, and it comes from the operator rather than the corpus. No school-record corroboration.
 - **Whether the December 2024 invitation was taken up** is unknown; no further contact appears in the corpus after that date.
+- **Birthday displacement (November 2024 record).** Dan frames the November 2024 arrangement as for HIS birthday (November 1, 2024); the pretext Annie uses inside the thread is HER birthday (Thanksgiving, November 28, 2024). The pinned recording date — November 2, 2024 — sits between the two. The record does not resolve which framing is operative; both are carried.
+- **Identity: two men, one name — uncorroborated.** This page's subject is the Uniontown-area realtor of the 2018–2024 thread. The November 2024 recording's Danny Matthews is a Savannah-based field training rep. Whether he is the same man — after a move and a career change — or a different man with the same name is uncorroborated in the record. The two records are NOT merged on this page, and the 2026-11-07 stringent-instrument run likewise used only the direct thread for this page's subject.
+
 
 ## Assessment
 

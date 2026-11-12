@@ -6,7 +6,7 @@ tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-10-04
+date_modified: 2026-11-11
 images:
   infobox: wiki/media/bni-shortys-live.jpg
   library:
@@ -19,7 +19,7 @@ tags: [music-production, uniontown-era, personality-profile]
 connections:
   - page: wiki/people/joe-oshnack
     type: evidenced-by
-    claim: "Joe's Aug 2018 setlist-reconstruction thread and Sept 2021 retrospective are the corpus's primary sources on the band — Dan names himself lead songwriter for the originals."
+    claim: "Joe's Aug 2018 setlist-reconstruction thread and Sept 2021 retrospective are the corpus's primary sources on the band. (The thread's single 'lead songwriter' parenthetical was long misread as Dan naming himself; corrected 2026-10-22 — see Conflicts in the record.)"
   - page: wiki/people/sena-ledonne
     type: evidenced-by
     claim: "Sena is named as one of the scene mentors (with Andy, Paul, Nathan, Kessler) whose harsh, high-standards hardcore/punk scene the band operated inside of, and 'Rejected Gazette' as a named zine/scene touchstone of the same milieu."
@@ -37,7 +37,7 @@ connections:
 Batteries Not Included — "BNI" in Dan's own shorthand — was his high
 school-era band with [[wiki/people/joe-oshnack|Joe Oshnack]] and a
 third member, Matt Turko, playing hardcore/punk covers alongside
-originals Dan wrote as, in his own words, "lead songwriter." It
+originals whose authorship the record does not establish (see Conflicts in the record). It
 predates every other music project the wiki documents by nearly a
 decade — the earliest evidence of the same instinct that later becomes
 SLOPPP, MOGZART, and GRIPNOTIC.
@@ -102,8 +102,9 @@ kit with Zildjian branding on the kick drum.
 ![Batteries Not Included on stage at Shorty's](wiki/media/bni-shortys-live.jpg)
 
 That is the second answer: Dan was the drummer. The article previously
-named him only as "lead songwriter"; the kit was undocumented until
-now. The close-up shows him bleach-blonde — "very punk," in his own
+named him only as "lead songwriter" — a claim corrected on
+2026-10-22 (see Conflicts in the record); the kit was undocumented
+until now. The close-up shows him bleach-blonde — "very punk," in his own
 2026 description — in a black Incubus t-shirt carrying the
 *Morning View*-era hand-and-lotus graphic, which dates the look to the
 same early-2000s hardcore/punk canon as the setlist. The drummer in the
@@ -119,11 +120,34 @@ significance... they're dead" — an echo of the same opiate-epidemic
 framing documented on [[wiki/people/matthew-palermo]] and elsewhere in
 the corpus. No reunion is recorded as having happened.
 
+## Conflicts in the record
+
+- **Role, corrected 2026-10-22.** This article previously carried Dan as
+  the band's "lead songwriter" — in the lede ("originals Dan wrote as, in
+  his own words, 'lead songwriter'"), in the corpus table above, and in a
+  connections claim stating that "Dan names himself lead songwriter for
+  the originals." The claim rests on a single line: Dan's Aug 8, 2018
+  message to Joe Oshnack opening the setlist reconstruction — "Alright
+  lets do this.... I've been trying to compile a list of the complete bni
+  songs. I'm sure there's a lot of originals I've forgotten (sorry, lead
+  songwriter) but I'm curious if I've forgotten about any of the covers."
+  That parenthetical is the only occurrence of the phrase in the thread,
+  and "(sorry, lead songwriter)" reads as an apology aside — most
+  naturally addressed to Joe, the interlocutor, about forgetting the
+  originals — not as Dan naming himself. An earlier synthesis converted
+  the ambiguous parenthetical into a self-description. The thread's
+  target is flagged ⚠ unresolved in the current corpus (see Sources);
+  the line was recovered in 2026 from a locally held Facebook export
+  outside the repo. On 2026-10-22 Dan corrected the record directly: "i
+  was just the drummer and i still couldn't write a song." Dan was the
+  drummer; the originals' authorship is not established by the record,
+  and this article no longer assigns it. (Correction entered 2026-11-11.)
+
 ## Corpus record
 
 | Metric | Value |
 |---|---|
-| Members (documented) | Dan (drums, lead songwriter), Joe Oshnack, Matt Turko |
+| Members (documented) | Dan (drums), Joe Oshnack, Matt Turko |
 | Era | High school (pre-2006, per Dan's own "class of 06" graduating-year references elsewhere) |
 | Venues (documented) | Shorty's — real stage, skate-shop/small-venue circuit (photos 2026-09-25); answers the old basement-only question |
 | Dan's look | Bleach-blonde hair; black Incubus *Morning View*-era hand/lotus t-shirt |
