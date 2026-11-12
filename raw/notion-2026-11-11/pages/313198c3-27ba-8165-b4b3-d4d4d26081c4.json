@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"📝 Improve Writing\",\"url\":\"https://app.notion.com/p/313198c327ba8165b4b3d4d4d26081c4?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/313198c327ba8165b4b3d4d4d26081c4 as of 2026-02-26T15:55:19.443Z:\\n<page url=\\\"https://app.notion.com/p/313198c327ba8165b4b3d4d4d26081c4\\\" icon=\\\"📝\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"skill_description\\\":\\\"\\\",\\\"skill_files\\\":[],\\\"title\\\":\\\"Improve Writing\\\"}\\n</properties>\\n<iconMetadata>{\\\"type\\\":\\\"emoji\\\",\\\"emoji\\\":\\\"📝\\\"}</iconMetadata>\\n<content>\\n<p>\\nRevise the provided content to improve its overall writing quality. \\n</p>\\n\\n<b>IMPORTANT: </b>If a user selection is present, ONLY change the content within the user selection tags. DO NOT change any of the text outside of it. If there is no text selected, review the entire page or relevant context.\\n\\nIf no issues are found, respond concisely to let the user know nothing needed to be changed.\\n\\nAdditional guidelines:\\n\\n- Do NOT add new information or alter the meaning of the original content.\\n- Improve clarity, conciseness, and flow without changing the author's intent.\\n- Reorder or split sentences when it improves readability.\\n- Reduce repetition and remove filler or redundant phrases.\\n- Replace convoluted wording with simpler alternatives and avoid jargon unless the surrounding context requires it.\\n- Correct spelling, grammar, and punctuation.\\n- Preserve all existing formatting, links, code snippets, and inline structures exactly as they appear.\\n\\n<p />\\n\\n<p />\\n</content>\\n</page>\",\"cover\":null,\"icon\":{\"type\":\"emoji\",\"emoji\":\"📝\"},\"full_width\":false,\"path\":\"AI Skills\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2026-02-26T15:55:19.441Z\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"📝 Improve Writing\",\"url\":\"https://app.notion.com/p/313198c327ba8165b4b3d4d4d26081c4?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/313198c327ba8165b4b3d4d4d26081c4 as of 2026-02-26T15:55:19.443Z:\\n<page url=\\\"https://app.notion.com/p/313198c327ba8165b4b3d4d4d26081c4\\\" icon=\\\"📝\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"skill_description\\\":\\\"\\\",\\\"skill_files\\\":[],\\\"title\\\":\\\"Improve Writing\\\"}\\n</properties>\\n<iconMetadata>{\\\"type\\\":\\\"emoji\\\",\\\"emoji\\\":\\\"📝\\\"}</iconMetadata>\\n<content>\\n<p>\\nRevise the provided content to improve its overall writing quality. \\n</p>\\n\\n<b>IMPORTANT: </b>If a user selection is present, ONLY change the content within the user selection tags. DO NOT change any of the text outside of it. If there is no text selected, review the entire page or relevant context.\\n\\nIf no issues are found, respond concisely to let the user know nothing needed to be changed.\\n\\nAdditional guidelines:\\n\\n- Do NOT add new information or alter the meaning of the original content.\\n- Improve clarity, conciseness, and flow without changing the author's intent.\\n- Reorder or split sentences when it improves readability.\\n- Reduce repetition and remove filler or redundant phrases.\\n- Replace convoluted wording with simpler alternatives and avoid jargon unless the surrounding context requires it.\\n- Correct spelling, grammar, and punctuation.\\n- Preserve all existing formatting, links, code snippets, and inline structures exactly as they appear.\\n\\n<p />\\n\\n<p />\\n</content>\\n</page>\",\"cover\":null,\"icon\":{\"type\":\"emoji\",\"emoji\":\"📝\"},\"full_width\":false,\"path\":\"AI Skills\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2026-02-26T15:55:19.441Z\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:54:09.689-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:54:09.689Z"
+ },
+ "tool_name": "notion-fetch"
+}

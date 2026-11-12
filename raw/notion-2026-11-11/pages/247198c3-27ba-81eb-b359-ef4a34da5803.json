@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"System Prompts - Anthropic\",\"url\":\"https://app.notion.com/p/247198c327ba81ebb359ef4a34da5803?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/247198c327ba81ebb359ef4a34da5803 as of 2025-08-06T23:12:41.317Z:\\n<page url=\\\"https://app.notion.com/p/247198c327ba81ebb359ef4a34da5803\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"System Prompts - Anthropic\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<content>\\n[https://docs.anthropic.com/en/release-notes/system-prompts?utm\\\\_source=tldrai](https://docs.anthropic.com/en/release-notes/system-prompts?utm_source=tldrai)\\n\\n<p />\\n\\n- [Research](https://www.anthropic.com/research)\\n- [News](https://www.anthropic.com/news)\\n- [Go to claude.ai](https://claude.ai/)\\n\\n[Welcome](https://docs.anthropic.com/en/home)[User Guides](https://docs.anthropic.com/en/docs/welcome)[API Reference](https://docs.anthropic.com/en/api/getting-started)[Prompt Library](https://docs.anthropic.com/en/prompt-library/library)[Release Notes](https://docs.anthropic.com/en/release-notes/overview)\\n\\n- [Developer Console](https://console.anthropic.com/)\\n- [Developer Discord](https://www.anthropic.com/discord)\\n- [Support](https://support.anthropic.com/)\\n\\n### Release Notes\\n\\n- [Overview](https://docs.anthropic.com/en/release-notes/overview)\\n- [API](https://docs.anthropic.com/en/release-notes/api)\\n- [Claude Apps](https://docs.anthropic.com/en/release-notes/claude-apps)\\n- [System Prompts](https://docs.anthropic.com/en/release-notes/system-prompts)\\n</content>\\n</page>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-06T23:12:24.354Z\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"System Prompts - Anthropic\",\"url\":\"https://app.notion.com/p/247198c327ba81ebb359ef4a34da5803?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/247198c327ba81ebb359ef4a34da5803 as of 2025-08-06T23:12:41.317Z:\\n<page url=\\\"https://app.notion.com/p/247198c327ba81ebb359ef4a34da5803\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"System Prompts - Anthropic\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<content>\\n[https://docs.anthropic.com/en/release-notes/system-prompts?utm\\\\_source=tldrai](https://docs.anthropic.com/en/release-notes/system-prompts?utm_source=tldrai)\\n\\n<p />\\n\\n- [Research](https://www.anthropic.com/research)\\n- [News](https://www.anthropic.com/news)\\n- [Go to claude.ai](https://claude.ai/)\\n\\n[Welcome](https://docs.anthropic.com/en/home)[User Guides](https://docs.anthropic.com/en/docs/welcome)[API Reference](https://docs.anthropic.com/en/api/getting-started)[Prompt Library](https://docs.anthropic.com/en/prompt-library/library)[Release Notes](https://docs.anthropic.com/en/release-notes/overview)\\n\\n- [Developer Console](https://console.anthropic.com/)\\n- [Developer Discord](https://www.anthropic.com/discord)\\n- [Support](https://support.anthropic.com/)\\n\\n### Release Notes\\n\\n- [Overview](https://docs.anthropic.com/en/release-notes/overview)\\n- [API](https://docs.anthropic.com/en/release-notes/api)\\n- [Claude Apps](https://docs.anthropic.com/en/release-notes/claude-apps)\\n- [System Prompts](https://docs.anthropic.com/en/release-notes/system-prompts)\\n</content>\\n</page>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-06T23:12:24.354Z\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:51:38.510-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:51:38.510Z"
+ },
+ "tool_name": "notion-fetch"
+}

@@ -1,0 +1,25 @@
+{
+ "content": [
+  {
+   "text": "{\"name\":\"APIResponseError\",\"code\":\"object_not_found\",\"status\":404,\"headers\":{},\"body\":\"{\\\"object\\\":\\\"error\\\",\\\"status\\\":404,\\\"code\\\":\\\"object_not_found\\\",\\\"message\\\":\\\"Could not find page with ID: 487eda42-f575-4356-8137-3863440bdf80. Check that you have access and that you're authenticated to the correct workspace.\\\",\\\"additional_data\\\":{\\\"integration_id\\\":\\\"1f8d872b-594c-80a4-b2f4-00370af2b13f\\\"},\\\"request_id\\\":\\\"2cf132ca-90ba-40fe-95e7-d02806e5bffa\\\"}\",\"additional_data\":{\"integration_id\":\"1f8d872b-594c-80a4-b2f4-00370af2b13f\"},\"request_id\":\"2cf132ca-90ba-40fe-95e7-d02806e5bffa\",\"message\":\"Could not find page with ID: 487eda42-f575-4356-8137-3863440bdf80. Check that you have access and that you're authenticated to the correct workspace.\"}",
+   "type": "text"
+  }
+ ],
+ "error": "{\"name\":\"APIResponseError\",\"code\":\"object_not_found\",\"status\":404,\"headers\":{},\"body\":\"{\\\"object\\\":\\\"error\\\",\\\"status\\\":404,\\\"code\\\":\\\"object_not_found\\\",\\\"message\\\":\\\"Could not find page with ID: 487eda42-f575-4356-8137-3863440bdf80. Check that you have access and that you're authenticated to the correct workspace.\\\",\\\"additional_data\\\":{\\\"integration_id\\\":\\\"1f8d872b-594c-80a4-b2f4-00370af2b13f\\\"},\\\"request_id\\\":\\\"2cf132ca-90ba-40fe-95e7-d02806e5bffa\\\"}\",\"additional_data\":{\"integration_id\":\"1f8d872b-594c-80a4-b2f4-00370af2b13f\"},\"request_id\":\"2cf132ca-90ba-40fe-95e7-d02806e5bffa\",\"message\":\"Could not find page with ID: 487eda42-f575-4356-8137-3863440bdf80. Check that you have access and that you're authenticated to the correct workspace.\"}",
+ "ok": false,
+ "result": {
+  "content": [
+   {
+    "text": "{\"name\":\"APIResponseError\",\"code\":\"object_not_found\",\"status\":404,\"headers\":{},\"body\":\"{\\\"object\\\":\\\"error\\\",\\\"status\\\":404,\\\"code\\\":\\\"object_not_found\\\",\\\"message\\\":\\\"Could not find page with ID: 487eda42-f575-4356-8137-3863440bdf80. Check that you have access and that you're authenticated to the correct workspace.\\\",\\\"additional_data\\\":{\\\"integration_id\\\":\\\"1f8d872b-594c-80a4-b2f4-00370af2b13f\\\"},\\\"request_id\\\":\\\"2cf132ca-90ba-40fe-95e7-d02806e5bffa\\\"}\",\"additional_data\":{\"integration_id\":\"1f8d872b-594c-80a4-b2f4-00370af2b13f\"},\"request_id\":\"2cf132ca-90ba-40fe-95e7-d02806e5bffa\",\"message\":\"Could not find page with ID: 487eda42-f575-4356-8137-3863440bdf80. Check that you have access and that you're authenticated to the correct workspace.\"}",
+    "type": "text"
+   }
+  ],
+  "isError": true
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:43:14.107-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:43:14.107Z"
+ },
+ "tool_name": "notion-fetch"
+}

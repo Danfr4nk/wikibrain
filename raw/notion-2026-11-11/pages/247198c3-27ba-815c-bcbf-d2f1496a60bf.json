@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"Claude Prompt Library\",\"url\":\"https://app.notion.com/p/247198c327ba815cbcbfd2f1496a60bf?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/247198c327ba815cbcbfd2f1496a60bf as of 2025-08-06T23:12:41.317Z:\\n<page url=\\\"https://app.notion.com/p/247198c327ba815cbcbfd2f1496a60bf\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"Claude Prompt Library\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<content>\\n[https://docs.anthropic.com/claude/prompt-library](https://docs.anthropic.com/claude/prompt-library)\\n\\n<p />\\n\\nExplore optimized prompts for a breadth of business and personal tasks\\n</content>\\n</page>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-06T23:12:24.354Z\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"Claude Prompt Library\",\"url\":\"https://app.notion.com/p/247198c327ba815cbcbfd2f1496a60bf?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/247198c327ba815cbcbfd2f1496a60bf as of 2025-08-06T23:12:41.317Z:\\n<page url=\\\"https://app.notion.com/p/247198c327ba815cbcbfd2f1496a60bf\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"Claude Prompt Library\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<content>\\n[https://docs.anthropic.com/claude/prompt-library](https://docs.anthropic.com/claude/prompt-library)\\n\\n<p />\\n\\nExplore optimized prompts for a breadth of business and personal tasks\\n</content>\\n</page>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-06T23:12:24.354Z\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:47:48.729-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:47:48.729Z"
+ },
+ "tool_name": "notion-fetch"
+}

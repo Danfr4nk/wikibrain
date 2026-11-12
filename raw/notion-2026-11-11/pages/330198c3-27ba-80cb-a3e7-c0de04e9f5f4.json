@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"New Summary Instructions \",\"url\":\"https://app.notion.com/p/330198c327ba80cba3e7c0de04e9f5f4?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/330198c327ba80cba3e7c0de04e9f5f4 as of 2026-03-27T04:31:07.426Z:\\n<page url=\\\"https://app.notion.com/p/330198c327ba80cba3e7c0de04e9f5f4\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"<p>\\\\nNew Summary Instructions \\\\n</p>\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<content>\\n## <b>📖</b> Context\\n\\n<i>Give Notion AI context on the meeting and when to use this page.</i>\\n\\n## ✍️ Summary format\\n\\n<i>Give Notion AI instructions on how to format the summary, where to focus, how to structure action items, and more.</i>\\n\\n### Section title\\n\\n<i>\\\\[Add instructions\\\\]</i>\\n\\n### Section title\\n\\n<i>\\\\[Add instructions\\\\]</i>\\n\\n### Section title\\n\\n<i>\\\\[Add instructions\\\\]</i>\\n\\n## 🎨 Summary style\\n\\n<i>Give Notion AI style notes such as how detailed summaries should be, whether to prefer bullets or paragraphs, and more.</i>\\n\\n- <i>\\\\[Add style notes\\\\]</i>\\n</content>\\n</page>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2026-03-27T04:31:07.426Z\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"New Summary Instructions \",\"url\":\"https://app.notion.com/p/330198c327ba80cba3e7c0de04e9f5f4?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/330198c327ba80cba3e7c0de04e9f5f4 as of 2026-03-27T04:31:07.426Z:\\n<page url=\\\"https://app.notion.com/p/330198c327ba80cba3e7c0de04e9f5f4\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"<p>\\\\nNew Summary Instructions \\\\n</p>\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<content>\\n## <b>📖</b> Context\\n\\n<i>Give Notion AI context on the meeting and when to use this page.</i>\\n\\n## ✍️ Summary format\\n\\n<i>Give Notion AI instructions on how to format the summary, where to focus, how to structure action items, and more.</i>\\n\\n### Section title\\n\\n<i>\\\\[Add instructions\\\\]</i>\\n\\n### Section title\\n\\n<i>\\\\[Add instructions\\\\]</i>\\n\\n### Section title\\n\\n<i>\\\\[Add instructions\\\\]</i>\\n\\n## 🎨 Summary style\\n\\n<i>Give Notion AI style notes such as how detailed summaries should be, whether to prefer bullets or paragraphs, and more.</i>\\n\\n- <i>\\\\[Add style notes\\\\]</i>\\n</content>\\n</page>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2026-03-27T04:31:07.426Z\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:33:54.770-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:33:54.770Z"
+ },
+ "tool_name": "notion-fetch"
+}

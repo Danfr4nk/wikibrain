@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"New page\",\"url\":\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a as of 2025-08-07T00:33:52.479Z:\\n<page url=\\\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a\\\">\\n<ancestor-path>\\n<parent-data-source url=\\\"collection://248198c3-27ba-8032-974b-000bd7ec6212\\\" name=\\\"THREAD BOOTLOADERS\\\"/>\\n<ancestor-2-database url=\\\"https://app.notion.com/p/248198c327ba80998f4bf28c574e347e\\\" title=\\\"\\\"/>\\n</ancestor-path>\\n<properties>\\n{\\\"Name\\\":\\\"\\\",\\\"Status\\\":\\\"Not started\\\",\\\"url\\\":\\\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<blank-page>This page is blank and has no content.</blank-page>\\n</page>\\n\\n<parent-data-source-schema url=\\\"collection://248198c3-27ba-8032-974b-000bd7ec6212\\\">\\nThe SQLite table definition for this page's parent data source. Use these column names and option values to set this page's properties, create sibling pages, or query the data source.\\n<sqlite-table>\\nCREATE TABLE IF NOT EXISTS \\\"collection://248198c3-27ba-8032-974b-000bd7ec6212\\\" (\\n\\turl TEXT UNIQUE,\\n\\tcreatedTime TEXT, -- ISO-8601 datetime string, automatically set. This is the canonical time for when the page was created.\\n\\t\\\"Assign\\\" TEXT, -- JSON array of zero or more user IDs\\n\\t\\\"Status\\\" TEXT, -- one of [\\\"Not started\\\", \\\"In progress\\\", \\\"Done\\\"] Default: \\\"Not started\\\".\\n\\t\\\"Name\\\" TEXT\\n)\\n</sqlite-table>\\n</parent-data-source-schema>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"path\":\"THREAD BOOTLOADERS\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-07T00:33:52.479Z\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"New page\",\"url\":\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a as of 2025-08-07T00:33:52.479Z:\\n<page url=\\\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a\\\">\\n<ancestor-path>\\n<parent-data-source url=\\\"collection://248198c3-27ba-8032-974b-000bd7ec6212\\\" name=\\\"THREAD BOOTLOADERS\\\"/>\\n<ancestor-2-database url=\\\"https://app.notion.com/p/248198c327ba80998f4bf28c574e347e\\\" title=\\\"\\\"/>\\n</ancestor-path>\\n<properties>\\n{\\\"Name\\\":\\\"\\\",\\\"Status\\\":\\\"Not started\\\",\\\"url\\\":\\\"https://app.notion.com/p/248198c327ba80a5b7abf5f4e65c080a\\\"}\\n</properties>\\n<iconMetadata>null</iconMetadata>\\n<blank-page>This page is blank and has no content.</blank-page>\\n</page>\\n\\n<parent-data-source-schema url=\\\"collection://248198c3-27ba-8032-974b-000bd7ec6212\\\">\\nThe SQLite table definition for this page's parent data source. Use these column names and option values to set this page's properties, create sibling pages, or query the data source.\\n<sqlite-table>\\nCREATE TABLE IF NOT EXISTS \\\"collection://248198c3-27ba-8032-974b-000bd7ec6212\\\" (\\n\\turl TEXT UNIQUE,\\n\\tcreatedTime TEXT, -- ISO-8601 datetime string, automatically set. This is the canonical time for when the page was created.\\n\\t\\\"Assign\\\" TEXT, -- JSON array of zero or more user IDs\\n\\t\\\"Status\\\" TEXT, -- one of [\\\"Not started\\\", \\\"In progress\\\", \\\"Done\\\"] Default: \\\"Not started\\\".\\n\\t\\\"Name\\\" TEXT\\n)\\n</sqlite-table>\\n</parent-data-source-schema>\",\"cover\":null,\"icon\":null,\"full_width\":false,\"path\":\"THREAD BOOTLOADERS\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-07T00:33:52.479Z\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:53:07.900-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:53:07.900Z"
+ },
+ "tool_name": "notion-fetch"
+}

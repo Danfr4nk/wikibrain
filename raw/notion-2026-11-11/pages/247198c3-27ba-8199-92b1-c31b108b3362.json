@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"💡 Lighting & Visual Styles - A Glossary\",\"url\":\"https://app.notion.com/p/247198c327ba819992b1c31b108b3362?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/247198c327ba819992b1c31b108b3362 as of 2025-08-06T23:12:58.525Z:\\n<page url=\\\"https://app.notion.com/p/247198c327ba819992b1c31b108b3362\\\" icon=\\\"💡\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"Lighting & Visual Styles - A Glossary\\\"}\\n</properties>\\n<iconMetadata>{\\\"type\\\":\\\"emoji\\\",\\\"emoji\\\":\\\"💡\\\"}</iconMetadata>\\n<content>\\n<p />\\n\\n---\\n\\n<callout icon=\\\"💡\\\" color=\\\"gray_bg\\\">\\n<b>Tip: It always helps to describe the time of day for best results with natural lighting.</b>\\n</callout>\\n\\n---\\n\\n<columns>\\n<column ratio=\\\"100\\\">\\n- Chiaroscuro\\n- Cinematic\\n- Volumetric lighting\\n- ultra HD\\n- Futuristic\\n- 8k\\n- HDR\\n- Anti-aliasing\\n- Tone mapping\\n- Vibrant\\n- Dimly lit\\n\\n<p />\\n</column>\\n<column ratio=\\\"100\\\">\\n- Mysterious\\n- Neon-noir\\n- Cyberpunk\\n- Synthwave\\n- Neon\\n- Sunlight streaming through\\n- Mystical fog\\n- Dusk\\n- Bright\\n- Sunset\\n- Sunrise\\n</column>\\n</columns>\\n\\n<p />\\n\\n<p />\\n\\n<callout icon=\\\"💡\\\" color=\\\"gray_bg\\\">\\n<b>Tip: Technical terms will really help shape the look and feel of your results. Feel free to explore!</b>\\n</callout>\\n\\n<p />\\n\\n<p />\\n</content>\\n</page>\",\"cover\":null,\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"full_width\":false,\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners / FAQ and Prompt Guide: Luma Dream Machine\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-06T23:12:34.282Z\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"page\"},\"title\":\"💡 Lighting & Visual Styles - A Glossary\",\"url\":\"https://app.notion.com/p/247198c327ba819992b1c31b108b3362?pvs=204\",\"text\":\"Here is the result of \\\"fetch\\\" for the Page with URL https://app.notion.com/p/247198c327ba819992b1c31b108b3362 as of 2025-08-06T23:12:58.525Z:\\n<page url=\\\"https://app.notion.com/p/247198c327ba819992b1c31b108b3362\\\" icon=\\\"💡\\\">\\n<ancestor-path></ancestor-path>\\n<properties>\\n{\\\"title\\\":\\\"Lighting & Visual Styles - A Glossary\\\"}\\n</properties>\\n<iconMetadata>{\\\"type\\\":\\\"emoji\\\",\\\"emoji\\\":\\\"💡\\\"}</iconMetadata>\\n<content>\\n<p />\\n\\n---\\n\\n<callout icon=\\\"💡\\\" color=\\\"gray_bg\\\">\\n<b>Tip: It always helps to describe the time of day for best results with natural lighting.</b>\\n</callout>\\n\\n---\\n\\n<columns>\\n<column ratio=\\\"100\\\">\\n- Chiaroscuro\\n- Cinematic\\n- Volumetric lighting\\n- ultra HD\\n- Futuristic\\n- 8k\\n- HDR\\n- Anti-aliasing\\n- Tone mapping\\n- Vibrant\\n- Dimly lit\\n\\n<p />\\n</column>\\n<column ratio=\\\"100\\\">\\n- Mysterious\\n- Neon-noir\\n- Cyberpunk\\n- Synthwave\\n- Neon\\n- Sunlight streaming through\\n- Mystical fog\\n- Dusk\\n- Bright\\n- Sunset\\n- Sunrise\\n</column>\\n</columns>\\n\\n<p />\\n\\n<p />\\n\\n<callout icon=\\\"💡\\\" color=\\\"gray_bg\\\">\\n<b>Tip: Technical terms will really help shape the look and feel of your results. Feel free to explore!</b>\\n</callout>\\n\\n<p />\\n\\n<p />\\n</content>\\n</page>\",\"cover\":null,\"icon\":{\"type\":\"emoji\",\"emoji\":\"💡\"},\"full_width\":false,\"path\":\"Prompt Engineering Database / The Prompt Engineering Meta Guide for Business Owners / FAQ and Prompt Guide: Luma Dream Machine\",\"verification\":{\"state\":\"unverified\"},\"page_last_edited_at\":\"2025-08-06T23:12:34.282Z\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:49:46.596-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:49:46.596Z"
+ },
+ "tool_name": "notion-fetch"
+}

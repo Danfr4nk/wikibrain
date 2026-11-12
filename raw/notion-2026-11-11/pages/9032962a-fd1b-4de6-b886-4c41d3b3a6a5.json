@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"database\"},\"title\":\"Simple Budget\",\"url\":\"https://app.notion.com/p/9032962afd1b4de6b8864c41d3b3a6a5?pvs=204\",\"text\":\"<database url=\\\"{{https://app.notion.com/p/9032962afd1b4de6b8864c41d3b3a6a5}}\\\" inline=\\\"true\\\">\\nThe title of this Database is: Simple Budget\\n<ancestor-path>\\n<parent-page url=\\\"https://app.notion.com/p/84189704fdaf4fc589efdd152c8eac57\\\" title=\\\"\\\"/>\\n<ancestor-2-page url=\\\"https://app.notion.com/p/b9c8e46c7e6548a7a3d8d7a09edc1db1\\\" title=\\\"\\\"/>\\n<ancestor-3-page url=\\\"https://app.notion.com/p/247198c327ba8147a33fc1aa4905bdde\\\" title=\\\"Monthly Budget\\\"/>\\n</ancestor-path>\\n</database>\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"database\"},\"title\":\"Simple Budget\",\"url\":\"https://app.notion.com/p/9032962afd1b4de6b8864c41d3b3a6a5?pvs=204\",\"text\":\"<database url=\\\"{{https://app.notion.com/p/9032962afd1b4de6b8864c41d3b3a6a5}}\\\" inline=\\\"true\\\">\\nThe title of this Database is: Simple Budget\\n<ancestor-path>\\n<parent-page url=\\\"https://app.notion.com/p/84189704fdaf4fc589efdd152c8eac57\\\" title=\\\"\\\"/>\\n<ancestor-2-page url=\\\"https://app.notion.com/p/b9c8e46c7e6548a7a3d8d7a09edc1db1\\\" title=\\\"\\\"/>\\n<ancestor-3-page url=\\\"https://app.notion.com/p/247198c327ba8147a33fc1aa4905bdde\\\" title=\\\"Monthly Budget\\\"/>\\n</ancestor-path>\\n</database>\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T23:01:17.352-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T04:01:17.352Z"
+ },
+ "tool_name": "notion-fetch"
+}

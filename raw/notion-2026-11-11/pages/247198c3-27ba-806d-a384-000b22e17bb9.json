@@ -1,0 +1,23 @@
+{
+ "content": [
+  {
+   "text": "{\"metadata\":{\"type\":\"data_source\"},\"title\":\"New database\",\"url\":\"https://app.notion.com/p/247198c327ba80028f68cfe2d38e3db8?pvs=204\",\"text\":\"<data-source url=\\\"{{collection://247198c3-27ba-806d-a384-000b22e17bb9}}\\\">\\nThe title of this Data Source is: New database\\n\\nHere is the database's configurable state:\\nProperties with `readOnly: true` are synced or system-managed. Do not try to update their values with page update tools.\\n<data-source-state>\\n{\\\"name\\\":\\\"\\\",\\\"schema\\\":{\\\"Name\\\":{\\\"description\\\":\\\"\\\",\\\"name\\\":\\\"Name\\\",\\\"type\\\":\\\"title\\\"}},\\\"url\\\":\\\"collection://247198c3-27ba-806d-a384-000b22e17bb9\\\"}\\n</data-source-state>\\n\\nHere is the SQLite table definition for this data source.\\n<sqlite-table>\\nCREATE TABLE IF NOT EXISTS \\\"collection://247198c3-27ba-806d-a384-000b22e17bb9\\\" (\\n\\turl TEXT UNIQUE,\\n\\tcreatedTime TEXT, -- ISO-8601 datetime string, automatically set. This is the canonical time for when the page was created.\\n\\t\\\"Name\\\" TEXT\\n)\\n</sqlite-table>\\n</data-source>\"}",
+   "type": "text"
+  }
+ ],
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"metadata\":{\"type\":\"data_source\"},\"title\":\"New database\",\"url\":\"https://app.notion.com/p/247198c327ba80028f68cfe2d38e3db8?pvs=204\",\"text\":\"<data-source url=\\\"{{collection://247198c3-27ba-806d-a384-000b22e17bb9}}\\\">\\nThe title of this Data Source is: New database\\n\\nHere is the database's configurable state:\\nProperties with `readOnly: true` are synced or system-managed. Do not try to update their values with page update tools.\\n<data-source-state>\\n{\\\"name\\\":\\\"\\\",\\\"schema\\\":{\\\"Name\\\":{\\\"description\\\":\\\"\\\",\\\"name\\\":\\\"Name\\\",\\\"type\\\":\\\"title\\\"}},\\\"url\\\":\\\"collection://247198c3-27ba-806d-a384-000b22e17bb9\\\"}\\n</data-source-state>\\n\\nHere is the SQLite table definition for this data source.\\n<sqlite-table>\\nCREATE TABLE IF NOT EXISTS \\\"collection://247198c3-27ba-806d-a384-000b22e17bb9\\\" (\\n\\turl TEXT UNIQUE,\\n\\tcreatedTime TEXT, -- ISO-8601 datetime string, automatically set. This is the canonical time for when the page was created.\\n\\t\\\"Name\\\" TEXT\\n)\\n</sqlite-table>\\n</data-source>\"}",
+    "type": "text"
+   }
+  ]
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T22:44:59.877-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T03:44:59.877Z"
+ },
+ "tool_name": "notion-fetch"
+}
