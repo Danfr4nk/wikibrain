@@ -42,3 +42,14 @@ Empty-query browse search is unavailable on this plan (Business-plan gate), so t
 ## Files
 
 753 files, ~9.3 MB: `pages/` (346 JSON + 293 Markdown), `data-sources/` (46 files: schemas, row exports, view exports, view configs), `searches/` (55), `lists/` (4), `account.json`, `users.json`, `teams.json`, and pull bookkeeping (`pull-stats.json`, `rows-pass-stats.json`, `view-pass-stats.json`, `child-search-stats.json`, `refetch-stats.json`).
+
+## Coordinator addendum — blocked-rows resolution (2026-11-12 ~00:00 EST)
+
+The 4 data sources whose rows-mode queries were refused during the pull
+(32e198c3…, 32f198c3…, 614d0570…, add63b21…) were re-queried after the workspace's
+shared Query Data Source allowance reset, using the worker's prepared re-run
+script. All 4 queries now succeed (`ok: true`) and return ZERO rows
+(`results: [], has_more: false`) — responses saved as
+`data-sources/<id>-rows-final-p0.json`. Terminal state: these sources expose no
+rows through the query API; any content they hold lives in pages, which were
+already pulled in the pages pass. Notion leg is COMPLETE.
