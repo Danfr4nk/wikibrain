@@ -8,7 +8,7 @@ status: active
 knowledge: earned
 layer: documented/exhibit
 date_created: 2026-10-03
-date_modified: 2026-11-02
+date_modified: 2026-11-12
 sources:
   - kb/sources/imessage-corpus-2026.md
   - kb/sources/imessage-complete-dump-2025-08-11.md
@@ -60,9 +60,14 @@ connections:
   - page: wiki/mind/concepts/contact-gini
     type: parallels
     claim: "Contact Gini is one of the measurements whose corpus basis this map adjudicates: a contact distribution computed over the authoritative export's handles."
+  - page: wiki/mind/journal/2026-10-17-the-test-that-cant-run
+    type: evidences
+    claim: "The 2026-10-17 entry 'The Test That Can't Run' uses this page's authoritative-export measurements - earliest row 2011-03-19 and the measured 2011-2015 blackout (second-earliest thread 2015-11-12) - as the timing basis for its finding that conflict C3's childhood-developmental leg is pre-corpus by construction, and cites this page in its rival response as documenting why that leg cannot be filled from messages."
 tags: [corpus, coverage, method, forensic-analysis, negative-data]
 importance: 5
 changelog:
+  - date: 2026-11-12
+    change: "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 17."
   - date: 2026-11-02
     change: "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Restructured to canonical template v1; new page from _gap-candidates-dose-curve.md candidate 4 and kb/sources inventory

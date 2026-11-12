@@ -6,7 +6,7 @@ title: "Creative License (NYC, 2011–2012)"
 status: closed
 knowledge: mixed
 date_created: 2026-08-10
-date_modified: 2026-10-05
+date_modified: 2026-11-12
 date_range_start: 2011-04-01
 date_range_end: 2012-02-15
 sources:
@@ -54,7 +54,11 @@ connections:
   - page: wiki/people/renae-holland
     type: co-occurs
     claim: "Renae was the target of a December 2011 LinkedIn recommendation-removal request McKiernan sent through Dan's own account — the specific incident Dan later apologized to her for and explained in his May 2012 disclosure."
+  - page: wiki/mind/journal/2026-10-17-the-2005-shape
+    type: evidences
+    claim: "The 2026-10-17 entry 'The 2005 Shape' reads this page's 2011-2012 dispute as a lineage instance of the 2005 disclosure pattern: the IRS / Department of Labor audit of the six-week paycheck dispute surfaced the concealed retaliation held here (account used to pressure former employees, altered intern contracts, false notarized LinkedIn claim), and the entry names this case as matching its concealed-second-reality template in its Stage-3 discriminator check."
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 17."
   - "2026-10-05: Restructured to canonical template v1; tier: major set"
 ---
 

@@ -5,7 +5,7 @@ layer: documented/exhibit
 tier: major
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-10-16
+date_modified: 2026-11-12
 date_range_start: 2007-01-09
 date_range_end: 2022-09-05
 sources: ["raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/twitter/archive.jsonl"]
@@ -27,7 +27,11 @@ connections:
   - page: wiki/mind/synthesis/the-name-is-the-instrument
     type: instantiates
     claim: "The ihatedanfrank handle, registered January 9, 2007 and carried across Facebook and Instagram for the entire documented life, is the naming rule pointed inward — proof the loaded name is a permanent instrument rather than a phase."
+  - page: wiki/mind/journal/2026-10-17-the-2005-shape
+    type: evidences
+    claim: "The 2026-10-17 entry 'The 2005 Shape' cites this page's 2007 stratum - the scam-awareness group posts and the Nov 25, 2007 'patron saint of liars and fakes' status - as the earliest held fossil of its audit template: stated realities probed for concealed seconds, ~18 months after the November 2005 hinge the entry traces the shape to."
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 17."
   - "2026-10-16: Expanded to major tier (3,000+ words) and restructured to canonical template v1; Brooklyn move-date contradiction relocated from body to Conflicts in the record; per-dimension figures summarized from the four data-exhibit sub-pages."
   - "2026-10-16: Declared framework-v2 layer (documented/exhibit). No edge changes — all connections already reciprocated."
 ---

@@ -6,8 +6,9 @@ aliases: ["lyric qualifier", "lyrics-as-timbre", "the timbre qualifier", "voice-
 status: active
 layer: interpreted/concept
 date_created: 2026-09-22
-date_modified: 2026-11-10
+date_modified: 2026-11-12
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 17."
   - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
@@ -53,6 +54,9 @@ connections:
   - page: wiki/mind/journal/2026-10-13-the-transposing-ear
     type: evidences
     claim: "The 2026-10-13 entry 'The Transposing Ear' extends this page's qualifier into a two-pass architecture: structure-first parsing (transposition with chord substitutions, identification from chord grammar alone on solo piano) with identity arriving separately - and able to fail while the structural parse holds, as in the transposed Mirrors take whose harmony was mapped while its identity was misattributed."
+  - page: wiki/mind/journal/2026-10-17-the-pattern-unlocked-lyric
+    type: evidences
+    claim: "The 2026-10-17 entry 'The Pattern-Unlocked Lyric' takes up this page's exception problem - the ~3 songs parsed as message, titles unnamed and uninvented here - and proposes, at hypothesis grade, that lyric uptake is pattern-confirmation: the one labeled parse event (the 2026-10-11 'Addicted To You' transcription) attaches to a held anomaly cluster, while this page's lyricist fandoms (13/11/7 log entries) carry zero lyric-content readings as the negative control."
 ---
 
 # The Lyric Qualifier

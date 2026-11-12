@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-17
-date_modified: 2026-10-21
+date_modified: 2026-11-12
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/lyric-qualifier.md
@@ -36,7 +36,11 @@ connections:
   - page: wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction.md
     type: evidences
     claim: "The row-4 mechanism this entry invokes — attention allocates to the pattern-break — is that entry's object; cited, not re-derived."
+  - page: wiki/mind/concepts/lyric-qualifier
+    type: evidenced-by
+    claim: "The entry's whole object is this page's rule (row 18): sung words process as timbre, not semantics, with ~3 lifetime exceptions. Its leg 1 quotes the held capture this page is built on (dat:0076 - 'I hear the lyric as timbre'), and its leg 4 negative control runs on this page's lyricist-fandoms section - JPEGMAFIA (13 log entries), Kanye West (11), Elliott Smith (7), zero lyric-content readings, the delivery-not-bars reading priced MED here. The entry proposes pattern-confirmation as the exception mechanism for the boundary map this page leaves blank."
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 17."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

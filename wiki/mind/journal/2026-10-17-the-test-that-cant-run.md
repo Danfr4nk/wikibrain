@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-17
-date_modified: 2026-11-11
+date_modified: 2026-11-12
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/autism
@@ -54,7 +54,11 @@ connections:
   - page: wiki/self/lineage/23andme-genomics
     type: evidenced-by
     claim: "Scoped to a null leg, exactly as the entry carries it: evidence leg 2 whole is this page's 'Sensory and Perceptual' trait table - Misophonia, 'Average odds of hating chewing sounds' - the closest the held record comes to a sensory datum, priced by the entry as a genetic-likelihood null, not a phenotype measurement: it records the absence of a predicted genetic tilt and evidences no reactivity."
+  - page: wiki/self/message-corpus-coverage-map
+    type: evidenced-by
+    claim: "The entry's pre-corpus leg and its rival response both run on this page's measurements: leg 3 cites the authoritative export's earliest row (2011-03-19) and the measured 2011-2015 blackout for the corpus's earliest primary content, and the Rivals section cites this page as independently documenting why the childhood leg cannot be filled from messages - the window predates the instruments."
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 17."
   - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
