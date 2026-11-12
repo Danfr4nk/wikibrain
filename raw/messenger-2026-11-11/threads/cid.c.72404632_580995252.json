@@ -1,0 +1,59 @@
+{
+ "conversation_id": "cid.c.72404632:580995252",
+ "thread_name": "Brent Michael",
+ "thread_type": "ONE_TO_ONE",
+ "folder": "INBOX",
+ "is_e2ee": false,
+ "participants": [
+  {
+   "id": "72404632",
+   "name": "Brent Michael"
+  },
+  {
+   "id": "580995252",
+   "name": "Dan Frank"
+  }
+ ],
+ "pull_date": "2026-11-11",
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "class": "b",
+ "cached_message_count_at_pull": 1,
+ "message_count": 1,
+ "pages": [
+  {
+   "page": 0,
+   "returned": 1,
+   "before": null,
+   "_cache": {
+    "cached_message_count": 1,
+    "gaps": [],
+    "newest_cached_ts": 1791858779196,
+    "oldest_cached_ts": 1791858779196,
+    "self_user_id": "580995252",
+    "thread_last_synced_ago_secs": 0,
+    "thread_last_synced_at": 1794450785170
+   }
+  }
+ ],
+ "messages": [
+  {
+   "attachments": null,
+   "body": "This is fire",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAAAACbxhiynZGBsPGhMxsedDccN",
+   "message_sent_at": {
+    "user_local": "2026-10-12T22:32:59.196-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-13T02:32:59.196Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "72404632",
+   "sender_name": "Brent Michael",
+   "sender_nickname": null,
+   "timestamp": 1791858779196,
+   "xma": null,
+   "xma_url": null
+  }
+ ]
+}

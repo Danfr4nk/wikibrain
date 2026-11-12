@@ -1,0 +1,154 @@
+{
+ "conversation_id": "cid.c.580995252:61589196247757",
+ "thread_name": "Joe Thorin",
+ "thread_type": "ONE_TO_ONE",
+ "folder": "INBOX",
+ "is_e2ee": false,
+ "participants": [
+  {
+   "id": "61589196247757",
+   "name": "Joe Thorin"
+  },
+  {
+   "id": "580995252",
+   "name": "Dan Frank"
+  }
+ ],
+ "pull_date": "2026-11-11",
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "class": "a",
+ "cached_message_count_at_pull": 6,
+ "message_count": 6,
+ "pages": [
+  {
+   "page": 0,
+   "returned": 6,
+   "before": null,
+   "_cache": {
+    "cached_message_count": 6,
+    "gaps": [],
+    "newest_cached_ts": 1793161738261,
+    "oldest_cached_ts": 1793161001362,
+    "self_user_id": "580995252",
+    "thread_last_synced_ago_secs": 0,
+    "thread_last_synced_at": 1794450773352
+   }
+  }
+ ],
+ "messages": [
+  {
+   "attachments": null,
+   "body": "yo",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA4A_iLWnmnsf7BkmhgLltJprq8",
+   "message_sent_at": {
+    "user_local": "2026-10-28T00:16:41.362-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-28T04:16:41.362Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "61589196247757",
+   "sender_name": "Joe Thorin",
+   "sender_nickname": null,
+   "timestamp": 1793161001362,
+   "xma": null,
+   "xma_url": null
+  },
+  {
+   "attachments": null,
+   "body": "You talk to Tom?",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA4A_iLWnmnsf7b6WhgLmOqa-rG",
+   "message_sent_at": {
+    "user_local": "2026-10-28T00:16:48.105-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-28T04:16:48.105Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "61589196247757",
+   "sender_name": "Joe Thorin",
+   "sender_nickname": null,
+   "timestamp": 1793161008105,
+   "xma": null,
+   "xma_url": null
+  },
+  {
+   "attachments": null,
+   "body": "Said he needed help and a ride and I cant get ahold of him anymore",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA4A_iLWnmnsf8qSGhgLndOutYF",
+   "message_sent_at": {
+    "user_local": "2026-10-28T00:17:08.168-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-28T04:17:08.168Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "61589196247757",
+   "sender_name": "Joe Thorin",
+   "sender_nickname": null,
+   "timestamp": 1793161028168,
+   "xma": null,
+   "xma_url": null
+  },
+  {
+   "attachments": null,
+   "body": "Hey wussy boy don't make me come to the hills and kick your skinny ass I asked you a question fuckboy.",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA4A_iLWnmnsgHWWGhgLyLQHx1v",
+   "message_sent_at": {
+    "user_local": "2026-10-28T00:20:03.288-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-28T04:20:03.288Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "61589196247757",
+   "sender_name": "Joe Thorin",
+   "sender_nickname": null,
+   "timestamp": 1793161203288,
+   "xma": null,
+   "xma_url": null
+  },
+  {
+   "attachments": null,
+   "body": "Im worried about my brother",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA4A_iLWnmnsgIH9mhgLy8x8NkB",
+   "message_sent_at": {
+    "user_local": "2026-10-28T00:20:15.990-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-28T04:20:15.990Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "61589196247757",
+   "sender_name": "Joe Thorin",
+   "sender_nickname": null,
+   "timestamp": 1793161215990,
+   "xma": null,
+   "xma_url": null
+  },
+  {
+   "attachments": null,
+   "body": "Oh were gonna kiss reallllllll long n stinky pal you're gonna hate it",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAA4A_iLWnmnsgoAFWhgMS2MTFY3",
+   "message_sent_at": {
+    "user_local": "2026-10-28T00:28:58.261-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-28T04:28:58.261Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "61589196247757",
+   "sender_name": "Joe Thorin",
+   "sender_nickname": null,
+   "timestamp": 1793161738261,
+   "xma": null,
+   "xma_url": null
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "conversation_id": "cid.g.27764390206485451",
+ "thread_name": "Ismaila Barry",
+ "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+ "folder": "INBOX",
+ "is_e2ee": true,
+ "participants": [
+  {
+   "id": "580995252",
+   "name": "Dan Frank"
+  },
+  {
+   "id": "1231618272",
+   "name": "Ismaila Barry"
+  }
+ ],
+ "pull_date": "2026-11-11",
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "class": "a",
+ "cached_message_count_at_pull": 1,
+ "message_count": 1,
+ "pages": [
+  {
+   "page": 0,
+   "returned": 1,
+   "before": null,
+   "_cache": {
+    "cached_message_count": 1,
+    "gaps": [],
+    "newest_cached_ts": 1792261213611,
+    "oldest_cached_ts": 1792261213611,
+    "self_user_id": "580995252",
+    "thread_last_synced_ago_secs": 0,
+    "thread_last_synced_at": 1794450779214
+   }
+  }
+ ],
+ "messages": [
+  {
+   "attachments": null,
+   "body": "Missed audio call (54s)",
+   "is_e2ee": true,
+   "message_id": "mid.$gAGKjkNeps8unfF0VqwAatO8JvxoR",
+   "message_sent_at": {
+    "user_local": "2026-10-17T14:20:13.611-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-17T18:20:13.611Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "1231618272",
+   "sender_name": "Ismaila Barry",
+   "sender_nickname": null,
+   "timestamp": 1792261213611,
+   "xma": null,
+   "xma_url": null
+  }
+ ]
+}

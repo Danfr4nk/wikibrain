@@ -1,0 +1,59 @@
+{
+ "conversation_id": "cid.c.580995252:602814669838217",
+ "thread_name": "Messenger",
+ "thread_type": "ONE_TO_ONE",
+ "folder": "INBOX",
+ "is_e2ee": false,
+ "participants": [
+  {
+   "id": "602814669838217",
+   "name": "Messenger"
+  },
+  {
+   "id": "580995252",
+   "name": "Dan Frank"
+  }
+ ],
+ "pull_date": "2026-11-11",
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "class": "b",
+ "cached_message_count_at_pull": 1,
+ "message_count": 1,
+ "pages": [
+  {
+   "page": 0,
+   "returned": 1,
+   "before": null,
+   "_cache": {
+    "cached_message_count": 1,
+    "gaps": [],
+    "newest_cached_ts": 1794081409801,
+    "oldest_cached_ts": 1794081409801,
+    "self_user_id": "580995252",
+    "thread_last_synced_ago_secs": 0,
+    "thread_last_synced_at": 1794450768688
+   }
+  }
+ ],
+ "messages": [
+  {
+   "attachments": null,
+   "body": "",
+   "is_e2ee": false,
+   "message_id": "mid.$cAAIkQZjjnz2n6NsTCWht5W_jTop2",
+   "message_sent_at": {
+    "user_local": "2026-11-07T14:56:49.801-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-11-07T19:56:49.801Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "602814669838217",
+   "sender_name": "Messenger",
+   "sender_nickname": null,
+   "timestamp": 1794081409801,
+   "xma": null,
+   "xma_url": null
+  }
+ ]
+}

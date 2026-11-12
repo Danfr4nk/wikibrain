@@ -1,0 +1,78 @@
+{
+ "conversation_id": "cid.c.580995252:100002372627733",
+ "thread_name": "Sean Teets",
+ "thread_type": "ONE_TO_ONE",
+ "folder": "INBOX",
+ "is_e2ee": false,
+ "participants": [
+  {
+   "id": "100002372627733",
+   "name": "Sean Teets"
+  },
+  {
+   "id": "580995252",
+   "name": "Dan Frank"
+  }
+ ],
+ "pull_date": "2026-11-11",
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "class": "b",
+ "cached_message_count_at_pull": 2,
+ "message_count": 2,
+ "pages": [
+  {
+   "page": 0,
+   "returned": 2,
+   "before": null,
+   "_cache": {
+    "cached_message_count": 2,
+    "gaps": [],
+    "newest_cached_ts": 1792424766142,
+    "oldest_cached_ts": 1792093667852,
+    "self_user_id": "580995252",
+    "thread_last_synced_ago_secs": 0,
+    "thread_last_synced_at": 1794450777631
+   }
+  }
+ ],
+ "messages": [
+  {
+   "attachments": null,
+   "body": "Clean look 🔥",
+   "is_e2ee": false,
+   "message_id": "mid.$cAABa879E5aGncmCKDGhQRs9cLWPf",
+   "message_sent_at": {
+    "user_local": "2026-10-15T15:47:47.852-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-15T19:47:47.852Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "100002372627733",
+   "sender_name": "Sean Teets",
+   "sender_nickname": null,
+   "timestamp": 1792093667852,
+   "xma": null,
+   "xma_url": null
+  },
+  {
+   "attachments": null,
+   "body": "Thats ⛽️",
+   "is_e2ee": false,
+   "message_id": "mid.$cAABa879E5aGnhhyyvmhVNdhTyKud",
+   "message_sent_at": {
+    "user_local": "2026-10-19T11:46:06.142-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-19T15:46:06.142Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "100002372627733",
+   "sender_name": "Sean Teets",
+   "sender_nickname": null,
+   "timestamp": 1792424766142,
+   "xma": null,
+   "xma_url": null
+  }
+ ]
+}

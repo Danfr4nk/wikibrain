@@ -1,0 +1,65 @@
+{
+ "conversation_id": "cid.g.7448233521924901",
+ "thread_name": "Suzanne Frank",
+ "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+ "folder": "INBOX",
+ "is_e2ee": true,
+ "participants": [
+  {
+   "id": "580995252",
+   "name": "Dan Frank"
+  },
+  {
+   "id": "1598430586",
+   "name": "Suzanne Frank"
+  }
+ ],
+ "pull_date": "2026-11-11",
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "class": "b",
+ "cached_message_count_at_pull": 1,
+ "message_count": 1,
+ "pages": [
+  {
+   "page": 0,
+   "returned": 1,
+   "before": null,
+   "_cache": {
+    "cached_message_count": 1,
+    "gaps": [],
+    "newest_cached_ts": 1793723008081,
+    "oldest_cached_ts": 1793723008081,
+    "self_user_id": "580995252",
+    "thread_last_synced_ago_secs": 0,
+    "thread_last_synced_at": 1794450770341
+   }
+  }
+ ],
+ "messages": [
+  {
+   "attachments": null,
+   "body": "AgentAdvisory - YouTube For Real Estate Agents\nPosting YouTube videos as a real estate agent is free advertising. Literally.\nHere’s who it works:\n\nSomeone searches for answers about real estate in your market → Your video shows up → They watch it → Then they watch another → And another. \n\nAnd by the time they reach out, they've spent hours with you. \n\nAnd unlike paid ads (which get more expensive every year) YouTube gets more effective. \n\nBecause every video you make keeps working and the library compounds. \n\nMore videos = more hours watched = more calls.\n\nIt's how I closed 47 transactions and made $720k in GCI in 2025 alone. \n\nAnd right now, I'm still getting 3–5 inbound calls a day from YouTube videos I filmed a year ago. \n\nI'm breaking down the full system in a free live training this week.\n\nClick \"Learn More\" to register.",
+   "is_e2ee": true,
+   "message_id": "mid.$gABp2IQFHSyWn035MUWhojkEqgwc0",
+   "message_sent_at": {
+    "user_local": "2026-11-03T11:23:28.081-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-11-03T16:23:28.081Z"
+   },
+   "poll": null,
+   "reactions": [],
+   "sender_id": "1598430586",
+   "sender_name": "Suzanne Frank",
+   "sender_nickname": null,
+   "timestamp": 1793723008081,
+   "xma": {
+    "action_url": "https://www.facebook.com/share/r/1CuGwFkdLi/?mibextid=wwXIfr",
+    "body": "Posting YouTube videos as a real estate agent is free advertising. Literally.\nHere’s who it works:\n\nSomeone searches for answers about real estate in your market → Your video shows up → They watch it → Then they watch another → And another. \n\nAnd by the time they reach out, they've spent hours with you. \n\nAnd unlike paid ads (which get more expensive every year) YouTube gets more effective. \n\nBecause every video you make keeps working and the library compounds. \n\nMore videos = more hours watched = more calls.\n\nIt's how I closed 47 transactions and made $720k in GCI in 2025 alone. \n\nAnd right now, I'm still getting 3–5 inbound calls a day from YouTube videos I filmed a year ago. \n\nI'm breaking down the full system in a free live training this week.\n\nClick \"Learn More\" to register.",
+    "native_url": null,
+    "preview_urls": [],
+    "title": "AgentAdvisory - YouTube For Real Estate Agents"
+   },
+   "xma_url": "https://www.facebook.com/share/r/1CuGwFkdLi/?mibextid=wwXIfr"
+  }
+ ]
+}

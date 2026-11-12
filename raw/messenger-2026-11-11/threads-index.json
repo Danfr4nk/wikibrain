@@ -1,0 +1,842 @@
+{
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "pull_date": "2026-11-11",
+ "live_thread_count": 13,
+ "held_thread_count_drive_export": 331,
+ "threads": [
+  {
+   "conversation_id": "cid.c.580995252:1059020089",
+   "name": "Christine L Kinney",
+   "thread_type": "ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": false,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "1059020089",
+     "name": "Christine L Kinney"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    }
+   ],
+   "last_activity_ms": 1794171007769,
+   "last_activity": "2026-11-08T20:50:07Z",
+   "class": "b",
+   "held_match": {
+    "name": "Christine L Kinney",
+    "held_messages": 7,
+    "held_last": "2022-07-05T22:35:55Z"
+   },
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.c.580995252_1059020089.json"
+  },
+  {
+   "conversation_id": "cid.c.580995252:602814669838217",
+   "name": "Messenger",
+   "thread_type": "ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": false,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "602814669838217",
+     "name": "Messenger"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    }
+   ],
+   "last_activity_ms": 1794081409801,
+   "last_activity": "2026-11-07T19:56:49Z",
+   "class": "b",
+   "held_match": {
+    "name": "Messenger",
+    "held_messages": 2,
+    "held_last": "2019-01-15T05:06:11Z"
+   },
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.c.580995252_602814669838217.json"
+  },
+  {
+   "conversation_id": "cid.g.7448233521924901",
+   "name": "Suzanne Frank",
+   "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": true,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    },
+    {
+     "id": "1598430586",
+     "name": "Suzanne Frank"
+    }
+   ],
+   "last_activity_ms": 1793723008081,
+   "last_activity": "2026-11-03T16:23:28Z",
+   "class": "b",
+   "held_match": {
+    "name": "Suzanne Frank",
+    "held_messages": 290,
+    "held_last": "2022-08-28T20:17:36Z"
+   },
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.g.7448233521924901.json"
+  },
+  {
+   "conversation_id": "cid.g.7590683497694251",
+   "name": "Danielle Onesi",
+   "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": true,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    },
+    {
+     "id": "615935256",
+     "name": "Danielle Onesi"
+    }
+   ],
+   "last_activity_ms": 1793577997979,
+   "last_activity": "2026-11-02T00:06:37Z",
+   "class": "b",
+   "held_match": {
+    "name": "Danielle Onesi",
+    "held_messages": 80,
+    "held_last": "2025-07-28T02:46:55Z"
+   },
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.g.7590683497694251.json"
+  },
+  {
+   "conversation_id": "cid.c.580995252:61589196247757",
+   "name": "Joe Thorin",
+   "thread_type": "ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": false,
+   "is_unread": false,
+   "participants": [
+    {
+     "id": "61589196247757",
+     "name": "Joe Thorin"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    }
+   ],
+   "last_activity_ms": 1793161738261,
+   "last_activity": "2026-10-28T04:28:58Z",
+   "class": "a",
+   "held_match": null,
+   "messages_pulled": 6,
+   "cached_message_count": 6,
+   "file": "threads/cid.c.580995252_61589196247757.json"
+  },
+  {
+   "conversation_id": "cid.c.580995252:100006454925995",
+   "name": "Michael Teets",
+   "thread_type": "ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": false,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "100006454925995",
+     "name": "Michael Teets"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    }
+   ],
+   "last_activity_ms": 1793160553849,
+   "last_activity": "2026-10-28T04:09:13Z",
+   "class": "a",
+   "held_match": null,
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.c.580995252_100006454925995.json"
+  },
+  {
+   "conversation_id": "cid.g.7912686622181343",
+   "name": "Sena LeDonne",
+   "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": true,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "72402804",
+     "name": "Sena LeDonne"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    }
+   ],
+   "last_activity_ms": 1792695838386,
+   "last_activity": "2026-10-22T19:03:58Z",
+   "class": "a",
+   "held_match": null,
+   "messages_pulled": 7,
+   "cached_message_count": 7,
+   "file": "threads/cid.g.7912686622181343.json"
+  },
+  {
+   "conversation_id": "cid.c.580995252:100002372627733",
+   "name": "Sean Teets",
+   "thread_type": "ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": false,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "100002372627733",
+     "name": "Sean Teets"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    }
+   ],
+   "last_activity_ms": 1792424766142,
+   "last_activity": "2026-10-19T15:46:06Z",
+   "class": "b",
+   "held_match": {
+    "name": "Sean Teets",
+    "held_messages": 7,
+    "held_last": "2018-08-23T07:18:15Z"
+   },
+   "messages_pulled": 2,
+   "cached_message_count": 2,
+   "file": "threads/cid.c.580995252_100002372627733.json"
+  },
+  {
+   "conversation_id": "cid.g.27764390206485451",
+   "name": "Ismaila Barry",
+   "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": true,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    },
+    {
+     "id": "1231618272",
+     "name": "Ismaila Barry"
+    }
+   ],
+   "last_activity_ms": 1792261213611,
+   "last_activity": "2026-10-17T18:20:13Z",
+   "class": "a",
+   "held_match": null,
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.g.27764390206485451.json"
+  },
+  {
+   "conversation_id": "cid.g.1589705615684317",
+   "name": "Zachary Shumar",
+   "thread_type": "GROUP",
+   "folder": "PENDING",
+   "is_e2ee": false,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    },
+    {
+     "id": "1616752578",
+     "name": "Zachary Shumar"
+    }
+   ],
+   "last_activity_ms": 1792098827355,
+   "last_activity": "2026-10-15T21:13:47Z",
+   "class": "b",
+   "held_match": {
+    "name": "Zachary Shumar",
+    "held_messages": 15,
+    "held_last": "2017-10-26T00:43:43Z"
+   },
+   "messages_pulled": 9,
+   "cached_message_count": 9,
+   "file": "threads/cid.g.1589705615684317.json"
+  },
+  {
+   "conversation_id": "cid.g.1117769113867204",
+   "name": "👙Private Chat Nid-398❤️",
+   "thread_type": "GROUP",
+   "folder": "PENDING",
+   "is_e2ee": false,
+   "is_unread": false,
+   "participants": [
+    {
+     "id": "3317541",
+     "name": "Jordan Fowler"
+    },
+    {
+     "id": "25100050",
+     "name": "Brett Maloley"
+    },
+    {
+     "id": "35805589",
+     "name": "Kyle Dykes"
+    },
+    {
+     "id": "45011726",
+     "name": "Javares Knight"
+    },
+    {
+     "id": "47001406",
+     "name": "Dylan Gorham"
+    },
+    {
+     "id": "54606065",
+     "name": "Eric DeLeon"
+    },
+    {
+     "id": "61803208",
+     "name": "Dayton Tanner"
+    },
+    {
+     "id": "164300060",
+     "name": "Adam George"
+    },
+    {
+     "id": "177201294",
+     "name": "CJ Byrd"
+    },
+    {
+     "id": "506570171",
+     "name": "Blaze Malan"
+    },
+    {
+     "id": "507122652",
+     "name": "Mitch Eilerman"
+    },
+    {
+     "id": "511069409",
+     "name": "Joe Bivona"
+    },
+    {
+     "id": "524257367",
+     "name": "Ted Schwertheim"
+    },
+    {
+     "id": "537903518",
+     "name": "Derek Kanas"
+    },
+    {
+     "id": "561157887",
+     "name": "Niall Kinney"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    },
+    {
+     "id": "594403519",
+     "name": "Ely Gutz"
+    },
+    {
+     "id": "599895034",
+     "name": "Ratko Repac"
+    },
+    {
+     "id": "605414042",
+     "name": "Rafael Castillo"
+    },
+    {
+     "id": "618039368",
+     "name": "Robert Lewis"
+    },
+    {
+     "id": "620076648",
+     "name": "Michael M. Teal Jr."
+    },
+    {
+     "id": "633369723",
+     "name": "Logan Bailey"
+    },
+    {
+     "id": "636536736",
+     "name": "Terrane WashingtonSr"
+    },
+    {
+     "id": "638949068",
+     "name": "Derek Douget"
+    },
+    {
+     "id": "648013945",
+     "name": "Michael Goldstein"
+    },
+    {
+     "id": "648091855",
+     "name": "Dave Stephens"
+    },
+    {
+     "id": "648116909",
+     "name": "Willis Bennett"
+    },
+    {
+     "id": "650557034",
+     "name": "Doug Lawson"
+    },
+    {
+     "id": "658941066",
+     "name": "Kirk Shawn Smith"
+    },
+    {
+     "id": "665233126",
+     "name": "Chris Baxter"
+    },
+    {
+     "id": "680936295",
+     "name": "Jay Darke"
+    },
+    {
+     "id": "685096654",
+     "name": "Gerald Spagnolo"
+    },
+    {
+     "id": "695121893",
+     "name": "Elijah Kim"
+    },
+    {
+     "id": "699848944",
+     "name": "Terrell C Reese"
+    },
+    {
+     "id": "706916578",
+     "name": "Drew Holt"
+    },
+    {
+     "id": "708586609",
+     "name": "Max Reichert"
+    },
+    {
+     "id": "717671620",
+     "name": "Richard Vanderwood"
+    },
+    {
+     "id": "719967711",
+     "name": "Ronnie NA"
+    },
+    {
+     "id": "721741280",
+     "name": "Cobe Carr"
+    },
+    {
+     "id": "725225278",
+     "name": "David Light"
+    },
+    {
+     "id": "738933791",
+     "name": "Dan Sampson"
+    },
+    {
+     "id": "741874623",
+     "name": "Rick Fayer"
+    },
+    {
+     "id": "744877401",
+     "name": "Jeb S Sykes"
+    },
+    {
+     "id": "763267165",
+     "name": "Andrew Edwards"
+    },
+    {
+     "id": "803824582",
+     "name": "Jon Tranberry"
+    },
+    {
+     "id": "806079197",
+     "name": "Pree OnhIs GrIzzly"
+    },
+    {
+     "id": "820908257",
+     "name": "Rob Yardman"
+    },
+    {
+     "id": "835584464",
+     "name": "Red McCall"
+    },
+    {
+     "id": "1058979645",
+     "name": "Timothy Smu McCarthy"
+    },
+    {
+     "id": "1064206083",
+     "name": "Jeff Unaitis"
+    },
+    {
+     "id": "1070828766",
+     "name": "Tim Holven"
+    },
+    {
+     "id": "1073220250",
+     "name": "Rello Hanson"
+    },
+    {
+     "id": "1079225465",
+     "name": "Nathan Jones"
+    },
+    {
+     "id": "1079331454",
+     "name": "Jason Burton"
+    },
+    {
+     "id": "1104805806",
+     "name": "Rod InthehouseofBatiatus"
+    },
+    {
+     "id": "1127726871",
+     "name": "Jon Myron Clark"
+    },
+    {
+     "id": "1132971677",
+     "name": "Luc Nguyen"
+    },
+    {
+     "id": "1158114816",
+     "name": "Calvin Defenbau"
+    },
+    {
+     "id": "1166391911",
+     "name": "David Anderson"
+    },
+    {
+     "id": "1167677287",
+     "name": "Paul Martinez"
+    },
+    {
+     "id": "1168029706",
+     "name": "Pete Ugo"
+    },
+    {
+     "id": "1169508659",
+     "name": "Ian Boshes"
+    },
+    {
+     "id": "1184192118",
+     "name": "Deon Jackson"
+    },
+    {
+     "id": "1211334132",
+     "name": "Robert Bruccoleri"
+    },
+    {
+     "id": "1215890778",
+     "name": "Gervais Baker"
+    },
+    {
+     "id": "1221750063",
+     "name": "BJ Grondin"
+    },
+    {
+     "id": "1234632073",
+     "name": "Rick Thompson"
+    },
+    {
+     "id": "1239400471",
+     "name": "Norman D Carter"
+    },
+    {
+     "id": "1253567243",
+     "name": "Trevor McGrath"
+    },
+    {
+     "id": "1256634386",
+     "name": "David Wertenberger"
+    },
+    {
+     "id": "1284114879",
+     "name": "Paul Keane"
+    },
+    {
+     "id": "1291927180",
+     "name": "Mike Rush"
+    },
+    {
+     "id": "1301307035",
+     "name": "Dave Eckstrom"
+    },
+    {
+     "id": "1329696914",
+     "name": "Robert Bruce"
+    },
+    {
+     "id": "1330386258",
+     "name": "Darien Lucas"
+    },
+    {
+     "id": "1339719980",
+     "name": "Casey Buck Barton"
+    },
+    {
+     "id": "1344080982",
+     "name": "Kevan Alexander"
+    },
+    {
+     "id": "1351790837",
+     "name": "Wesley Gutzmer"
+    },
+    {
+     "id": "1358805554",
+     "name": "Edward Landon Trowell Senior"
+    },
+    {
+     "id": "1384624720",
+     "name": "Tyler Morlock"
+    },
+    {
+     "id": "1398480059",
+     "name": "Fred McPhaul"
+    },
+    {
+     "id": "1400368319",
+     "name": "Ryan Konter"
+    },
+    {
+     "id": "1425053995",
+     "name": "Solomon Hopkins"
+    },
+    {
+     "id": "1433744868",
+     "name": "Seth Jones"
+    },
+    {
+     "id": "1440060843",
+     "name": "Joel Wallace"
+    },
+    {
+     "id": "1446620701",
+     "name": "Jon Overly"
+    },
+    {
+     "id": "1460450817",
+     "name": "Logan Russler"
+    },
+    {
+     "id": "1470188294",
+     "name": "Rhett Henricksen"
+    },
+    {
+     "id": "1474307536",
+     "name": "Aaron E. Stanford"
+    },
+    {
+     "id": "1499654923",
+     "name": "Paul C. Wedell"
+    },
+    {
+     "id": "1515669489",
+     "name": "Jonathan Tran"
+    },
+    {
+     "id": "1521137692",
+     "name": "Brandon Bigelow"
+    },
+    {
+     "id": "1525944073",
+     "name": "Rickey E Ziegler"
+    },
+    {
+     "id": "1532087972",
+     "name": "Lance Mcwhorter"
+    },
+    {
+     "id": "1562481820",
+     "name": "Keale Thornton"
+    },
+    {
+     "id": "1583282707",
+     "name": "Bob Matus"
+    },
+    {
+     "id": "1595133663",
+     "name": "Mike Oly Olsen"
+    },
+    {
+     "id": "1617000085",
+     "name": "Jon Singleton"
+    },
+    {
+     "id": "1632337677",
+     "name": "Chuck Bailey"
+    },
+    {
+     "id": "1660913528",
+     "name": "Joe Kellerhuis"
+    },
+    {
+     "id": "1662545879",
+     "name": "Kenneth O'Hara"
+    },
+    {
+     "id": "1663459521",
+     "name": "Ron Topper"
+    },
+    {
+     "id": "1665806455",
+     "name": "Emilio Ceja"
+    },
+    {
+     "id": "1704598432",
+     "name": "Jesus Acevedo Quezada"
+    },
+    {
+     "id": "1738651948",
+     "name": "Larry D Black"
+    },
+    {
+     "id": "1752403074",
+     "name": "Lou Fetch"
+    },
+    {
+     "id": "1762223911",
+     "name": "Abiy Wo"
+    },
+    {
+     "id": "1765346606",
+     "name": "Nicholas Davis"
+    },
+    {
+     "id": "1780508317",
+     "name": "Samuel Chambliss"
+    },
+    {
+     "id": "1786664108",
+     "name": "Tad Enck"
+    },
+    {
+     "id": "1826328864",
+     "name": "Preston Strickland"
+    },
+    {
+     "id": "61554104883232",
+     "name": "Facebook user"
+    },
+    {
+     "id": "100000195587610",
+     "name": "Phillip Velez Darby"
+    },
+    {
+     "id": "100000195605212",
+     "name": "Kazi Kibria"
+    },
+    {
+     "id": "100000195618293",
+     "name": "Terry Bradley"
+    },
+    {
+     "id": "100000195625922",
+     "name": "Will Starr"
+    },
+    {
+     "id": "100000195632696",
+     "name": "Kevin Price"
+    },
+    {
+     "id": "100000195640472",
+     "name": "Dustin Lister"
+    },
+    {
+     "id": "100000195650361",
+     "name": "Devendra Sumati Kanhaiyalal Newaskar"
+    },
+    {
+     "id": "100001956672660",
+     "name": "Michael Diegmann"
+    }
+   ],
+   "last_activity_ms": 1791991006333,
+   "last_activity": "2026-10-14T15:16:46Z",
+   "class": "a",
+   "held_match": {
+    "name": "Facebook user",
+    "held_messages": 720,
+    "held_last": "2020-05-14T19:29:12Z"
+   },
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.g.1117769113867204.json"
+  },
+  {
+   "conversation_id": "cid.g.25436774815970381",
+   "name": "Maye",
+   "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": true,
+   "is_unread": false,
+   "participants": [
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    },
+    {
+     "id": "100065090838057",
+     "name": "Maye Santiago",
+     "nickname": "Maye"
+    }
+   ],
+   "last_activity_ms": 1791877102022,
+   "last_activity": "2026-10-13T07:38:22Z",
+   "class": "b",
+   "held_match": {
+    "name": "Maye Santiago",
+    "held_messages": 129,
+    "held_last": "2024-10-14T02:51:04Z"
+   },
+   "messages_pulled": 0,
+   "cached_message_count": 0,
+   "file": "threads/cid.g.25436774815970381.json"
+  },
+  {
+   "conversation_id": "cid.c.72404632:580995252",
+   "name": "Brent Michael",
+   "thread_type": "ONE_TO_ONE",
+   "folder": "INBOX",
+   "is_e2ee": false,
+   "is_unread": true,
+   "participants": [
+    {
+     "id": "72404632",
+     "name": "Brent Michael"
+    },
+    {
+     "id": "580995252",
+     "name": "Dan Frank"
+    }
+   ],
+   "last_activity_ms": 1791858779196,
+   "last_activity": "2026-10-13T02:32:59Z",
+   "class": "b",
+   "held_match": {
+    "name": "Brent Michael",
+    "held_messages": 4,
+    "held_last": "2010-11-22T20:04:08Z"
+   },
+   "messages_pulled": 1,
+   "cached_message_count": 1,
+   "file": "threads/cid.c.72404632_580995252.json"
+  }
+ ]
+}

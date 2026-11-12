@@ -1,0 +1,40 @@
+{
+ "conversation_id": "cid.g.25436774815970381",
+ "thread_name": "Maye",
+ "thread_type": "SECURE_MESSAGE_OVER_WA_ONE_TO_ONE",
+ "folder": "INBOX",
+ "is_e2ee": true,
+ "participants": [
+  {
+   "id": "580995252",
+   "name": "Dan Frank"
+  },
+  {
+   "id": "100065090838057",
+   "name": "Maye Santiago",
+   "nickname": "Maye"
+  }
+ ],
+ "pull_date": "2026-11-11",
+ "source": "Messenger live connector (hatch_messenger_cli)",
+ "class": "b",
+ "cached_message_count_at_pull": 0,
+ "message_count": 0,
+ "pages": [
+  {
+   "page": 0,
+   "returned": 0,
+   "before": null,
+   "_cache": {
+    "cached_message_count": 0,
+    "gaps": [],
+    "newest_cached_ts": null,
+    "oldest_cached_ts": null,
+    "self_user_id": "580995252",
+    "thread_last_synced_ago_secs": 0,
+    "thread_last_synced_at": 1794450784150
+   }
+  }
+ ],
+ "messages": []
+}
