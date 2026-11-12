@@ -1,0 +1,309 @@
+{
+  "account_id": "50d9e13292c34fd9bee77b68ef044825",
+  "email": "ihatedanfrank@gmail.com",
+  "pull_date": "2026-11-11",
+  "source": "Gmail via hatch_gws_cli",
+  "profile": {
+    "emailAddress": "ihatedanfrank@gmail.com",
+    "messagesTotal": 82411,
+    "threadsTotal": 79057,
+    "historyId": "7201677"
+  },
+  "labels": [
+    {
+      "id": "CHAT",
+      "name": "CHAT",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "SENT",
+      "name": "SENT",
+      "type": "system",
+      "messagesTotal": 440,
+      "threadsTotal": 219,
+      "messagesUnread": 2,
+      "threadsUnread": 2
+    },
+    {
+      "id": "INBOX",
+      "name": "INBOX",
+      "type": "system",
+      "messagesTotal": 81807,
+      "threadsTotal": 78823,
+      "messagesUnread": 79902,
+      "threadsUnread": 77295
+    },
+    {
+      "id": "IMPORTANT",
+      "name": "IMPORTANT",
+      "type": "system",
+      "messagesTotal": 2020,
+      "threadsTotal": 1595,
+      "messagesUnread": 1196,
+      "threadsUnread": 1061
+    },
+    {
+      "id": "TRASH",
+      "name": "TRASH",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "DRAFT",
+      "name": "DRAFT",
+      "type": "system",
+      "messagesTotal": 90,
+      "threadsTotal": 82,
+      "messagesUnread": 1,
+      "threadsUnread": 1
+    },
+    {
+      "id": "SPAM",
+      "name": "SPAM",
+      "type": "system",
+      "messagesTotal": 308,
+      "threadsTotal": 307,
+      "messagesUnread": 308,
+      "threadsUnread": 307
+    },
+    {
+      "id": "CATEGORY_FORUMS",
+      "name": "CATEGORY_FORUMS",
+      "type": "system",
+      "messagesTotal": 68,
+      "threadsTotal": 31,
+      "messagesUnread": 64,
+      "threadsUnread": 28
+    },
+    {
+      "id": "CATEGORY_UPDATES",
+      "name": "CATEGORY_UPDATES",
+      "type": "system",
+      "messagesTotal": 51755,
+      "threadsTotal": 49992,
+      "messagesUnread": 50330,
+      "threadsUnread": 48692
+    },
+    {
+      "id": "CATEGORY_PERSONAL",
+      "name": "CATEGORY_PERSONAL",
+      "type": "system",
+      "messagesTotal": 2353,
+      "threadsTotal": 2001,
+      "messagesUnread": 1935,
+      "threadsUnread": 1813
+    },
+    {
+      "id": "CATEGORY_PROMOTIONS",
+      "name": "CATEGORY_PROMOTIONS",
+      "type": "system",
+      "messagesTotal": 23959,
+      "threadsTotal": 23401,
+      "messagesUnread": 23888,
+      "threadsUnread": 23330
+    },
+    {
+      "id": "CATEGORY_SOCIAL",
+      "name": "CATEGORY_SOCIAL",
+      "type": "system",
+      "messagesTotal": 3740,
+      "threadsTotal": 3708,
+      "messagesUnread": 3736,
+      "threadsUnread": 3705
+    },
+    {
+      "id": "YELLOW_CIRCLE",
+      "name": "YELLOW_CIRCLE",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "YELLOW_STAR",
+      "name": "YELLOW_STAR",
+      "type": "system",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "STARRED",
+      "name": "STARRED",
+      "type": "system",
+      "messagesTotal": 41,
+      "threadsTotal": 40,
+      "messagesUnread": 6,
+      "threadsUnread": 6
+    },
+    {
+      "id": "UNREAD",
+      "name": "UNREAD",
+      "type": "system",
+      "messagesTotal": 79962,
+      "threadsTotal": 77352,
+      "messagesUnread": 79962,
+      "threadsUnread": 77352
+    },
+    {
+      "id": "Label_1351132031495864845",
+      "name": "MFC/MFC",
+      "type": "user",
+      "messagesTotal": 16,
+      "threadsTotal": 16,
+      "messagesUnread": 13,
+      "threadsUnread": 13
+    },
+    {
+      "id": "Label_3795025001764351778",
+      "name": "MFC",
+      "type": "user",
+      "messagesTotal": 0,
+      "threadsTotal": 0,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "Label_7270761226919881465",
+      "name": "Golfers",
+      "type": "user",
+      "messagesTotal": 2,
+      "threadsTotal": 1,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "Label_732928769557986834",
+      "name": "PERSONAL / IMPORTANT",
+      "type": "user",
+      "messagesTotal": 1,
+      "threadsTotal": 1,
+      "messagesUnread": 0,
+      "threadsUnread": 0
+    },
+    {
+      "id": "Label_8136935817807921905",
+      "name": "KeyBank",
+      "type": "user",
+      "messagesTotal": 114,
+      "threadsTotal": 111,
+      "messagesUnread": 106,
+      "threadsUnread": 104
+    }
+  ],
+  "year_counts_method": "Exact counts: users messages list --page-all per calendar-year query (after:YYYY/01/01 before:YYYY+1/01/01), counting returned message ids and distinct threadIds. Supersedes the earlier resultSizeEstimate pass, which this connector caps at 201 for large result sets and was discarded as unreliable.",
+  "window_query": "after:2026/08/31",
+  "window_listed_ids": 2145,
+  "year_counts_exact_by_listing": {
+    "2005": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2006": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2007": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2008": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2009": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2010": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2011": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2012": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2013": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2014": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2015": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2016": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2017": {
+      "messages": 0,
+      "threads": 0
+    },
+    "2018": {
+      "messages": 1856,
+      "threads": 1657
+    },
+    "2019": {
+      "messages": 4473,
+      "threads": 4001
+    },
+    "2020": {
+      "messages": 6354,
+      "threads": 6126
+    },
+    "2021": {
+      "messages": 11314,
+      "threads": 9908
+    },
+    "2022": {
+      "messages": 10242,
+      "threads": 10106
+    },
+    "2023": {
+      "messages": 13861,
+      "threads": 13673
+    },
+    "2024": {
+      "messages": 13582,
+      "threads": 13340
+    },
+    "2025": {
+      "messages": 11725,
+      "threads": 11483
+    },
+    "2026": {
+      "messages": 9005,
+      "threads": 8768
+    }
+  },
+  "rate_limited_during_year_counts": false,
+  "oldest_message_listed": {
+    "id": "161987da5cbb9363",
+    "internalDate": "1518681826000",
+    "date": "Thu, 15 Feb 2018 08:03:46 +0000",
+    "subject": "email"
+  },
+  "newest_message_listed": {
+    "id": "1a1cda5dd2c68a45",
+    "internalDate": "1794451561000",
+    "date": "Thu, 12 Nov 2026 02:46:01 +0000",
+    "subject": "$0.99/mo + early Black Friday bonus for you \ud83c\udf81"
+  }
+}
