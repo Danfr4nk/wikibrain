@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-17
-date_modified: 2026-10-21
+date_modified: 2026-11-11
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/autism
@@ -45,7 +45,17 @@ connections:
   - page: wiki/meta/open-questions
     type: evidences
     claim: "The one live re-opener for C3 — the question 'answerable by Dan directly in one paragraph' (when the self-identification happened and what prompted it) — is the same paragraph that would carry the sensory/developmental facts this test needs; the test's future is one stated paragraph, not one more sweep."
+  - page: wiki/mind/profile/neurodivergence
+    type: evidenced-by
+    claim: "The entry's whole object is this page's standing discriminating test: conflict C3's sensory/childhood-developmental discriminator, stated on this page as 'the discriminating test the corpus cannot run,' with the prior targeted search recorded here as dat:0940. The entry's Restart 1 runs on that recorded search - replicated independently as negative on the wiki of record - and its verdict retires this page's 'unrun' framing in favour of 'closed on held data by construction.'"
+  - page: wiki/interests/extreme-sports
+    type: evidenced-by
+    claim: "Two of the entry's evidence legs run on this page's record. Its construction leg quotes this page's own gap statement - the 2000-2006 era 'left no digital intake record' and its reconstruction 'is built entirely from this one manual capture' - as the proof that dated childhood observations cannot be had; and its adolescent-social leg runs on this page's group-format record (Vans Skatepark birthday trips, four Camp Woodward summers, Windell's planning), graded testimony, leaning against the predicted difficulty marker."
+  - page: wiki/self/lineage/23andme-genomics
+    type: evidenced-by
+    claim: "Scoped to a null leg, exactly as the entry carries it: evidence leg 2 whole is this page's 'Sensory and Perceptual' trait table - Misophonia, 'Average odds of hating chewing sounds' - the closest the held record comes to a sensory datum, priced by the entry as a genetic-likelihood null, not a phenotype measurement: it records the absence of a predicted genetic tilt and evidences no reactivity."
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

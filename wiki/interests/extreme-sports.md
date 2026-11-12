@@ -4,7 +4,7 @@ page_type: entity
 tier: major
 status: active
 date_created: 2026-08-09
-date_modified: 2026-10-04
+date_modified: 2026-11-11
 sources:
   - raw/self/captures/2026-08-09_122727_extreme-sports.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [uniontown-era]
@@ -36,7 +36,11 @@ connections:
   - page: wiki/people/matt-kraus
     type: evidenced-by
     claim: "Matt Kraus is the childhood friend who defined the social shape of Dan's early extreme-sports years: the Vans Skatepark birthday trips, the overlapping Seven Springs condo adjacency, and the Woodward camp attendance all ran through him."
+  - page: wiki/mind/journal/2026-10-17-the-test-that-cant-run
+    type: evidences
+    claim: "The 2026-10-17 entry 'The Test That Can't Run' cites this page twice in its C3 evidence cluster: its no-intake-record / single-manual-capture statement carries the entry's pre-corpus-by-construction leg, and its adolescent group-format record (Vans trips, Camp Woodward, Windell's) is the dated social material the entry grades as a testimony-grade lean against the autism vocabulary's predicted childhood-social-difficulty marker - explicitly a lean, never a leg that carries."
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-10-04: Restructured to canonical template v1"
 ---
 # Extreme Sports

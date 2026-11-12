@@ -5,7 +5,7 @@ knowledge: mixed
 status: active
 layer: documented/exhibit
 date_created: 2026-09-23
-date_modified: 2026-10-30
+date_modified: 2026-11-11
 sources:
   - raw/self/amazon-2019-orders/amazon-2019-orders.md
 related:
@@ -19,7 +19,12 @@ tags:
   - amazon
   - boosted
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
+connections:
+  - page: wiki/mind/journal/2026-10-17-the-closing-witness
+    type: evidences
+    claim: "The 2026-10-17 entry 'The Closing Witness' prices this page's two signature cases: the Feb 16 twin-dolls duplicate enters its thesis class (short-window duplicate followed by item-line silence), and the Boosted Mini X pair is adjudicated against the closure reading on this page's own move-prep framing - eleven-week window, support infrastructure, return/rebuy caveat carried. The entry restates this page's loop-closure line for the dolls as a binary episode terminating, without interior vocabulary."
 ---
 
 # The 2019 Ledger

@@ -7,8 +7,9 @@ status: active
 tier: major
 layer: documented/exhibit
 date_created: 2026-07-25
-date_modified: 2026-11-02
+date_modified: 2026-11-11
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - "2026-10-05: Restructured to canonical article template v1; tier set to major; source references resolved to current corpus paths."
   - "2026-10-18: Raw genotype file (v5 chip, Dec 2024) ingested — mtDNA R0 refined to HV(xH,V), Y-DNA R1a1a corroborated via derived M198/M512, trait spot-checks added."
@@ -42,6 +43,9 @@ connections:
   - page: wiki/self/ancestry
     type: component-of
     claim: "This page is a detailed sub-report under the ancestry hub, holding the genomic data that complements the family tree and hybrid analysis pages."
+  - page: wiki/mind/journal/2026-10-17-the-test-that-cant-run
+    type: evidences
+    claim: "The 2026-10-17 entry 'The Test That Can't Run' devotes its second evidence leg to this page's Sensory and Perceptual table: the Misophonia row's average-odds result is the record's only sensory-adjacent datum, and the entry carries it strictly as a null - no predicted genetic tilt, no phenotype measurement - inside its finding that the C3 discriminating class contains zero dated Dan-attributable instances."
 ---
 
 # 23andMe Genomics

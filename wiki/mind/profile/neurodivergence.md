@@ -30,6 +30,7 @@ sources:
 tags: [personality-profile, mental-health]
 knowledge: mixed
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 15."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — the index, intp, and deviance-mapping connections are all reciprocated."
   - date: 2026-10-06
@@ -62,6 +63,9 @@ connections:
   - page: wiki/mind/journal/2026-10-15-the-addressed-self
     type: evidences
     claim: "The 2026-10-15 entry 'The Addressed Self' prices this page's central declaration as an addressed act: the 2025-09-15 self-identification (dat:0939) did its work in the thread it was emitted into (banter-deflection to Vanessa, per the dat:1554 full-thread review), with no measured behavioral delta downstream - one of the entry's four audited designations, all footing-only in effect."
+  - page: wiki/mind/journal/2026-10-17-the-test-that-cant-run
+    type: evidences
+    claim: "The 2026-10-17 entry 'The Test That Can't Run' takes up this page's C3 discriminating test directly: it replicates dat:0940's negative search across the full wiki of record, grades the test closed by construction (the childhood window predates the corpus), and names the re-openers that would revive it. The entry uses the 2025-09-15 self-identification held here only as a dated marker of the label's liveness, not as sensory evidence."
 ---
 
 # Neurodivergence — Autism as Self-Identification

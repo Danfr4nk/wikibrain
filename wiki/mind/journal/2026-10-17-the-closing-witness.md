@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-17
-date_modified: 2026-10-21
+date_modified: 2026-11-11
 sources:
   - wiki/self/2018-spending-analysis.md
   - wiki/self/2019-spending-analysis.md
@@ -32,7 +32,14 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-dormant-slot
     type: distinguishes
     claim: "That entry concerns bond slots re-loading occupants. This entry concerns item lines closing after duplicates. No shared evidence, no shared mechanism."
+  - page: wiki/self/2018-spending-analysis
+    type: evidenced-by
+    claim: "The entry's 2018 evidence legs are held on this page's ledger: the Galaxy Watch pair and the Mack Daddy 3 wedge are two of its three thesis-class duplicate episodes, the drone arc is one of its two control arcs, and both of its raw-log forensic corrections correct this page's prose (the watches, 'twenty-two minutes apart' on this page, read ~2h07m in the raw timestamps; the wedge, 'four days later' on this page, is same-day). The entry's Genesis records that this page pre-registered the loop-closure reading the entry re-derives as a gated mechanism."
+  - page: wiki/self/2019-spending-analysis
+    type: evidenced-by
+    claim: "The entry's 2019 legs are held on this page's ledger: the twin-dolls episode (Feb 16, two identical orders ~8h apart) is one of its three thesis-class duplicates, and the Boosted fleet is one of its two control arcs - the entry's sub-rival adjudication runs on this page's move-prep / backup-board reading of the eleven-week Mini X pair and carries its return/rebuy caveat unresolved. This page's closing phrase ('the thing impulsivity is failing to fix') is the interior vocabulary the entry strikes at Stage 2."
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

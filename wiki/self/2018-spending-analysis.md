@@ -5,7 +5,7 @@ knowledge: mixed
 status: active
 layer: documented/exhibit
 date_created: 2026-09-23
-date_modified: 2026-10-30
+date_modified: 2026-11-11
 sources:
   - raw/self/amazon-2018-orders/amazon-2018-orders.md
 related:
@@ -17,7 +17,12 @@ tags:
   - behavioral-data
   - amazon
 changelog:
+  - "2026-11-11: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-11 engine wave 16."
   - "2026-10-30: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
+connections:
+  - page: wiki/mind/journal/2026-10-17-the-closing-witness
+    type: evidences
+    claim: "The 2026-10-17 entry 'The Closing Witness' runs its gated Shape-4 discriminator on this page's duplicate record: the Galaxy Watch and Mack Daddy 3 episodes are thesis-class legs, the drone arc a control leg, and the entry corrects two of this page's timings against the raw logs (watches ~2h07m, not twenty-two minutes; wedge same-day, not four days later) while restating this page's 'didn't close the loop' reading as episode termination."
 ---
 
 # The 2018 Ledger
