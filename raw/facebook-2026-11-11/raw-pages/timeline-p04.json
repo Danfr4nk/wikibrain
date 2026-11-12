@@ -1,0 +1,440 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10164650886985253,
+    10164653859560253,
+    10164718302975253,
+    10164734464785253,
+    10164737261545253,
+    10164750549805253,
+    10164814493690253,
+    10164845495485253,
+    10165118047635253,
+    10165118047640253,
+    10165226878465253,
+    10165393642400253,
+    10165396453480253,
+    10165426871215253,
+    10165441138600253,
+    10165578532060253,
+    10165606336105253,
+    10165609677065253,
+    10165713181885253,
+    10165788600430253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVEFabkowQ2M0S3czTXJWSnJnODB5Xy1xeFFSQk5EYVhYY2FVZAGVuQkdPSllHOE0zRFk0cUx0WENWWTFEdnR4YVo5RDQ0aGMzTnhnZAE9tNXB3SzU3NU9R",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-01-03T03:39:13+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "The Uniontown Country Club AND the (even more obscure) Question Club mentioned on an episode of Chapo Trap House by Uniontown’s proudest son, Jacob Bacharach.",
+   "post_created_at": {
+    "user_local": "2022-01-02T22:39:13.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-01-03T03:39:13.000Z"
+   },
+   "post_id": "10165788600430253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/3001938683469307/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-12-07T06:00:30+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2021-12-07T01:00:30.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-12-07T06:00:30.000Z"
+   },
+   "post_id": "10165713181885253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02a71xZHoKk8C2gX8UA7fc1PovXXQ37bfYEmNoE2ExAEFmg8FiNMFjYYb5NdxCxAf6l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-11-03T05:19:49+00:00",
+   "media_ocr": "ริ",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2021-11-03T01:19:49.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-11-03T05:19:49.000Z"
+   },
+   "post_id": "10165609677065253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0HcSuUacdRkxxhshhonhUkgG8jCdKteAtxzV2uydfkaHD4ZUrAQx8C3mgcLRXVDXxl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-11-02T06:21:17+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Surprise sighting of psychopath Curtis Sliwa on the day after he was hit by a car and the day before Election Day is unironically   my favorite nyc run in.",
+   "post_created_at": {
+    "user_local": "2021-11-02T02:21:17.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-11-02T06:21:17.000Z"
+   },
+   "post_id": "10165606336105253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/249916360446596/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-10-26T06:19:50+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "These are the scary and unrealistic proposals that the *evil* leftists are fighting to save. Without the intervention of Bernie Sanders and other progressives, moderate democrats would have stripped these entitlements from the bill and passed legislation with corporate interest exclusively in mind.\n\nYes, these policy platforms demonstrate that, indeed...socialism is evil.",
+   "post_created_at": {
+    "user_local": "2021-10-26T02:19:50.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-10-26T06:19:50.000Z"
+   },
+   "post_id": "10165578532060253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02L1abhZFLjuDQUUykie44sA3o7kpoVEbogbTfsERWBy7x6vcwArSs84nq9mhBRkKxl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-09-07T03:40:38+00:00",
+   "media_ocr": "UNEM",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "The enormous base of middle class/‘working poor’ Republicans that votes against improvements to their own material conditions is as much the fault of the neoliberal Clintonian Democrats, who abandoned progressive labor-friendly politics for corporate interests, as it is the right wing vampires that have misled low info blue class voters about their legislative intentions.",
+   "post_created_at": {
+    "user_local": "2021-09-06T23:40:38.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-09-07T03:40:38.000Z"
+   },
+   "post_id": "10165441138600253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0bzfZoE6K6ggKmnLRuRbkCAWkwrvm3sdjBFogZjN83beE4a6xa5fGLjtBrYhEmbXol/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-09-02T03:05:12+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "The forecast is calling for rain.",
+   "post_created_at": {
+    "user_local": "2021-09-01T23:05:12.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-09-02T03:05:12.000Z"
+   },
+   "post_id": "10165426871215253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/186843800183791/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-08-22T07:28:25+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "symbolism in action",
+   "post_created_at": {
+    "user_local": "2021-08-22T03:28:25.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-08-22T07:28:25.000Z"
+   },
+   "post_id": "10165396453480253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02XE9NW5qtsfP6LGRCETZp7u9N5xQwanyPtt5WTddKENvXXQrhZZrGBRPxJhD224xBl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-08-21T06:19:45+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "👁",
+   "post_created_at": {
+    "user_local": "2021-08-21T02:19:45.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-08-21T06:19:45.000Z"
+   },
+   "post_id": "10165393642400253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid031pAxokbBYZDvZBWnxBZJ78aj9QQHNBKuLEuB3nbupQmYZFweX7nVB6Xwusm84Guwl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-06-29T23:15:49+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Heatwave",
+   "post_created_at": {
+    "user_local": "2021-06-29T19:15:49.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-06-29T23:15:49.000Z"
+   },
+   "post_id": "10165226878465253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02qXze5PVVaCfVeHGttX29Z3AP4KYyDpRK6DRE3GYKynAV2HZN6bAgpqskgdQMRZ1ml/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-05-31T02:17:35+00:00",
+   "media_type": "entworkexperience",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2021-05-30T22:17:35.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-05-31T02:17:35.000Z"
+   },
+   "post_id": "10165118047640253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0uSw91kjLAAxsLeaMRjvDLUbDUgp9a4qtKUxwLrqTgcakQkGUwNYt2kfsJ8VwRTGJl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-05-31T02:17:35+00:00",
+   "media_type": "entworkexperience",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2021-05-30T22:17:35.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-05-31T02:17:35.000Z"
+   },
+   "post_id": "10165118047635253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0AZg3dzeCYDKqZhKmeBhj73QHfX5Z6hcDtXJ1nAXaaqKiw2pE3aPxA4WrxrDkyya1l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-03-22T03:33:44+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Donald Trump offers his opinion on Netflix,  Sonic the Hedgehog (and Tails) and The Office\n\nhttps://youtu.be/B3BfDeNPuz0",
+   "post_created_at": {
+    "user_local": "2021-03-21T23:33:44.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-03-22T03:33:44.000Z"
+   },
+   "post_id": "10164845495485253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02JLvqvCJo8focg8K3BfjQGa6VuZaZDuqGiBxMeyrdyW3TkRMzHTXhb5iFZi9KxGtzl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-03-14T12:42:09+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Gunday morning",
+   "post_created_at": {
+    "user_local": "2021-03-14T08:42:09.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-03-14T12:42:09.000Z"
+   },
+   "post_id": "10164814493690253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10164814493355253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-02-27T19:39:04+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2021-02-27T14:39:04.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-02-27T19:39:04.000Z"
+   },
+   "post_id": "10164750549805253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02yQVYCYHSA53YqYXi2TqdasiSBoHhK97eT4tEkxotwA9zFk13GquHJBDTy7FpDP9Ql/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-02-25T03:32:30+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Shocking: Providing people with capital and increasing material well-being during economic crisis is good politics.",
+   "post_created_at": {
+    "user_local": "2021-02-24T22:32:30.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-02-25T03:32:30.000Z"
+   },
+   "post_id": "10164737261545253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid099z3sATgHExW3PrUSQ1HvPtiWFyyfYJncRxAThYfom3EB1TK8qx5W4RzE2sehfcdl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-02-24T15:02:34+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Mike Pillow celebrates 500 episodes of Chapo Trap House",
+   "post_created_at": {
+    "user_local": "2021-02-24T10:02:34.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-02-24T15:02:34.000Z"
+   },
+   "post_id": "10164734464785253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10164734463590253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-02-20T13:50:17+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Oh no ya don’t",
+   "post_created_at": {
+    "user_local": "2021-02-20T08:50:17.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-02-20T13:50:17.000Z"
+   },
+   "post_id": "10164718302975253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10164718302950253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-02-05T12:37:04+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Thousand yard stare",
+   "post_created_at": {
+    "user_local": "2021-02-05T07:37:04.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-02-05T12:37:04.000Z"
+   },
+   "post_id": "10164653859560253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10164653859410253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2021-02-05T02:10:57+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "some asmr - emphasis on the A and R",
+   "post_created_at": {
+    "user_local": "2021-02-04T21:10:57.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2021-02-05T02:10:57.000Z"
+   },
+   "post_id": "10164650886985253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10164650886920253/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:15.060-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:15.060Z"
+ }
+}

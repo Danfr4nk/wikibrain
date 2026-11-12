@@ -1,0 +1,435 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10161244085435253,
+    10161247611470253,
+    10161247664695253,
+    10161275341945253,
+    10161275347575253,
+    10161292051885253,
+    10161292170170253,
+    10161292174015253,
+    10161299790485253,
+    10161327716005253,
+    10161350182075253,
+    10161354997710253,
+    10161371915640253,
+    10161375362820253,
+    10161447217980253,
+    10161454798830253,
+    10161466742360253,
+    10161469039775253,
+    10161480118535253,
+    10161512555445253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVGxReTZADNlJuQXU5eXJOSUdrejhMQU1OOW4tVGJoYUpZAUGRQYVJRa2xpQkI1SnhlWFNSWHd5ZAXRVeS13UmJIdmF5WGFNWElKYU9VTFV4YV90TEJVRTZA3",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-03-26T16:11:48+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "A friendly reminder to the sheeple of facebook. \n\nNone of you (nor most of Congress)\nHave.\nSeen.\nThe.\nMueller.\nReport.\nYet!!!!\n\nThe only conclusions about it come through the interpretation of one Bob “I’m a fucking idiot” Barr",
+   "post_created_at": {
+    "user_local": "2019-03-26T12:11:48.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-03-26T16:11:48.000Z"
+   },
+   "post_id": "10161512555445253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0MdPizsTueCNWZHkMhk8npRvs7eJoVso37gP9EhWHdccX2kELYADyZH2qV2rRqsHHl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-03-17T07:08:52+00:00",
+   "media_type": "entalbumcontainedphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "The more you get to know this place, the harder it is to wrap your head around.",
+   "post_created_at": {
+    "user_local": "2019-03-17T03:08:52.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-03-17T07:08:52.000Z"
+   },
+   "post_id": "10161480118535253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02MZtyHAQxW3chukpe6RVZMXp1wqf2kG5X6oUsPzVMaSeK9EWywqimvA4gSaVxbDjol/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-03-14T03:11:33+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2019-03-13T23:11:33.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-03-14T03:11:33.000Z"
+   },
+   "post_id": "10161469039775253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0Tx1ZdzUELUgzmexYzUpohDXPubhfCD7xTZQqKxszLxykk7smEarDk2Vu46Kn9xbLl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-03-13T03:29:44+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Surf Central Park #nyc #centralpark #boostedboard",
+   "post_created_at": {
+    "user_local": "2019-03-12T23:29:44.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-03-13T03:29:44.000Z"
+   },
+   "post_id": "10161466742360253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0SNAY8nNsR9xGES5rvcgHprfdPE2XVaQx68TEJJy5DAAnrYrxYGTcSrw8WBgCDH47l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-03-09T17:36:10+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "the sun is out the city is out #nyc #centralpark #boostedboard",
+   "post_created_at": {
+    "user_local": "2019-03-09T12:36:10.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-03-09T17:36:10.000Z"
+   },
+   "post_id": "10161454798830253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10161454797815253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-03-07T16:38:40+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "SHRED NYC",
+   "post_created_at": {
+    "user_local": "2019-03-07T11:38:40.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-03-07T16:38:40.000Z"
+   },
+   "post_id": "10161447217980253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02tPLaCzXBHZSKaQh9bgVJUNRX6SM8gD7GEU8om4h9fSg2iRW8nLXLnTkpRnJhGYq8l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-02-16T17:00:44+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Stand clear of the closing door plz",
+   "post_created_at": {
+    "user_local": "2019-02-16T12:00:44.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-02-16T17:00:44.000Z"
+   },
+   "post_id": "10161375362820253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10161375360725253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-02-15T17:12:00+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I’ve got an extra boosted board. Does anyone want to go shred with me?",
+   "post_created_at": {
+    "user_local": "2019-02-15T12:12:00.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-02-15T17:12:00.000Z"
+   },
+   "post_id": "10161371915640253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid037LNoByUPXHn76YCwvYg3nxpXgvSrmtvbtKL9URzCp6B4vb42XqRF3TVPHnkuFmtdl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-02-11T09:39:18+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "https://instagram.com/p/BtV2qCeAhbV/",
+   "post_created_at": {
+    "user_local": "2019-02-11T04:39:18.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-02-11T09:39:18.000Z"
+   },
+   "post_id": "10161354997710253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0VauzjLyUvqaWDLsCgnxDXwuKM8b8XUBffy2Np7oMRxvqjAK1ocs7cd85JvY3YFoxl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-02-10T00:12:11+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Shredding @[1526648092:2048:Anne Ulmer]",
+   "post_created_at": {
+    "user_local": "2019-02-09T19:12:11.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-02-10T00:12:11.000Z"
+   },
+   "post_id": "10161350182075253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10161350180245253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-02-03T20:05:21+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Is everyone excited for the...big, uh...match?\n\nWhooooooo cares",
+   "post_created_at": {
+    "user_local": "2019-02-03T15:05:21.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-02-03T20:05:21.000Z"
+   },
+   "post_id": "10161327716005253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0jyiWtYAjPNXf1Fz5Wv5Z5nuzrPyzgoE98r4igjkBjzJjPneFqN1jYHtXauZfoSfYl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-27T12:51:45+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Check out my broadcast from my PlayStation 4! #PS4live (Call of Duty®: Black Ops 4)  live at https://www.twitch.tv/ihatedanfrank",
+   "post_created_at": {
+    "user_local": "2019-01-27T07:51:45.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-27T12:51:45.000Z"
+   },
+   "post_id": "10161299790485253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0TqgCsULQLCTneGVcusectmsa5biKCknp9QHnGLxqj2LHjwtGoj4Eut7XK6yc67Hrl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-25T16:17:48+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "playing blackout and tdm100 on twitch. let's hang!\n\ntwitch.com/ihatedanfrank",
+   "post_created_at": {
+    "user_local": "2019-01-25T11:17:48.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-25T16:17:48.000Z"
+   },
+   "post_id": "10161292174015253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0teX8krcDSTb7kajtaCjRhUKdqF7eqo3Lj4qHsRDpkPxsADWAwPjvF31xAHErwLWsl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-25T16:16:05+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Check out my broadcast from my PlayStation 4! #PS4live (Call of Duty®: Black Ops 4)  live at https://www.twitch.tv/ihatedanfrank",
+   "post_created_at": {
+    "user_local": "2019-01-25T11:16:05.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-25T16:16:05.000Z"
+   },
+   "post_id": "10161292170170253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0irr1W9rbwDfNeMUTcGJqmxiFqbbTRYDywshyLsAbJUc4mcivM18cK4pH6tLYFJ5wl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-25T15:33:24+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Check out my broadcast from my PlayStation 4! #PS4live (Call of Duty®: Black Ops 4)  live at https://youtu.be/MOSY_bF_lQY",
+   "post_created_at": {
+    "user_local": "2019-01-25T10:33:24.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-25T15:33:24.000Z"
+   },
+   "post_id": "10161292051885253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid03Lk7CZUjKBfiuqHrBXQqKEd4kmtdcD14FNaVia4F6k8WMZfSM5q1EUPTYep7rVpkl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-20T17:03:22+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Playing PS4 CoD Blackout Live on YouTube!",
+   "post_created_at": {
+    "user_local": "2019-01-20T12:03:22.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-20T17:03:22.000Z"
+   },
+   "post_id": "10161275347575253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0KN82sGGojnBXmJwsnbuPhumZtQZ7x7gf7XbjizwMqLgb7N7ocsvQSdexNNEvTiral/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-20T17:01:37+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Check out my broadcast from my PlayStation 4! #PS4live (Call of Duty®: Black Ops 4)  live at https://youtu.be/_Vhyvixkj7k",
+   "post_created_at": {
+    "user_local": "2019-01-20T12:01:37.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-20T17:01:37.000Z"
+   },
+   "post_id": "10161275341945253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02WkBo4xzVNitAC7CTYhmcpS3dhi4eH4EEZWYk8TPxze32Y71RWBNWKGoBLZ73jvAEl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-12T22:46:44+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2019-01-12T17:46:44.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-12T22:46:44.000Z"
+   },
+   "post_id": "10161247664695253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02SSyBWUgnqKYUki8T6DYBkt1ZEgewQ8Gibf6VrfAPmXJ6JocCy3dkZW9cgYRbDFmEl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-12T22:30:23+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Got toasted on my e board today courtesy of one impressive pothole. I’ve got the slow motion video on Instagram, head over there to catch up with it.\n\n#boostedboard #gopro #fail #skateboard",
+   "post_created_at": {
+    "user_local": "2019-01-12T17:30:23.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-12T22:30:23.000Z"
+   },
+   "post_id": "10161247611470253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10161247605285253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2019-01-11T23:47:46+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Check out my broadcast from my PlayStation 4! #PS4live (Call of Duty®: Black Ops 4)  live at https://youtu.be/sh6vnrriCKo",
+   "post_created_at": {
+    "user_local": "2019-01-11T18:47:46.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2019-01-11T23:47:46.000Z"
+   },
+   "post_id": "10161244085435253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02YiXiJPqdDSjpdhfwWBZq5PkPv8tKdH7KzVqwZJgutCbmGHzb54fgiE8FJZztoy43l/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:20.325-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:20.325Z"
+ }
+}

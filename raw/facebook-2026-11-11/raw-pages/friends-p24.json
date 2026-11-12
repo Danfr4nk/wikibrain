@@ -1,0 +1,144 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    141000837,
+    174000059,
+    174000598,
+    174001609,
+    174001648,
+    174001687,
+    174001720,
+    187501073,
+    187801145,
+    212400438,
+    500768655,
+    502397399,
+    503736685,
+    504720279,
+    505487379,
+    506913335,
+    507206651,
+    511575636,
+    511606596,
+    512604394
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "friend_id": "512604394",
+   "name": "Lauren Guthrie",
+   "profile_url": "https://facebook.com/lauren.guthrie926"
+  },
+  {
+   "friend_id": "511606596",
+   "name": "Derick Blake",
+   "profile_url": "https://facebook.com/Derick.William.B"
+  },
+  {
+   "friend_id": "511575636",
+   "name": "Chris Bernard",
+   "profile_url": "https://facebook.com/chris.bernard.33"
+  },
+  {
+   "friend_id": "507206651",
+   "name": "Mollie Hitchins",
+   "profile_url": "https://facebook.com/mollie.connors.3"
+  },
+  {
+   "friend_id": "506913335",
+   "name": "Donnie Smitley",
+   "profile_url": "https://facebook.com/donnieupsduck"
+  },
+  {
+   "friend_id": "505487379",
+   "name": "Justin Wirick",
+   "profile_url": "https://facebook.com/justinwirick88"
+  },
+  {
+   "friend_id": "504720279",
+   "name": "Morgan Kerns",
+   "profile_url": "https://facebook.com/morgan.dulik"
+  },
+  {
+   "friend_id": "503736685",
+   "name": "Eric Jester",
+   "profile_url": "https://facebook.com/eric.jester"
+  },
+  {
+   "friend_id": "502397399",
+   "name": "Kaitlyn Johnson",
+   "profile_url": "https://facebook.com/kaitlynn.johnson.56"
+  },
+  {
+   "friend_id": "500768655",
+   "name": "Maggie Malenock-Coffman",
+   "profile_url": "https://facebook.com/maggieacoffman"
+  },
+  {
+   "friend_id": "212400438",
+   "name": "Jesse Smith",
+   "profile_url": "https://facebook.com/JesseSmith11"
+  },
+  {
+   "friend_id": "187801145",
+   "name": "Meagan L Corwin",
+   "profile_url": "https://facebook.com/meagan.martin.87"
+  },
+  {
+   "friend_id": "187501073",
+   "name": "Katie Childress",
+   "profile_url": "https://facebook.com/katie.hunter.737"
+  },
+  {
+   "friend_id": "174001720",
+   "name": "Darryl Gesso",
+   "profile_url": "https://facebook.com/darryl.gesso"
+  },
+  {
+   "friend_id": "174001687",
+   "name": "Mindy Elias Grobe",
+   "profile_url": "https://facebook.com/mindy.grobe"
+  },
+  {
+   "friend_id": "174001648",
+   "name": "Katie Macioce Stevens",
+   "profile_url": "https://facebook.com/katie.macioce"
+  },
+  {
+   "friend_id": "174001609",
+   "name": "Erin Adelaide",
+   "profile_url": "https://facebook.com/eadelaide.croley"
+  },
+  {
+   "friend_id": "174000598",
+   "name": "Rachel Hanzes",
+   "profile_url": "https://facebook.com/rachel.hanzes"
+  },
+  {
+   "friend_id": "174000059",
+   "name": "Megan Rebick",
+   "profile_url": "https://facebook.com/megan.collins.332"
+  },
+  {
+   "friend_id": "141000837",
+   "name": "Jen Woleslagle-Stone",
+   "profile_url": "https://facebook.com/jen.woleslagle"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVHZAva2N3VFc0VGJoQTNVWWE1SXQ4ZAmRGY1JuS0szaVp4ZA1dXdUN4OW9fZAS1UbThlQTBESGhWWG5nVXl5aDdlMVhjRmJhX3MtYWlRTGFRUmVSb0RYNlR3",
+   "before": "QVFIVHl2SDdFdFVOaHdSMlVVN3FhLVRtYzRSQXJfdHV6WHA2QllTOElhN0lFOXpKZAVVxLWVsdVFIbjg3SFdleml6VUc1STFZAc3BDZA3RsbEU1V29wTWhybXFn"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:32:59.841-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:32:59.841Z"
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    100001360097435,
+    100001387260089,
+    100001393600840,
+    100001577621257,
+    100001653294463,
+    100001697059918,
+    100001744363573,
+    100001854383948,
+    100001877000850,
+    100001897908474,
+    100002012971110,
+    100002072933694,
+    100002228272556,
+    100002239573407,
+    100002372627733,
+    100002447723796,
+    100002517500354,
+    100002531859755,
+    100002568737016,
+    100002571997268
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "friend_id": "100002571997268",
+   "name": "Lei Leydig",
+   "profile_url": "https://facebook.com/lei.leydig"
+  },
+  {
+   "friend_id": "100002568737016",
+   "name": "Eric Johnson",
+   "profile_url": "https://facebook.com/eric.johnson.676172"
+  },
+  {
+   "friend_id": "100002531859755",
+   "name": "Kayla Peton",
+   "profile_url": "https://facebook.com/kayla.ashton.9"
+  },
+  {
+   "friend_id": "100002517500354",
+   "name": "Chris Limbrick",
+   "profile_url": "https://facebook.com/chrislimbrick"
+  },
+  {
+   "friend_id": "100002447723796",
+   "name": "Keith Cordaro",
+   "profile_url": "https://facebook.com/keith.cordaro"
+  },
+  {
+   "friend_id": "100002372627733",
+   "name": "Sean Teets",
+   "profile_url": "https://facebook.com/sean.teets.7"
+  },
+  {
+   "friend_id": "100002239573407",
+   "name": "Andy Howell",
+   "profile_url": "https://facebook.com/andy.howell.581"
+  },
+  {
+   "friend_id": "100002228272556",
+   "name": "Douglas Atwell",
+   "profile_url": "https://facebook.com/yoursisterdidmetoo"
+  },
+  {
+   "friend_id": "100002072933694",
+   "name": "Craig Cordaro",
+   "profile_url": "https://facebook.com/craig.cordaro.5"
+  },
+  {
+   "friend_id": "100002012971110",
+   "name": "Lalo Gonzalez",
+   "profile_url": "https://facebook.com/lalo.gonzalez.376994"
+  },
+  {
+   "friend_id": "100001897908474",
+   "name": "Tyler Kurosky",
+   "profile_url": "https://facebook.com/tyler.kurosky"
+  },
+  {
+   "friend_id": "100001877000850",
+   "name": "Kjlewis Phillips",
+   "profile_url": "https://facebook.com/kel.lewis7"
+  },
+  {
+   "friend_id": "100001854383948",
+   "name": "Spensley Aubrey",
+   "profile_url": "https://facebook.com/spensley.17"
+  },
+  {
+   "friend_id": "100001744363573",
+   "name": "Von Dutch",
+   "profile_url": "https://facebook.com/von.dutch.3323"
+  },
+  {
+   "friend_id": "100001697059918",
+   "name": "David Cobbs",
+   "profile_url": "https://facebook.com/david.cobbs.1"
+  },
+  {
+   "friend_id": "100001653294463",
+   "name": "Ryan Springer",
+   "profile_url": "https://facebook.com/ryspringer23"
+  },
+  {
+   "friend_id": "100001577621257",
+   "name": "Alex Hall",
+   "profile_url": "https://facebook.com/alex.hall.75098"
+  },
+  {
+   "friend_id": "100001393600840",
+   "name": "Caleb Matthews",
+   "profile_url": "https://facebook.com/caleb.matthews.315"
+  },
+  {
+   "friend_id": "100001387260089",
+   "name": "Daniel Martin",
+   "profile_url": "https://facebook.com/daniel.martin.1675275"
+  },
+  {
+   "friend_id": "100001360097435",
+   "name": "William Fotta",
+   "profile_url": "https://facebook.com/wfotta"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVEl3MFJ1d2hxTG1sQVA4QjR2Rzl4dXBmRldvVHpoY2JMamZAhTnoyWFNPeEhvRFhqVGxJdjFGXzJ6UkZAWTU0wQVNtZA2lyRjYtcGVkbllKbkFMSTMwdlR3",
+   "before": "QVFIVEtSRDVFMjIwWnVMZA1d4MjNTci1TdldmNWhzZAE1JajFBRkQ0SzhnRDNtcUw5RXBmSl9wVmpZAWHZAIYW82TkhXVkpIZAmlHem5HVVdDS0ZAUcFl0Nkt3TjZAR"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:32:37.553-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:32:37.553Z"
+ }
+}

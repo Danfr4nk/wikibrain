@@ -1,0 +1,436 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10168080302785253,
+    10168097180100253,
+    10168380706735253,
+    10168831393760253,
+    10169077265455253,
+    10169378839870253,
+    10169412020895253,
+    10170493001090253,
+    10172201862045253,
+    10172270384935253,
+    10174235188780253,
+    10174265714765253,
+    10174345628520253,
+    10174359403060253,
+    10174359583930253,
+    10174369380475253,
+    10174450717420253,
+    10174620228845253,
+    10175469594915253,
+    10175693550120253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVDNPSm9iampPRk5XaTZAJVUlTRUV4ZAmdEdHgxVjZA6VFU3Nktad3dLWW1lbWwtTHd1R2U1V040RFZA5eVk3My0wRnF0Q0tmLXBTUVVRZATMtOWliQ2FLcXNR",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-11-04T22:37:02+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2026-11-04T17:37:02.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-11-04T22:37:02.000Z"
+   },
+   "post_id": "10175693550120253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/reel/2382181642597921/",
+   "username": "Dan Frank",
+   "video_transcript": "Dsa, the Democrat Socialist of America? Okay, here's just a sample of what they're about. Abolish the Electoral College replace the two-party system with a multi-party democracy. Implement proportional representation and ranked choice voting in all elections. Establish public ownership of the largest corporations and essential industries to ensure Democratic control and accountability to the people. End all military and economic aid to Israel sounds so out of the phone."
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-10-15T20:41:39+00:00",
+   "media_ocr": "SEX IS THE SAME THINGAS AS GENDER? IDON'T HAVING YOUR NIGHT GENDER REMEMBER WITH DAD LAST TH PEOPLE WHO-SUP WHO IOMTYERANRA ONLY TRANS RIGHTS",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "transphobes hate freedom don’t let them say otherwise  🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️",
+   "post_created_at": {
+    "user_local": "2026-10-15T16:41:39.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-15T20:41:39.000Z"
+   },
+   "post_id": "10175469594915253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02edn329LBEw9tiyWJZeJMmL2NKchX9h8AMAdB6BDz8g4QBH3tgKihG5rbytcTEhw8l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-07-04T19:51:25+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "poetry",
+   "post_created_at": {
+    "user_local": "2026-07-04T15:51:25.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-07-04T19:51:25.000Z"
+   },
+   "post_id": "10174620228845253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid021T6XPrpqoGnS1iB2c5DZ8qKZqwt82q4x3xKwpv43NLYwXVkzpB1HcTXnMWGHVAhAl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-06-13T13:57:12+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "well i only got like 20 hours worth of inference using fable 5 before it got shut down but it built me one of the wildest data dashboaards i've ever seen from 200,000 scraped iMessages",
+   "post_created_at": {
+    "user_local": "2026-06-13T09:57:12.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-06-13T13:57:12.000Z"
+   },
+   "post_id": "10174450717420253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/reel/2040014540275909/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-06-03T04:15:52+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "ok come on this is TOO good i'm fully gawped\n😵‍💫😵‍💫😵‍💫😵‍💫\nyou won't ever convince me lil bro did not sell his soul to satan at a crossroads, robert johnston style, to work up that lead hook",
+   "post_created_at": {
+    "user_local": "2026-06-03T00:15:52.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-06-03T04:15:52.000Z"
+   },
+   "post_id": "10174369380475253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02Q9x9FdRJ5h1cUMptT5tyZZfSjqenUivAWWqQCGthkW1YNnruvnWhtbYfxWRTLuPbl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-06-01T22:22:02+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "😑",
+   "post_created_at": {
+    "user_local": "2026-06-01T18:22:02.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-06-01T22:22:02.000Z"
+   },
+   "post_id": "10174359583930253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02ogRU1m5V8RChUtV5MBeB4YeGYpdxbxQVKHBvT6bFdDHP9vSR9SXQmUkds859xPBkl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-06-01T21:53:25+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2026-06-01T17:53:25.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-06-01T21:53:25.000Z"
+   },
+   "post_id": "10174359403060253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0ccGWbJ8qkUkTPeztLuuVinE7uHaqSF5VmkmTFGjjiifbT3uHfpTeeHJGy881cG19l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-05-31T04:25:45+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "that's a wrap on my crate for april-may 2026 releases. \n\nyou're gonna absolutely *hate* it\n\nhttps://open.spotify.com/playlist/52nAQwuogvYVmdJ9rS8nJv?si=969a2c8c4da94f46",
+   "post_created_at": {
+    "user_local": "2026-05-31T00:25:45.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-05-31T04:25:45.000Z"
+   },
+   "post_id": "10174345628520253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02R2QY7G7Az9D4LkCrW7WZ25hD23rXdxAW9xufBMfgsfNhV8cNAy71JyAd4HXsDL24l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-05-21T04:31:31+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "you will listen to kreayshawn. \n\nyou will eat the hyphyburger.\n\n@citiesbydiana",
+   "post_created_at": {
+    "user_local": "2026-05-21T00:31:31.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-05-21T04:31:31.000Z"
+   },
+   "post_id": "10174265714765253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0vxJTpesw1rLUhsQKFCmm7rCNLdxFu8ayAX6vN992YmGuPaiK1rRKFdGrcsmD4zyWl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-05-17T10:13:08+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "this hits so hard.\n\n unk here was the Elliott Smith of the Babylonian empire.\noriginal:\nThe Bonkers Theory That  Ancient Civilizations Weren't Consious - Tor's Closet of Curiosities https://www.youtube.com/watch?v=Ado90kMT_FM",
+   "post_created_at": {
+    "user_local": "2026-05-17T06:13:08.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-05-17T10:13:08.000Z"
+   },
+   "post_id": "10174235188780253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0NvdykWUdHafvvbPo6Zg4WLbFx4MxBUgBKtq9NjCCuUrk1DqE6Xei6ibvECbfrq33l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2025-09-20T08:19:53+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "truly the first perfect record since Arcade Fire's 2010 magnum opus \"The Suburbs\"\n\npush verses sound like they were all recorded in the dark with a flashlight under his face",
+   "post_created_at": {
+    "user_local": "2025-09-20T04:19:53.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2025-09-20T08:19:53.000Z"
+   },
+   "post_id": "10172270384935253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02jJcpNm5FboStDn7u1n59mYnLnvh8bYBwTJnijHeddVXjyXpD2DKnoQT6K2KYmKsKl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2025-09-11T12:16:19+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "rip bozo",
+   "post_created_at": {
+    "user_local": "2025-09-11T08:16:19.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2025-09-11T12:16:19.000Z"
+   },
+   "post_id": "10172201862045253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/3088074481371839/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2025-01-21T05:39:46+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2025-01-21T00:39:46.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2025-01-21T05:39:46.000Z"
+   },
+   "post_id": "10170493001090253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02HDwyiNbnuw7WPGQD6X8PQURfJUM8LDqmUiu2AaSXW8Nkh3VYYTmC7H6thtMEYMprl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2024-11-12T03:46:11+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Initial thoughts on what just happened to American politics and why it’s pretty terrifying. It’s no secret that, despite my far left political ideology and membership in the Democratic Socialists of America, I am a closet Trump fan/follower..but even I am a bit worried about just how precarious things are without any ability or political desire to check the executive power he will hold",
+   "post_created_at": {
+    "user_local": "2024-11-11T22:46:11.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2024-11-12T03:46:11.000Z"
+   },
+   "post_id": "10169412020895253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid023wFehP5MFMVqDtsQhaQoauvU2kfCr91kkua9iNVnFQScyuYxJ5XzBEQwS1NaMGWsl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2024-11-05T02:06:38+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "To kick off Election Day, I’ll be doing my best to battle political apathy with some reminders that ‘politics’ - rather than being a tedious slog of dread and misery - is actually simultaneously an unimaginably important exercise of civic engagement (vital to the health of a democracy) AND the most entertaining surreal form of entertainment available. \n\nYou can (correctly) call it corrupt, unfair, inefficient, wasteful, violent, crazy or anti-egalitarian bourgeois trickery all you’d like…. but, don’t ever call politics boring or stupid.",
+   "post_created_at": {
+    "user_local": "2024-11-04T21:06:38.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2024-11-05T02:06:38.000Z"
+   },
+   "post_id": "10169378839870253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/1210172926947661/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2024-09-01T23:51:43+00:00",
+   "media_ocr": "д 2024 READING CHALLENGE",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "2024 Reading Challenge: Finished.\n\nNext year I’m going for 100 books",
+   "post_created_at": {
+    "user_local": "2024-09-01T19:51:43.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2024-09-01T23:51:43.000Z"
+   },
+   "post_id": "10169077265455253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0xsoffaTpssa2EXv52MiBaxSTiazrTAmvPma4HFXj48sspE2S8sbhzvJMtcqwxxDml/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2024-07-22T02:35:18+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "A collection of excerpts from Michael Wolff's 'Siege' (2018) and 'Landslide' (2020) about Donald Trump's inexplicable streak of luck, a phenomenon so extraordinary that those around him began see as a supernatural force or divine intervention. These quotes were published before: 2 impeachments; a near fatal case of COVID, losing the 2020 election, inciting an insurrection to overturn the election, 91 felony indictments (34 of which he was convicted for already) and an attempted assassination which came within 2 inches of a pure headshot.\n\nNOTE: these books are as far from pro-Trump as one could imagine. In fact, the first book in the series 'Fire and Fury' was the catalyst for Steve Bannon's termination from the White House",
+   "post_created_at": {
+    "user_local": "2024-07-21T22:35:18.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2024-07-22T02:35:18.000Z"
+   },
+   "post_id": "10168831393760253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/1002459138179959/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2024-03-10T20:07:42+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2024-03-10T16:07:42.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2024-03-10T20:07:42.000Z"
+   },
+   "post_id": "10168380706735253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02kBcriAtuJoP2GHiRQYfBJCu3km64eEtCfjYwVPuDpLqDGRbuXXP79sSYsNaT7VE1l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-07-07T09:36:13+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-07-07T05:36:13.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-07-07T09:36:13.000Z"
+   },
+   "post_id": "10168097180100253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02oGwciBowXmdmFu4suwChPtoe7EMMtsJdoU4sg9fePAzeDZLrbSWwDJ4DtXJC8odVl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-11-15T03:25:44+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "H8 MY CODFAG FRIENDS",
+   "post_created_at": {
+    "user_local": "2012-11-14T22:25:44.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-11-15T03:25:44.000Z"
+   },
+   "post_id": "10168080302785253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0295HfohPQcBxNwqgDksxn3c5LM2p3b7W4ixZaxBG34H4bTFcPqyNyWVTXDZoA5Ymjl/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:08.296-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:08.296Z"
+ }
+}

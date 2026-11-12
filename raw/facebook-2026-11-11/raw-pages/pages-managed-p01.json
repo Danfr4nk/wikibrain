@@ -1,0 +1,6 @@
+{
+ "error_message": "Professional consent is required. The rejected Page request did not run.",
+ "error_reason": "PROFESSIONAL_CONSENT_REQUIRED",
+ "success": false,
+ "tool_family": "pages"
+}

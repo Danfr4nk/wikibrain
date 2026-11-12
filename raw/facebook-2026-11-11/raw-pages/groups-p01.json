@@ -1,0 +1,77 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    210031659086101,
+    223743412368739,
+    240273686022171,
+    463221883701061,
+    1372346449515232,
+    2829146507352850
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "groups": [
+  {
+   "description": "A Fayette County woman who had been reported missing in Morgantown has been found deceased.\n\nThirty-two-year-old Alexa Randolph was reported missing on Thursday.\n\nPolice say Randolph’s vehicle was found in the parking lot of the Walmart on Hornbeck Road. They found her body inside the cargo area of the vehicle.\n\nThe Monongalia County Sheriff’s Office is investigating her death as a homicide.\n\nAnyone with information about her disappearance or death is asked to call the Monongalia County Sheriff’s Office Detectives at 304-291-7218.",
+   "group_url": "https://facebook.com/groups/2829146507352850/",
+   "id": "2829146507352850",
+   "member_count": 1000,
+   "name": "Alexa Randolph Case Discussion",
+   "viewer_role": "connected"
+  },
+  {
+   "description": "Golf Clash University (GCU) is all about teaching each other about how Golf Clash works, how to get better, and how to analyze shots.\n\nGCU stands out among a growing field of GC community pages because of our rules. They are important to us, they enable a learning environment, and they help ensure that over time we build up a body of SEARCHABLE posts that are readily available to future learners. We WILL remove posts that do not conform to the following:\n\nFor some of the posting no-nos in rule 6, we will set up specific posts devoted to those topics so you can just add to the comment section instead (such as friend requests and tournament open discussion). Check out the Announcements for links to these special posts.\n\nOur rules are a lot to take in, and we do not expect perfection. We do not want to discourage anyone from posting, and a good rule of thumb is that if you have a genuine question, go ahead and post it. After all, by definition, it conforms with rule #1 because it has the purpose of gaining information!\n\nPosts that violate the rules will be removed. People who repeatedly and knowingly violate the rules will be removed.",
+   "group_url": "https://facebook.com/groups/1372346449515232/",
+   "id": "1372346449515232",
+   "member_count": 6000,
+   "name": "Golf Clash University (GCU)",
+   "viewer_role": "connected"
+  },
+  {
+   "description": "",
+   "group_url": "https://facebook.com/groups/463221883701061/",
+   "id": "463221883701061",
+   "member_count": 9,
+   "name": "Mac Pro Charger.",
+   "viewer_role": "connected"
+  },
+  {
+   "description": "\"A place to snark about Fall Out Boy.\"\n\nFor those of us that bonded through Fall Out Boy's fan club. We don't mean to be sarcastic, elitist assholes; it just comes naturally.\n\nWarning: We all hate Pete and think he's ugly.\n\nRelive memories at drop-a-heart.com/boards",
+   "group_url": "https://facebook.com/groups/240273686022171/",
+   "id": "240273686022171",
+   "member_count": 179,
+   "name": "Overcast Kids",
+   "viewer_role": "connected"
+  },
+  {
+   "description": "1)  The purpose of this group is to help provide a space for people to ask and answer questions about their unemployment issues during the COVID-19 pandemic. This is a space for people to converse about these issues and ideally to help one another find solutions. \n          \n2)  Group rules: This group is for constructive conversation only and is not politically affiliated in any way. Any comments harassing or spamming others will be deleted, and you may be removed from the group. The complete list of rules can be found on our \"About\" page. \n\n3)  DISCLAIMER: The admins and moderators of this group are NOT employees or representatives of the NYS Department of Labor. Any information, opinions, or help offered is independent of the Dept of Labor. This group is for recreational purposes only and nothing within is offered as a professional service. The admins and moderators are NOT a fact checking body. Any information about unemployment posted by members in this group should never be considered accurate or official, unless verified by the NYS Department of Labor directly. Please contact the NYS Department of Labor or your lawyer directly regarding your UI application and claim concerns.\nThe admins and moderators assume no responsibility or liability for any errors or omissions in the content of this site. We do not make any warranties about the completeness, reliability or accuracy of this information. Any action you take upon the information on this page is strictly AT YOUR OWN RISK, and we will not be liable for any emotional or physical losses/damages in connection with the use of our page. The information contained in this site is provided on an \"as is\" basis with no guarantees.",
+   "group_url": "https://facebook.com/groups/223743412368739/",
+   "id": "223743412368739",
+   "member_count": 43000,
+   "name": "HELP US - NYS Unemployment Issues",
+   "viewer_role": "connected"
+  },
+  {
+   "description": "Where the Pittsburgh Electronic Music Community, Events, Performers, Venues connect",
+   "group_url": "https://facebook.com/groups/210031659086101/",
+   "id": "210031659086101",
+   "member_count": 5000,
+   "name": "Pittsburgh EDM",
+   "viewer_role": "connected"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVDJWOVJhSmljRXg2N3Nrc0E5SWZArOUs4Ung0ZAzMtTVVaMVg2YnJzR2RmWmxHUFBPazYyM2ZACUWg5WWZA4VDE5bk0ZD"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:26.202-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:26.202Z"
+ }
+}

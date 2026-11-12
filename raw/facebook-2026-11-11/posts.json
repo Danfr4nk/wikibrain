@@ -1,0 +1,48 @@
+{
+ "source": "facebook-cli timeline fetch (filtered created_at > 2026-09-08)",
+ "pull_date": "2026-11-11",
+ "count": 2,
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-11-04T22:37:02+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2026-11-04T17:37:02.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-11-04T22:37:02.000Z"
+   },
+   "post_id": "10175693550120253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/reel/2382181642597921/",
+   "username": "Dan Frank",
+   "video_transcript": "Dsa, the Democrat Socialist of America? Okay, here's just a sample of what they're about. Abolish the Electoral College replace the two-party system with a multi-party democracy. Implement proportional representation and ranked choice voting in all elections. Establish public ownership of the largest corporations and essential industries to ensure Democratic control and accountability to the people. End all military and economic aid to Israel sounds so out of the phone."
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2026-10-15T20:41:39+00:00",
+   "media_ocr": "SEX IS THE SAME THINGAS AS GENDER? IDON'T HAVING YOUR NIGHT GENDER REMEMBER WITH DAD LAST TH PEOPLE WHO-SUP WHO IOMTYERANRA ONLY TRANS RIGHTS",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "transphobes hate freedom don’t let them say otherwise  🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️",
+   "post_created_at": {
+    "user_local": "2026-10-15T16:41:39.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2026-10-15T20:41:39.000Z"
+   },
+   "post_id": "10175469594915253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02edn329LBEw9tiyWJZeJMmL2NKchX9h8AMAdB6BDz8g4QBH3tgKihG5rbytcTEhw8l/",
+   "username": "Dan Frank"
+  }
+ ]
+}

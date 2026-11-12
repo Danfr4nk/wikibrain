@@ -1,0 +1,17 @@
+{
+ "source": "facebook-cli saved collections list",
+ "pull_date": "2026-11-11",
+ "count": 2,
+ "collections": [
+  {
+   "id": "10166455635920253",
+   "item_count": 3,
+   "name": "Drone"
+  },
+  {
+   "id": "10164531520555253",
+   "item_count": 0,
+   "name": "For Later"
+  }
+ ]
+}

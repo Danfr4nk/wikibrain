@@ -1,0 +1,33 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    10166455635920253,
+    10164531520555253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "id": "10166455635920253",
+   "item_count": 3,
+   "name": "Drone"
+  },
+  {
+   "id": "10164531520555253",
+   "item_count": 0,
+   "name": "For Later"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:34:12.836-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:34:12.836Z"
+ },
+ "summary": {
+  "total_count": 2
+ }
+}

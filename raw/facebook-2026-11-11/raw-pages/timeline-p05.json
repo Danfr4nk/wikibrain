@@ -1,0 +1,438 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10162866590310253,
+    10162871065905253,
+    10162895886060253,
+    10162897074395253,
+    10162899561930253,
+    10162899847560253,
+    10162902752000253,
+    10162905154790253,
+    10162954654135253,
+    10163016338920253,
+    10163035151335253,
+    10163043868310253,
+    10163048595845253,
+    10163058855790253,
+    10163085503075253,
+    10163116808850253,
+    10163120943715253,
+    10163126743665253,
+    10163142150450253,
+    10163148700790253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVG92YUhTSlRMN1ZADdF81dWVxZAlVicm16anpKd2hhMFFUVk9FU2lRUm1leG05ZAEFFcEUxWEhkSGFlRnU4UENhVnduYU1HcTNLRXhwVUpZAZAWxoOEQwNC1B",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-27T08:07:50+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "“New York is an ugly city, a dirty city. Its climate is a scandal, its politics are used to frighten children, its traffic is madness, its competition is murderous. But there is one thing about it: once you have lived in New York and it has become your home, no place else is good enough.”\n\n-John Steinbeck\n\ni moved to New York City because i am in love with the energy, essence and resilience that makes this city feel so alive and exciting that it has literally earned the name ‘the center of the world’.\n\nThe past 24 hours have been so remarkably morbid here and you can feel the fear and confusion in the air. The streets are quiet. Everyone is masked, and those who aren’t are visibly on edge. This virus has turned the ‘city that never sleeps’ into a dark and scary frontier, and has sucked so much of the essence that makes it special away.\n\nNYC is an absurd social experiment, and the exact things that made it special and important culturally are the things that have created the conditions which make new yorkers so much more vulnerable to infection .\n\nEventually, this disaster will subside and the magic of the 5 boroughs will return. But please take a few minutes to think about the importance of taking any possible preventable measures and brace yourself for the reality of this virus spreading across  the country and the potential loss of life it will be responsible for.\n\nThere are a lot of unknown outcomes right now, and the severity of those outcomes are far more devastating than we have been faced with in centuries. Nobody knows the economic impact or the psychological trauma that could be collectively felt.\n\nBut the one thing i know is that New York City will survive this and continue to be a beacon of humanity, the nucleus of American culture and trends and an unthinkable accomplishment of civilization...a place where nothing is impossible and the most important metropolitan achievement ever conceived",
+   "post_created_at": {
+    "user_local": "2020-03-27T04:07:50.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-27T08:07:50.000Z"
+   },
+   "post_id": "10163148700790253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0TJ1HrhTm73KZVU7MwaA87UnfbEZc7ymtrXaVjqdsu1UNkbXnRMRAxjeWjq6M6L6Bl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-26T08:41:20+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "explosive fun on warzone",
+   "post_created_at": {
+    "user_local": "2020-03-26T04:41:20.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-26T08:41:20.000Z"
+   },
+   "post_id": "10163142150450253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10163142143625253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-24T00:17:32+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "streaming live Warzone on twitch! come hang out:\n\ntwitch.com/ihatedanfrank",
+   "post_created_at": {
+    "user_local": "2020-03-23T20:17:32.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-24T00:17:32.000Z"
+   },
+   "post_id": "10163126743665253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02XdjWKPb1j6VQht9ChtuHb2XfoNqjgNTfJ2cqiu4kACrCXqRUJDXYyNH1s1njnHCRl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-23T01:50:51+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Things are getting wild here in the greatest city on Earth",
+   "post_created_at": {
+    "user_local": "2020-03-22T21:50:51.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-23T01:50:51.000Z"
+   },
+   "post_id": "10163120943715253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0akhMxuMw9LptUabgBUrCr9LNuaXZqNr2qgY1RRfc3e5mpAYRGuGnD1fAzzmgeN2Rl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-22T15:23:28+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Reality check. This is the most insightful take on where we’re collectively headed and what ‘normal’ is going to look like. \n\n @[100057797854014:2048:Tim Dillon] has as much value as a philosopher as he does a comedian in these weird, dystopian times",
+   "post_created_at": {
+    "user_local": "2020-03-22T11:23:28.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-22T15:23:28.000Z"
+   },
+   "post_id": "10163116808850253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10163116721385253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-17T22:06:35+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "...only in New York...\n\nrestaurants selling their toilet paper with takeout food orders",
+   "post_created_at": {
+    "user_local": "2020-03-17T18:06:35.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-17T22:06:35.000Z"
+   },
+   "post_id": "10163085503075253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02EKSMUtgeH1FLutZvbUoJ47Vk7R5ztNtki6bKFDw7YhXFHBftnYYrCKpLHr5PNjZml/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-13T01:49:32+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "fun fact:\n\nthe reason we started shaking hands was to prove that you weren’t holding a weapon.",
+   "post_created_at": {
+    "user_local": "2020-03-12T21:49:32.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-13T01:49:32.000Z"
+   },
+   "post_id": "10163058855790253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0o8eH61MEQa5z2uR26GUMQEKKZTZzxgrxXUnEpVGEjQg7Hf86Mi4Z8PPmT15gfPM9l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-10T23:37:44+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "anyone COD players want to squad up and play warzone?",
+   "post_created_at": {
+    "user_local": "2020-03-10T19:37:44.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-10T23:37:44.000Z"
+   },
+   "post_id": "10163048595845253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02FpNNCDTFFvPzx6d5GRK4QqS9sbN3xxFbeY446dPpu3BTg2TsmoouT1SBGXTWQQvzl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-09T23:18:24+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "let’s unpack why nominating Biden is a terrible idea. \n\nfull video from @[100053206297062:2048:Some More News] here: https://youtu.be/BKDgE1rcEoA",
+   "post_created_at": {
+    "user_local": "2020-03-09T19:18:24.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-09T23:18:24.000Z"
+   },
+   "post_id": "10163043868310253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10163044058865253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-08T04:09:48+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "the term “redneck” was originally coined to describe pro-union coal miners in WV & sw PA who would identify their solidarity with organized labor by wearing red bandanas\n\nhttps://www.wvpublic.org/post/do-you-know-where-word-redneck-comes-mine-wars-museum-opens-revives-lost-labor-history",
+   "post_created_at": {
+    "user_local": "2020-03-07T23:09:48.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-08T04:09:48.000Z"
+   },
+   "post_id": "10163035151335253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02e1jkhGGYt5fFK9R6iQKnibn8WNgE6rZSVyyRerwygnB58yvCD8Kir1f1zZ8QBScpl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-03-04T03:14:05+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "nov 3 2020 will be soooooo much fun guys \n\nhttps://www.270towin.com/maps/npmnb",
+   "post_created_at": {
+    "user_local": "2020-03-03T22:14:05.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-03-04T03:14:05.000Z"
+   },
+   "post_id": "10163016338920253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02yLTB33Mmoxx4L3mUrqh74Wk8PpDf449Ufx2XcD1KUSrfdXEMcmJv3zpaEya9QZsEl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-20T13:23:41+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "late stage capitalism.\n\nthis is not a feature, it’s a bug.",
+   "post_created_at": {
+    "user_local": "2020-02-20T08:23:41.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-20T13:23:41.000Z"
+   },
+   "post_id": "10162954654135253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10162954649740253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-10T05:36:14+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Tom Steyer saying “dude” is my favorite moment of the election so far.  \n\nSOLIDARITY FOREVER.",
+   "post_created_at": {
+    "user_local": "2020-02-10T00:36:14.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-10T05:36:14.000Z"
+   },
+   "post_id": "10162905154790253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0q6mW7o3iYtGi8bP1aHGdGJT3kCyNic4hTwTJqAB5NAJ3VjaM4CaFW8wkGaBzXRSml/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-09T19:10:30+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Muskie = Biden\nMcGovern = Bernie\nNixon = Trump",
+   "post_created_at": {
+    "user_local": "2020-02-09T14:10:30.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-09T19:10:30.000Z"
+   },
+   "post_id": "10162902752000253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid04obme2ucfD8Q5Pxrr15FqNfRWkXXwmykVN9HXWCaGxvgRQ5J2QJAnkHxNK5TfQSyl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-09T02:46:39+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "if you don’t donate to help this kitty, your house will be infested by stink bugs. she’s dealing with a foot transplant and a sick kitty so show up and help her out a little \n\nhttps://paypal.me/pools/c/8kBBwGGTPz",
+   "post_created_at": {
+    "user_local": "2020-02-08T21:46:39.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-09T02:46:39.000Z"
+   },
+   "post_id": "10162899847560253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0NABwWnfFbqkaF5x6ZSms5Ue181EVQfVW9jRgpakcQAZZfG19GHmGiKvggwkQ4hgWl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-09T01:29:39+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "No other democratic candidate agreed to a Fox News town hall. If you dislike Bernie Sanders, please watch this to see him answer the tough questions. Remember, this is Fox News.",
+   "post_created_at": {
+    "user_local": "2020-02-08T20:29:39.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-09T01:29:39.000Z"
+   },
+   "post_id": "10162899561930253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02vCwkpCzLrryDX6yePXGBA4ktoCj6XpuKYuY7CxUctD47tsgNq2wrnNehueY65uJwl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-08T15:35:21+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "this guy totally seems like someone who hAtEs AmEriCa and wants to rUiN yOuR LiFe and tAKe yOuR mOnEY!!",
+   "post_created_at": {
+    "user_local": "2020-02-08T10:35:21.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-08T15:35:21.000Z"
+   },
+   "post_id": "10162897074395253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid024eeJnC7w6mnRDMvDaV9WAh7M33LFAcx7wtYA3Su9hnSxYzmGzymnTUCWxDUXHhr5l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-08T08:04:39+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "wouldn't it be nice if we could all go to the doctor?\ndoing so would require an increase in taxes, but most people would still spend less on healthcare annually without paying premiums and co-pay, as well as dental and vision care.\n\nAmazon paid no tax in 2019 and most of my friends have no health insurance. boomers, the world is changing and so must our understanding of how society and government function.",
+   "post_created_at": {
+    "user_local": "2020-02-08T03:04:39.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-08T08:04:39.000Z"
+   },
+   "post_id": "10162895886060253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0zMs2kWqLGtqHFxKxYb9MeEBGsxCH3oZCzQE8pJNXHavFPQdJGSbsCXzKNBbCwrptl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-03T00:19:31+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2020-02-02T19:19:31.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-03T00:19:31.000Z"
+   },
+   "post_id": "10162871065905253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0daWbJSBg288Sdu2X4irrCdRZGoJFLhWmFa7Gpiu3RVk5Xnkujr6LvDnv5XphNGcgl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2020-02-02T01:37:57+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "endorsed",
+   "post_created_at": {
+    "user_local": "2020-02-01T20:37:57.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2020-02-02T01:37:57.000Z"
+   },
+   "post_id": "10162866590310253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02o1DVb18Pr2XSqtC5fEzMKaHxGTuNSAzNks6V94rNmdQGLWV8hnxGoT43G5pNvL6il/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:17.531-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:17.531Z"
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    638502726,
+    639292857,
+    640249681,
+    643752871,
+    646376475,
+    648422917,
+    650245088,
+    651337606,
+    653407403,
+    653830387,
+    655149417,
+    656864404,
+    660291668,
+    660943506,
+    662929822,
+    666911619,
+    667345343,
+    667557822,
+    668271116,
+    670289364
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "friend_id": "670289364",
+   "name": "Jessica Leigh",
+   "profile_url": "https://facebook.com/jessica.leigh.3150"
+  },
+  {
+   "friend_id": "668271116",
+   "name": "Jon Hart",
+   "profile_url": "https://facebook.com/jonhart18"
+  },
+  {
+   "friend_id": "667557822",
+   "name": "Dan Pegg",
+   "profile_url": "https://facebook.com/dan.pegg.33"
+  },
+  {
+   "friend_id": "667345343",
+   "name": "Tiffany Christy",
+   "profile_url": "https://facebook.com/tiffa001"
+  },
+  {
+   "friend_id": "666911619",
+   "name": "Brandon Hooven",
+   "profile_url": "https://facebook.com/bhoov91"
+  },
+  {
+   "friend_id": "662929822",
+   "name": "Yamez Blannon",
+   "profile_url": "https://facebook.com/djyamez1"
+  },
+  {
+   "friend_id": "660943506",
+   "name": "Gena Ezzi",
+   "profile_url": "https://facebook.com/gena.ezzi"
+  },
+  {
+   "friend_id": "660291668",
+   "name": "John J Lockes Collect",
+   "profile_url": "https://facebook.com/john.j.locke.7"
+  },
+  {
+   "friend_id": "656864404",
+   "name": "Nick Mattie",
+   "profile_url": "https://facebook.com/nickmattie1"
+  },
+  {
+   "friend_id": "655149417",
+   "name": "Lauren Molchan",
+   "profile_url": "https://facebook.com/lauren.molchan"
+  },
+  {
+   "friend_id": "653830387",
+   "name": "Johnathan Langlois",
+   "profile_url": "https://facebook.com/theycallmejohnnydanger"
+  },
+  {
+   "friend_id": "653407403",
+   "name": "Brett Workman",
+   "profile_url": "https://facebook.com/brett.workman.94"
+  },
+  {
+   "friend_id": "651337606",
+   "name": "Ashley Wove-Fave",
+   "profile_url": "https://facebook.com/ashley.wove"
+  },
+  {
+   "friend_id": "650245088",
+   "name": "Will Stewart",
+   "profile_url": "https://facebook.com/Willman44"
+  },
+  {
+   "friend_id": "648422917",
+   "name": "Ricky Fernandez",
+   "profile_url": "https://facebook.com/ricky.fernandez.5283"
+  },
+  {
+   "friend_id": "646376475",
+   "name": "Ali Veenali",
+   "profile_url": "https://facebook.com/aliana.vignali"
+  },
+  {
+   "friend_id": "643752871",
+   "name": "Joshua Coccagna",
+   "profile_url": "https://facebook.com/joshua.coccagna"
+  },
+  {
+   "friend_id": "640249681",
+   "name": "Alex Urban",
+   "profile_url": "https://facebook.com/alex.urban.315"
+  },
+  {
+   "friend_id": "639292857",
+   "name": "Rebekah Fullem",
+   "profile_url": "https://facebook.com/rebekah.fullem"
+  },
+  {
+   "friend_id": "638502726",
+   "name": "OriJeanel Inque",
+   "profile_url": "https://facebook.com/orijeanel.inque"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVGY2ZADM0MXdJM3JYUnRwVk1ZANHlDYWZAESU9vSkhxVEowaWRqZAG50S3ZAmYV91WHR6VmM1VS15VG5IblhrNGVTWERtNkxMeUE0Y09KSGdOOFdtU1VfczFn",
+   "before": "QVFIVGM5OWpjdnpqWVExN2k5bFFJNFptSHkyU2M0UVZAFYlRkMnpkcE52Y3pZAOE9YazV0M2VCRDdTd2RCNWdQalJCSFZAQMExTWFV3SGJwZAlUyenl4UnZATdWtR"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:32:55.851-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:32:55.851Z"
+ }
+}

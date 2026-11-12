@@ -1,0 +1,144 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    9358702,
+    65901895,
+    508223987,
+    545703854,
+    776757551,
+    1198043177,
+    1280246261,
+    1429434261,
+    1480140007,
+    1564496782,
+    100000509401102,
+    100000830427133,
+    100000981361909,
+    100002477971975,
+    100009119618754,
+    100009392504068,
+    100010732428319,
+    100028318080135,
+    100037608651040,
+    100056878956958
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "friend_id": "65901895",
+   "name": "Allison Frank",
+   "profile_url": "https://facebook.com/allison.frank.owo"
+  },
+  {
+   "friend_id": "1564496782",
+   "name": "We Speak Car",
+   "profile_url": "https://facebook.com/we.car.9"
+  },
+  {
+   "friend_id": "1198043177",
+   "name": "Nolan Rogers",
+   "profile_url": "https://facebook.com/nolan.rogers.58"
+  },
+  {
+   "friend_id": "545703854",
+   "name": "Todd Rehanek",
+   "profile_url": "https://facebook.com/todd.rehanek"
+  },
+  {
+   "friend_id": "1429434261",
+   "name": "Marisa Harris",
+   "profile_url": "https://facebook.com/marisa.beachy"
+  },
+  {
+   "friend_id": "100000981361909",
+   "name": "Sydnee Durbin Jans",
+   "profile_url": "https://facebook.com/sydnee.durbin"
+  },
+  {
+   "friend_id": "1280246261",
+   "name": "Lisa Collingwood Frank",
+   "profile_url": "https://facebook.com/lcdlcd"
+  },
+  {
+   "friend_id": "100010732428319",
+   "name": "Peter Francis",
+   "profile_url": "https://facebook.com/profile.php?id=100010732428319"
+  },
+  {
+   "friend_id": "100000509401102",
+   "name": "Vincent Tiberi",
+   "profile_url": "https://facebook.com/vincent.tiberi"
+  },
+  {
+   "friend_id": "100000830427133",
+   "name": "Joe Croftcheck",
+   "profile_url": "https://facebook.com/joe.croftcheck.3"
+  },
+  {
+   "friend_id": "100056878956958",
+   "name": "Jacob Million",
+   "profile_url": "https://facebook.com/jacob.million.96"
+  },
+  {
+   "friend_id": "508223987",
+   "name": "William Kubia",
+   "profile_url": "https://facebook.com/william.kubia"
+  },
+  {
+   "friend_id": "9358702",
+   "name": "Chrıstıan Van Evans",
+   "profile_url": "https://facebook.com/christianvanevans"
+  },
+  {
+   "friend_id": "776757551",
+   "name": "Tom Maison",
+   "profile_url": "https://facebook.com/tom.maison"
+  },
+  {
+   "friend_id": "100037608651040",
+   "name": "Maison Tom",
+   "profile_url": "https://facebook.com/no.tommaison"
+  },
+  {
+   "friend_id": "100009119618754",
+   "name": "Marge Fike",
+   "profile_url": "https://facebook.com/profile.php?id=100009119618754"
+  },
+  {
+   "friend_id": "100028318080135",
+   "name": "Kelly Herchko",
+   "profile_url": "https://facebook.com/kelly.herchko.9"
+  },
+  {
+   "friend_id": "100002477971975",
+   "name": "David Molchan",
+   "profile_url": "https://facebook.com/david.molchan.3"
+  },
+  {
+   "friend_id": "100009392504068",
+   "name": "Lucie Dobbin",
+   "profile_url": "https://facebook.com/lucie.dobbin"
+  },
+  {
+   "friend_id": "1480140007",
+   "name": "Margaret Amelia",
+   "profile_url": "https://facebook.com/meggie.rosen"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVEQwX0N2bWRlZAkc3MzFkVjJ0MXQ3VzhjZAnNQakJMNV9ab0pyRTY3YTJ0TlFIZAkI5ZAkp3RlVMMlBKVDQ2cHJnZAUdXUHg4RVZAyYXg1bUlTRjg2d1VDRElB",
+   "before": "QVFIVHVHN2NTZAzQ3Q0dKSjNOZA2loUkxXaDZAReU94d05fQnlENXd4MFowUHExYjBOM0Y4WnlJcThiaENiMTdzSlBYb2lwbHlTMEJTWlBXZA3QtbWwzUFpHampB"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:32:30.964-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:32:30.964Z"
+ }
+}

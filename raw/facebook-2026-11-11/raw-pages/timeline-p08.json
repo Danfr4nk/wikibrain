@@ -1,0 +1,424 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10151126504855253,
+    10151491962065253,
+    10151582981240253,
+    10151929904000253,
+    10152224520125253,
+    10152254483555253,
+    10152257867365253,
+    10152258799600253,
+    10152262176695253,
+    10152262513735253,
+    10152262534060253,
+    10152368473520253,
+    10152485982070253,
+    10152489194965253,
+    10152545806070253,
+    10152965974480253,
+    10153775628045253,
+    10154267157020253,
+    10154406714885253,
+    10154818463875253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVGhJR2EyWXJKOTlBeV9lZA0hkZAHlGdWY0RjAyQnZAXTU10X2xydk1zdXlaR0tOY3E4alZA2MHZAnSENSS2doVkNFWTlzY1E0TTZAuLVpQUS1Ua0pjSTk5RU13",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-11-15T05:25:20+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Live Mix - 11/15/14\n\n http://ustre.am/1j6sk",
+   "post_created_at": {
+    "user_local": "2014-11-15T00:25:20.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-11-15T05:25:20.000Z"
+   },
+   "post_id": "10154818463875253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0yqcSH98fH5HHTnhLFtkUTAismgd4ezZBW5ykHEW8vV4D4yifG3Cm9NbQFS2TJM81l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-07-26T18:42:33+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Heatwave Vol 2 streaming now on my soundcloud.",
+   "post_created_at": {
+    "user_local": "2014-07-26T14:42:33.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-07-26T18:42:33.000Z"
+   },
+   "post_id": "10154406714885253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0u3Zbf9aTeV2Wu8BgHCNf5JPxS2xjpmsZfiMynUJcPYEvxcEPKJ4zWUgd1Da1DArRl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-06-17T20:35:33+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-06-17T16:35:33.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-06-17T20:35:33.000Z"
+   },
+   "post_id": "10154267157020253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0i1UxUYiUK1PkUYtw5s6vwJhCDpSfuWp7VVybeqG6Xp9c9AiqMiMqB6SfTPU9m7KPl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-01-29T03:47:47+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Flipped Katy Perry's 'Dark Horse'. Check it out now on soundcloud http://snd.sc/1csBsHh",
+   "post_created_at": {
+    "user_local": "2014-01-28T22:47:47.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-01-29T03:47:47.000Z"
+   },
+   "post_id": "10153775628045253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0VTVJ8oHue2pyNEPLK1DmpzEBEzrtNiamKciGC3zweAzoSmJbA9cKDYqEuiKBjYzNl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2013-06-23T02:09:19+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "This unbelievably sweet puppy found me today and I need help finding the owner. It's collared, but no tags. If you recognize her or know someone who has a missing dog - let me know.",
+   "post_created_at": {
+    "user_local": "2013-06-22T22:09:19.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2013-06-23T02:09:19.000Z"
+   },
+   "post_id": "10152965974480253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02Qro8RRh1HmtqPtfprUAGw43W9r3JK5TZqbGErpzTQgKF9P8UGsnGgGFG6vXyBAQzl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2013-02-04T01:50:23+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "FOSSIL FUELS YA'LL",
+   "post_created_at": {
+    "user_local": "2013-02-03T20:50:23.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2013-02-04T01:50:23.000Z"
+   },
+   "post_id": "10152545806070253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02y7xqfgTLYqSvHYcc5Dq4iZDNJ2cBKJ2jmVb4F2oiVfLfAwx8mb1k9TmsPKjpKHVl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2013-01-30T01:13:45+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I am the night, color me black.",
+   "post_created_at": {
+    "user_local": "2013-01-29T20:13:45.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2013-01-30T01:13:45.000Z"
+   },
+   "post_id": "10152489194965253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0GhGA3t4PJz58iWWz7SWQG8hmPMfAEvJYBpnZaKv4BD5BpcAwE66ZBrVW1RB693f9l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2013-01-29T00:21:26+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "cogito ergo sum",
+   "post_created_at": {
+    "user_local": "2013-01-28T19:21:26.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2013-01-29T00:21:26.000Z"
+   },
+   "post_id": "10152485982070253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid038FtYmHHxRdcPmNRB5RX68QFkSWRU1ju9v5wbyoPPm6Vv2cwqqrjWNMYXfPTTLUzbl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-12-18T21:12:26+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "woe is me",
+   "post_created_at": {
+    "user_local": "2012-12-18T16:12:26.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-12-18T21:12:26.000Z"
+   },
+   "post_id": "10152368473520253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0Kh8BUXbbH5kaUcFbVzxNpLf1ksp33CxMPLCyTxzPhaamGgYtSAPPSz6MhQ2WY7TRl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-11-07T07:47:04+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Hey Romney Ryan lemmings, COME AT ME! Let's hear why you think Romney would have been better for this great nation of ours.",
+   "post_created_at": {
+    "user_local": "2012-11-07T02:47:04.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-11-07T07:47:04.000Z"
+   },
+   "post_id": "10152262534060253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02jpDQYvFH2bZo6gBtt4YXsTqxRq7WNZSmfCLG9RsRYxT8aGbhPXKd2d3BqzgdQ6dCl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-11-07T07:28:05+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I'm so fucking America. Waka Flocka/Riff Raff 2016",
+   "post_created_at": {
+    "user_local": "2012-11-07T02:28:05.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-11-07T07:28:05.000Z"
+   },
+   "post_id": "10152262513735253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid022ErYnn4QneogcCgHhkJq7wtyzo2AYk66X55dkJpuHNBX5ZUseezVAfeXVmUDMmiXl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-11-07T05:43:48+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Will have blog post up tonight to sum up my thoughts on the election and the long term consequences and benefits that will follow. Got at least 2000 words in me.",
+   "post_created_at": {
+    "user_local": "2012-11-07T00:43:48.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-11-07T05:43:48.000Z"
+   },
+   "post_id": "10152262176695253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid024q8PXeaJDvHVzYHcDBPE4HxUBwdECD7UFysNXaXwofisHi7mWkZe69RxNMx7WDt6l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-11-06T04:18:49+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "EVERY TIME AN AMERICAN VOTES FOR BRONCO BAMMA A TERRORIST GETS 5 POUNDS OF ENRICHED URANIUM",
+   "post_created_at": {
+    "user_local": "2012-11-05T23:18:49.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-11-06T04:18:49.000Z"
+   },
+   "post_id": "10152258799600253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid07LNwZeupE3q66SrgB54j719ocKhqqxPJgwnzoe3TLGyaioJYtdXKcKR9v3rAL7vyl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-11-05T21:49:39+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Guys I've got a good idea. I'm going to vote for a candidate with a secret tax plan! \nWhat could go wrong?!",
+   "post_created_at": {
+    "user_local": "2012-11-05T16:49:39.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-11-05T21:49:39.000Z"
+   },
+   "post_id": "10152257867365253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid04YJz3fFAgrgyPDZNxrAWexzgcx4hz9RJae9VUVP5RSMxanakesCXDc75qMA4ZzRSl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-11-04T19:33:25+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "So much God talk on here today. It's so easy to be swept away from reality with the infinite comfort and myriad luxuries that religion offers. Further, the consolation that we seek from a deity is quite real to many, if not all, of those who are struggling and need to contextualize their existence as something bigger. \n\nBut none of this matters when you consider how the world works from a scientific perspective. To put it simply, we live in a world where everything works exactly as it should...governed by mathematically-sound physical properties, behaving without exception. This concept  directly opposes the notion of a world in which 'miracles' can occur, and as you would expect there has never been a proven miracle, or even an anomaly that would suggest divine intervention. It may seem to be a bleak or boring mindset, but 100% of the evidence corroborates it and every day we become more competent in understanding the minutiae of how it all works. \n\nIf God does exist, his only success has been to completely cover up any evidence that leads to a rational explanation of himself.",
+   "post_created_at": {
+    "user_local": "2012-11-04T14:33:25.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-11-04T19:33:25.000Z"
+   },
+   "post_id": "10152254483555253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0TnBWczBcd93jzxD6XDQucwzyoQLHJ7QiNwPwckqyDiVcK4jVQJRLSraTV5C7kuE1l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-10-24T18:00:58+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "\"All in all though, last night made a fine conclusion to the trilogy of debates. Between the two candidates, sincere belief in a peaceful world, and their eager acceptance of remote control hell fire drones to achieve that end. We learned Mitt Romney has basically come around to Barack Obama’s position on foreign policy, and Barack Obama’s come around to the Bush administration’s policy on aggression overseas.”\n\nJon Stewart\n\nhe's a hackey stand-up, but nailed it on this.",
+   "post_created_at": {
+    "user_local": "2012-10-24T14:00:58.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-10-24T18:00:58.000Z"
+   },
+   "post_id": "10152224520125253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0rEx26cR99GuUkKgbWG9dYqkNtEmSe3prgFkyFmzNAcZr22mJgzSy871Qm9MXegFPl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-07-12T04:11:57+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "FLYING COCKROACH IN APARTMENT SOS 911 pls send help.\n\nI nopenopenope'd right the fuck out of there. Won't go back until the cat/bounty hunter gives the go-ahead.",
+   "post_created_at": {
+    "user_local": "2012-07-12T00:11:57.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-07-12T04:11:57.000Z"
+   },
+   "post_id": "10151929904000253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid028CBFDcXnHvgG5WRzESGLy2PCRDL3KS6y5UTrKsaznQze6BTEWpwppvVmPrnWefzjl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-04-30T05:50:19+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Support my new blog where I spread positivity and benevolence:\n\nhttp://thingsifuckingh8.tumblr.com",
+   "post_created_at": {
+    "user_local": "2012-04-30T01:50:19.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-04-30T05:50:19.000Z"
+   },
+   "post_id": "10151582981240253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02iKW4bzzDuAj8V7chozyHkaRqnsGGDeLACxKTc5eV37L8RNUJjhXjsp3J26Y2eJHsl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-04-08T22:21:57+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "It's 2012 and the majority of people in this country still believe (based on a book that contains zero empirical evidence) that a man was raised from the dead. This is the post-Enlightenment world, huh?!",
+   "post_created_at": {
+    "user_local": "2012-04-08T18:21:57.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-04-08T22:21:57.000Z"
+   },
+   "post_id": "10151491962065253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02rZWmhqpfXugvAcApD7BU81vqywxMdWbEzWhjfXJKriEuFmq4ND6f13aPty8KBF7fl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2012-01-04T02:31:53+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "2012 Iowa Caucus: Even if you win, we all lose! This is the holy grail of guilty pleasures.",
+   "post_created_at": {
+    "user_local": "2012-01-03T21:31:53.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2012-01-04T02:31:53.000Z"
+   },
+   "post_id": "10151126504855253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02YHCA496ozgsPYD1KmuyTsda8Q88KUsnw6TRF2H8HZYbDhW5W8LXkq9TZmxTcDDyFl/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:24.862-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:24.862Z"
+ }
+}

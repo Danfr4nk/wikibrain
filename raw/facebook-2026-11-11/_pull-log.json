@@ -1,0 +1,900 @@
+{
+ "calls": [
+  {
+   "name": "friends-p01",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p02",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVGdSaFBXNlQyVEVFVmZALejM0TUdFSE9HYWdaa0lRVHRGZA0RuTzI2MWNSUHE1VG5CYVh2ci1XMW5jQWNmZA1NlLXp4NUNhNGZAKYlJPRVFfeTdOZAHVfdmJR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p03",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVEQwX0N2bWRlZAkc3MzFkVjJ0MXQ3VzhjZAnNQakJMNV9ab0pyRTY3YTJ0TlFIZAkI5ZAkp3RlVMMlBKVDQ2cHJnZAUdXUHg4RVZAyYXg1bUlTRjg2d1VDRElB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p04",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVEFUanRJSWt5NlJGeW5ZAc0ZAfdDVraFVhZAWNRS25aNThRQ0ZAZAci1KYnRpTXRoSUZAyT3B3MDFxcmo1dGhkYllfdVNRT3dBSEttS0x1ZA3R4T25tRDRVU0dR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p05",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVGJveUwtR1lzcENGT2tXaS1vSnB4VHVCMG9EYVJMNmdqTTFwZAVd1YktxWnZACTmZAFeEJiZAldzeVNScjlwNGJiV1RqNE4tMk5QMWtVN0lYbVJtRW1WR1NB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p06",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVG1LSlVDbUU1bUZAjbFFJeE1ZAZAm9fcG55S29PcFZAkb1A0d21kRTRxNzBqYjdPYWlsUnlhSW94SXhMcHdzVUthY1VTTXQxWEJuV3g4b2tEdkpsQWZArZAzFR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p07",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVFZARdHlnT25wWWFEZAVBhcmFFRWpoSU10bE5OZAmhESUVYWmJUZA0ZAwa0duQ3RlWlZArWGdOYWxCZADJZAV2YtTEJtWmEtTl9FS2Y1M0ZALeEFHb3JUdmV2a2dB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p08",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVEl3MFJ1d2hxTG1sQVA4QjR2Rzl4dXBmRldvVHpoY2JMamZAhTnoyWFNPeEhvRFhqVGxJdjFGXzJ6UkZAWTU0wQVNtZA2lyRjYtcGVkbllKbkFMSTMwdlR3"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p09",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVFFrcnA5QXMxM19uaGZA0cGxSQ0J1TFVvTXBHenNBcXNIYXJOTnNXTUdGeXpPTUVWc1lfdFNUc25HYzNTUFBaWEllanU2aXBXdHZAzeklfbnA0aDFudUhn"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p10",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVHRlREFtMV9TanljYmFxTkpKb3B5dW9fVHhVZAXNaemlBQWdiODdWaUtUek9NTVN6enc5X0RCcVlNTHpoMXgtVmFxNXBFb2NxLWpteTFQUUZAYLTc4aS1R"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p11",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVExzbzRxdk00NWs2YnpvdlN4NktKTEgyb2xmY2t5QWhWblhUVFpuWUgyQmMyMVJCQlljM2szTzF2QkxRZAlZAvdDVUUWpiSTluUXZA2clduZAlRJREg5c1lB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p12",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVGE2c29fUlBHRmRhZAFFpTkpUSzlva0NpZAFFJWlFVcDViRUFKTXBQcUMtTGxEa0RtNkVMVE9WcEpocUNRVmxXanJVcFltQkItaXJPWjdJSjdkbUE3YURR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p13",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVDVsRThlaDJ4dk5FNzJ6SmVXSHpwYTNManlTSzVQTXM2VF9ZALWJMeUNmblljYmtOVGxIU0haUk1WUFJFMWRnMUhNbGJ0R0Fwc19wbFE3ck01TjhwVUFR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p14",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVFRPYmFKcXhfWUpKREpGOXVoY2VqQ1lsZA2RYRDJmQTRyVm5HYnpsLU9WX3JxQVFmZAWI3aWJnMVRjZATdYMlktb1FFTDRNV2JtcHF1YWEtV3pGUEhEMktR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p15",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVFZAhbTVVT3ljR1I5Y05nc0lCT1NTRGpkS1VQNVh2NHlxV3Q0YU8yd3hYVHd6YzFod2ZAyZADdYaG5mVlpBYWNBNEh3NEtPNW8weEhTdU5YcnJWZAmFxNDFR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p16",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVDN3VG1PYmZASa0JwQnBCaFpoZAHJkZAGEwekpaSlhYOVgtSTJ1dXNHZAnp3QmRjYWVwX09LNThYZA25sLWxVa3Vxd1FRbm1SOENndnpHbmFhaVNqWDZAhRWl3"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p17",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVG9aWGJ4cnRJdktuZAC1VT2xsaWJJenBrNm9JdTlRaXpsN1FxelZA3ZAWRhcG9KeXQzSXVoRkRGRzZAmc25aMm53SnZA6ZAGVqZA2hpSFJ6THNDSmFrVWE3NlZAn"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p18",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVFVJODV6dTNzODdPQ1dQSTZAuQThFMV9wNHNpb3hJQUVpU3FRRVU3NFhMT0FmTTI4cHdja2hoLUtZATk9MZAG9XLXdOMEk1aWtick9SUW5XUFlNc2hlcFVR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p19",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVERSVzVUZAHFiUFUxem9BYzktRXhfbXNQYlBaODdJcjVpRXVKUmJ0THlmT1hrVV9pdDVfWk9DLUxhRXM2WG01d2JUME1oMm1PZA3ZAnM3ZAidVJPZAG5NSEZAB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p20",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVHkzYXA2SmtEQ0RMUnU0d1lBRXNmcllwVVE4cVVGVE1hRlVMcHR5dUxOX3cxdG8tclU3LTM4RUdOZA09jX2x4bGNMa3dUUVVkYzg3ZAjk0RGtRZAGZAuMnRn"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p21",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVEgxMzlMUzh0OXNzQ3hSWEQweTdxZAHJYek1kY2w5dG5uZAGc3dDNLMFNFNXgyRnVrVkNBcXJUbENQSzhRVWFPUENpaVEzTmNkZAW1ILXEtaHpDMElHLU1B"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p22",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVGY2ZADM0MXdJM3JYUnRwVk1ZANHlDYWZAESU9vSkhxVEowaWRqZAG50S3ZAmYV91WHR6VmM1VS15VG5IblhrNGVTWERtNkxMeUE0Y09KSGdOOFdtU1VfczFn"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p23",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVE43QS1saTZAnSl9mVEpNX2FJd0tfY3NGMS1QemZADRzN6bmZAudlJlUEplM2tfMW10TzdtNDNBRXBJdlc5bDgzVlQ0Q3psZAngxRTFWOWlNNVhLZA3p0WVlB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p24",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVDBoUEJBRXRGSHktMlp1dlU4TUd6QklUaFZAFX3RDS1BvOVR3MVFyZAzlIM1ZAmdmJwT3VLdFRBeFUtanRmbjhzVjhQVC1MSjlkekFZALWpYcEdVSmZAGS0Vn"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p25",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVHZAva2N3VFc0VGJoQTNVWWE1SXQ4ZAmRGY1JuS0szaVp4ZA1dXdUN4OW9fZAS1UbThlQTBESGhWWG5nVXl5aDdlMVhjRmJhX3MtYWlRTGFRUmVSb0RYNlR3"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p26",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVFdnWEY5TTNHWGdVdHBWVTlpYnNRakpCSUxpUUF1bjlaU0hZAYW00cjlqU3NaUlV1RnFSVExCcHp4RzZAGeU9BdlN4bnVaSDJabERNTVZA1Tngzdld3cTh3"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p27",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVFBMUTE2VHVvLXV6TDlpcVBicmFxaldkQThvTlF4cVdqZA3E1bkwzbFZACN0pTTkdhX04xSll2bkFkZAXBoWWtpS3FLTUdMbVNDcTNHQUxBOWtIeVBwbXJn"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p28",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVERfcTZAFWjRFR3paeEFaRWZAYS3dSMVpuMkw1RXVaT0FHTk5fenB1VXZAWMlVTNTNtOVVuU3NHWlA5UllIdlBMc1hwUlVUWVUzY09yR3U2QWJOMlkxcjh3"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "friends-p29",
+   "args": [
+    "me",
+    "friends",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVC0tVUZAqY0JENmJnU1YyTC1RcUZAqRnVqbWI2NENxLTR1NXhwVndLV3FNUXpEXzlGcEpVdVB3Ty02U0NuTU1helNUemdvS1lOOHQ4cUhIWk52Tko1YlhB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p01",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p02",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVDNPSm9iampPRk5XaTZAJVUlTRUV4ZAmdEdHgxVjZA6VFU3Nktad3dLWW1lbWwtTHd1R2U1V040RFZA5eVk3My0wRnF0Q0tmLXBTUVVRZATMtOWliQ2FLcXNR"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p03",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVDVtc2tVUFFoVVk2Y1VQUmdoN0RfUVpRLUgxY0FpUjFHX0pFbmQzQnpaNVdiRHdYZAS1zUXlOUng0YzVtYUNNYWg2Qy1rbFk0RXE0dC1GeVFzNjBGVGZAB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p04",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVEoySXpqWE1NTlZAuSEdxMHJSWGZApN1ZATUjlnZA0lyRTZAFZA1VYbjVBMUtsUk1saVE5amI2TkV4UnRXbmM0NFc4RDd0dUNZAMU1xc2FoTHNTRDdBTWxaTVFB"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p05",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVEFabkowQ2M0S3czTXJWSnJnODB5Xy1xeFFSQk5EYVhYY2FVZAGVuQkdPSllHOE0zRFk0cUx0WENWWTFEdnR4YVo5RDQ0aGMzTnhnZAE9tNXB3SzU3NU9R"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p06",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVG92YUhTSlRMN1ZADdF81dWVxZAlVicm16anpKd2hhMFFUVk9FU2lRUm1leG05ZAEFFcEUxWEhkSGFlRnU4UENhVnduYU1HcTNLRXhwVUpZAZAWxoOEQwNC1B"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p07",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVGxReTZADNlJuQXU5eXJOSUdrejhMQU1OOW4tVGJoYUpZAUGRQYVJRa2xpQkI1SnhlWFNSWHd5ZAXRVeS13UmJIdmF5WGFNWElKYU9VTFV4YV90TEJVRTZA3"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "timeline-p08",
+   "args": [
+    "timeline",
+    "fetch",
+    "--profile-id",
+    "580995252",
+    "--limit",
+    "20",
+    "--after",
+    "QVFIVGZAuMnhKci13Mk1RQlluZAEhPRC1XRVpVTXlvYVlCUWtsaVd1VzhjT2QwT0JZAajZAnVVZALRllRMzhFS1duVlhtVDlobFptV2hHNFEwd2MyTW11SWEzYVln"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "groups-p01",
+   "args": [
+    "groups",
+    "search",
+    "--limit",
+    "25"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "groups-p02",
+   "args": [
+    "groups",
+    "search",
+    "--limit",
+    "25",
+    "--after",
+    "QVFIVDJWOVJhSmljRXg2N3Nrc0E5SWZArOUs4Ung0ZAzMtTVVaMVg2YnJzR2RmWmxHUFBPazYyM2ZACUWg5WWZA4VDE5bk0ZD"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p01",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p02",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRKVm52MExOQ0lpZAGozY25HRDlNS0lZAMzllamxfQ3pKY29hZATRlRmRKSWN4T0dta09VV1hNdm5uTDV1cThHYUN3U2t4aHdzdzRmWnhKYVJidVhIbHFXQSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p03",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRpUmVHNFZAGQmNJdTBnOUV6dEJBb0FaQWdaVHE4cTc3elBCWGo4X3dURTZAFWGFoVXdZAOWs1czJJUzhMeTA0VUcweFRGdzVEU0JzdzhmcmNDU21ISC14dyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p04",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRPeXhSRVQybzRvc0xBbnNiT1N4QS05V0dEYld6T296ZAXVaN0JocXplckNoTHlEUmhGR2ZAqemZAhZA2ZAJWHVPXzAyVjl0eXlvU09QRzhTRHBISHZAqV0ZAkdyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p05",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRBUHBFY1JEbDBnenBpSTBUSEVwZA2k4cHBVSXhMYmwtT0lubk5HajZA2M0U2aXlYZAUFlRGEyQTB6UjU2ZAEd3S0VPYzd3R3pNWGRQRDBCZA2ZANeUhIVUN3QSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p06",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRMQjFjZAFU5alpCZAW0zNFVUUTdnZADdRVE1kUlljdnVrSHVpc1VTVXVsSEtLSmo2LWp0d2tlSXJHSnlZAbHFoWE5obkYwTkxPZAWozR3dFV2hpU0hSdDRFdyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p07",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRTNGQ5aTBKZAlh2Snd5QXFmT0ctQVdvZAUVsYmI1cFNhMm85aFNtUGY3ZAjIwWGFuRGppOHBpSzMwNm9VXzRjZAHdYNTBYbUxVdEhNR05ldlljeUNCazhDdyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p08",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFREUDlpbjlWcVZAneENVNjcxcE1ObjFlak1JQUVaOUxwT0pCYl80VHNwZAFRwbkxsYlU5Ymcwd05SZAmlzSGY0NlVHVmVtUW1GOHpnSEtDb2dtMEY5bnZApdyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p09",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRFclNsWWRwY2l3UUt0TWhJS05wMmJMN3BrX0Q2dmd3MVY1eER2ZAVR2RTVyYkNMQlA0YXJKX01LTHFLN0Q1ejJBUXFDWnp2eTQ4blUwbjZAPSVVsQ2tkUSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p10",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRnUUNpWEg2ZAUpDbVpXRGlQamZA4WjNXVmtMZAzNDTWxwd0x6NDFLVjktT0ROMnJKcElNNEVSX0tDWU1FU042QUJmT1FBeEtVdFR4OE5TTWV6eW9pNDBSQSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p11",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFQzTDRfb0pLNHV3d05fMzJDcGNISE00RzRseGowWnlWZA2RJRmtVbDZAVSm9jUTQ3SjVLbWZAwaUdJVVQ1eWNxTXhUT0Y4NS01Q2pkdnRNX2NOendOVkJwdyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p12",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFQ5cUpLWHd2T1FOODZAnQXpOV2dQSDB0b3VfSkowS2NoWlR2bkhLdTJSUnBUZADEtXzQxeUowV01KbmJlM205dy1EVVpnb2lPNjA3X2dndjlZAZAHRiQTFwQSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p13",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFR5VFF2VzhEb0hSOGNncjV6TnhNTTFpcHdHekNUdWxTMDlORmhqWmR5N0lkQXdDTGRnQTJ0MUdmRGdsRGFUbjJmRjBpeDA1V3lYMkZAuT1hDZAVVzZA0dYdyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p14",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRka2RDUUFQS1ZAwdnBxZAFljM0ZAJWV9SdXREbmkwYjhiaFBJZAmxtMDlTMGNZAbmlvLUFmY2podGVnZAHpGV1RzbWt4YjRQTmxhbDM0dUFaTmJxRWhjcEZAidyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p15",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRrUFJ1eDA0bW9Hc29lclB0RHFSeWxZANExlUTU1S0poYl9tVnRjdU5yZAnJsOVZACZA2lDSjQtNlVIYnJ6UVVlc3hGSUd1NEdBS3RNdmZA6cTFoVG5XYjdDQSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p16",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRMSHdrUGVlTlNXWmtIRGJVanpGSjhSTXFHTzB4VHQzMTlMV18wNGF1Q2hNX3d1S19RNU5JUUFGOGs0Q2U5WjAxWEt3VDBoM0NpTFJWbnRsblZAJYmROUSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p17",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRTaFd6YjQzYTctLTd1MWEtejZApekY0WVlsRTdOVW12ZAEIzSGl6cU9tVndfcUZASUzZAnQXpXcXhHS3hVWHlYeW9Jc29VLUpINTVGOU5ha1k4SThzaDNxQSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p18",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRVLVFrRjhKSDdrSmNhcFZAZAR3dzZAmdLT2pwZA1ltbUtIWlVLRU1FNHBsczhfLXpSX01YWjdtLTZAzRDRXMGdKUm5wa3luclNQaFp3VGUxMDB6MW5mUGFGQSJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p19",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFR5WXc3ZAmc1MGwxY3JtelZA0QXd4YTNLN0JKNjdfX2hMcHJqQXNISXM0QW5LMXBaYXRQa1Mtb1oyS1JwTWR0M0tUZA3NmV0l5cERjWmhUaWVfeEZAMaU1adyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-connected-p20",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--limit",
+    "20",
+    "--after",
+    "eyJzY29wZASI6ImNvbm5lY3RlZACIsImN1cnNvciI6IkFRSFRMY2lrWE1DLXFKMTZAwcVhoQ3YxdUlGYU5DTEdjS01YejdNMVM5dFotTVUtM1h4NThYYXNkbzFGNlh0MlY3VkMtaURqS3NIYUVSLWZAsLTZAYOU1nTUNzdyJ9"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "events-gap-window",
+   "args": [
+    "events",
+    "search",
+    "--scope",
+    "connected",
+    "--start-date",
+    "2026-09-09",
+    "--end-date",
+    "2026-11-11",
+    "--limit",
+    "20"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "saved-p01",
+   "args": [
+    "saved",
+    "list",
+    "--limit",
+    "20"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "saved-collections",
+   "args": [
+    "saved",
+    "collections",
+    "list",
+    "--limit",
+    "20"
+   ],
+   "exit": 0,
+   "ok": true
+  },
+  {
+   "name": "pages-managed-p01",
+   "args": [
+    "pages",
+    "list",
+    "--limit",
+    "20"
+   ],
+   "exit": 0,
+   "ok": true
+  }
+ ],
+ "results": {
+  "friends": {
+   "pages": 29,
+   "count": 557
+  },
+  "timeline": {
+   "pages": 8,
+   "count": 160
+  },
+  "posts_after_2026-09-08": 2,
+  "groups": {
+   "pages": 2,
+   "count": 6
+  },
+  "events_connected": {
+   "pages": 20,
+   "count": 390
+  },
+  "events_gap_window_count": 0,
+  "saved": {
+   "pages": 1,
+   "count": 14,
+   "summary_total_count": 31
+  },
+  "saved_collections_count": 2,
+  "pages_managed": {
+   "pages": 1,
+   "count": 0
+  }
+ }
+}

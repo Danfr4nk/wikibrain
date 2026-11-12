@@ -1,0 +1,144 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    802677,
+    72404498,
+    601654681,
+    766868935,
+    1226794085,
+    1474830006,
+    100001429568275,
+    100006531457127,
+    100009742303377,
+    100009855193429,
+    100012245165790,
+    100024811994765,
+    100028797952930,
+    100036883566778,
+    100054446857637,
+    100065090838057,
+    100079140553051,
+    100088737885036,
+    100091951222578,
+    100092737745025
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "friend_id": "1226794085",
+   "name": "Nicole Semans",
+   "profile_url": "https://facebook.com/Nickix3x"
+  },
+  {
+   "friend_id": "72404498",
+   "name": "Matt Caton",
+   "profile_url": "https://facebook.com/circadiate"
+  },
+  {
+   "friend_id": "100036883566778",
+   "name": "Drew McGettigan",
+   "profile_url": "https://facebook.com/drew.mcgettigan.9"
+  },
+  {
+   "friend_id": "100028797952930",
+   "name": "Cody Gettemy",
+   "profile_url": "https://facebook.com/cody.gettemy.33"
+  },
+  {
+   "friend_id": "100012245165790",
+   "name": "Susan Heilman",
+   "profile_url": "https://facebook.com/susan.heilman.180"
+  },
+  {
+   "friend_id": "100009855193429",
+   "name": "Jillian DeGusipe",
+   "profile_url": "https://facebook.com/jillian.swartz.7"
+  },
+  {
+   "friend_id": "100009742303377",
+   "name": "Melchor Namikaze",
+   "profile_url": "https://facebook.com/melchor.namikaze"
+  },
+  {
+   "friend_id": "100006531457127",
+   "name": "Chuck Mattiucci",
+   "profile_url": "https://facebook.com/chuck.mattiucci.9"
+  },
+  {
+   "friend_id": "100001429568275",
+   "name": "Rollin Nogers",
+   "profile_url": "https://facebook.com/nolan.rogers.56"
+  },
+  {
+   "friend_id": "1474830006",
+   "name": "Noah Killen",
+   "profile_url": "https://facebook.com/noah.killen"
+  },
+  {
+   "friend_id": "766868935",
+   "name": "Mark Tankalavage",
+   "profile_url": "https://facebook.com/mark.tankalavage"
+  },
+  {
+   "friend_id": "601654681",
+   "name": "Jack Jordan",
+   "profile_url": "https://facebook.com/jack.jordan.56211"
+  },
+  {
+   "friend_id": "802677",
+   "name": "Victoria Asher",
+   "profile_url": "https://facebook.com/vickytcobra"
+  },
+  {
+   "friend_id": "100092737745025",
+   "name": "T Tom Solomon",
+   "profile_url": "https://facebook.com/profile.php?id=100092737745025"
+  },
+  {
+   "friend_id": "100091951222578",
+   "name": "Roberta Jean",
+   "profile_url": "https://facebook.com/roberta.jean.851187"
+  },
+  {
+   "friend_id": "100088737885036",
+   "name": "Dani Daniel",
+   "profile_url": "https://facebook.com/profile.php?id=100088737885036"
+  },
+  {
+   "friend_id": "100079140553051",
+   "name": "Rachelle Maison - Zebro",
+   "profile_url": "https://facebook.com/rachelle.maison.zebro"
+  },
+  {
+   "friend_id": "100065090838057",
+   "name": "Maye Santiago",
+   "profile_url": "https://facebook.com/manuel.santogo"
+  },
+  {
+   "friend_id": "100054446857637",
+   "name": "Sarah Max Well",
+   "profile_url": "https://facebook.com/adeyemi.damilare.7399"
+  },
+  {
+   "friend_id": "100024811994765",
+   "name": "Ryan Jeffries",
+   "profile_url": "https://facebook.com/ryan.jeffries.98871"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVG1LSlVDbUU1bUZAjbFFJeE1ZAZAm9fcG55S29PcFZAkb1A0d21kRTRxNzBqYjdPYWlsUnlhSW94SXhMcHdzVUthY1VTTXQxWEJuV3g4b2tEdkpsQWZArZAzFR",
+   "before": "QVFIVGNvbC1WSjRvX1ZAmSUplNUFmQTJhVE9FZAzQ2bGlMOXRFTEFxbG1uME93MjMwaWxBNDJSQkZAhTmpiQzhGWU1IMWJZAdklyaXJIbDZA4cVA3b3pBMXVNckJn"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:32:34.968-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:32:34.968Z"
+ }
+}

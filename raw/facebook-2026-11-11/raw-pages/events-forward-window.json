@@ -1,0 +1,10 @@
+{
+ "data": [],
+ "result_note": "No results matched this command's filters.",
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:34:48.609-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:34:48.609Z"
+ },
+ "query": "events search --scope connected --start-date 2026-09-09 --end-date 2027-12-31 --limit 20"
+}

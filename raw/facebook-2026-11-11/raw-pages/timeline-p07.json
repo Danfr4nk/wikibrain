@@ -1,0 +1,436 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10159195552500253,
+    10159211629025253,
+    10159216706415253,
+    10159219339290253,
+    10159553460490253,
+    10159776741170253,
+    10159795057625253,
+    10159813819205253,
+    10159914412475253,
+    10160029041920253,
+    10160038797155253,
+    10160141565025253,
+    10160179340915253,
+    10160223531925253,
+    10160223531930253,
+    10160252121450253,
+    10160255915790253,
+    10160256096040253,
+    10160256320875253,
+    10160263856270253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVGZAuMnhKci13Mk1RQlluZAEhPRC1XRVpVTXlvYVlCUWtsaVd1VzhjT2QwT0JZAajZAnVVZALRllRMzhFS1duVlhtVDlobFptV2hHNFEwd2MyTW11SWEzYVln",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-04-20T05:07:21+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2018-04-20T01:07:21.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-04-20T05:07:21.000Z"
+   },
+   "post_id": "10160263856270253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02q8x8JdF3gxaSDudoAxg9Ays9F3zcRjQjRz6LC6vAaS6osUUyJMUeYfD5sUueSb4zl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-04-17T23:59:53+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "SUPERCUT- Kellyanne gets spicy with @[100044159213062:2048:Chris Cuomo] by repeatedly calling him ‘Christopher’ \n\n#CNN #Comey #Trump #politics",
+   "post_created_at": {
+    "user_local": "2018-04-17T19:59:53.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-04-17T23:59:53.000Z"
+   },
+   "post_id": "10160256320875253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10160256318190253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-04-17T22:09:49+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "golf weather",
+   "post_created_at": {
+    "user_local": "2018-04-17T18:09:49.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-04-17T22:09:49.000Z"
+   },
+   "post_id": "10160256096040253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10160256093965253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-04-17T21:09:16+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "here we go. \n\nlordy i hope there’s tapes",
+   "post_created_at": {
+    "user_local": "2018-04-17T17:09:16.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-04-17T21:09:16.000Z"
+   },
+   "post_id": "10160255915790253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0Fdn1Xn9Ge6uXUYAxxkeV5pGm9FGoEWLCHC2Cv1FqcseJzhE3QVBmBexRp45B2RSFl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-04-16T20:46:16+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "SUPERCUT- kellyanne conway gets spicy with CNN’s Chris Cuomo calling him ‘Christopher’",
+   "post_created_at": {
+    "user_local": "2018-04-16T16:46:16.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-04-16T20:46:16.000Z"
+   },
+   "post_id": "10160252121450253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10160252121125253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-04-09T04:17:59+00:00",
+   "media_type": "entworkexperience",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2018-04-09T00:17:59.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-04-09T04:17:59.000Z"
+   },
+   "post_id": "10160223531930253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0232qEx6oXdS2WzviH5nx8FtWko5g1KVRYtoFucRaYR4yaiwGU6713XFJDw1N9fwo4l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-04-09T04:17:59+00:00",
+   "media_type": "entworkexperience",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2018-04-09T00:17:59.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-04-09T04:17:59.000Z"
+   },
+   "post_id": "10160223531925253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0TeY7poMPdxBYwcqFJ1WxmxWYafHy88oquRyqqQR8eErs8a7tqvvcRgJypKEjtN54l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-03-29T03:54:19+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "got 3 extra Fortnite beta access codes for iOS if anyone is looking",
+   "post_created_at": {
+    "user_local": "2018-03-28T23:54:19.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-03-29T03:54:19.000Z"
+   },
+   "post_id": "10160179340915253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0bkU9U7ciFW6foJpJmJtDrjGN5HSp4auCp9n75ULWp2BZARXF44LHETYEiPAqA5oGl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-03-21T03:46:34+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2018-03-20T23:46:34.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-03-21T03:46:34.000Z"
+   },
+   "post_id": "10160141565025253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10160141564620253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-02-27T10:10:36+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "animated photo of me and fran circa 1989",
+   "post_created_at": {
+    "user_local": "2018-02-27T05:10:36.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-02-27T10:10:36.000Z"
+   },
+   "post_id": "10160038797155253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/10160038796400253/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-02-25T07:38:32+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "heart ball 2018",
+   "post_created_at": {
+    "user_local": "2018-02-25T02:38:32.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-02-25T07:38:32.000Z"
+   },
+   "post_id": "10160029041920253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02htAWMkFQgHqaRRyQLjwLRPdqDytcCzy1EftR2n7D216A9sM1qqpqZRQuZbxvU7ugl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-01-30T21:03:42+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "No filter",
+   "post_created_at": {
+    "user_local": "2018-01-30T16:03:42.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-01-30T21:03:42.000Z"
+   },
+   "post_id": "10159914412475253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02zjpAfGGyHVtX3CLGuQE1tBRmhgB3NFzXDJmEBLanHwyTmvm92buiJhAoLeHsAKNdl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-01-08T19:43:39+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Just finished Fire and Fury and it was incredible and you should all read it because it’s important. My only criticism is that after reading ‘JerVanka’ so many times I now consider it to be a legitimate word.",
+   "post_created_at": {
+    "user_local": "2018-01-08T14:43:39.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-01-08T19:43:39.000Z"
+   },
+   "post_id": "10159813819205253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0C8kku26EoUgbncWx49Ue6VxpMqfuNBM5i1uMftSChgfcEnTXhkoucd1R96uHEVGzl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2018-01-04T03:03:57+00:00",
+   "media_type": "entgenericlifeeventexperience",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2018-01-03T22:03:57.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2018-01-04T03:03:57.000Z"
+   },
+   "post_id": "10159795057625253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid028SA2DZ8w82uSfYofC4LUQDapTuMd2d4LaSDKM8vPYgY4fCwT85nWsRsWsukWTTJ1l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2017-12-30T21:51:08+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I’ll be lucky if I play half as much golf as she has..\nI’ll be lucky if I have a third of her stories...\nI’ll be lucky if i can live a life 1/10 as interesting...\n\nBut I’m already lucky for winning the genetic lottery and getting to witness a person who is, to quote Hunter Thompson:\n\n“One of God’s own prototypes. A high powered mutant of some kind, never even considered for mass production. Too weird to live, and too rare to die”",
+   "post_created_at": {
+    "user_local": "2017-12-30T16:51:08.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2017-12-30T21:51:08.000Z"
+   },
+   "post_id": "10159776741170253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0CrukfFRF9oTDfjV6EDfAmnZrKF5MiC6KsBeE2sqepdfvGnsA5bkkobSe3ngF1LPal/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2017-11-08T03:23:51+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Golf season is dead. Long live golf season. Here's some pictures I took on our last day at @[148921891809543:274:Mystic Rock Golf Course]",
+   "post_created_at": {
+    "user_local": "2017-11-07T22:23:51.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2017-11-08T03:23:51.000Z"
+   },
+   "post_id": "10159553460490253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02TLJFRjQsAmmg6wdsGrziaqiHHFT1xKMp4ZyiKuTBhFzayNywKvNZhwyBLyaibXgYl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2017-08-21T19:02:07+00:00",
+   "media_type": "entmobilestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Thats my guy. Forget science! Solar eclipse is just Chinese conspiracy! SAD",
+   "post_created_at": {
+    "user_local": "2017-08-21T15:02:07.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2017-08-21T19:02:07.000Z"
+   },
+   "post_id": "10159219339290253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02KfA8YtkayVfDJptGds74u18dCNA6rbXBZxGZwDZjAukXSbrfxnkwE6ccjnBjtmsCl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2017-08-21T04:20:30+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Eclipse glasses #latepass",
+   "post_created_at": {
+    "user_local": "2017-08-21T00:20:30.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2017-08-21T04:20:30.000Z"
+   },
+   "post_id": "10159216706415253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02dSD8jove2pK6GRzd8uJL3HmvFLwciurcA6UwkcuaeVVt41rHKQoUkMmc9KH8tkz4l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2017-08-20T00:19:38+00:00",
+   "media_ocr": "CONFEDERATE STATUES NAZIS, & TRUMP (ARE ALL CONNECTED) GRACKED",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "LOL \"The tale of the fine person hanging out with mostly nazi's\"",
+   "post_created_at": {
+    "user_local": "2017-08-19T20:19:38.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2017-08-20T00:19:38.000Z"
+   },
+   "post_id": "10159211629025253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0LnuM2tMySmT5a5oCHCZECZ2G76r7C14onz4WoqVysTNjX7PyGM2XSgDssdUn1EKul/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2017-08-16T13:32:09+00:00",
+   "media_ocr": "旺証 紙 VICNewsTonightHB НО LICE News Tonight",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2017-08-16T09:32:09.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2017-08-16T13:32:09.000Z"
+   },
+   "post_id": "10159195552500253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0S4um5zmaaPz8SHHcdpuSHfaPqVdXnR3oG9n2hBkifive8MFhRaCZSZDRvMUZTwijl/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:22.757-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:22.757Z"
+ }
+}

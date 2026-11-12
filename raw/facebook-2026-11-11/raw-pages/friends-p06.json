@@ -1,0 +1,144 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    100002907757554,
+    100003060943541,
+    100003538822720,
+    100003763027829,
+    100004084130193,
+    100006878798337,
+    100006915251528,
+    100007495244975,
+    100007560823711,
+    100008919428368,
+    100009886632503,
+    100010449032027,
+    100013067894018,
+    100013868226981,
+    100013921457522,
+    100015685093655,
+    100018368912642,
+    100022718738692,
+    100022760504994,
+    100024745508504
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "friend_id": "100024745508504",
+   "name": "Bhojpuri Hero",
+   "profile_url": "https://facebook.com/singer.anilsawariya"
+  },
+  {
+   "friend_id": "100022760504994",
+   "name": "Michael Zollinger",
+   "profile_url": "https://facebook.com/michael.zollinger.75"
+  },
+  {
+   "friend_id": "100022718738692",
+   "name": "Stephanie Flenniken",
+   "profile_url": "https://facebook.com/XxstephyvanityxX"
+  },
+  {
+   "friend_id": "100018368912642",
+   "name": "Eric Leech",
+   "profile_url": "https://facebook.com/eric.leech.39"
+  },
+  {
+   "friend_id": "100015685093655",
+   "name": "Christine Siegel",
+   "profile_url": "https://facebook.com/christine.siegel.9887"
+  },
+  {
+   "friend_id": "100013921457522",
+   "name": "Mark Tankalavage",
+   "profile_url": "https://facebook.com/mark.tankalavage.7"
+  },
+  {
+   "friend_id": "100013868226981",
+   "name": "Evan Swartz",
+   "profile_url": "https://facebook.com/profile.php?id=100013868226981"
+  },
+  {
+   "friend_id": "100013067894018",
+   "name": "Gio Solco",
+   "profile_url": "https://facebook.com/giocomosolco"
+  },
+  {
+   "friend_id": "100010449032027",
+   "name": "Kris Cupplo",
+   "profile_url": "https://facebook.com/krrissaaaay"
+  },
+  {
+   "friend_id": "100009886632503",
+   "name": "John E Anderson Jr.",
+   "profile_url": "https://facebook.com/john.e.anderson.jr.151334"
+  },
+  {
+   "friend_id": "100008919428368",
+   "name": "Molly E Malenock",
+   "profile_url": "https://facebook.com/profile.php?id=100008919428368"
+  },
+  {
+   "friend_id": "100007560823711",
+   "name": "Modi Khalifa",
+   "profile_url": "https://facebook.com/modi.conteh.5"
+  },
+  {
+   "friend_id": "100007495244975",
+   "name": "Dj-Slo Dub",
+   "profile_url": "https://facebook.com/djsloremix"
+  },
+  {
+   "friend_id": "100006915251528",
+   "name": "Brandon Sisler",
+   "profile_url": "https://facebook.com/brandon.sisler.3"
+  },
+  {
+   "friend_id": "100006878798337",
+   "name": "Katie Dunham",
+   "profile_url": "https://facebook.com/katie.burke.524934"
+  },
+  {
+   "friend_id": "100004084130193",
+   "name": "Jay Lauer",
+   "profile_url": "https://facebook.com/jay.lauer.90"
+  },
+  {
+   "friend_id": "100003763027829",
+   "name": "Sean Quinn",
+   "profile_url": "https://facebook.com/sean.quinn.145637"
+  },
+  {
+   "friend_id": "100003538822720",
+   "name": "Molly Malenock",
+   "profile_url": "https://facebook.com/molly.malenock"
+  },
+  {
+   "friend_id": "100003060943541",
+   "name": "Dave Byers",
+   "profile_url": "https://facebook.com/dave.byers.79"
+  },
+  {
+   "friend_id": "100002907757554",
+   "name": "Haley King",
+   "profile_url": "https://facebook.com/haley.king.10"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVFZARdHlnT25wWWFEZAVBhcmFFRWpoSU10bE5OZAmhESUVYWmJUZA0ZAwa0duQ3RlWlZArWGdOYWxCZADJZAV2YtTEJtWmEtTl9FS2Y1M0ZALeEFHb3JUdmV2a2dB",
+   "before": "QVFIVEhkM05TaHRJTWZAtZAG1xaExvZAUxLM1dFNl84Vm9ZAaGk1MDBtNDZATQW1lZAkdaUWg3QU9Gd2psVURodG9heExoeHFDbk5NTVdNNWN1ZA0g4OE9WNTNBcWN3"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:32:36.236-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:32:36.236Z"
+ }
+}

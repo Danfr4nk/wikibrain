@@ -1,0 +1,144 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    100000269106361,
+    100000277033734,
+    100000298110346,
+    100000327602465,
+    100000329037184,
+    100000330040086,
+    100000474917973,
+    100000502891410,
+    100000511312936,
+    100000526131087,
+    100000527456539,
+    100000528843978,
+    100000547762503,
+    100000552904589,
+    100000556901014,
+    100000572058031,
+    100000615923357,
+    100000623524862,
+    100000635740567,
+    100000650140922
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "data": [
+  {
+   "friend_id": "100000650140922",
+   "name": "Brad Hubeaut",
+   "profile_url": "https://facebook.com/brad.hubeaut"
+  },
+  {
+   "friend_id": "100000635740567",
+   "name": "Jimmy Manges",
+   "profile_url": "https://facebook.com/jimmy.manges"
+  },
+  {
+   "friend_id": "100000623524862",
+   "name": "David Beard",
+   "profile_url": "https://facebook.com/david.beard.3363"
+  },
+  {
+   "friend_id": "100000615923357",
+   "name": "Travis A Holt",
+   "profile_url": "https://facebook.com/travis.s.holt.9"
+  },
+  {
+   "friend_id": "100000572058031",
+   "name": "Courtney Mcilravey",
+   "profile_url": "https://facebook.com/courtney.schoch"
+  },
+  {
+   "friend_id": "100000556901014",
+   "name": "Dustin DiCenzo",
+   "profile_url": "https://facebook.com/dustin.dicenzo"
+  },
+  {
+   "friend_id": "100000552904589",
+   "name": "Kaylee Franks",
+   "profile_url": "https://facebook.com/kayleeannfranks"
+  },
+  {
+   "friend_id": "100000547762503",
+   "name": "Cody Gainer",
+   "profile_url": "https://facebook.com/cody.gainer"
+  },
+  {
+   "friend_id": "100000528843978",
+   "name": "Valen Lilley",
+   "profile_url": "https://facebook.com/Vaaal.Jadee"
+  },
+  {
+   "friend_id": "100000527456539",
+   "name": "Brian Potkul",
+   "profile_url": "https://facebook.com/brian.potkul"
+  },
+  {
+   "friend_id": "100000526131087",
+   "name": "Christian Mulu Holt",
+   "profile_url": "https://facebook.com/mulumusic724"
+  },
+  {
+   "friend_id": "100000511312936",
+   "name": "Mike Huet",
+   "profile_url": "https://facebook.com/mike.huet.75"
+  },
+  {
+   "friend_id": "100000502891410",
+   "name": "Paige Alexandra",
+   "profile_url": "https://facebook.com/paige.fronczek"
+  },
+  {
+   "friend_id": "100000474917973",
+   "name": "Wes Leggon",
+   "profile_url": "https://facebook.com/wes.leggon"
+  },
+  {
+   "friend_id": "100000330040086",
+   "name": "Christina Elizabeth",
+   "profile_url": "https://facebook.com/christinaelizabe"
+  },
+  {
+   "friend_id": "100000329037184",
+   "name": "Mike Jones",
+   "profile_url": "https://facebook.com/Mjones111461"
+  },
+  {
+   "friend_id": "100000327602465",
+   "name": "Miso Kovac",
+   "profile_url": "https://facebook.com/sneaker.frk"
+  },
+  {
+   "friend_id": "100000298110346",
+   "name": "Zach Collins",
+   "profile_url": "https://facebook.com/zach.collins.33"
+  },
+  {
+   "friend_id": "100000277033734",
+   "name": "Tom Solomon",
+   "profile_url": "https://facebook.com/tom.solomon.7549"
+  },
+  {
+   "friend_id": "100000269106361",
+   "name": "Kristy Cipriani",
+   "profile_url": "https://facebook.com/kristy.cipriani"
+  }
+ ],
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "paging": {
+  "cursors": {
+   "after": "QVFIVHRlREFtMV9TanljYmFxTkpKb3B5dW9fVHhVZAXNaemlBQWdiODdWaUtUek9NTVN6enc5X0RCcVlNTHpoMXgtVmFxNXBFb2NxLWpteTFQUUZAYLTc4aS1R",
+   "before": "QVFIVEZAtM0EtdFJRS20xcWNYWmdHbmNqVFBqb0ZAXd1RYMmxXQlYtWFJSajNSVHNkTWVkMVlMeHB3RlhwZAU11enlURzZApUXVJT1BSaEFheXZAJcFhFWXgtRE9R"
+  }
+ },
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:32:40.267-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:32:40.267Z"
+ }
+}

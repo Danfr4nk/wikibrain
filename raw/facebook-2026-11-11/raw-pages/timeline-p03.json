@@ -1,0 +1,437 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10166145643010253,
+    10166145643015253,
+    10166278500955253,
+    10166383414215253,
+    10166429931915253,
+    10166434769060253,
+    10166467997490253,
+    10166469850410253,
+    10166513973205253,
+    10166525645520253,
+    10166525972285253,
+    10166613780365253,
+    10166647631915253,
+    10166647798750253,
+    10166659030745253,
+    10166688672070253,
+    10166692607370253,
+    10166697444915253,
+    10166705892245253,
+    10166711894540253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVEoySXpqWE1NTlZAuSEdxMHJSWGZApN1ZATUjlnZA0lyRTZAFZA1VYbjVBMUtsUk1saVE5amI2TkV4UnRXbmM0NFc4RDd0dUNZAMU1xc2FoTHNTRDdBTWxaTVFB",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-11-13T05:35:19+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Somebody send an edible arrangements basket to Mitch McConnell please. It must really feel awful that Donald Trump sandbagged your entire political career and the gavel is gone forever",
+   "post_created_at": {
+    "user_local": "2022-11-13T00:35:19.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-11-13T05:35:19.000Z"
+   },
+   "post_id": "10166711894540253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0YGDBeJZuEP77DDYzfctMSkTSmKeFcVhUMF5gwaT4v8Enr2Na5tRUwVXgg1tB33XPl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-11-12T00:43:22+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I’ll take the fascist racist maga crew any day over this squad of shitlords. Also yes this is unironically supposed to be a pro-desantis message here",
+   "post_created_at": {
+    "user_local": "2022-11-11T19:43:22.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-11-12T00:43:22.000Z"
+   },
+   "post_id": "10166705892245253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0WaFShkDAKraauwVUygFERovAT7ab6XzQtgok5k4WSFNDj2hdSLYqZMaA7ZrEfykEl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-11-10T06:03:15+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Hey all you “John fetterman is fake carhartt/sloth from Goonies/unfit for office” people…\n\nYou know how long a Senate term is?? You’re stuck with him until 2028 now. Sorry about, you know…having a representative who wants to make your life and material conditions better.\n\nEnjoy the next 6 years with a leftist senator, freaks.",
+   "post_created_at": {
+    "user_local": "2022-11-10T01:03:15.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-11-10T06:03:15.000Z"
+   },
+   "post_id": "10166697444915253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0ikQHvCKuAFwCWiZjTc2By14NSEhrzCM9sVNgWFiRAQZiE8pE1dEcMZ4s5mNYwWX8l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-11-09T03:53:54+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Proof positive of why you should never listen to my political predictions lmao",
+   "post_created_at": {
+    "user_local": "2022-11-08T22:53:54.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-11-09T03:53:54.000Z"
+   },
+   "post_id": "10166692607370253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02hwVCG8gTNmmRcfn7ghkwchPBsDMJs1dpGT3wd9x58Lku4kJpH6yoTLGvT4jYyYkl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-11-08T05:00:23+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Alright the day is almost here and ohhhhh man my prediction is that it’s going to be an absolute bloodbath and democrats lose control of both chambers. Sucks that this might be the end of the democratic process we all feel so entitled to…but the good news is that somehow the blame can be thrown at progressives. You know? The ‘unelectable’ left wing of the party who, as a caucus, supported the broadly popular Biden agenda items which ultimately were sunk by moderate third-way triangulators like Joe Manchin and Henry Cuellar.  \n\nThe interesting thing is that it’s still unclear what this election is a referendum on. As much as people predicted this being an election about losing Roe or inflation or (the stupidest narrative in a generation) leaving Afghanistan…somehow, undeniably Donald Trump is still the unifying idea which engulfs the a\nparty and has connective relevance to every position it takes. He’s not going anywhere.\n\nAnd speaking of which, the impact of a Republican house and senate on a 2024 election can not be overstated. But that, is just too dark and unthinkably bad to confront just yet.",
+   "post_created_at": {
+    "user_local": "2022-11-08T00:00:23.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-11-08T05:00:23.000Z"
+   },
+   "post_id": "10166688672070253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0wKhzHcSrp8rK4c1Dff2jcZzNMJe2PzLDKmcnkXrKmw4JHzUQ8ZGb6QsjSxoXbNsLl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-11-02T12:25:04+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "State house democratic candidate in Uniontown the latest in the political violence (read: terrorism) from the increasingly fascistic party of ‘law and order’",
+   "post_created_at": {
+    "user_local": "2022-11-02T08:25:04.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-11-02T12:25:04.000Z"
+   },
+   "post_id": "10166659030745253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02hCXCQBHDgVVJVAGhDAQexyo466zGY4WJrx8q7KiSi3pqfZeTfht46EbeKzgSxD8zl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-10-31T06:48:10+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Well it’s officially been 10 years of hysterically screaming at the top of my lungs that the Republican Party is an antidemocratic movement spreading lies, bigotry, authoritarianism and a class hierarchy which exploits the misled working class Americans that compose their base. \n\nA lot has changed and the stakes are much higher now…but the mission of the GOP of  Goldwater, Nixon, Reagan and Bush 1&2 just as disgusting and morally reprehensible as it was under Trump and is to this day. \n\nPs corporate (centrists) democrats are bad too. Vote AOC queen 2024",
+   "post_created_at": {
+    "user_local": "2022-10-31T02:48:10.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-10-31T06:48:10.000Z"
+   },
+   "post_id": "10166647798750253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02FVFtCkNgo9RgviFBcvJoQzuP5fuEi1KfGbWdbt6nBLy1gGcNR1Fff8G818d2WK4wl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-10-31T05:36:24+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I’m on here to reduce how much I annoy everyone on here with my opinions (which are always correct)",
+   "post_created_at": {
+    "user_local": "2022-10-31T01:36:24.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-10-31T05:36:24.000Z"
+   },
+   "post_id": "10166647631915253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0EbVYDuXgBHNt8ZEoTw8ZC1B4uaeB4SXqnCbkdd6synwjfHPy3A4VbsmPPouMCHbbl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-10-24T08:50:17+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "This is going to be the new GOP playbook as their essentialist, mossback agenda makes winning elections harder and harder. If they have partisans in state legislatures, they are planning on ignoring results and appointing their own electors.",
+   "post_created_at": {
+    "user_local": "2022-10-24T04:50:17.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-10-24T08:50:17.000Z"
+   },
+   "post_id": "10166613780365253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0jvzBkhwU1xpdn8SHMhCosppS7T2F8CUonfxm5Q7K1GQk196wu8BiwY579zS9fcxcl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-09-30T03:02:18+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I’ve gone through about 150 songs on my ‘evergreen’ list of favorite music with Moises and it’s hard to describe just how satisfying it is to finally have a high quality ‘Summer of 69’ acapella",
+   "post_created_at": {
+    "user_local": "2022-09-29T23:02:18.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-09-30T03:02:18.000Z"
+   },
+   "post_id": "10166525972285253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/490152772978439/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-09-30T01:13:19+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "PROMPT:  “A painted portrait of Mitch McConnell dressed as a 16th Century Spanish missionary”\n\n#aiart #dalle2 #stablediffusion",
+   "post_created_at": {
+    "user_local": "2022-09-29T21:13:19.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-09-30T01:13:19.000Z"
+   },
+   "post_id": "10166525645520253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid037hnJDhQDV4EaZrS5QyXEHua8SguLkVtbdQiMdNmZddgAo9Xm1JKg5pjZiRvRM63wl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-09-25T04:28:26+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "PROMPT: “A press photo of Donald Trump and George Bush fighting each other in a heavyweight boxing title match, triumphant, wide angle”\n\n#stabilityai #dalle2 #aiart",
+   "post_created_at": {
+    "user_local": "2022-09-25T00:28:26.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-09-25T04:28:26.000Z"
+   },
+   "post_id": "10166513973205253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02CW3s5KN8QCcEHvcowtcFvL5KvkcfUKMKfXLQtTQxCjJEr8QXCWRv1jbHp9LTGd8el/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-09-07T07:27:22+00:00",
+   "media_ocr": "mI",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "I’m just floored by the new #dalle which has apparently been trained with so much machine learning that the clubhouse at the uniontown country club got included in my prompt. \n\nThis is completely AI generated in real-time by a text prompt \n\nhttps://labs.openai.com/s/Sg56HnY3GwQMW2cdbuGLelOp",
+   "post_created_at": {
+    "user_local": "2022-09-07T03:27:22.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-09-07T07:27:22.000Z"
+   },
+   "post_id": "10166469850410253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid05pTsY353D7EQEuxcLtV5xp6DpMjdrT8MJRk9F5GudswjxFMJw787SoMecqDgRB6Cl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-09-06T14:33:02+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "With 2 months until Election Day only one question remains unanswered…how will democrats squander their opportunity to remain in power?",
+   "post_created_at": {
+    "user_local": "2022-09-06T10:33:02.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-09-06T14:33:02.000Z"
+   },
+   "post_id": "10166467997490253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/610712750510394/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-08-29T02:31:05+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Because you really shouldn’t",
+   "post_created_at": {
+    "user_local": "2022-08-28T22:31:05.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-08-29T02:31:05.000Z"
+   },
+   "post_id": "10166434769060253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid06aNErk7YFjZzFzL7hsLzJAgiqgh4GPbS2sZsSTEFMReZAzHf2HGTYh1b32GhiN3dl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-08-27T02:16:53+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2022-08-26T22:16:53.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-08-27T02:16:53.000Z"
+   },
+   "post_id": "10166429931915253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0vk54PBzGshkkscWpGhaKH47NDUJz97Es5ykpzmVo3xoxpj82KVEgc52RStVo8c4Ql/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-08-09T00:25:26+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "🔮",
+   "post_created_at": {
+    "user_local": "2022-08-08T20:25:26.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-08-09T00:25:26.000Z"
+   },
+   "post_id": "10166383414215253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0jAKUkacYUTX29Nad3SF2iaJ2SSycSNX2JRt17qShgoTxSCPtsWFKHZEiDxSfFYK6l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2022-06-27T07:30:10+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Here is a compilation of all publicly available footage from the super-giga-secret Trump documentary filmed in 2020.\n\nSomeday, every American history class will watch this footage and be able to see these antidemocratic shitlords and excoriate them for their blind affirmation of the endless cascade of obvious lies that the notorious obvious liar has and continues to tell. While there is no possibility that trump ever faces any criminal prosecution…it’s nice to know this nonsense was captured in such a glorious and unmistakable grift for the historic record. \n\nIt’s bizarre nobody found out until now that a documentary team was embedded with the trump campaign from September 2020 until he left office but it was confirmed when the Jan 6 select committee subpoenaed the footage and a few clips have been released.  \n\nPreserving this unhinged shit for the historic record is a blessing and inshallah the big boy president says as much stupid and legally perilous stuff as I’m expecting him to. You KNOW this megalomaniac was yapping aimlessly about how unfairly he was being treated after 1/6 and taking a yak being banned from twitter.",
+   "post_created_at": {
+    "user_local": "2022-06-27T03:30:10.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2022-06-27T07:30:10.000Z"
+   },
+   "post_id": "10166278500955253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/1405998483160095/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-02-01T13:36:55+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-02-01T08:36:55.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-02-01T13:36:55.000Z"
+   },
+   "post_id": "10166145643015253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02pvB2WuwR51ommw1uQ85J4X9ByXuHNGnk1MnhcGuvU8bpJrGEdKng1vbkWDuDxTGKl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-02-01T13:36:55+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-02-01T08:36:55.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-02-01T13:36:55.000Z"
+   },
+   "post_id": "10166145643010253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0qZ63NdwQHpnh7PcwKKmizp17mKjPYgosJMcGWJoFoquNm3CFbK2aV1tTSTjjoM5bl/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:12.806-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:12.806Z"
+ }
+}

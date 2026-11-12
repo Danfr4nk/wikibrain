@@ -1,0 +1,423 @@
+{
+ "_meta": {
+  "data": {
+   "fbids": [
+    580995252,
+    10167510178835253,
+    10167510347500253,
+    10167510725535253,
+    10167510889950253,
+    10167513439085253,
+    10167513900055253,
+    10167515927415253,
+    10167534840130253,
+    10167537873390253,
+    10167649588095253,
+    10167657026820253,
+    10167676508545253,
+    10167925473830253,
+    10167926035705253,
+    10167930688155253,
+    10167961319290253,
+    10167965793805253,
+    10167969362130253,
+    10167977516940253,
+    10167977520105253
+   ],
+   "message_ids": []
+  },
+  "tool_call_id": "call_01a1cd99733f76798c2097b412a294be"
+ },
+ "count": 20,
+ "format": "social_posts_v1",
+ "has_next_page": true,
+ "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
+ "next_cursor": "QVFIVDVtc2tVUFFoVVk2Y1VQUmdoN0RfUVpRLUgxY0FpUjFHX0pFbmQzQnpaNVdiRHdYZAS1zUXlOUng0YzVtYUNNYWg2Qy1rbFk0RXE0dC1GeVFzNjBGVGZAB",
+ "posts": [
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2010-03-24T04:21:53+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2010-03-24T00:21:53.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2010-03-24T04:21:53.000Z"
+   },
+   "post_id": "10167977520105253",
+   "rank": 1,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0NET2KANfV8RCex7hj5pzG5FGjYiBtm1jGQ2dRkWzLERhAzbnKJ9qrhHGvznWg6gdl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2010-03-24T02:51:10+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2010-03-23T22:51:10.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2010-03-24T02:51:10.000Z"
+   },
+   "post_id": "10167977516940253",
+   "rank": 2,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02VhTxo3ihMqVzKTRGkodihuLe6Q5PFwFxm7qBaKZoT72qiZ4fzKzsmACsuY8ycV5al/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2010-02-18T17:14:05+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "...like temperatures when they're at their coldest",
+   "post_created_at": {
+    "user_local": "2010-02-18T12:14:05.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2010-02-18T17:14:05.000Z"
+   },
+   "post_id": "10167969362130253",
+   "rank": 3,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0g6661ptMNjDPgWh6dWpbJQmFx3ppCLjHvBoBJfEMZ8oiUBzgLiqbDbRVybU6Rdkal/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2010-02-11T22:18:26+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": ": computer hacker extraordinaire",
+   "post_created_at": {
+    "user_local": "2010-02-11T17:18:26.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2010-02-11T22:18:26.000Z"
+   },
+   "post_id": "10167965793805253",
+   "rank": 4,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02MidhuNnvma6SeSx4mEhSoF3yvmTNJxZK5CKnMHfXjWj8CD5xWc2pwpu5ijqvoak3l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2010-01-26T21:12:11+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": ": certified pro tools operator!",
+   "post_created_at": {
+    "user_local": "2010-01-26T16:12:11.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2010-01-26T21:12:11.000Z"
+   },
+   "post_id": "10167961319290253",
+   "rank": 5,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02cWb5DXzQ3HBoUQmp2uFhogAYQdpWhp6H9rCGkCEcbS17pR13QVHVowy632frxm4Fl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2009-12-05T15:17:33+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "she puts the color inside of my world",
+   "post_created_at": {
+    "user_local": "2009-12-05T10:17:33.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2009-12-05T15:17:33.000Z"
+   },
+   "post_id": "10167930688155253",
+   "rank": 6,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid036ed9rCkRbU2rkCrpUr1ARcbujrRoQvaQpMnmSPBeGs9P1MKNNGdfeXCP5RorPKxUl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2009-11-29T01:27:03+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "d & a all day. -a:)",
+   "post_created_at": {
+    "user_local": "2009-11-28T20:27:03.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2009-11-29T01:27:03.000Z"
+   },
+   "post_id": "10167926035705253",
+   "rank": 7,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid025ZwPb6Rx9RiJpfRpE9x4Mdogc7YGvcCHbuo1zrFCgfgxrY7RrZ2eqZqwwNdJFPQzl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2009-11-27T20:37:38+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "is a Pitt fan in the wvu student section",
+   "post_created_at": {
+    "user_local": "2009-11-27T15:37:38.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2009-11-27T20:37:38.000Z"
+   },
+   "post_id": "10167925473830253",
+   "rank": 8,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02VkQz8X6cRnsJc8fBen1WW7QNgLrCN5USFXn2kvxdXtv82XHRHobfdj2bvz4STXq6l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2023-07-19T19:07:12+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "The year of our Lord 2023.",
+   "post_created_at": {
+    "user_local": "2023-07-19T15:07:12.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2023-07-19T19:07:12.000Z"
+   },
+   "post_id": "10167676508545253",
+   "rank": 9,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02iiDXMgh9KnKiYFBtV3BG8WK3yekbsbhVubfvE146EB9PkvQytNFj22p7egywaCH7l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2023-07-14T04:49:54+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "King",
+   "post_created_at": {
+    "user_local": "2023-07-14T00:49:54.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2023-07-14T04:49:54.000Z"
+   },
+   "post_id": "10167657026820253",
+   "rank": 10,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid031gkEmyGWR2RXWw4CB4ME7EcNuuhF8FSJMKFKsC5UiUKHUM3mX9xyYhhU2yCYVAAPl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2023-07-12T01:23:36+00:00",
+   "media_type": "enttimelinestatusphoto",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Trifecta",
+   "post_created_at": {
+    "user_local": "2023-07-11T21:23:36.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2023-07-12T01:23:36.000Z"
+   },
+   "post_id": "10167649588095253",
+   "rank": 11,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0MD9WaeGqhfXtTJfX8sJkHH5Q7eLJikUxa8RR6rspXubqKjZ9hNCAMgH1ajvJoTPsl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2023-06-09T01:01:10+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Some initial thoughts on the breaking Trump news and how it impacts 2024",
+   "post_created_at": {
+    "user_local": "2023-06-08T21:01:10.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2023-06-09T01:01:10.000Z"
+   },
+   "post_id": "10167537873390253",
+   "rank": 12,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid04WnJgpgKh17yRLX9fSPTtMFBVj5bk6ezkdSCqjxaKGiTinKn2oXvKKLMLAKC9HY9l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2023-06-08T01:19:25+00:00",
+   "media_type": "entfbstatusupdatevideo",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Well, that was a bizarre day..",
+   "post_created_at": {
+    "user_local": "2023-06-07T21:19:25.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2023-06-08T01:19:25.000Z"
+   },
+   "post_id": "10167534840130253",
+   "rank": 13,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/ihatedanfrank/videos/999333624409406/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2023-06-02T03:29:51+00:00",
+   "media_type": "entshare",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Alan Lichtman’s system to forecast election results has predicted 10 of the last 10 elections. What are the 13 keys?",
+   "post_created_at": {
+    "user_local": "2023-06-01T23:29:51.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2023-06-02T03:29:51.000Z"
+   },
+   "post_id": "10167515927415253",
+   "rank": 14,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0wEgcgHjE7NQei9ZzyAUWww7t1gNsrDSrjJUKTfSBpaRJHhHARv3vvVJUCnpTdQy7l/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-11-04T00:25:45+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-11-03T19:25:45.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-11-04T00:25:45.000Z"
+   },
+   "post_id": "10167513900055253",
+   "rank": 15,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid024nj37ByFoFTBGnhP5yRQPNxvHcLi7vfexCP1X8ujSkvzSr55HKg1r7XCf9czLHtQl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-09-26T17:58:57+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "rude!",
+   "post_created_at": {
+    "user_local": "2014-09-26T13:58:57.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-09-26T17:58:57.000Z"
+   },
+   "post_id": "10167513439085253",
+   "rank": 16,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02fw8ebDjmf1jeN6UPepubcttDfqNPT92HmCfbPnEkrDpH7edc6ctNdGGDC7p4aRSwl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-03-14T13:35:27+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-03-14T09:35:27.000-04:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-03-14T13:35:27.000Z"
+   },
+   "post_id": "10167510889950253",
+   "rank": 17,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02dQTp3oVM1sQK1FN679e17x8mAeBEma9R7eiaUkYw8rKLvYLdZJKLCM3Yp5K51oQEl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-03-09T06:54:48+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-03-09T01:54:48.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-03-09T06:54:48.000Z"
+   },
+   "post_id": "10167510725535253",
+   "rank": 18,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid02P9XMTCdsQQrpoGzNwCP4Bu3hxFYHygKJgf2U4K1odzMMpUZZpsqswNPPkHvxFt3rl/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-02-21T02:57:22+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_created_at": {
+    "user_local": "2014-02-20T21:57:22.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-02-21T02:57:22.000Z"
+   },
+   "post_id": "10167510347500253",
+   "rank": 19,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid035jsjxKDHC95cm3jLWKrixRQ77tuBhBrEm4NZrLjX96FSwQWmf4guDKYARt6vfDsml/",
+   "username": "Dan Frank"
+  },
+  {
+   "author_id": "580995252",
+   "author_name": "Dan Frank",
+   "created_at": "2014-02-14T09:31:10+00:00",
+   "owner_id": "580995252",
+   "owner_name": "Dan Frank",
+   "platform": "facebook",
+   "post_caption": "Episode 2 of my podcast is streaming on soundcloud. Check it out and let me know what you think.",
+   "post_created_at": {
+    "user_local": "2014-02-14T04:31:10.000-05:00",
+    "user_timezone": "America/New_York",
+    "utc": "2014-02-14T09:31:10.000Z"
+   },
+   "post_id": "10167510178835253",
+   "rank": 20,
+   "source_app": "FACEBOOK",
+   "url": "https://facebook.com/580995252/posts/pfbid0mFS6HLcc3BPG9iZ1TJJ2dH8Js3DgmZ3LgcJzUb36jsJAC99FnHmzM3B3q3DfUgkHl/",
+   "username": "Dan Frank"
+  }
+ ],
+ "retrieved_at": {
+  "user_local": "2026-11-11T21:33:10.148-05:00",
+  "user_timezone": "America/New_York",
+  "utc": "2026-11-12T02:33:10.148Z"
+ }
+}

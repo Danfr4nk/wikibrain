@@ -1,0 +1,11 @@
+{
+ "source": "facebook-cli pages list",
+ "pull_date": "2026-11-11",
+ "status": "blocked",
+ "error": {
+  "error_message": "Professional consent is required. The rejected Page request did not run.",
+  "error_reason": "PROFESSIONAL_CONSENT_REQUIRED",
+  "success": false,
+  "tool_family": "pages"
+ }
+}
