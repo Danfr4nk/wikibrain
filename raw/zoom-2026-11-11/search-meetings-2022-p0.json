@@ -1,0 +1,25 @@
+{
+ "endpoint": "https://mcp.zoom.us/mcp/zoom/streamable",
+ "ok": true,
+ "result": {
+  "_meta": {
+   "ui": {
+    "resourceUri": "ui://widget/meeting-list-card.html"
+   }
+  },
+  "content": [
+   {
+    "text": "{\"from_server\":true,\"has_more\":false,\"meetings\":[]}",
+    "type": "text"
+   }
+  ],
+  "isError": false,
+  "structuredContent": {
+   "from_server": true,
+   "has_more": false,
+   "meetings": []
+  }
+ },
+ "server": "zoom",
+ "tool_name": "search_meetings"
+}

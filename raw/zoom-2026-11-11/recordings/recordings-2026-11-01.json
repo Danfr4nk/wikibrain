@@ -1,0 +1,24 @@
+{
+ "endpoint": "https://mcp.zoom.us/mcp/zoom/streamable",
+ "ok": true,
+ "result": {
+  "content": [
+   {
+    "text": "{\"from\":\"2026-11-01\",\"meetings\":[],\"next_page_token\":\"\",\"page_count\":0,\"page_size\":0,\"to\":\"2026-11-12\",\"total_records\":0}",
+    "type": "text"
+   }
+  ],
+  "isError": false,
+  "structuredContent": {
+   "from": "2026-11-01",
+   "meetings": [],
+   "next_page_token": "",
+   "page_count": 0,
+   "page_size": 0,
+   "to": "2026-11-12",
+   "total_records": 0
+  }
+ },
+ "server": "zoom",
+ "tool_name": "recordings_list"
+}
