@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-19
-date_modified: 2026-10-22
+date_modified: 2026-11-13
 sources:
   - wiki/people/alexis-armel.md
   - wiki/people/annie-ulmer.md
@@ -29,7 +29,14 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-dormant-slot
     type: distinguishes
     claim: "The Dormant Slot proves the slot outlasts the occupant (dormancy, never deletion). This entry's object is the onset side of the same architecture — the gate closes at full load in days, with no graded courtship curve in between. Onset grammar, not dormancy grammar."
+  - page: wiki/people/alexis-armel
+    type: evidenced-by
+    claim: "The entry's Alexis evidence section whole runs on this page's record: the Thanksgiving 2009 meeting, the one-way ticket to Orlando bought a week or two later, and the tweet table dating the public arc (Nov 29, 2009 unnamed; Dec 14 first @alexisarmel message at full strength; Dec 16 first use of 'girlfriend', ~17 days after the meeting) - the entry's first held case of bond onset with no hedged intermediate state."
+  - page: wiki/people/annie-ulmer
+    type: evidenced-by
+    claim: "The entry's Annie evidence section whole runs on this page's record: the Nov 29, 2015 ~2 AM meeting, the verdict said to her at 03:28 ('I met someone that instantly changed my life'), and the founding rule held here as a primary exhibit (Dec 1, 2015, 13:38: 'Annie Ulmer from now on its just you and me') - the entry's second held case: verdict at ~1 hour, install at ~2 days, no intermediate state."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

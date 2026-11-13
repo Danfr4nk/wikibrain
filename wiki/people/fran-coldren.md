@@ -8,7 +8,7 @@ importance: critical
 relation_type: family
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-11-07
+date_modified: 2026-11-13
 date_range: ["1920-08-15", "2018-04-04"]
 tags: [family, uniontown-era, grief, music-production, financial-stress]
 sources:
@@ -29,6 +29,8 @@ images:
     caption: "Fran Coldren"
   library: []
 changelog:
+  - date: 2026-11-13
+    change: "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - date: 2026-10-04
     note: "The ending: the vape-alarm event placed inside the death-watch room with its 2026-10-04 testimony (hearing, ~$125, cover story) and the four-vs-six-trucks conflict preserved by pointer to the event page."
   - date: 2026-08-02
@@ -122,6 +124,9 @@ connections:
   - page: wiki/places/155-virginia-ave
     type: co-occurs
     claim: "Fran's house at 117 Belmont Circle stood adjacent to 155 Virginia Ave, and Dan and Annie lived at 155 while serving as her caregivers until her March 2018 fall; her final year ran between the two addresses."
+  - page: wiki/mind/journal/2026-10-20-memory-is-a-vertical-claim
+    type: evidences
+    claim: "The 2026-10-20 entry 'Memory Is a Vertical Claim' takes this page's death-moment retraction (2018-04-05 23:26, his video correcting his stated account within ~3 hours) as its first and decisive dated case of the forensic method running inward: his own memory adjudicated as a vertical claim against the dated record."
 images:
   infobox:
     file: wiki/media/gphotos-011.jpg

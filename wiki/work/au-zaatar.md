@@ -5,7 +5,7 @@ tier: major
 title: "Au Za'atar (NYC, ~2021–2024)"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-11-06
+date_modified: 2026-11-13
 sources:
   - raw/sammy/20260914-0630/chats.json
   - raw/location/Records.json
@@ -77,7 +77,11 @@ connections:
   - page: wiki/mind/journal/2026-10-07-the-transferred-role
     type: evidences
     claim: "The 2026-10-07 entry 'The Transferred Role' takes this page as its import case: the advocate role explicitly carried from caddying into this job, and held by the regulars' demand at the Thanksgiving 2023 line, is its proof that the role - unlike the host-specific payload - transfers across employments."
+  - page: wiki/mind/journal/2026-10-20-the-place-holds-the-load
+    type: evidences
+    claim: "The 2026-10-20 entry 'The Place Holds the Load' uses this page's record - the 712-visit recount and its shift signature over the 41-month tenure - as its boundary case: the sole non-home breaker of the home tier, priced as imposed-axis presence (row 15), the datum that forced the entry's thesis off chosen places and onto home addresses."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."

@@ -7,7 +7,7 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-11-07
+date_modified: 2026-11-13
 date_range_start: 2015-11-01
 date_range_end: 2026-10-31
 infobox:
@@ -27,6 +27,8 @@ infobox:
   enneagram: 7w8
   personality_assessment: "[[wiki/people/annie-ulmer-personality-assessment]]"
 changelog:
+  - date: 2026-11-13
+    change: "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - date: 2026-10-31
     note: >-
       Two device iMessage exports filed (raw/2026-10-31-annie-imessage-exports/: 4,848 msgs
@@ -331,6 +333,9 @@ connections:
   - { target: "[[wiki/mind/synthesis/the-romantic]]", type: references, claim: "Type specimen III — the eleven-year run of the romantic style." }
   - { target: "[[wiki/mind/synthesis/vacancy-rule]]", type: documents, claim: "The primary occupant: 97,768 unique messages, eleven of the ledger's seventeen years." }
   - { target: "[[wiki/mind/synthesis/severance-declarations]]", type: documents, claim: "The 129 declarations performed across this relationship are that entry's dataset." }
+  - page: wiki/mind/journal/2026-10-19-the-commitment-arrives-whole
+    type: evidences
+    claim: "The 2026-10-19 entry 'The Commitment Arrives Whole' uses this page's onset record - the Nov 29, 2015 meeting, the 03:28 verdict said to her, and the Dec 1 13:38 founding rule exhibited here - as the second of its two held cases for binary, full-load bond onset with no hedged intermediate states."
 images:
   infobox:
     file: wiki/media/upload-066.jpg

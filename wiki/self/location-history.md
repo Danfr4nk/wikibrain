@@ -5,7 +5,7 @@ tier: major
 status: archived
 layer: documented/exhibit
 date_created: 2026-06-22
-date_modified: 2026-11-02
+date_modified: 2026-11-13
 sources: ["raw/twitter/archive.jsonl", "raw/self/location/2026-06-22-ingest/Location History (Timeline)-20260622T225253Z-3-001.zip — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/location/2026-06-22-ingest/Location History (Timeline)/semantic_location.db", "raw/location/Records.json", "raw/self/facebook/facebook-ihatedanfrank/ — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/drive-sweep/20260911/takeout-index/google-data-export-index-20260623.html"]
 synthesizes:
   - wiki/self/context-core
@@ -54,7 +54,12 @@ connections:
   - page: wiki/mind/synthesis/twitter-2019
     type: evidenced-by
     claim: "Closes the far end of the address-level blind window: 'Au revoir Pennsylvania. Adiós Trump country.' (2019-03-03) is the only dated departure from Fayette County in the archive, and by October the state is a weekend destination rather than a home."
+  - page: wiki/mind/journal/2026-10-20-the-place-holds-the-load
+    type: evidences
+    claim: "The 2026-10-20 entry 'The Place Holds the Load' builds its spatial-concentration thesis on this page's visit record - the home-tier top table, the 712 restaurant recount, the 2017-18 load years and the 2019 base-change pings - pricing place-attention as home-slot anchoring (row 13) under the row-11 concentration grammar, never as chosen venues."
 changelog:
+  - date: 2026-11-13
+    change: "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - date: 2026-11-02
     change: "2026-11-02: Declared framework-v2 layer documented/exhibit (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - date: 2026-10-07

@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-20
-date_modified: 2026-10-22
+date_modified: 2026-11-13
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wiki-sync/repos/wikibrain/wiki/people/fran-coldren.md
@@ -30,7 +30,14 @@ connections:
   - page: wiki/mind/journal/2026-10-17-the-pattern-unlocked-lyric
     type: cites
     claim: "The Pattern-Unlocked Lyric cites the 2026-10-06 anomalies entry for the row-4 outward attention mechanism; this entry extends the citation to row 4's INWARD attested instance (the Fran retraction) and does not re-derive the outward reading."
+  - page: wiki/people/fran-coldren
+    type: evidenced-by
+    claim: "The entry's evidence leg 1 whole is this page's section 'The death moment, and Dan's retraction of it within 24 hours': the 2018-04-05 23:26 written correction in which his own vigil footage overruled his same-night stated account (~3-hour latency, against his emotional interest) - priced by the entry as row 4's own attested instance and the decisive leg against the instrumental-rummaging rival."
+  - page: wiki/mind/concepts/forensic-method
+    type: evidenced-by
+    claim: "The entry's whole object is this page's method applied inward: row 4 (primary records over narrative) run against his own recollection - the Fran footage retraction as the attested instance, the 2026-10-19 kill-switch read as the present-tense case - the dated instance of the reflexive turn this page names."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

@@ -6,9 +6,10 @@ title: "The Forensic Method"
 aliases: ["forensic analysis", "forensic methodology", "procedural tells", "lossless retention", "anomaly-detection engine"]
 status: active
 date_created: 2026-06-22
-date_modified: 2026-11-05
+date_modified: 2026-11-13
 tier: major
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
   - "2026-10-23: Book cross-check (Dark Psychology 5-in-1, 2020; phase-2 book-mine): appended a dated note recording the contrast between genre checklist-detection and this page's forensic method (dat:2117), with the standing caution that genre checklists are never to be cited as forensic instruments. No existing text altered."
@@ -88,6 +89,9 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-narrator-tax
     type: evidences
     claim: "The 2026-10-03 entry 'The Narrator Tax' builds its item 6 on this page's reflexive turn - the Fran retraction and the correction-on-contact record - as the discriminator against the legend-building rival, and carries this page's pre-correction credence headline in its Conflicts (corrected on held data by dat:0580/0663)."
+  - page: wiki/mind/journal/2026-10-20-memory-is-a-vertical-claim
+    type: evidences
+    claim: "The 2026-10-20 entry 'Memory Is a Vertical Claim' is the dated instance of this page's reflexive turn: the forensic method adjudicating Dan's own stated recollection against his artifacts (the 2018 Fran footage retraction; the 2026-10-19 kill-switch read), the dated record winning in writing both times."
 ---
 # The Forensic Method
 

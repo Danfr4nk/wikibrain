@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-20
-date_modified: 2026-10-22
+date_modified: 2026-11-13
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/self/location-history.md
@@ -30,7 +30,14 @@ connections:
   - page: wiki/mind/journal/2026-10-16-the-reloaded-slot
     type: distinguishes
     claim: "The Re-Loaded Slot proves the bond slot re-loading on occupant change (rows 6/19, attachment domain). This entry's object is the spatial slot: home addresses re-loading place-attention across the 2019 base change. Same vocabulary ('re-loads'), different object — the attachment slot is its object; the place slot is mine."
+  - page: wiki/self/location-history
+    type: evidenced-by
+    claim: "The entry's evidence cluster whole runs on this page's record: the top-table home tier (the Upper East Side apartment at 1,082 visits; the two Uniontown houses at 849 and ~415 - the top three absorbing ~61% of the top table), the restaurant 712 full-dump recount and GPS shift table in its raw-layer teardown, the 2017-18 stress years loading the same slots, and the Jan-Mar 2019 overnight-ping base change."
+  - page: wiki/work/au-zaatar
+    type: evidenced-by
+    claim: "Scoped to the boundary case exactly as the entry carries it: the entry's named Au Za'atar section and its Stage-3 restart both run on this page's record - the 712-visit recount (445 the thinner parse) arriving on a work-shift signature (2-3pm arrivals, 9-10pm departures, median 6.2h, Mondays dark) across the 41-month tenure - the imposed-axis presence that killed the entry's first (chosen-place) thesis and narrowed it to home slots."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
