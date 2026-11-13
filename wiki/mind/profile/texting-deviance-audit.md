@@ -7,8 +7,9 @@ status: active
 title: "Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts"
 aliases: ["texting audit", "brevity baseline", "stacked-essay mode"]
 date_created: 2026-08-23
-date_modified: 2026-11-07
+date_modified: 2026-11-12
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes."
 importance: high
@@ -37,6 +38,9 @@ connections:
   - page: wiki/mind/journal/2026-10-08-the-two-slot-grammar
     type: evidences
     claim: "The 2026-10-08 entry 'The Two-Slot Grammar' carries its scope leg on this page: the question-density measurement recorded here (0.75 vs 1.30 per 100 words) is its proof that the interpretive register's absence is a hard zero at one end of a merely thin register, not a general silence."
+  - page: wiki/mind/journal/2026-10-18-the-wrong-addressee
+    type: evidences
+    claim: "The 2026-10-18 entry 'The Wrong Addressee' uses this page's staccato inversion (row 39: 68.5% vs 55.1% self-contained burst-internal messages; the merge-tool hypothetical this page names) as the first, load-bearing case of its addressee-existence partition: self-directed instruments built to his addressed self-designations target behaviors absent in the measured record, while outward instruments aimed at record-held targets fire."
 ---
 
 # Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts

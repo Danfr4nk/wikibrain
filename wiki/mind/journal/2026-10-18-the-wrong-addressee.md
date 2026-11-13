@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-18
-date_modified: 2026-10-21
+date_modified: 2026-11-12
 sources:
   - wiki/mind/profile/texting-deviance-audit
   - wiki/mind/profile/lexicon
@@ -35,7 +35,14 @@ connections:
   - page: wiki/mind/journal/2026-10-06-the-fossil-portrait
     type: distinguishes
     claim: "The fossil-portrait entry mines the portrait's *origin* (a small real 2015–19 vocabulary lead frozen as identity). This entry mines what gets *built on* the portrait — the tools."
+  - page: wiki/mind/profile/texting-deviance-audit
+    type: evidenced-by
+    claim: "The entry's evidence leg 1 whole is this page's dated 2026-08-23 audit: the stated staccato model tested against 217,573 records and inverted - 68.5% of his 2026 burst-internal messages carry their own subject and verb against 55.1% for interlocutors, STACCATO mode 8.5% of his turns against 10.5% for theirs - and the entry quotes this page's implication verbatim: a tool that merges his fragments would be solving a problem he does not have. Row 39's measurement, not the self-report, is the entry's load-bearing first case of a self-directed tool built to a target the record does not contain."
+  - page: wiki/mind/profile/lexicon
+    type: evidenced-by
+    claim: "Scoped exactly as the entry carries it - a testimony-grade leg (row 40, weight 4), never load-bearing: the entry's evidence leg 2 whole is this page's record of the 2026-08-26 bespoke twelve-category lexicon generator, its targeted search for the generator's most distinctive phrases (resplendent, administratively, the tribunal, aesthetic felony, anomalous concentration) returning no hits, and this page's standing verdict that a tool with no recorded deployments is a tool that was built, not a practice that was observed - the entry's second case of a self-directed tool whose target behavior has zero instances in the record."
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

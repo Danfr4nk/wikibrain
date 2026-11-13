@@ -8,7 +8,7 @@ status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-11-06
+date_modified: 2026-11-12
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -21,6 +21,7 @@ related:
   - wiki/self/context-core
 tags: [personality-profile, forensic-analysis]
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile); relocated the SLOAN fourth-letter claim from the linguistic-profile edge to the enneagram-5w4 edge it belongs to; added reciprocal evidences edge to socionics-and-attitudinal (2026-09-15 head-to-head table)."
@@ -84,6 +85,9 @@ connections:
   - page: wiki/mind/journal/2026-10-07-the-two-registers
     type: evidences
     claim: "The 2026-10-07 entry 'The Two Registers' prices the RLUEI/RLOEI dispute documented on this page as a domain-gating fact rather than an error: the U-letter gloss carried here, with its obsessive internal structure inside external disorder, is located by the imposed-vs-chosen axis instead of reconciled away."
+  - page: wiki/mind/journal/2026-10-18-the-installed-social-layer
+    type: evidences
+    claim: "The 2026-10-18 entry 'The Installed Social Layer' tests this page's rows against the enumerable social record: sixteen recurring contact architectures, sixteen dated installs, zero without one - row 27's 0.73x unstructured-initiation null is never beaten by anything that is not installed, and rows 13/46's predictions (rule-bound channels; intensity concentrated on one bond) are the entry's starting prior, priced load-bearing there."
 ---
 
 # Big Five / Big30 Psychometrics & PD Vector

@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-18
-date_modified: 2026-10-21
+date_modified: 2026-11-12
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/profile/big-five-psychometrics.md
@@ -52,7 +52,11 @@ connections:
   - page: wiki/mind/concepts/contact-gini
     type: evidences
     claim: "The concentration floor (0.961 outbound / 0.9556 inbound) that bounds the claim: the inventory's universe is the few loaded channels, not the 496-handle tail."
+  - page: wiki/mind/profile/big-five-psychometrics
+    type: evidenced-by
+    claim: "The entry's profile prior runs on this page's rows: row 46 (sx-first / social-last), row 13 (bottom-percentile sociability - its named rule-bound classes, work roles / threads / scheduled rituals, pre-enumerate the inventory's categories), row 27 (Sociability 3, initiating at 0.73x baseline on the 2026-08-16 audit, 106,629 sent vs 110,944 received), row 6 (the dated-explicit-statement install criterion) and row 11 (Gini 0.961, supporting). Its Layer-A legs name this page's 0.73x initiation audit as the appetite null the sixteen-structure inventory is tested against."
 changelog:
+  - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

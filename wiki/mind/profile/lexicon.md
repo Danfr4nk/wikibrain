@@ -7,12 +7,14 @@ aliases: ["the bespoke lexicon", "affection lexicon", "slang generator"]
 status: active
 tier: major
 date_created: 2026-08-26
-date_modified: 2026-10-16
+date_modified: 2026-11-12
 sources:
   - raw/self/captures/2026-08-26_223221_dans-bespoke-lexicon-v1.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, relationships]
 knowledge: mixed
 changelog:
+  - date: 2026-11-12
+    change: "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - date: 2026-10-16
     change: "Expanded to major tier (>=3,000 words); restructured to canonical template v1 — story-first lede, topical body sections, the Voice Modes contradiction moved out of the body into a dated Conflicts in the record entry, Gaps folded into References/Limits, cross-page synthesis deepened against linguistic-profile, voice-modes, the-cool-metric, forensic-method, erotic-architecture, ai-collaborative-analysis, and ally-lubin."
   - date: 2026-10-16
@@ -39,6 +41,9 @@ connections:
   - page: wiki/mind/concepts/erotic-architecture
     type: parallels
     claim: "Both pages document the same disposition applied to a different object — this lexicon engineers how affection gets said, the ideal-face specification engineers what gets found attractive in the first place — neither domain is left to run on unexamined default."
+  - page: wiki/mind/journal/2026-10-18-the-wrong-addressee
+    type: evidences
+    claim: "The 2026-10-18 entry 'The Wrong Addressee' cites this page's generator record - the commissioned 2026-08-26 lexicon generator, the zero-hit targeted search for its distinctive phrases, and the no-recorded-deployments verdict held here - as its second, testimony-grade case (row 40, weight 4, never load-bearing there) of a self-directed instrument built to a portrait spec whose target behavior does not exist in the measured record."
 ---
 # Dan's Bespoke Lexicon
 
