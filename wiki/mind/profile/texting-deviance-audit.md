@@ -7,8 +7,9 @@ status: active
 title: "Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts"
 aliases: ["texting audit", "brevity baseline", "stacked-essay mode"]
 date_created: 2026-08-23
-date_modified: 2026-11-12
+date_modified: 2026-11-13
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes."
@@ -41,6 +42,9 @@ connections:
   - page: wiki/mind/journal/2026-10-18-the-wrong-addressee
     type: evidences
     claim: "The 2026-10-18 entry 'The Wrong Addressee' uses this page's staccato inversion (row 39: 68.5% vs 55.1% self-contained burst-internal messages; the merge-tool hypothetical this page names) as the first, load-bearing case of its addressee-existence partition: self-directed instruments built to his addressed self-designations target behaviors absent in the measured record, while outward instruments aimed at record-held targets fire."
+  - page: wiki/mind/journal/2026-10-23-the-essay-is-a-probe
+    type: evidences
+    claim: "The 2026-10-23 entry 'The Essay Is a Probe' builds its channel-state-probe reading entirely on this audit's measurements - the silence-bucket table, the abandonment and answer-rate curves, the essay share of 2026 words, and the delivery-thread flatline it uses as the control channel where no probe fires."
 ---
 
 # Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts

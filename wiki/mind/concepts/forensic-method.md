@@ -9,6 +9,7 @@ date_created: 2026-06-22
 date_modified: 2026-11-13
 tier: major
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."
@@ -92,6 +93,9 @@ connections:
   - page: wiki/mind/journal/2026-10-20-memory-is-a-vertical-claim
     type: evidences
     claim: "The 2026-10-20 entry 'Memory Is a Vertical Claim' is the dated instance of this page's reflexive turn: the forensic method adjudicating Dan's own stated recollection against his artifacts (the 2018 Fran footage retraction; the 2026-10-19 kill-switch read), the dated record winning in writing both times."
+  - page: wiki/mind/journal/2026-10-21-the-mediator-loses
+    type: evidences
+    claim: "The 2026-10-21 entry 'The Mediator Loses' is the dated adjudication record of this page's method: every dated case in its set (C6 retraction, C3 keeper, detector clearances, the Fran retraction, the kill-switch read) resolves for the primary over the mediator, and for the artifact over his own stated word - the ladder the method predicts, observed 6 of 6."
 ---
 # The Forensic Method
 

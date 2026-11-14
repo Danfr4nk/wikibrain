@@ -11,7 +11,7 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-23
-date_modified: 2026-10-23
+date_modified: 2026-11-13
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/synthesis/four-axioms-attestation
@@ -41,7 +41,11 @@ connections:
   - page: wiki/mind/synthesis/four-axioms-attestation
     type: evidence
     claim: "The t011 per-thousand table (2026-08-02, 106,629 outbound vs 503-handle control) supplies the Layer-A rates this entry loads. The axiom-4 'disconfirmed as worded' verdict (C13) is the reason the interior axiom is never load-bearing here."
+  - page: wiki/self/context-core
+    type: evidenced-by
+    claim: "The entry's rates leg is carried inline on this page: the t011 lexical audit table (106,629 outbound, 2015-2025, against the 503-handle within-medium control) with 'too late' at 1.86x while the prospective classes run 0.35-0.42x and the graded-approach class at 0.00x - the reversal the entry reads as the closed-set marker's signature."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-10-23: Created as pass-B entry of the Daily Idea Journal run. Starting thesis passed all five stages unmodified; zero restarts. The full t011 'too late' match set (~50 instances) remains unread as a corpus and is named as the standing falsifier."
 ---
 

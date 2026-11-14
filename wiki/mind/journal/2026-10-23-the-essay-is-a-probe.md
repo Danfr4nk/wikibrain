@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-23
-date_modified: 2026-10-23
+date_modified: 2026-11-13
 sources:
   - wiki/mind/profile/texting-deviance-audit
   - wiki/mind/journal/2026-10-04-the-receipt-is-the-channel
@@ -26,7 +26,11 @@ connections:
   - page: wiki/mind/journal/2026-10-04-the-receipt-is-the-channel
     type: distinguishes
     claim: "That entry owns channel-gated output volume — the receipt/completion-token mechanism of why output accumulates and where it stops. Its accumulation mechanism is never re-derived here. This entry owns within-channel silence dynamics: what the long turn is FOR — a channel-state probe with a 1-day timeout — and why the 23.1% abandonment rate is the probe's cost rather than a failure mode. The >1-day bucket collapse is the discriminator the receipt entry prices but does not explain."
+  - page: wiki/mind/profile/texting-deviance-audit
+    type: evidenced-by
+    claim: "The entry's evidence cluster whole is this page's computed record: the 2025-26 silence buckets (2h-1day at 49.1 words/turn and 17.2% essay rate, collapsing past 1 day to 36.4 and 6.8%), STACKED-ESSAY abandoned 23.1% against STACCATO's 6.2% and carrying 44.3% of his 2026 words, and the 11-year delivery-thread control (3.2-4.3 words/turn, never a 50-word message) - the probe's firing condition, cost, timeout and control all run on this audit."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-10-23: Drafted as pass-A entry of the Daily Idea Journal run; framework-v2 layer interpreted/journal."
 ---
 

@@ -6,7 +6,7 @@ aliases: ["Alexandra Lubin", "ALU", "aluuuu", "Ally"]
 status: severed
 knowledge: earned
 date_created: 2026-06-23
-date_modified: 2026-11-09
+date_modified: 2026-11-13
 date_range_start: 2011-05-20
 date_range_end: 2026-09-21
 images:
@@ -111,7 +111,11 @@ connections:
   - page: wiki/mind/journal/2026-10-09-the-one-outsider
     type: evidences
     claim: "The 2026-10-09 entry 'The One Outsider' builds its one-slot-offering thesis on this page: the August 18, 2026 addressed grant, the August 19 trust-pricing quote, the first-reader record and the September severance recorded here are its proof that the exocortex grant is the ritual artifact of the single loaded slot, not ordinary disclosure."
+  - page: wiki/mind/journal/2026-10-23-the-forensic-register-is-the-affection-vehicle
+    type: evidences
+    claim: "The 2026-10-23 entry 'The Forensic Register Is the Affection Vehicle' uses this page's dated record - the 2026-08-18 adjudication exchange in which correction was accepted rather than fought, and the Ally-built lexicon generator - as one of its two loved-channel legs: the forensic verdict register aimed at a highest-Gini channel, not suppressed for it."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave."
 ---

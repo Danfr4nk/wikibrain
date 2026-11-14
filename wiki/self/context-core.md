@@ -6,7 +6,7 @@ aliases: ["spine", "behavioral spine", "CONTEXT_CORE_EXPANDED"]
 status: stable
 importance: critical
 date_created: 2026-06-22
-date_modified: 2026-11-09
+date_modified: 2026-11-13
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -68,6 +68,9 @@ connections:
   - page: wiki/mind/journal/2026-10-10-the-chosen-ground
     type: evidences
     claim: "The 2026-10-10 entry 'The Chosen Ground' carries its anchor leg (E5) on this page: the canonical residence timeline and the identity-anchor framing recorded here are its evidence that place receives total load only where choice-provenance holds - the chosen ground is inhabited and ordered, the imposed geographies only worn."
+  - page: wiki/mind/journal/2026-10-23-too-late-marks-the-closed-set
+    type: evidences
+    claim: "The 2026-10-23 entry 'Too Late Marks the Closed Set' loads the t011 per-thousand rates carried inline on this page - 'too late' elevated at 1.86x against starved prospective-urgency classes - as the Layer-A signature for its claim that the token fires only where a completion condition exists and is named."
 related:
   - wiki/self/overview
   - wiki/mind/concepts/conflict-architecture
@@ -85,6 +88,8 @@ related:
   - wiki/self/message-corpora/master-message-dump
   - wiki/self/twitter
 changelog:
+  - date: 2026-11-13
+    change: "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - date: 2026-11-09
     change: "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 12."
   - date: 2026-07-11

@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-23
-date_modified: 2026-10-23
+date_modified: 2026-11-13
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/memory/2026-10-17.md
@@ -29,7 +29,11 @@ connections:
   - page: wiki/mind/journal/2026-10-21-the-deepest-provision
     type: distinguishes
     claim: "That entry owns archive-access as provision — what is handed over (record access, gated by bond-load). This entry is about the register of his own output (essays, counts, adjudications, the lexicon generator) — output density by channel, not record handovers."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "Scoped to the entry's Ally legs exactly as carried: the 2026-08-18 adjudication exchange on this page's dated record - her 'I didn't say malicious' met by his 'Okay that's fair then', his counter-push met ninety minutes earlier by her 'Ok that's fair actually' - the verdict register running in a loved channel instead of the term-redefinition move documented elsewhere; and the 2026-08-26 bespoke lexicon commissioned around the measured pattern of how he already talked to her."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-10-23: Drafted as pass-C entry of the Daily Idea Journal run."
 ---
 

@@ -12,7 +12,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-23
-date_modified: 2026-10-23
+date_modified: 2026-11-13
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - kb/data/0024-old-wiki-happiness-counter-measure.md
@@ -36,7 +36,11 @@ connections:
   - page: wiki/mind/journal/2026-10-19-the-commitment-arrives-whole
     type: distinguishes
     claim: "That entry owns COMMITMENT ACTIONS as binary gates — verdicts, tickets, founding rules. This entry owns LANGUAGE RATES at second loading — a different observable, a different mechanism. The 'girlfriend'-at-day-17 and ticket-inside-two-weeks markers belong there; they are cited here only to correct the dead seed thesis's mis-dating of them, never re-derived."
+  - page: wiki/people/kristin
+    type: evidenced-by
+    claim: "The entry's natural-experiment leg whole runs on this page's record: first contact 2025-08-29, 'girlfriend (Aug-Nov 2025)', the only other relationship of the Annie decade - ten weeks, ~22,000 messages, September front-loading - the documented second loading of the slot whose first-five-week window (2025-08-29 to 2025-10-03) is the discriminator between first-loading-only and every-formation readings of the happiness-claim gauge."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-10-23: Drafted as pass-D hypothesis-grade entry. The seed thesis was restarted (duplicate of 2026-10-09-the-formation-flare with mis-dated markers — see Genesis). Declared framework-v2 layer interpreted/journal."
 ---
 

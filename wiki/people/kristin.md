@@ -5,7 +5,7 @@ title: "Kristin Prentiss"
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-11-07
+date_modified: 2026-11-13
 date_range_start: 2025-08-29
 date_range_end: 2026-09-20
 sources: ["raw/messenger-2026-09-12/threads/cid.c.580995252_61570728572359.json", "raw/messenger-2026-09-12/messenger-all.jsonl", "raw/messenger-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/MANIFEST.json", "raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl", "raw/sammy/20260911-1941/messenger-threads.json", "raw/sammy/20260911-1941/messenger-sync.json", "wiki/media/upload-027.jpg", "wiki/media/upload-084.jpg", "wiki/media/upload-085.jpg", "kb/data/1452-kristin-aug26-messenger-inbound.md", "kb/data/1453-dan-texts-kristin-block-broken.md", "kb/data/1440-messenger-pull-incomplete.md", "kb/sources/kristin-basement-security-cam-20250919.md", "kb/data/1841-kristin-first-confirmed-in-person-meeting.md"]
@@ -48,6 +48,9 @@ connections:
   - page: wiki/mind/journal/2026-10-31-the-timestamp-is-the-witness
     type: evidences
     claim: "The Oct-31 entry's first leg runs on this page's terminal sequence: the Dec 9 timestamps (18:40-18:56 ET) reorder the escalation as a response to being told to get lost, and the Sep 1 Messenger capture bounds what a capture clock can witness."
+  - page: wiki/mind/journal/2026-10-23-the-flare-fires-once
+    type: evidences
+    claim: "The 2026-10-23 entry 'The Flare Fires Once' takes this page's Kristin window - first contact 2025-08-29, the ten-week autumn-2025 relationship and its held message counts - as the natural experiment for its thesis that the 7.86/1k happiness-claim flare marks the slot's first loading only, not a re-loading."
 images:
   # no portrait available for this page; do not fall back to library[0]
   infobox: false
@@ -65,6 +68,7 @@ images:
       caption: "Later that night — 02:12:20 AM — same basement, same two figures. The clips span 01:58:44 to 02:12:20; she was there across the night, not for a moment. Frames eyeballed for nudity before commit: clothed throughout, no pixelation required."
       kb: "dat:1841"
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
 ---
 

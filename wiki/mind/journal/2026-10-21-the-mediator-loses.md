@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-21
-date_modified: 2026-10-22
+date_modified: 2026-11-13
 sources:
   - ~/memory/2026-10-18.md
   - ~/memory/2026-10-19.md
@@ -31,7 +31,11 @@ connections:
   - page: wiki/mind/journal/2026-10-20-memory-is-a-vertical-claim
     type: distinguishes
     claim: "That entry owns memory-vs-record adjudication. This entry's Fran and kill-switch legs appear here ONLY as the asymmetry datum (stated word < primary artifact); the adjudication logic is cited by boundary, not re-derived."
+  - page: wiki/mind/concepts/forensic-method
+    type: evidenced-by
+    claim: "The entry's whole object is this page's method as an adjudication ladder - mediated verdict < stated word < primary artifact - priced on rows 4/5/12/36: the C6 headline retracted against the recomputed counts, the C3 naming keeper, and the two inward cases where his own stated word lost to artifacts, 6 of 6 dated adjudications going to the higher rung."
 changelog:
+  - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
