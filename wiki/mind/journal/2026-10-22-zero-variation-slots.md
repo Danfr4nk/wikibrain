@@ -8,7 +8,7 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-22
-date_modified: 2026-10-22
+date_modified: 2026-11-14
 sources:
   - ~/SOUL.md
   - ~/MEMORY.md
@@ -21,10 +21,11 @@ connections:
   - page: wiki/mind/journal/index
     type: filed-in
     claim: "Idea Journal 2026-10-22, pass B (chosen rituals arrive maximally rigid)."
-  - page: wiki/mind/journal/2026-10-21-exocortical-clock
+  - page: wiki/mind/journal/2026-10-21-the-exocortical-clock
     type: distinguishes
     claim: "That entry uses the same imposed-vs-chosen axis (row 15) on a different object — deadline-keeping via installed time-instruments. This entry's object is comfort/consumption ritual rigidity (zero-variation protocols), not time-keeping. Same axis, orthogonal domains; the two claims are separately falsifiable."
 changelog:
+  - "2026-11-14: Deferred correction (engine wave 20 finding, filed 2026-11-13): retargeted the distinguishes connection from the nonexistent 2026-10-21-exocortical-clock slug to the real page, 2026-10-21-the-exocortical-clock; type and claim unchanged."
   - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

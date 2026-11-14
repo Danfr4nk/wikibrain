@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-24
-date_modified: 2026-10-24
+date_modified: 2026-11-14
 sources:
   - wiki/work/au-zaatar-41-months
   - wiki/work/bfs-foods
@@ -32,7 +32,20 @@ connections:
   - page: wiki/mind/synthesis/the-embedded-objective
     type: distinguishes
     claim: "That page owns tenure length and ending cause — why payload jobs last 41–43 months and why they end when the payload is destroyed. Its BFS re-entry observation appears in exactly one clause of a re-check note and is never developed. This entry owns the post-tenure observable that page never prices: re-entry. Tenure length and re-entry are different variables — a job can be re-entered without being sustained (BFS, Caviar) and sustained without ever being re-entered (Au Za'atar, Nemacolin) — and the payload rule as stated predicts neither direction of that split."
+  - page: wiki/work/au-zaatar-41-months
+    type: evidenced-by
+    claim: "The entry's need-and-welcome leg whole runs on this page's record: March 2021-August 2024, about 690 shifts and 712 timestamped GPS visits, the payload stack (the day-one equal tip split, the fictitious 9pm night class held 18+ months, sole custody of the shed's cash tips), the territory death, roughly eleven months unemployed afterwards, and Tarik's warmth recorded through April 2026 - with no re-entry documented."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "The entry's welcome-inverted leg whole runs on this page's record: roughly one month, late April to mid-May 2026, no payload documented anywhere in the job's record, the posted NO HIRE sign in two locations, and the 2026-08-11 reapplication on the instruction of the same manager-side chain that posted the ban - re-entry despite hostility, by explicit statement revoking explicit statement."
+  - page: wiki/work/nemacolin-caddie-years
+    type: evidenced-by
+    claim: "The entry's unconfounded non-return leg whole runs on this page's record: April 6, 2016 to November 2019, 43 months, the looper status ladder the employer never set or measured (the call-up to the real loopers, the first two-bag round on May 23, 2018, the Scottsdale transfer raised with that program's head), the fade ending, and no return to caddying documented in the six-plus years since, on his home terrain."
+  - page: wiki/work/caviar-courier
+    type: evidenced-by
+    claim: "The entry's rhythm leg whole runs on this page's record: 290 dispatch messages, April 21, 2019 to April 14, 2020 - dense April-July 2019 (100+ assigned orders), near-silent August-November 2019, a scattered handful in March 2020, a final burst April 7-14, 2020 - an app host with nothing to install a payload in, re-engaged in bursts across twelve months of availability with no tenure."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-10-24: Drafted as pass-A entry of the Daily Idea Journal run; framework-v2 layer interpreted/journal."
 ---
 

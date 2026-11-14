@@ -7,7 +7,7 @@ aliases: ["conspiracy worldview", "conspiracy theory positions"]
 status: active
 layer: interpreted/synthesis
 date_created: 2026-09-22
-date_modified: 2026-10-23
+date_modified: 2026-11-14
 sources:
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-verdicts.md
   - workspace/wiki-sync/scratchpad/2026-09-22-conspiracy-worldview-analysis.md
@@ -29,7 +29,11 @@ connections:
     type: parallels
     claim: "The 33 conspiracy verdicts Dan delivered in one session are verdict-shaped outputs of the kind this page describes — 18 believed, 5 rejected — with nine agnostic middles its two-state model says should not stabilize."
 
+  - page: wiki/mind/journal/2026-10-24-the-audit-is-the-governor
+    type: evidences
+    claim: "The 2026-10-24 entry 'The Audit Is the Governor' builds its elevation-then-audit thesis on this page's dated record: the 33-verdict session in which elevation, rejection and blank all appear in one sitting, and the same-day self-retraction in which a cluster elevated in output was killed by its author's own audit within the day."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

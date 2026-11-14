@@ -8,7 +8,7 @@ status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-11-12
+date_modified: 2026-11-14
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -21,6 +21,7 @@ related:
   - wiki/self/context-core
 tags: [personality-profile, forensic-analysis]
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
@@ -88,6 +89,9 @@ connections:
   - page: wiki/mind/journal/2026-10-18-the-installed-social-layer
     type: evidences
     claim: "The 2026-10-18 entry 'The Installed Social Layer' tests this page's rows against the enumerable social record: sixteen recurring contact architectures, sixteen dated installs, zero without one - row 27's 0.73x unstructured-initiation null is never beaten by anything that is not installed, and rows 13/46's predictions (rule-bound channels; intensity concentrated on one bond) are the entry's starting prior, priced load-bearing there."
+  - page: wiki/mind/journal/2026-10-24-the-script-is-the-door
+    type: evidences
+    claim: "The 2026-10-24 entry 'The Script Is the Door' re-reads this page's 0.73x initiation rate, Gini 0.961 concentration and 0.68 home-anchoring as regime averages - sustained initiation inside scripted roles, near-non-initiation outside them - the setting split the global audit did not run, named there as the open test that would move its verdict."
 ---
 
 # Big Five / Big30 Psychometrics & PD Vector

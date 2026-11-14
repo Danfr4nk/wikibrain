@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-24
-date_modified: 2026-10-24
+date_modified: 2026-11-14
 sources:
   - wiki/mind/profile/big-five-psychometrics
   - wiki/mind/concepts/social-anxiety
@@ -36,7 +36,14 @@ connections:
   - page: wiki/mind/journal/2026-10-18-the-installed-social-layer
     type: distinguishes
     claim: "That entry owns the provenance of sustained contact architectures — all 16 enumerated recurring structures tracing back to dated explicit installs. This entry owns initiation asymmetry by setting type, not install provenance: a role template (server script, tee sheet, set list) is a setting condition, not an installed relationship architecture, and no install history is claimed here."
+  - page: wiki/mind/profile/big-five-psychometrics
+    type: evidenced-by
+    claim: "The entry re-scopes this page's global rates as a mixture, not a level: the 2026-08-16 lexical audit's 0.73x initiation rate over 106,629 outbound messages, contact concentration at Gini 0.961, and home-anchoring GPS at 0.68 are its global-rate and structural legs - averages across role-bound and unstructured regimes that the held audit never split by setting."
+  - page: wiki/work/nemacolin-caddie-years
+    type: evidenced-by
+    claim: "Role-bound setting 1 of the entry's evidence cluster runs on this page's record: April 2016 to November 2019, 43 months of continuous client contact on someone else's schedule, the yard as social world, role-formed contact documented inside the window (the Jack Rusko friendship, the yard condolences after Fran's death) - one of the three duration legs the flat-introversion rival must explain away as endurance."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-10-24: Drafted as pass-C entry of the Daily Idea Journal run; framework-v2 layer interpreted/journal."
 ---
 

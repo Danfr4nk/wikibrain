@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-24
-date_modified: 2026-10-24
+date_modified: 2026-11-14
 sources:
   - wiki/mind/concepts/dans-law
   - wiki/mind/concepts/forensic-method
@@ -31,7 +31,11 @@ connections:
   - page: wiki/mind/concepts/forensic-method
     type: distinguishes
     claim: "That page owns the full six-rule method and its failure modes (quiet instruments, unverified scaffolding). This entry owns one mechanism inside it: the audit pass that follows elevation, priced against the credulity and performance rivals."
+  - page: wiki/mind/synthesis/conspiracy-worldview
+    type: evidenced-by
+    claim: "The entry's Layer-A legs 1 and 2 run on this page's record: the 2026-09-22 live session's 33 conspiracy verdicts (18 believing, 5 rejecting, 9 agnostic, one gut-versus-official split, zero cases of retreat into agnosticism), and the same-day retraction of his own exfil-through-ventilation claim - the exotic layer cut by its own author while the mundane layer (he did not hang himself) survived."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-10-24: Drafted as pass-B entry of the Daily Idea Journal run; framework-v2 layer interpreted/journal."
 ---
 

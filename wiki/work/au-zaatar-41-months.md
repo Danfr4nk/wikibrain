@@ -7,7 +7,7 @@ status: closed
 importance: critical
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-11-07
+date_modified: 2026-11-14
 date_range: ["2021-03-01", "2024-08-31"]
 tags: [nyc-era, career, employment, second-nyc-era, relationships, au-zaatar]
 sources:
@@ -57,7 +57,11 @@ connections:
   - page: wiki/mind/journal/2026-10-08-the-disorder-premium
     type: evidences
     claim: "The 2026-10-08 entry 'The Disorder Premium' carries its first-pair leg on this page: the 41-month tenure recorded here, with its negotiated tip split and audit mechanics, is its proof that tenure in disorder tracks a held audit position."
+  - page: wiki/mind/journal/2026-10-24-payload-jobs-are-single-use
+    type: evidences
+    claim: "The 2026-10-24 entry 'Payload Jobs Are Single-Use' takes this page's 41-month tenure as its need-and-welcome leg: a payload installed and carried, the tenure ended with the territory, need and employer warmth both present afterwards, and no re-entry documented - the payload-host half of its split."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
 ---
 

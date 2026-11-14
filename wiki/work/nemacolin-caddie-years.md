@@ -7,7 +7,7 @@ status: stable
 importance: high
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-11-07
+date_modified: 2026-11-14
 date_range: ["2016-04-06", "2019-11-01"]
 tags: [work, uniontown-era, physical-life, golf, social-world, financial-stress]
 sources:
@@ -54,7 +54,15 @@ connections:
   - page: wiki/mind/journal/2026-10-08-the-disorder-premium
     type: evidences
     claim: "The 2026-10-08 entry 'The Disorder Premium' carries its lateral-layer leg on this page: the 43-month tenure, status ladder and peer yard recorded here are its specimen that a lateral counterparty layer can hold the audit position when the vertical cannot."
+  - page: wiki/mind/journal/2026-10-24-payload-jobs-are-single-use
+    type: evidences
+    claim: "The 2026-10-24 entry 'Payload Jobs Are Single-Use' takes this page's caddie years as its unconfounded payload-host leg: 43 months carrying a self-built status ladder, then no documented return though the host still exists and the geography is his home terrain - non-return that cannot be priced to distance."
+  - page: wiki/mind/journal/2026-10-24-the-script-is-the-door
+    type: evidences
+    claim: "The 2026-10-24 entry 'The Script Is the Door' cites this page's 43-month caddie tenure as a role-bound setting leg: daily scripted client contact sustained for three-plus years, with friendships formed inside the role, in the same record that produces a 0.73x global initiation rate."
 changelog:
+  - date: 2026-11-14
+    change: "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - date: 2026-11-07
     change: "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - date: 2026-09-24
