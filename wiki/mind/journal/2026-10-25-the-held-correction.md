@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-25
-date_modified: 2026-10-31
+date_modified: 2026-11-15
 sources:
   - ~/memory/2026-10-22.md
   - ~/memory/2026-10-23.md
@@ -26,7 +26,17 @@ connections:
   - page: wiki/mind/journal/2026-10-19-the-person-is-the-continuity
     type: distinguishes
     claim: "The Person Is the Continuity is about identity verdicts that survive substrate swaps and renames with no re-adjudication. This entry is about corrections that deliberately do NOT ship until his word arrives. Different object; no mechanism re-derived from it."
+  - page: wiki/people/sena-ledonne
+    type: evidenced-by
+    claim: "Leg 1 of the entry's evidence cluster - the controlled contrast the two-regime thesis rests on - runs on this page's record: the 2026-10-22 rename and rewrite under Sena LeDonne (changelog and Conflicts note: former name retained only in the correction note, pronouns corrected throughout) shipped the same afternoon, while Dan's apology, carried on this page as his stated intent, held as his own to send - one correction event split by voice."
+  - page: wiki/interests/music/bands/batteries-not-included
+    type: evidenced-by
+    claim: "Leg 2 of the entry's evidence cluster runs on this page's record: the 'lead songwriter' misread - a single ambiguous parenthetical in the Aug 8, 2018 Oshnack thread converted into the lede and corpus table - traced to its source line on this page, against Dan's denial ('just the drummer and i still couldn't write a song'), with the staged fix still held through two offers at the entry's Oct 25 writing; the correction has since been entered on this page (Conflicts in the record, entered 2026-11-11)."
+  - page: wiki/people/danny-matthews
+    type: evidenced-by
+    claim: "Leg 3 of the entry's evidence cluster is this page's filing choice whole: whether the November 2, 2024 / recorded-by-Annie provenance pin may live on this article or only in the log - a choice only Dan's word could make, held open and unanswered at the entry's Oct 25 writing; the pin now stands on this page in its own provenance section (page changelog, 2026-11-11)."
 changelog:
+  - "2026-11-15: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-15 engine wave 23."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

@@ -6,7 +6,7 @@ tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-07-20
-date_modified: 2026-11-11
+date_modified: 2026-11-15
 images:
   infobox: wiki/media/bni-shortys-live.jpg
   library:
@@ -29,6 +29,11 @@ connections:
   - page: wiki/people/joe-oshnack
     type: evidences
     claim: "Joe is one of two named bandmates (with Matt Turko), and his thread is the primary source for the band's setlist and the 2021 political retrospective on covering Dead Kennedys' 'California Uber Alles.'"
+  - page: wiki/mind/journal/2026-10-25-the-held-correction
+    type: evidences
+    claim: "The 2026-10-25 entry 'The Held Correction' takes this page's 'lead songwriter' correction as its Leg 2: the misread, its source line, and Dan's denial were fully traced and the fix staged, yet at the entry's writing it had shipped nothing - the hold itself as the correction's form; the correction was entered on this page on 2026-11-11."
+changelog:
+  - "2026-11-15: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-15 engine wave 23."
 ---
 # Batteries Not Included (BNI)
 

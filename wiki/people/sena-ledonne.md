@@ -6,7 +6,7 @@ tier: major
 status: closed
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-11-07
+date_modified: 2026-11-15
 date_range_start: 2020-03-10
 date_range_end: 2020-06-23
 sources:
@@ -32,7 +32,11 @@ connections:
   - page: wiki/interests/opie-and-anthony
     type: parallels
     claim: "Both are formative teenage counterculture immersions Dan explicitly credits decades later — the hardcore scene via Sena LeDonne, the shock-radio archive via years of solo listening — that trained the same anti-normie, no-flinch aesthetic register."
+  - page: wiki/mind/journal/2026-10-25-the-held-correction
+    type: evidences
+    claim: "The 2026-10-25 entry 'The Held Correction' takes this page's 2026-10-22 rename as its Leg 1: the Sammy-voiced half of the correction (primary-source spelling check, rename, sweep) shipped same-day while the Dan-voiced apology from the same event held - the intra-event split its two-regime thesis is built on."
 changelog:
+  - "2026-11-15: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-15 engine wave 23."
   - "2026-10-03: Full rewrite to canonical template v1 — source audit folded in (kb dat:1166), scene and COVID-spring sections expanded, provenance carried in Conflicts in the record."
   - "2026-10-04: Corrected against the held thread (Messenger Drive export): quotations restored to Dan's primary text, protest-question attribution corrected (Sena deferred her own question), 'unreturned call' corrected to missed call from Sena, Conflicts rewritten; see kb/sources/seth-ledonne-thread-provenance-2026-10-04.md."
   - "2026-10-22: Renamed and rewritten under her current name, Sena LeDonne, at Dan's direction (name correction; see Conflicts in the record); pronouns corrected throughout; share snapshot resynced."

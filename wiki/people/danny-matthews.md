@@ -4,7 +4,7 @@ page_type: entity
 tier: major
 status: active
 date_created: 2026-06-23
-date_modified: 2026-11-11
+date_modified: 2026-11-15
 date_range_start: 2018-02-16
 date_range_end: 2024-12-26
 sources:
@@ -44,7 +44,11 @@ connections:
   - page: wiki/people/suzanne-frank
     type: co-occurs
     claim: "Danny knows Suz as a client ('your mom even mentioned it to me'), stops by Fran's house and runs into her there in April 2018, and takes a listing from her in April 2019 — to her visible annoyance ('Danny Matthews got a listing from me. Grrrr.')"
+  - page: wiki/mind/journal/2026-10-25-the-held-correction
+    type: evidences
+    claim: "The 2026-10-25 entry 'The Held Correction' carries this page as its Leg 3: the open filing choice over the November 2024 recording's provenance pin - article versus log-only - held unresolved at the entry's writing as the limiting case of a Dan-voiced correction, where nothing is staged except the question itself."
 changelog:
+  - "2026-11-15: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-15 engine wave 23."
   - "2026-10-04: Restructured to canonical template v1"
   - "2026-10-05: Expanded to major floor — realtor thread, Suz rivalry, social layer, Conflicts; canonical template v1"
   - "2026-11-11: Provenance pinned for the November 2024 recording (recorded by Annie, for Dan, on her phone, Nov 2 2024); birthday-displacement and identity conflicts flagged"
