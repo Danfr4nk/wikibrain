@@ -7,8 +7,9 @@ status: active
 title: "Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts"
 aliases: ["texting audit", "brevity baseline", "stacked-essay mode"]
 date_created: 2026-08-23
-date_modified: 2026-11-13
+date_modified: 2026-11-14
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
@@ -45,6 +46,9 @@ connections:
   - page: wiki/mind/journal/2026-10-23-the-essay-is-a-probe
     type: evidences
     claim: "The 2026-10-23 entry 'The Essay Is a Probe' builds its channel-state-probe reading entirely on this audit's measurements - the silence-bucket table, the abandonment and answer-rate curves, the essay share of 2026 words, and the delivery-thread flatline it uses as the control channel where no probe fires."
+  - page: wiki/mind/journal/2026-10-23-the-forensic-register-is-the-affection-vehicle
+    type: evidences
+    claim: "The 2026-10-23 entry 'The Forensic Register Is the Affection Vehicle' builds its essay-density leg on this page's STACKED-ESSAY measurements: 11.2 percent of turns carrying 44.3 percent of words, the Annie ratio rising 2.40x to 3.65x while her side sat flat, against this page's 11-year delivery-thread brevity control - forensic density concentrated on the chosen channel, not a uniform trait."
 ---
 
 # Texting Deviance Audit — What Is Actually Abnormal About How Dan Texts

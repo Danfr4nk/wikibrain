@@ -3,7 +3,7 @@ domain: interests
 page_type: entity
 status: stable
 date_created: 2026-07-16
-date_modified: 2026-11-09
+date_modified: 2026-11-14
 sources:
   - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -58,6 +58,11 @@ connections:
   - page: wiki/people/bobby-cole
     type: evidenced-by
     claim: "An October 2, 2019 message to Bobby is the corpus's only direct evidence of a completed open-mic performance — a specific bombed bit and the audience's reaction — and separately identifies the previously-unnamed December 2018 Philadelphia taping as a Chip Chipperson show. [CORRECTED 2026-09-27: the October 2 messages are now verified verbatim in raw/messenger-drive-2026-09-12/messenger_drive_canonical.jsonl, but the 'only' is false — the same thread has Dan reporting his first open mic on 2019-03-16, and the complete log on this page carries 23 dated rows about performing, classes or material (March 2019 – June 2020) across iMessage and Messenger; see dat:1340.]"
+  - page: wiki/mind/journal/2026-10-24-the-script-is-the-door
+    type: evidences
+    claim: "The 2026-10-24 entry 'The Script Is the Door' uses this page's stand-up log as its cleanest natural experiment: a sustained year-long run while the stage script existed, ending on the clubs' March 2020 closure and not resuming after reopening, though the ambition predates the run - the setting changed, not the person."
+changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
 ---
 
 # Stand-Up Comedy

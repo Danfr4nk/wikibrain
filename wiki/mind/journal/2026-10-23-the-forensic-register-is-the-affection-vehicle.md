@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-23
-date_modified: 2026-11-13
+date_modified: 2026-11-14
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/memory/2026-10-17.md
@@ -32,7 +32,17 @@ connections:
   - page: wiki/people/ally-lubin
     type: evidenced-by
     claim: "Scoped to the entry's Ally legs exactly as carried: the 2026-08-18 adjudication exchange on this page's dated record - her 'I didn't say malicious' met by his 'Okay that's fair then', his counter-push met ninety minutes earlier by her 'Ok that's fair actually' - the verdict register running in a loved channel instead of the term-redefinition move documented elsewhere; and the 2026-08-26 bespoke lexicon commissioned around the measured pattern of how he already talked to her."
+  - page: wiki/mind/concepts/attachment-model
+    type: evidenced-by
+    claim: "The entry's count-operation leg whole runs on this page's quantitative base: 0 explicit severance signals across 41,073 of her messages, primary-verified (dat:0081) - a forensic count-operation, the register's heaviest instrument, run on the single highest-Gini channel in the corpus rather than on an outward target."
+  - page: wiki/mind/profile/lexicon
+    type: evidenced-by
+    claim: "The entry's lexicon leg whole runs on this page's record, scoped exactly as the entry carries it: the 2026-08-26 twelve-category phrase generator commissioned around Ally, built around the measured pattern of how he already talked to her, delivering sincere affection in maximally intellectualized forensic-bureaucratic diction - with this page's zero-hit targeted search caveat carried whole: a freshly commissioned tool, not documented practice."
+  - page: wiki/mind/profile/texting-deviance-audit
+    type: evidenced-by
+    claim: "The entry's essay-density leg whole runs on this page's measurements: STACKED-ESSAY turns at 11.2 percent of his 2026 turns carrying 44.3 percent of his words, the Annie thread at 2.40x words per turn in 2025 and 3.65x in 2026 with her side flat, and the transactional delivery control at 3.2 to 4.3 words per turn across 11 years with never a 50-word message - the channel-gating control the thesis rests on."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-10-23: Drafted as pass-C entry of the Daily Idea Journal run."
 ---

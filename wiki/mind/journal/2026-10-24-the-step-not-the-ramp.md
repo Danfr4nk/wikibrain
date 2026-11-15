@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-24
-date_modified: 2026-10-24
+date_modified: 2026-11-14
 sources:
   - wiki/work/gripnotic-revival
   - wiki/work/au-zaatar-41-months
@@ -32,7 +32,11 @@ connections:
   - page: wiki/mind/journal/2026-10-21-the-exocortical-clock
     type: distinguishes
     claim: "That entry owns deadline instruments and urgency vocabulary. No deadline instrument is re-derived here; the deadline rival is faced only as the discriminating question of whether a named deadline accounts for the burst dates."
+  - page: wiki/work/au-zaatar-41-months
+    type: evidenced-by
+    claim: "The entry's schedule-block leg whole runs on this page's dated record: March 2021 to August 2024, busser to server to de facto manager, typically six-day weeks, about 690 shifts and 712 timestamped GPS visits, ending when the city tore the sidewalk shed down in August 2024 - cited only for dated schedule facts on the imposed-vs-chosen axis, with causation explicitly not claimed."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - "2026-10-24: Drafted as pass-D entry of the Daily Idea Journal run; framework-v2 layer interpreted/journal."
 ---
 

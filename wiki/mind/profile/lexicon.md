@@ -7,12 +7,14 @@ aliases: ["the bespoke lexicon", "affection lexicon", "slang generator"]
 status: active
 tier: major
 date_created: 2026-08-26
-date_modified: 2026-11-12
+date_modified: 2026-11-14
 sources:
   - raw/self/captures/2026-08-26_223221_dans-bespoke-lexicon-v1.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
 tags: [personality-profile, relationships]
 knowledge: mixed
 changelog:
+  - date: 2026-11-14
+    change: "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - date: 2026-11-12
     change: "2026-11-12: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-12 engine wave 18."
   - date: 2026-10-16
@@ -44,6 +46,9 @@ connections:
   - page: wiki/mind/journal/2026-10-18-the-wrong-addressee
     type: evidences
     claim: "The 2026-10-18 entry 'The Wrong Addressee' cites this page's generator record - the commissioned 2026-08-26 lexicon generator, the zero-hit targeted search for its distinctive phrases, and the no-recorded-deployments verdict held here - as its second, testimony-grade case (row 40, weight 4, never load-bearing there) of a self-directed instrument built to a portrait spec whose target behavior does not exist in the measured record."
+  - page: wiki/mind/journal/2026-10-23-the-forensic-register-is-the-affection-vehicle
+    type: evidences
+    claim: "The 2026-10-23 entry 'The Forensic Register Is the Affection Vehicle' cites this page's 2026-08-26 generator record as its lexicon leg: the commissioned instrument built around the measured pattern of his talk to Ally, its Category I/II forensic-bureaucratic affection diction, and its zero-hit deployment caveat - the register amplified to carry sincerity, not suppressed to let it stand."
 ---
 # Dan's Bespoke Lexicon
 

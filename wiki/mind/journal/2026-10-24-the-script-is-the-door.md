@@ -42,7 +42,14 @@ connections:
   - page: wiki/work/nemacolin-caddie-years
     type: evidenced-by
     claim: "Role-bound setting 1 of the entry's evidence cluster runs on this page's record: April 2016 to November 2019, 43 months of continuous client contact on someone else's schedule, the yard as social world, role-formed contact documented inside the window (the Jack Rusko friendship, the yard condolences after Fran's death) - one of the three duration legs the flat-introversion rival must explain away as endurance."
+  - page: wiki/work/au-zaatar
+    type: evidenced-by
+    claim: "Role-bound setting 2 of the entry's evidence cluster runs on this page's record: March 2021 to August 2024, 41 months in the most socially exposed role a restaurant has - busser to server - with crew contact (Dimitri, Ismaila Barry) carried as named relationships from inside the role; tenure duration is used only as an exposure-duration fact, and no tenure mechanism is claimed here."
+  - page: wiki/interests/stand-up-comedy
+    type: evidenced-by
+    claim: "Role-bound setting 3 of the entry's evidence cluster, and its stage-lapse natural experiment, run on this page's record: first open mic March 16, 2019, 23 dated rows about performing, classes or material from March 2019 to June 2020, the documented sets ending when the clubs closed in March 2020, and no resumption documented after reopening - performance present while the venue script existed, absent after it lapsed."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-10-24: Drafted as pass-C entry of the Daily Idea Journal run; framework-v2 layer interpreted/journal."
 ---

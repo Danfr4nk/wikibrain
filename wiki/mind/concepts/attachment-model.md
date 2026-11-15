@@ -6,7 +6,7 @@ aliases: ["rule-based attachment", "the no-counter-rule architecture", "attachme
 status: active
 layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-11-10
+date_modified: 2026-11-14
 tier: major
 sources:
   - raw/self/sage/2026-08-21_220918_which-of-the-people-in-this-wiki-would-be-the-be.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -104,7 +104,11 @@ connections:
   - page: wiki/mind/journal/2026-10-13-the-native-period
     type: evidences
     claim: "The 2026-10-13 entry 'The Native Period' carries this page's field-test case as its limit form: the August 26 zero-second declaration/re-engagement is the point where the declaration cycle's period reaches zero - the emission continuing on schedule, uninterrupted by its own content - which the entry uses as the distinct-mechanism rival's hardest datum to absorb."
+  - page: wiki/mind/journal/2026-10-23-the-forensic-register-is-the-affection-vehicle
+    type: evidences
+    claim: "The 2026-10-23 entry 'The Forensic Register Is the Affection Vehicle' uses this page's quantitative base - the primary-verified 0-in-41,073 severance sweep (dat:0081) - as its silence-independent leg: a count-operation, not an essay, aimed at the highest-load channel, discriminating its channel-gating thesis from the silence mechanism."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-11-01: Added Jev-gated backlink edges (engine run 2026-11-01; Jev jev-1.13.0 triage, human full-read gate)."

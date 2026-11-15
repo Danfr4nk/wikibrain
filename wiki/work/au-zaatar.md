@@ -5,7 +5,7 @@ tier: major
 title: "Au Za'atar (NYC, ~2021–2024)"
 status: closed
 date_created: 2026-07-13
-date_modified: 2026-11-13
+date_modified: 2026-11-14
 sources:
   - raw/sammy/20260914-0630/chats.json
   - raw/location/Records.json
@@ -80,7 +80,11 @@ connections:
   - page: wiki/mind/journal/2026-10-20-the-place-holds-the-load
     type: evidences
     claim: "The 2026-10-20 entry 'The Place Holds the Load' uses this page's record - the 712-visit recount and its shift signature over the 41-month tenure - as its boundary case: the sole non-home breaker of the home tier, priced as imposed-axis presence (row 15), the datum that forced the entry's thesis off chosen places and onto home addresses."
+  - page: wiki/mind/journal/2026-10-24-the-script-is-the-door
+    type: evidences
+    claim: "The 2026-10-24 entry 'The Script Is the Door' cites this page's 41-month front-of-house tenure as a role-bound setting leg: sustained scripted client and crew contact for three-plus years, in the same record that produces a 0.73x global initiation rate - duration used there strictly as an exposure fact."
 changelog:
+  - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
