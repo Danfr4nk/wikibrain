@@ -8,7 +8,7 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-10-31
+date_modified: 2026-11-16
 sources:
   - "~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md (v1, 2026-10-03; read first, before drafting)"
   - "Instrument §5 Shape 1 note (the check that killed the original Idea Journal Entry 1 framing)"
@@ -19,7 +19,11 @@ synthesizes:
 tags: [idea-journal, exocortex, system-building, diagnosis-to-behavior-gap, shape-6]
 connections:
   - "wiki/mind/journal/index.md (to be updated by the parent filing pass; this pass did not edit the index)"
+  - page: wiki/mind/concepts/exocortex
+    type: evidenced-by
+    claim: "The entry's row-10 base is this page's record: cognition externalized into bootloaders, prompts and standing instruments (CATO, the Operating Manual, the weighted instrument), with this page's own bound - no verification layer independent of the exocortex - carried into the entry's gate. The entry adjudicates this page's prosthetic claim into two layers: production (filing and editorial decisions, where instrument output demonstrably changes what gets filed) and decision (diagnosed patterns' subsequent rates, where the manuals' prescribed override stayed uninstalled)."
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 25."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

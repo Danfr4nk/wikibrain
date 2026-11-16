@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-11-03
+date_modified: 2026-11-16
 sources:
   - wiki/mind/concepts/calibrated-confidence
   - wiki/mind/synthesis/the-binary-verdict
@@ -19,6 +19,7 @@ synthesizes:
   - wiki/mind/synthesis/the-binary-verdict
 tags: [idea-journal, calibrated-confidence, binary-verdict, forensic-method, attention-level]
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 25."
   - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 connections:
@@ -28,6 +29,9 @@ connections:
   - page: wiki/mind/synthesis/the-binary-verdict
     type: evidenced-by
     claim: "The fence leg runs on this synthesis: all 24 strict graded credences attach to unwitnessed facts, never to a verdict on worth, authenticity, or legitimacy - grading is permitted only where the binary gate does not run. The one dated fence exception (2015-12-10, the '90% thing' about shared time) is logistics, not verdict, and bounds the fence rather than breaching it."
+  - page: wiki/work/nemacolin-caddying
+    type: evidenced-by
+    claim: "The entry's one resolvable instance runs on this page's dates: Dan's 2018-08-08 'I am 75% sure this is my last summer at Nemacolin' resolved false against this page's resume record (April 2016 - November 2019; he worked the 2019 season too) - the single scoreboard meeting in eleven years of graded credences, and the entry's no-migration leg rests on it."
 ---
 
 # The Scale That Never Meets a Scoreboard

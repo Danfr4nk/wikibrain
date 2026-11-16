@@ -8,7 +8,7 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-27
-date_modified: 2026-10-31
+date_modified: 2026-11-16
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/mind/synthesis/provision-grammar.md
@@ -22,7 +22,17 @@ tags: [provision, concentration, attachment-register, attention-level, idea-jour
 connections:
   - Journal index: to be filed by the parent pass (this isolated pass does not edit the index)
   - Distinguishes vs: the provision-vs-condolence claim (care arrives as countable acts rather than condolence language) — that claim is the register; this entry claims the register's *form* encodes channel rank, which that claim does not state
+  - page: wiki/mind/concepts/contact-gini
+    type: evidenced-by
+    claim: "Layer-A leg 1 of the entry's evidence cluster runs on this page's record: the replicated inbound Gini 0.9556 over 498 handles (2026-09-09), top contact 33.6% of inbound volume, top five 68.0% - the concentration the entry's rank claim is measured against, including this page's finding that the money channel concentrates exactly like the message channel."
+  - page: wiki/mind/synthesis/provision-grammar
+    type: evidenced-by
+    claim: "The entry's denomination ladder runs whole on this page's grammar: the $25 introduction purchase, the $30-$50 per-item price list, the $500 arrival promise, the $2,100 invoiced tab, the $14,000 give-and-invoice statement, the $650/week servicing form and the ~$139K decade outflow are this page's per-channel registers (bulk on the primary channel, priced per item on the no-stake channel, give-and-invoice on the maternal channel); the entry adds the claim this page does not state - that the form encodes the channel's rank and stays with the channel across occasions."
+  - page: wiki/mind/synthesis/high-provision-low-condolence
+    type: evidenced-by
+    claim: "Layer-A leg 2 of the entry's evidence cluster runs on this page's measured split: offering help unprompted 1.79x, concern for the other person 2.49x, sympathy tokens 0.45x over 106,629 sent against 110,944 received (2026-08-16 audit) - the provision-not-condolence register whose form the entry argues encodes channel rank; this page's member cases (the $139K primary ledger, the contested $2,100, the maternal give-and-invoice, the Libby demand letters) are the entry's channel cases."
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 25."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

@@ -5,7 +5,7 @@ title: "High-Provision, Low-Condolence"
 status: active
 knowledge: earned
 date_created: 2026-09-10
-date_modified: 2026-11-06
+date_modified: 2026-11-16
 synthesizes:
   - wiki/mind/profile/big-five-psychometrics
   - wiki/mind/synthesis/estate-money-spine
@@ -30,6 +30,11 @@ connections:
     type: instance-of
     claim: "The maternal register: give-and-invoice — permanently available, and the availability gets itemized."
   - { target: "[[wiki/mind/synthesis/block-unblock-loop]]", type: references, claim: "The provision/condolence split and the severance-declaration loop are one non-deleting architecture on two registers — affection arrives as countable provision, exits are performed rather than enacted — so this page's live prediction and that page's 129-episode rule describe the same refusal to delete." }
+  - page: wiki/mind/journal/2026-10-27-the-denomination-is-the-rank
+    type: evidences
+    claim: "The 2026-10-27 entry 'The Denomination Is the Rank' takes this page's 1.79-2.49x / 0.45x provision-condolence split as its Layer-A leg 2, and its member cases as the channel forms whose rank-encoding it claims."
+changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 25."
 ---
 
 # High-Provision, Low-Condolence
