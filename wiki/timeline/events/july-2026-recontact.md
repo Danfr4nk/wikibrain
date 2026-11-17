@@ -6,7 +6,7 @@ title: "The July 2026 Re-contact"
 status: active
 knowledge: mixed
 date_created: 2026-07-26
-date_modified: 2026-10-20
+date_modified: 2026-11-16
 date_range_start: 2026-07-23
 date_range_end: 2026-07-26
 importance: critical
@@ -66,7 +66,11 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-handed-mirror
     type: evidences
     claim: "The Leviathan dashboards are the handed-mirror entry's second artifact case: the hostile instance of the same act, July 2026."
+  - page: wiki/mind/journal/2026-10-28-the-audit-follows-the-claim
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Audit Follows the Claim' takes this event as its pre-named discriminator: the July 25-26, 2026 dashboards - built and delivered within days against a claim arriving through the decade bond - are its positive case that forensic audit output tracks claim-form, not speaker-axis or channel concentration."
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-05-the-handed-mirror (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-05: Restructured to canonical template v1"
 ---

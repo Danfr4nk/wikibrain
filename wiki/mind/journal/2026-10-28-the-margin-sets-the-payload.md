@@ -8,7 +8,7 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-28
-date_modified: 2026-11-04
+date_modified: 2026-11-16
 sources:
   - wiki/work/au-zaatar-41-months.md
   - wiki/work/au-zaatar.md
@@ -42,7 +42,14 @@ connections:
   - page: wiki/work/bfs-foods
     type: evidenced-by
     claim: "Leg D4 runs on this page's record: the closed verification surface - CSR printing $0.00 over/under every night while assigning variance to the last closer - left no unmonitored margin to occupy, so no payload formed and the tenure ended at the first genuinely assigned demand (~1 month), as margin-fitting predicts for a closed-surface host; the page's own gap note (no year-plus alibi structure) is cited in the leg."
+  - page: wiki/work/au-zaatar-41-months
+    type: evidenced-by
+    claim: "Leg D1 of the entry's evidence cluster runs on this page's tenure record: the day-one equal tip split talked into existence in the interview (the negotiable compensation margin), the fictitious 9pm night class maintained eighteen-plus months with no closing shift in 41 months (the schedule-verification margin), sole custody of the shed's cash tips (the cash margin), and the September 2026 GPS re-analysis (712 timestamped visits) that sensor-verifies the footprint the night-class margin produced; the entry's margin-closure ending - the payload died when the shed came down rather than converting form - is also this page's record."
+  - page: wiki/work/caviar-courier
+    type: evidenced-by
+    claim: "Leg D5, the entry's null-margin case, runs on this page's dispatch record: an app dispatching orders to a phone offers no territory, no ladder, no counterparty and no oversight - no margin of any form - and the engagement shape matches the prediction (dense April-July 2019, near-silent August-November, scattered orders into 2020, one final burst; twelve months of availability, no tenure, no payload)."
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-11-04: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-04 engine wave."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---

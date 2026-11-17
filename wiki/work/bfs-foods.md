@@ -5,7 +5,7 @@ title: "BFS Foods (2026): Job, Drawer Dispute, Termination"
 status: closed
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-11-14
+date_modified: 2026-11-16
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -108,7 +108,11 @@ connections:
   - page: wiki/mind/journal/2026-10-24-payload-jobs-are-single-use
     type: evidences
     claim: "The 2026-10-24 entry 'Payload Jobs Are Single-Use' uses this page's BFS record as its positive re-entry leg: a payload-less host re-entered by reapplication on explicit instruction, the ban revoked by the same stated-rule machinery that installed it - the mirror image of its payload hosts, which are never re-entered."
+  - page: wiki/mind/journal/2026-10-28-the-audit-follows-the-claim
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Audit Follows the Claim' carries this page's 2026 drawer dispute as its first vertical-origin case: the manager's stated entitlement claim got same-day forensic treatment (refusal, documentation, the missing paper trail as the point), which the entry uses to argue the audit sorts by claim-form, not by speaker."
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."

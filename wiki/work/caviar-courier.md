@@ -7,7 +7,7 @@ tier: incidental
 status: closed
 knowledge: mixed
 date_created: 2026-06-23
-date_modified: 2026-11-14
+date_modified: 2026-11-16
 date_range_start: 2019-04-21
 date_range_end: 2020-04-14
 infobox:
@@ -31,7 +31,12 @@ connections:
   - page: wiki/mind/journal/2026-10-24-payload-jobs-are-single-use
     type: evidences
     claim: "The 2026-10-24 entry 'Payload Jobs Are Single-Use' uses this page's dispatch record as its rhythm leg: repeated burst re-engagement over twelve months, no payload ever installed, no tenure ever formed - the payload-less host's normal shape, and the mirror image of the payload hosts' never-return."
+  - page: wiki/mind/journal/2026-10-28-the-margin-sets-the-payload
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Margin Sets the Payload' carries this page as its D5 null-margin control: the 2019-2020 dispatch record's shape (dense first months, long silences, no tenure and no installed objective) is what margin-fitting predicts for an assignment with no host margin to occupy."
 changelog:
+  - date: 2026-11-16
+    change: "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - date: 2026-11-14
     change: "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - date: 2026-11-06

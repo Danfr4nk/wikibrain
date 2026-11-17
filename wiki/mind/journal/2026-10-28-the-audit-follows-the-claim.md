@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-28
-date_modified: 2026-10-31
+date_modified: 2026-11-16
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/mind/profile/big-five-psychometrics.md
@@ -32,7 +32,17 @@ connections:
   - page: wiki/mind/concepts/forensic-method
     type: instantiates
     claim: "The forensic method's operating rules (primary records over narrative, a missing paper trail as the signal) are the audit output whose trigger this entry prices: it fires on propositions to be settled, and stays silent on grants to be accepted."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "The entry's first vertical-origin case runs on this page's record: the assistant manager's off-books \"$50 short, you owe me\" drawer demand (2026) - an entitlement proposition with a missing paper trail - read instantly as an unverified vertical claim and met with refusal and documentation; the entry prices it as the same claim-form trigger, on the same days-long clock, as its lateral-origin discriminator case."
+  - page: wiki/work/creative-license
+    type: evidenced-by
+    claim: "The entry's second vertical-origin case runs on this page's record: the 2011-2012 six-week final-paycheck dispute, the accountant's written \"It's a trust issue. We don't trust you,\" the IRS and NYS Department of Labor complaints, and the false notarized claim that Dan had never worked there - answered with record, not deference; the entry prices the trigger as the claim's form (a stated fact to be settled against records), not the company's vertical position."
+  - page: wiki/timeline/events/july-2026-recontact
+    type: evidenced-by
+    claim: "The entry's discriminator leg runs whole on this event's record: on July 25-26, 2026, believing Annie had told her parents he was her drug source, Dan built two dashboards from the message corpus - one surfacing every day's drug talk with links back to the full logs, one setting her money-requests against what she told him on the same dates - and sent her the URLs within days. The claim arrived through the record's highest-concentration lateral bond and got the full forensic apparatus on the vertical clock: the observation the entry's claim-form thesis is built to predict and the speaker-axis rival cannot explain."
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

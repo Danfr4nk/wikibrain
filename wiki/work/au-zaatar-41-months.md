@@ -7,7 +7,7 @@ status: closed
 importance: critical
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-11-14
+date_modified: 2026-11-16
 date_range: ["2021-03-01", "2024-08-31"]
 tags: [nyc-era, career, employment, second-nyc-era, relationships, au-zaatar]
 sources:
@@ -63,7 +63,11 @@ connections:
   - page: wiki/mind/journal/2026-10-24-the-step-not-the-ramp
     type: evidences
     claim: "The 2026-10-24 entry 'The Step, Not the Ramp' takes this page's 41-month tenure as its imposed-schedule block: the dated silence in selector output coincides with this six-day-week schedule, and the burst block that follows carries no imposed schedule - a sequence claim on the imposed-vs-chosen axis, not a causation claim."
+  - page: wiki/mind/journal/2026-10-28-the-margin-sets-the-payload
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Margin Sets the Payload' builds its D1 leg on this page's 41-month record: three payloads (tip split, night-class fiction, shed cash custody) each occupying a margin this host left unmonitored, installed at or near hire, and ending when the margin closed - the entry's primary case that payload form is set by the host's margin, not by preference."
 changelog:
+  - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
