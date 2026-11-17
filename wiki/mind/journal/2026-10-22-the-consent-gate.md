@@ -11,7 +11,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-22
-date_modified: 2026-10-22
+date_modified: 2026-11-17
 sources:
   - ~/MEMORY.md
   - ~/memory/2026-10-12.md
@@ -33,7 +33,11 @@ connections:
   - page: wiki/mind/journal/2026-10-15-the-stated-word
     type: distinguishes
     claim: "That entry owns the stated-word/authentication-protocol territory (the report-back check-word: every explicit report-back thread must open with it or his voice note). This entry owns authenticated consent as the credential for likeness-generation — a different gate, the same authentication shape: stated by the person, never relayed."
+  - page: wiki/mind/journal/2026-10-29-the-gate-is-the-loop
+    type: evidences
+    claim: "The 2026-10-29 entry 'Only the Gate Closes the Loop' carries this entry's consent gate as its Leg 2: the Oct 24 batch record (refusals and sit-outs itemized in the 2026-10-28 daily log) is the entry's dated case that an installed gate verdict changes the next act in the decision domain."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-10-22: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

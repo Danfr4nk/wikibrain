@@ -4,7 +4,7 @@ page_type: entity
 tier: incidental
 status: active
 date_created: 2026-06-22
-date_modified: 2026-11-06
+date_modified: 2026-11-17
 sources:
   - raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-md/CATO_BOOTLOADER_DANFRANK.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -31,7 +31,11 @@ connections:
   - page: wiki/mind/synthesis/twitter-2026
     type: evidenced-by
     claim: "This page's infrastructure-name sentence is dated and expanded by the 2026 Twitter record: on 7 April 2026 Dan claimed an AI agent named 'gripnotic' on Moltbook - the brand doubling as the identity for his agent experiments - which the 2026 page reads as the alias's periodizing function leaving music entirely."
+  - page: wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Mode Gate on the Voice' carries this page's brand definition as its Leg 2 control condition: the output type (remixes and AI voice drops, spoken-word never sung) is what makes his own drops the addressed-speech control proving the gate is mode-specific, not voice-general."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
 ---
 # Gripnotic

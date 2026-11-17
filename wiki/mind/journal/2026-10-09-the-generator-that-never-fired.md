@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-09
-date_modified: 2026-11-09
+date_modified: 2026-11-17
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -50,6 +51,9 @@ connections:
   - page: wiki/people/ally-lubin
     type: evidenced-by
     claim: "Legs D3 and D4 run on this page's record: the September 7-20, 2026 Ally transcripts held here (the 5,328-message exchange, transcribed verbatim) return zero instances of the generator's signature phrases - the deployment channel searched whole, with no deployment instance - and the severance record held here (Sep 7-8, 2026 blowup; Sep 20, 2026 coda) bounds the deployment window to twelve days from the generator's 2026-08-26 capture."
+  - page: wiki/mind/journal/2026-10-29-the-gate-is-the-loop
+    type: evidences
+    claim: "The 2026-10-29 entry 'Only the Gate Closes the Loop' carries this entry's unfired generator as its Leg 4 measurement case: the zero-hit deployment record is the entry's instance of a built system whose output accumulated without changing any subsequent act."
 ---
 
 # The Generator That Never Fired

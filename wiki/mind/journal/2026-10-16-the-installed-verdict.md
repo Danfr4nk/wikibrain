@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-16
-date_modified: 2026-10-21
+date_modified: 2026-11-17
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/goals/jev-typed-decision-gating-evaluation-for-wiki-brain/hidden_files/jev-lab/README.md
@@ -43,7 +43,11 @@ connections:
     type: distinguishes
     claim: "That entry's stated words are authentication tokens in a LIVE channel (the check-word). This entry's stated words are LABELS on held records (his explicit correction text, his kb datum nodes) that install the machine's thresholds. Same profile primitive (rows 5/6), opposite direction: one authenticates the speaker, the other installs the judge."
 
+  - page: wiki/mind/journal/2026-10-29-the-gate-is-the-loop
+    type: evidences
+    claim: "The 2026-10-29 entry 'Only the Gate Closes the Loop' carries this entry's E1 demotion as its Leg 3 discriminator: the verdict-shaped-but-uninstalled Jev output changing nothing is the entry's case that separates its two-factor closure variable from any one-factor version."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-10-21: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

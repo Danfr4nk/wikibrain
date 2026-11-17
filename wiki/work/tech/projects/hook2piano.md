@@ -4,7 +4,7 @@ page_type: concept
 title: "hook2piano — the harmonic-analysis wing of the builder wave"
 status: active
 date_created: 2026-09-11
-date_modified: 2026-09-19
+date_modified: 2026-11-17
 sources:
   - "Sammy working context, 2026-09-11 (MEMORY.md)"
   - "dat:1580-tools-repo-consolidation-20260915"
@@ -33,6 +33,11 @@ connections:
   - page: wiki/mind/synthesis/dance-music-only-phases
     type: references
     claim: "The GRIPNOTIC-era reading of this entry is built on the re-entry account in the two-phases synthesis: the 2025 re-entry is listening-led, and these tools are its reference pipeline — what is the harmony, exactly, in a form he can read."
+  - page: wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Mode Gate on the Voice' carries this page as its Leg 4: hook2piano's pitch-as-geometry build spec is the entry's proof that the gate is an engineering constraint on representation, not a reading caveat — the tool exists because sung words never cross into the meaning register."
+changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
 ---
 
 # hook2piano + MELODY

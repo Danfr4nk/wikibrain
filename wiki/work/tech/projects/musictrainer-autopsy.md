@@ -7,7 +7,7 @@ status: active
 importance: high
 knowledge: mixed
 date_created: 2026-09-14
-date_modified: 2026-11-07
+date_modified: 2026-11-17
 tags: [music-production, ai-collaboration]
 related:
   - wiki/work/tech/index
@@ -20,7 +20,11 @@ connections:
   - page: wiki/mind/journal/2026-10-08-the-decomposing-ear
     type: evidences
     claim: "The 2026-10-08 entry 'The Decomposing Ear' carries its instrument leg on this page: the 16-driver grid recorded here, with its vocal dimension named 'vocal as texture - voice, not words' and no lyric-content field, is its proof that his commissioned instruments decompose a track into production dimensions before any semantic pass."
+  - page: wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Mode Gate on the Voice' carries this page's AUTOPSY grid as its Leg 3: the 16-driver taxonomy's 'vocal as texture — voice, not words' dimension is the entry's operationalization of the mode gate — the instrument structurally cannot ask what the words meant."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
 ---
 

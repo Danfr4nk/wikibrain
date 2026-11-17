@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-28
-date_modified: 2026-10-31
+date_modified: 2026-11-17
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - ~/workspace/wbrepro/wiki/mind/concepts/lyric-qualifier.md
@@ -28,7 +28,20 @@ connections:
   - page: wiki/mind/concepts/lyric-qualifier
     type: distinguishes
     claim: "The qualifier page already derives delivery-not-bars for the lyricist fandoms and the DJ-first reading of the thirteen-year pattern. Neither is re-derived here; both are cited as background, and the mode gate is the new claim."
+  - page: wiki/interests/music/aliases/gripnotic
+    type: evidenced-by
+    claim: "Leg 2's control condition runs on this page's brand definition: GRIPNOTIC's output is 'remixes and AI voice drops' — AI-generated spoken intros and drops, the catalog instrumental and spoken-word, never sung original lyrics across a thirteen-year pattern — so when he puts voice on a record himself it arrives in the addressed-speech mode row 5 says registers, while sung mode is absent from the possibility space."
+  - page: wiki/work/gripnotic-revival
+    type: evidenced-by
+    claim: "Leg 2's control condition runs on this page's record too: GRIPNOTIC is defined as 'remixes and AI voice drops — instrumental and spoken-word output, never sung original lyrics,' and the alias clock shows the thirteen-year pattern (remixes and AI voice drops, never sung originals) does not change when the name does — the absence of sung originals is downstream of how he hears, not a separate puzzle."
+  - page: wiki/work/tech/projects/musictrainer-autopsy
+    type: evidenced-by
+    claim: "Leg 3 runs whole on this page's instrument record: AUTOPSY's 16-driver WHAT DID IT? taxonomy carries 'vocal as texture — voice, not words' as a scoring dimension, and the method notes state flatly 'vocals are texture, never words' — the instrument has no field for lyrical content at all, so a tool built by and for this listener reproduces the gate in its grid."
+  - page: wiki/work/tech/projects/hook2piano
+    type: evidenced-by
+    claim: "Leg 4 runs whole on this page's build record: the TheoryTab-to-piano-roll rewrite treats the qualifier as an engineering constraint — 'if the user cannot read staff notation and does not parse lyrics as language, the representation must be pitch-as-geometry with note names as text' — the representation a listener needs is the one the gate leaves open: pitch geometry, not lyric semantics."
 changelog:
+  - "2026-11-17: Retargeted the Leg 2 gripnotic-revival wikilink to wiki/work/gripnotic-revival (the cited synthesis path does not exist on main) and fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connections from the 2026-11-17 engine wave 27."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 
@@ -68,7 +81,7 @@ A third candidate was considered and set aside rather than faced as a rival: tha
 
 **Leg 1 — the held capture (2026-09-11, MUSIC THREAD, byte-exact in `raw/sammy/20260911-2113/chats.json`).** His words: "I do not hear the lyrics of songs and even if I have a lyric sheet to know the words interpreting them is harder yet. I hear the lyric as timbre." The lyric-sheet clause is the load-bearing half for the mode gate: it separates access from mode. The same capture quantifies the exception boundary: "literally like 3 songs" in his life parsed as a conceptual message, titles asked and unanswered — the boundary map of the gate, still blank. ([[wiki/mind/concepts/lyric-qualifier]])
 
-**Leg 2 — the spoken drops as control condition (thirteen years, four aliases: SLOPPP, MOGZART, Mogged Up, GRIPNOTIC).** The documented catalog contains no original sung songwriting anywhere, and GRIPNOTIC is defined by "remixes and AI voice drops" — AI-generated *spoken* intros and drops, never sung lyrical content written and performed as verse-chorus songwriting. The drops are the control: when he puts voice on a record himself, it arrives in addressed-speech mode, the one mode row 5 says registers. Sung mode is not merely avoided in his output; it is absent from the possibility space while spoken mode is actively used. ([[wiki/interests/music/aliases/gripnotic]], [[wiki/mind/synthesis/gripnotic-revival]])
+**Leg 2 — the spoken drops as control condition (thirteen years, four aliases: SLOPPP, MOGZART, Mogged Up, GRIPNOTIC).** The documented catalog contains no original sung songwriting anywhere, and GRIPNOTIC is defined by "remixes and AI voice drops" — AI-generated *spoken* intros and drops, never sung lyrical content written and performed as verse-chorus songwriting. The drops are the control: when he puts voice on a record himself, it arrives in addressed-speech mode, the one mode row 5 says registers. Sung mode is not merely avoided in his output; it is absent from the possibility space while spoken mode is actively used. ([[wiki/interests/music/aliases/gripnotic]], [[wiki/work/gripnotic-revival]])
 
 **Leg 3 — AUTOPSY operationalizes the gate (2026-09-14).** The 16-driver WHAT DID IT? taxonomy ([`dat:1708`](../../kb/data/1708-autopsy-driver-grid-16-drivers-cata-method-basis-and-machine.md)) carries "vocal as texture — voice, not words" as a scoring dimension, and the method notes state flatly *"vocals are texture, never words."* The instrument has no field for lyrical content at all: it asks what about a vocal grabbed him — placement, processing, grain — and structurally cannot ask what the words meant. A tool built by and for this listener reproduces the gate in its grid. ([[wiki/work/tech/projects/musictrainer-autopsy]])
 

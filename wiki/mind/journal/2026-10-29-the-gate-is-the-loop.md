@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-31
+date_modified: 2026-11-17
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/exocortex
@@ -32,7 +32,17 @@ connections:
   - page: wiki/mind/concepts/explicit-verbal-commitment
     type: component-of
     claim: "Row 6's install-by-explicit-statement architecture supplies the installation half of the closure variable: a gate closes only where its issuer holds the grant for that field."
+  - page: wiki/mind/journal/2026-10-22-the-consent-gate
+    type: evidenced-by
+    claim: "Leg 2 runs whole on this entry's record: the binary person-gate keyed to authenticated consent (the Oct 18 standing rule as his commission, the Oct 22 consent gate itself) executed in the decision domain in the Oct 24 batch — refusing outright the smoke-blowing blonde and the towel mirror selfie, sitting out young-reading images — gate verdicts changing token acts about images, which the domain-split reading alone would miss."
+  - page: wiki/mind/journal/2026-10-16-the-installed-verdict
+    type: evidenced-by
+    claim: "Leg 3, the discriminating case, runs whole on this entry's record: Jev's judgments are verdict-shaped (link-worthiness, type, strength, calibrated 84% direction and 80% relation typing against 81 hand-audited edges), yet the E1 pilot was demoted to suggestion-only — 'edges stay human-authored; Jev is demoted to suggestion-only' — his stated verdicts are the only labels, so no dated case exists of a Jev judgment deciding a wiki link: form without installation does not close."
+  - page: wiki/mind/journal/2026-10-09-the-generator-that-never-fired
+    type: evidenced-by
+    claim: "The generator item of Leg 4's measurement set runs whole on this entry's record: the voice-mode/lexicon generator (captured 2026-08-26) returns zero corpus hits for its signature phrases in the dated sweep and the 2026-10-09 repo-wide re-sweep, its only named deployment channel was severed twelve days after capture, and no prior version or v2 exists — built, never fired, nothing downstream."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

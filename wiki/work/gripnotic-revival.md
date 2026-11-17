@@ -7,7 +7,7 @@ tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-11-17
 sources:
   - kb/syntheses/gripnotic-revival.md
   - kb/entities/gripnotic.md
@@ -28,9 +28,14 @@ connections:
   - page: wiki/work/full-sail-2008-2009
     type: part-of
     claim: "Full Sail is the training origin Dan himself reframes in DJ terms: the studio version of what he wanted to do live, in real time, as performance."
+  - page: wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice
+    type: evidences
+    claim: "The 2026-10-28 entry 'The Mode Gate on the Voice' carries this page as the second half of its Leg 2 control condition: the alias-clock record (the sung-originals absence holds across all four aliases) is the entry's proof that the spoken-drops control is a mode fact about his hearing, not a branding choice."
 tags: [music, gripnotic, aliases, djing]
 importance: 3
 changelog:
+  - date: 2026-11-17
+    change: "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - 2026-10-03: Restructured to canonical template v1; expanded from corpus
 ---
 
