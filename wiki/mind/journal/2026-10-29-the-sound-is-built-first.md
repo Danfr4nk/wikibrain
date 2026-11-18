@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-31
+date_modified: 2026-11-17
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/lyric-qualifier
@@ -39,7 +39,17 @@ connections:
   - page: wiki/mind/journal/2026-10-27-the-seesaw-travels-with-the-sound
     type: distinguishes
     claim: "The Seesaw entry prices a harmonic pattern traveling with sound rather than name. This entry prices no harmonic pattern — it prices build order across the whole production practice."
+  - page: wiki/work/tech/projects/musictrainer-autopsy
+    type: evidenced-by
+    claim: "Leg 2 runs whole on this page's instrument record: AUTOPSY's 16-driver WHAT DID IT? taxonomy carries fifteen production/sound dimensions and one 'vocal as texture - voice, not words' driver, with zero drivers taking lyric meaning as an input - the dissection grid he built for his own tracks has no meaning slot, which is the sound-first build order made visible."
+  - page: wiki/work/tech/projects/hook2piano
+    type: evidenced-by
+    claim: "Leg 6 runs whole on this page's build record: hook2piano and MELODY strip any song to melody line and chord progression only, discarding the words entirely, treating the qualifier as an engineering constraint - pitch-as-geometry with note names as text - so the analysis tools encode the same build order the catalog shows: sound first, meaning never an input."
+  - page: wiki/interests/music/aliases/gripnotic
+    type: evidenced-by
+    claim: "Leg 3's alias-catalog record runs on this page: GRIPNOTIC is defined as 'remixes and AI voice drops' - instrumental and spoken-word output, never sung original lyrics - and the page states the pattern holds across all four aliases over thirteen years, so voice enters the catalog only in production slots (drops, chops, texture), never as a lyric seed."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

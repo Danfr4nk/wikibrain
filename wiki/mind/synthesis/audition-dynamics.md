@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-23
+date_modified: 2026-11-17
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -78,7 +78,11 @@ connections:
     type: parallels
     claim: "The May–August 2025 Bridge supplies the run-up to the Kristin case: four un-narrated months between the April 27, 2025 clearing and the August 29 first contact."
     claim: "The Romantic documents the declaration the Kristin audition ran on: the September 4, 2025 sentence ('i wouldn't say i love you if i didn't mean it'), issued five days after first contact, inside this page's front-loaded demonstration window."
+  - page: wiki/mind/journal/2026-10-29-the-sum-is-the-verdict
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Sum Is the Verdict' carries this page's Kristin case as its Leg 2: the message-count cliff after the unaccounted $40, ending in the held December 9 block, is the entry's proof that a stated sum functions as a binary gate rather than a graded price."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

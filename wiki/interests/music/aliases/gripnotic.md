@@ -34,7 +34,11 @@ connections:
   - page: wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice
     type: evidences
     claim: "The 2026-10-28 entry 'The Mode Gate on the Voice' carries this page's brand definition as its Leg 2 control condition: the output type (remixes and AI voice drops, spoken-word never sung) is what makes his own drops the addressed-speech control proving the gate is mode-specific, not voice-general."
+  - page: wiki/mind/journal/2026-10-29-the-sound-is-built-first
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Sound Is Built First' carries this page as its Leg 3 catalog record: the thirteen-year, four-alias absence of sung originals, with voice deployed only as spoken drops, is the entry's record-level proof that no track in his practice is built around lyric meaning."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-11-06: Jev backlink pass scoped to twitter articles (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 twitter wave (Command #3)."
 ---

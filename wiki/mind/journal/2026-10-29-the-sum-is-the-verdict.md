@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-10-31
+date_modified: 2026-11-17
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/synthesis/provision-grammar
@@ -33,7 +33,20 @@ connections:
   - page: wiki/work/bfs-foods
     type: instantiates
     claim: "The BFS $50 drawer demand is this entry's demand leg: a stated sum that produced no partial payment and no negotiated settlement, with the job channel closing at the demand. Gate-check note 2026-10-29: the leg as first drafted used the superseded 'refused whole' shape; the BFS page's 2026-08-26 correction (Dan's own words: 'i didn't refuse to pay it') removes the refusal, and this leg is corrected to the corrected sequence below."
+  - page: wiki/mind/synthesis/audition-dynamics
+    type: evidenced-by
+    claim: "Leg 2 runs whole on this page's Kristin record: the September front-load, the October fall, November's 53 messages, the December 9 sixteen-minute terminal sequence, and the page's own mechanism sentence - the $40 was the first thing in the relationship that was not a performance - are the entry's Layer-A case that an unaccounted sum is adjudicated binarily, with no partial settlement anywhere in the record."
+  - page: wiki/mind/synthesis/annie-decade-synthesis
+    type: evidenced-by
+    claim: "Leg 2's comparison-case record runs on this page too: its Kristin section carries the same ten weeks, the held message count, the ending over $40, and the block held since December 9, 2025 - framed there as the decade's one clean severance against a base rate of performed severances - the sum-event's cliff shape stated at channel level."
+  - page: wiki/people/eric-jester
+    type: evidenced-by
+    claim: "Leg 1 runs on this page's thread record: Eric's own account of Dunn's annual birthday request - 'Every damn year. And it is always $5. Of course I pay it.' - corroborated identically from Jason's thread a year apart, is the entry's evidence that the figure's exactness is the ritual's identity condition: fifteen-plus years and the sum has never moved."
+  - page: wiki/people/matt-dunn
+    type: evidenced-by
+    claim: "Leg 1 runs on this page too: the cohort's longest-running bit is documented here as Dunn's annual birthday Venmo request, confirmed from the receiving end in Eric's April 2025 thread and treated as household-name cohort knowledge in Dan's October 2025 aside - years without a single skipped birthday at exactly the same figure."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

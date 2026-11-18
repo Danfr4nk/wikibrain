@@ -23,7 +23,11 @@ connections:
   - page: wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice
     type: evidences
     claim: "The 2026-10-28 entry 'The Mode Gate on the Voice' carries this page's AUTOPSY grid as its Leg 3: the 16-driver taxonomy's 'vocal as texture — voice, not words' dimension is the entry's operationalization of the mode gate — the instrument structurally cannot ask what the words meant."
+  - page: wiki/mind/journal/2026-10-29-the-sound-is-built-first
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Sound Is Built First' carries this page's AUTOPSY grid as its Leg 2: the 16-driver taxonomy's zero lyric-meaning fields are the entry's proof that a track in his practice is built from production dimensions, with voice fitted in as one texture driver among them."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
 ---

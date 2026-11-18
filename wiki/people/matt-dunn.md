@@ -5,7 +5,7 @@ tier: incidental
 status: active
 knowledge: mixed
 date_created: 2026-07-19
-date_modified: 2026-10-04
+date_modified: 2026-11-17
 date_range_start: 2012-02-01
 date_range_end: 2025-10-06
 sources:
@@ -40,6 +40,11 @@ connections:
   - page: wiki/people/jamie-mohler
     type: co-occurs
     claim: "Jamie is named alongside Dunn and Jester in the same 2025 exchanges — the fourth member of the same Full Sail cohort."
+  - page: wiki/mind/journal/2026-10-29-the-sum-is-the-verdict
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Sum Is the Verdict' carries this page's annual $5 birthday request record as part of its Leg 1: the bit's durability at an unmoving figure, documented on the requester's own page, is the entry's evidence that exactness, not amount, is what the ritual runs on."
+changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
 ---
 
 # Matt Dunn

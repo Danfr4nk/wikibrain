@@ -4,7 +4,7 @@ page_type: entity
 title: "Eric Jester"
 status: active
 date_created: 2026-06-23
-date_modified: 2026-11-07
+date_modified: 2026-11-17
 date_range_start: 2008-11-01
 date_range_end: 2025-08-15
 sources:
@@ -85,6 +85,11 @@ connections:
   - { target: "[[wiki/people/josh-brannan]]", type: references, claim: "RECIPROCAL — both appear in Dan's only self-enumerated core friend group (the 2012-02-23 cohort list); the prose already names Josh in the cohort passage." }
   - { target: "[[wiki/people/jamie-mohler]]", type: references, claim: "Jamie's Facebook thread (inferred identification) carries Dan's April 5, 2018 line about 'everyone' turning 'into eric jester and disappear[ing] into a smoky barkeep lifestyle somewhere in the deep south' — written the same evening Eric's condolence arrived." }
   - { target: "[[wiki/people/danielle-onesi]]", type: references, claim: "Gabe, the cat Danielle picked out in August 2008, is the cat Eric says 'made me love cats' when Dan tells him, on 2023-10-30, that Gabe has been put down." }
+  - page: wiki/mind/journal/2026-10-29-the-sum-is-the-verdict
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Sum Is the Verdict' carries this page's $5 birthday Venmo record as its Leg 1: Eric's 'always $5' account is the entry's case that a sum can hold a ritual together precisely by never changing - a gate that keeps passing because the figure stays exactly itself."
+changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
 ---
 
 # Eric Jester

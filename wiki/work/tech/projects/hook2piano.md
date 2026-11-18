@@ -36,7 +36,11 @@ connections:
   - page: wiki/mind/journal/2026-10-28-the-mode-gate-on-the-voice
     type: evidences
     claim: "The 2026-10-28 entry 'The Mode Gate on the Voice' carries this page as its Leg 4: hook2piano's pitch-as-geometry build spec is the entry's proof that the gate is an engineering constraint on representation, not a reading caveat — the tool exists because sung words never cross into the meaning register."
+  - page: wiki/mind/journal/2026-10-29-the-sound-is-built-first
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Sound Is Built First' carries this page as its Leg 6: hook2piano's words-discarding, pitch-as-geometry design is the entry's genre-independence proof - the sound-first order is built into a tool that accepts any song, not an artifact of the dance genre."
 changelog:
+  - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 27."
 ---
 
