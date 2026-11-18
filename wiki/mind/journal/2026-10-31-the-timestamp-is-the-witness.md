@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-31
-date_modified: 2026-11-02
+date_modified: 2026-11-18
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/concepts/forensic-method
@@ -47,7 +47,11 @@ connections:
   - page: wiki/mind/synthesis/severance-declarations
     type: evidenced-by
     claim: "Leg 4 runs on this synthesis's cadence figures (129 exit episodes, 36-second median, 46-hour maximum - carried as page testimony) against the held-export recount (23-second median): timing, not wording, adjudicates the declarations as check-in rungs rather than exits."
+  - page: wiki/interests/stand-up-comedy
+    type: evidenced-by
+    claim: "Leg 2's stand-up half runs on this page's photograph record: the Skanksmas photograph's EXIF floor (2019-12-23 21:40:36 local, with its GPS fix) and the election-show photograph's EXIF (2020-08-25 20:13:13) each floor a presence claim to a minute, against any later narrative that would move the night - the entry's second worked case of a timestamp as a hard floor, silent on everything above it."
 changelog:
+  - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 29."
   - "2026-11-02: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-02 engine wave."
   - "2026-11-01: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---

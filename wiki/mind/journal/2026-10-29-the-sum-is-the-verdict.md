@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-29
-date_modified: 2026-11-17
+date_modified: 2026-11-18
 sources:
   - ~/workspace/goals/wiki-brain-improvement/files/weighted-profile-instrument-v1.md
   - wiki/mind/synthesis/provision-grammar
@@ -45,7 +45,14 @@ connections:
   - page: wiki/people/matt-dunn
     type: evidenced-by
     claim: "Leg 1 runs on this page too: the cohort's longest-running bit is documented here as Dunn's annual birthday Venmo request, confirmed from the receiving end in Eric's April 2025 thread and treated as household-name cohort knowledge in Dan's October 2025 aside - years without a single skipped birthday at exactly the same figure."
+  - page: wiki/work/au-zaatar-41-months
+    type: evidenced-by
+    claim: "Leg 4's supporting register runs on this page's tenure record: the veterans' equal front-of-house tip split Dan talked into existence on day one, base wage $15/hour plus the tip pool, weekly checks typically $800-1,000 - equality, the exact sameness of shares, is the condition, not the size of the pool, which is the entry's case that a sum's form renders the verdict."
+  - page: wiki/interests/golf
+    type: evidenced-by
+    claim: "Leg 4's yardstick half runs on this page: the caddy-yard fee metric - 'Haha bro $200 for 36 is a California 10 for mystic rock loops' - is stated there as the yardstick every other number is measured against, the entry's supporting case that a stated figure renders a verdict rather than inviting a negotiation."
 changelog:
+  - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 29."
   - "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - "2026-10-31: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---

@@ -3,7 +3,7 @@ domain: interests
 page_type: entity
 status: stable
 date_created: 2026-07-16
-date_modified: 2026-11-14
+date_modified: 2026-11-18
 sources:
   - "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
   - "raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus."
@@ -61,7 +61,11 @@ connections:
   - page: wiki/mind/journal/2026-10-24-the-script-is-the-door
     type: evidences
     claim: "The 2026-10-24 entry 'The Script Is the Door' uses this page's stand-up log as its cleanest natural experiment: a sustained year-long run while the stage script existed, ending on the clubs' March 2020 closure and not resuming after reopening, though the ambition predates the run - the setting changed, not the person."
+  - page: wiki/mind/journal/2026-10-31-the-timestamp-is-the-witness
+    type: evidences
+    claim: "The 2026-10-31 entry 'The Timestamp Is the Witness' carries this page's two EXIF records as the second half of its Leg 2: the 2019-12-23 and 2020-08-25 photograph timestamps are the entry's proof that a correctly identified clock floors a claim to a minute and a place, and witnesses nothing beyond order and bounds."
 changelog:
+  - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 29."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."
 ---
 

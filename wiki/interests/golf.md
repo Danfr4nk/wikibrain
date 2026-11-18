@@ -5,7 +5,7 @@ tier: major
 title: "Golf"
 status: active
 date_created: 2026-07-14
-date_modified: 2026-10-05
+date_modified: 2026-11-18
 sources:
   - raw/self/dox-scan/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -50,7 +50,11 @@ connections:
   - page: wiki/people/jack-rusko
     type: co-occurs
     claim: "Rusko is a named golf-adjacent friend of the caddying era — 'jack rusko and i went up to mystic rock to get our paperwork' in March 2018."
+  - page: wiki/mind/journal/2026-10-29-the-sum-is-the-verdict
+    type: evidences
+    claim: "The 2026-10-29 entry 'The Sum Is the Verdict' carries this page's loop-fee yardstick as the second half of its Leg 4 supporting register: the $200-for-36 California-10 metric is the entry's evidence that the sum-as-measure grammar operates in work evaluation, outside bonds and demands."
 changelog:
+  - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 29."
   - "2026-10-05: Restructured to canonical template v1"
   - "2026-10-05: Expanded to major floor — lineage, game, partners, cohort, later years; canonical template v1"
 ---
