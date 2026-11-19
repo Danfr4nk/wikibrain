@@ -7,7 +7,7 @@ importance: critical
 knowledge: mixed
 status: active
 date_created: 2026-06-22
-date_modified: 2026-11-13
+date_modified: 2026-11-19
 date_range_start: 2015-11-01
 date_range_end: 2026-10-31
 infobox:
@@ -27,6 +27,8 @@ infobox:
   enneagram: 7w8
   personality_assessment: "[[wiki/people/annie-ulmer-personality-assessment]]"
 changelog:
+  - date: 2026-11-19
+    change: "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 31."
   - date: 2026-11-13
     change: "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 19."
   - date: 2026-10-31
@@ -336,6 +338,9 @@ connections:
   - page: wiki/mind/journal/2026-10-19-the-commitment-arrives-whole
     type: evidences
     claim: "The 2026-10-19 entry 'The Commitment Arrives Whole' uses this page's onset record - the Nov 29, 2015 meeting, the 03:28 verdict said to her, and the Dec 1 13:38 founding rule exhibited here - as the second of its two held cases for binary, full-load bond onset with no hedged intermediate states."
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Dormant Slot' carries this page's 2015 record as its lair-continuity leg (Leg 3): the apartment leased during the Alexis years and inherited by Annie on move-in is the entry's spatial evidence that the primary slot persisted across the occupant swap."
 images:
   infobox:
     file: wiki/media/upload-066.jpg

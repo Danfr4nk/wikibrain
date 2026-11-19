@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-10-24
+date_modified: 2026-11-19
 sources:
   - src:imessage_3307038747_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - src:messenger-kristin-ui-capture-2025-09-01 — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -99,7 +99,11 @@ connections:
     type: parallels
     claim: "The Source Coverage Index is the catalogue this channel's overturned absence claim should be checked against: which exports cover which channels, and what each hole can support."
     claim: "The measurement doctrine extracted from this case — which zeros in a request-filtered channel are admissible and how to phrase them — lives on the blind-spot page; on measurement questions, that page governs this one."
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Dormant Slot' carries this page's Kristin record as evidence in two legs: the ten-week onset flood is one of its three same-shape loadings (Leg 2), and the channel's exclusivity demands and December 9 list-recitation show the slot's founding architecture installed in miniature (Leg 4)."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 31."
   - "2026-10-24: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

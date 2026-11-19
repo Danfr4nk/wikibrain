@@ -7,7 +7,7 @@ status: active
 tier: major
 layer: interpreted/concept
 date_created: 2026-09-13
-date_modified: 2026-11-10
+date_modified: 2026-11-19
 synthesizes:
   - wiki/mind/concepts/autism
   - wiki/mind/concepts/attachment-model
@@ -72,7 +72,11 @@ connections:
   - page: wiki/mind/journal/2026-10-13-the-reversed-grantor
     type: instantiates
     claim: "The 2026-10-13 entry 'The Reversed Grantor' is this page's write-only architecture operating in the delegation direction: the September 28 carte-blanche grant installed her as statement-issuer, her explicit statements enact channel states, and re-asks are check-in surface that never revoke them - including the Oct 13 check-word protocol, whose brief kill-this countermand was explicitly rescinded, leaving the last stated rule running."
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Dormant Slot' carries this page's founding-rule record as its Leg 4: the 2015-12-01 declaration is the entry's evidence that the founding rule rides the slot, not the person - the same explicit-statement architecture installs at each loading, occupant-independent."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 31."
   - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 14."
   - "2026-11-10: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-10 engine wave 13."
   - "2026-11-03: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-03 engine wave."

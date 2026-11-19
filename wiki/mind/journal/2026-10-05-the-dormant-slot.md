@@ -7,7 +7,7 @@ status: active
 knowledge: derived
 importance: medium
 date_created: 2026-10-05
-date_modified: 2026-11-05
+date_modified: 2026-11-19
 tier: major
 layer: interpreted/journal
 sources:
@@ -55,7 +55,27 @@ connections:
  - page: wiki/mind/synthesis/dormancy-not-exit
    type: evidenced-by
    claim: "Legs 3 and 8 of this entry cite this page directly: the apartment leased for Alexis is the apartment Annie moves into - the slot's physical shell surviving an occupant swap - and the Franki Faris case ('Franki is deletion') sets the deletion floor that bounds the slot thesis from below."
+ - page: wiki/mind/concepts/explicit-verbal-commitment
+   type: evidenced-by
+   claim: "Leg 4 of this entry runs on this page's record: the founding rule installed 2015-12-01 is the same explicit-commitment architecture the Alexis slot ran on, with no new rule architecture negotiated for the new occupant; the Kristin ten weeks carry the same architecture in miniature (exclusivity demands, the December 9 list-recitation)."
+ - page: wiki/mind/concepts/no-delete-operation
+   type: evidenced-by
+   claim: "Leg 8 of this entry runs on this page's deletion-floor record: Franki Faris - below-tenure occupancy, no corpus, no later trace, 'Franki is deletion' - and the Alexis eviction as an operation, not a deletion; deletion exists in the record exactly where installation never happened, which bounds the slot thesis from below."
+ - page: wiki/mind/synthesis/bond-switch-2015
+   type: evidenced-by
+   claim: "Legs 2 and 3 of this entry run on this page's record: the onset flood (Dec 10-13, 2015: 728/682/363/679 sent daily at the Annie loading) and the lair-continuity - the apartment leased during the Alexis occupancy is the apartment Annie moves into, the slot's physical shell surviving the occupant swap; the page-level corroboration (kb/data/1205) covers the Nov 29 hinge and Dec 1-2 beats the entry's E2b leg cites."
+ - page: wiki/mind/synthesis/kristin-channel
+   type: evidenced-by
+   claim: "Legs 2 and 4 of this entry run on this page's record: the Kristin occupancy (Aug-Nov 2025, 22,018 messages in ten weeks, 73% into September; held export 10,102 sent / 9,562 received) is the second of the entry's three same-shape onset floods, and its ten weeks carry the slot's explicit-statement architecture in miniature - exclusivity demands and December 9's accumulated list-recitation; the failed Dec 7-9 reactivation (372 messages, her block Dec 10) is the entry's proof the flood fires on the attempt."
+ - page: wiki/mind/synthesis/transfer-comparative-2015-2026
+   type: evidenced-by
+   claim: "Leg 2's Ally leg and the E2d deepening run on this page's record: the Aug 18-20, 2026 burst (708 messages in three days, 380 consecutive outbound, 119 in a single hour; corrected counts at kb/data/0201) is the entry's proof the onset flood fires on the slot's loading attempt regardless of occupant outcome, in the channel with the longest prior dormancies (38 and 14 months)."
+ - page: wiki/people/annie-ulmer
+   type: evidenced-by
+   claim: "Leg 3 of this entry runs on this page's record: Annie moved into the apartment leased during the Alexis years - the page's own framing of the shared apartment as physical evidence the 2015 switch was a transfer rather than a fresh start - the slot's lair retained while the occupant was swapped; the page also carries the near-simultaneity analysis (the single-bond switch) the entry's story section stands on."
 changelog:
+ - date: 2026-11-19
+   change: "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 31."
  - date: 2026-11-05
    change: "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
  - 2026-10-05: "Entry created (single draft, no restarts)."

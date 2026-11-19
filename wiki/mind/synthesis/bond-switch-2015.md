@@ -6,7 +6,7 @@ knowledge: earned
 status: active
 layer: interpreted/synthesis
 date_created: 2026-07-15
-date_modified: 2026-10-23
+date_modified: 2026-11-19
 sources:
   - raw/self/dox-md/THE_DAN_FRANK_BOOTLOADER.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -72,7 +72,11 @@ connections:
     type: parallels
     claim: "Bond-switch 2015 is the origin term of the bond whose terminal window the grievance verdict adjudicates: the Alexis-to-Annie switch activated the deep attachment system in a week, on the substrate the 2026 closure later operated on."
     claim: "The mutual, simultaneous November 2015 switch — both slots vacated and reoccupied inside seventy-two hours — is the serial-monogamist pattern's earliest fully-dated member."
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Dormant Slot' builds its onset-flood and lair-continuity legs (Legs 2-3, E2b) on this page's record: the Dec 2015 flood counts and the retained apartment are the entry's evidence that the 2015 switch was a slot re-loading - an event at the boundary - not a substitution."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 31."
   - "2026-10-23: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---
 

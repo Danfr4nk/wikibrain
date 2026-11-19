@@ -7,7 +7,7 @@ aliases: ["no-delete operation", "write-only rule system", "suspend not delete",
 status: active
 layer: interpreted/concept
 date_created: 2026-09-13
-date_modified: 2026-10-28
+date_modified: 2026-11-19
 synthesizes:
   - wiki/mind/concepts/explicit-verbal-commitment
   - wiki/mind/concepts/node-locking
@@ -72,7 +72,12 @@ connections:
   - page: wiki/mind/concepts/attachment-model
     type: operationalized-by
     claim: "The attachment model is this rule's fullest instantiation — the bond-level model of a channel where severance is declared, performed, and reversed rather than executed."
+  - page: wiki/mind/journal/2026-10-05-the-dormant-slot
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Dormant Slot' carries this page's Franki Faris deletion floor as its Leg 8: the one genuine deletion sits below the installation floor, bounding the entry's claim that loaded channels unload to dormancy rather than being revoked."
 changelog:
+  - date: 2026-11-19
+    change: "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 31."
   - date: 2026-10-28
     change: "2026-10-28: Declared framework-v2 layer interpreted/concept (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-03: Restructured to canonical template v1
