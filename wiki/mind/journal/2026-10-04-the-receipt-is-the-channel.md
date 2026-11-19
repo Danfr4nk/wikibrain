@@ -9,8 +9,9 @@ importance: medium
 tier: major
 layer: interpreted/journal
 date_created: 2026-10-04
-date_modified: 2026-10-19
+date_modified: 2026-11-18
 changelog:
+  - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 30."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
   - 2026-10-07: "Expanded to major tier and restructured to canonical template v1: story-first lede; adversarial/trust-channel and three-pricings evidence sections added from cited repo sources (dat:0090, provision-grammar, selection-buys-delay, one-way-valve, channel-cost-pricing); Genesis moved intact into Conflicts in the record; dat:0081-to-0090 supersession recorded. No facts deleted."
 sources:
@@ -55,6 +56,9 @@ connections:
   - page: wiki/mind/journal/2026-10-03-the-quantized-graph
     type: complements
     claim: "The Quantized Graph (Entry 4, 10-03) is this entry's installation actuator at social range: it decides which ties get installed, binary; this entry prices what installed ties then carry -- graded output volume before the completion token lands."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The trust-channel section's Ally leg runs on this page's record: the $2,100 claimed in the thread, accepted the same night (2019-10-22) on Dan's screenshot ('Oh fuck'), then contested on 2026-08-18 ('no proof you ever sent me $2100 except your word / So I contest') - the entry's worked case that in a channel where claims revise at declaration speed, a claim's strength decays with its countable artifact, so the receipt is the channel."
 ---
 
 # The Receipt Channel — Volume Is Gated by Whether the Channel Can Say Done
