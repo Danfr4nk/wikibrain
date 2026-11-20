@@ -4,7 +4,7 @@ page_type: entity
 title: "Valeria Iglesias Cid"
 status: stable
 date_created: 2026-06-23
-date_modified: 2026-09-16
+date_modified: 2026-11-20
 date_range_start: 2021-08
 date_range_end: 2026-09
 sources:
@@ -23,6 +23,8 @@ related:
   - wiki/mind/synthesis/attachment-trauma-bond
   - wiki/self/gemini-activity/gemini-activity
 changelog:
+  - date: 2026-11-20
+    change: "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 34."
   - date: 2026-07-13
     note: "Rewritten from the primary IG corpus (message_1.json, 4,884 msgs 2022–2025) + Feb 2026 Gemini audits"
   - date: 2026-09-12
@@ -50,6 +52,9 @@ connections:
   - { target: "[[wiki/people/tarik-fallous]]", type: contextualizes, claim: "Tarik hired Dan on the spot and owned the operation the affair ran inside: hostess shifts, the night-class alibi, the Instagram burst of May-June 2022 — all of it under his roof." }
   - { target: "[[wiki/people/ismaila-barry]]", type: contextualizes, claim: "DJ and Valeria overlapped as Au Za'atar front-of-house through 2021-2024 — busser-turned-server and hostess in the same crew, both outlasting the job's end in the record." }
   - { target: "[[wiki/people/manuel]]", type: contextualizes, claim: "Manuel and Valeria are the two Au Za'atar relationships that outlasted the job: his friendship and her 'Miss u' coda both run into 2025-2026, past the August 2024 exit." }
+  - page: wiki/mind/journal/2026-10-08-stress-loads-the-failing-channel
+    type: evidences
+    claim: "The 2026-10-08 entry 'Stress Loads the Failing Channel' carries this page's record as the second distinction of its mandatory 2021-22 blackout counter-case: the era's stress event (the seventeen-day May-June 2022 detonation) escalated across a nine-month gap on an unheld channel, so held-channel silence is not established behavioral silence."
 ---
 
 # Valeria Iglesias Cid

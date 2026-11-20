@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-11-07
+date_modified: 2026-11-20
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 34."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -51,6 +52,9 @@ connections:
   - page: wiki/mind/profile/texting-deviance-audit
     type: evidenced-by
     claim: "Evidence leg 7 runs on this page's measurement: question density 0.75 vs 1.30 per 100 words (43% below norm) and turns ending on a question 5.7% vs 7.4% - the scope condition this entry prices: the interrogative register is thin overall and zero at the interpretive end."
+  - page: wiki/mind/synthesis/severance-declarations
+    type: evidenced-by
+    claim: "Evidence leg 8's declaration half runs on this page's record: 129 severance declaration episodes across the eleven-year Annie corpus, 128 of 128 followed by a further message and all resumed, median declaration-to-next-message gap thirty-six seconds - the zero-settle-events record this entry prices: the check-in loop re-fires across the decade with no recorded instance of a confirmation durably ending the measurement."
 ---
 
 # The Two-Slot Grammar

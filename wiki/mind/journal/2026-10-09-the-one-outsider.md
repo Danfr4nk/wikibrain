@@ -8,7 +8,7 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-09
-date_modified: 2026-11-09
+date_modified: 2026-11-20
 sources:
   - wiki/people/ally-lubin
   - wiki/mind/concepts/attachment-model
@@ -40,7 +40,11 @@ connections:
   - page: wiki/mind/profile/enneagram-5w4
     type: evidenced-by
     claim: "The count-discriminator and both-survived legs run on this page's record: it carries the 2026-08-18 wiki grant as 'the Witness need's one documented completion,' with her hostile audit of it and both parties surviving the transaction without the predicted consumption fear firing - the survival-clause language the entry's rival discriminator (d) runs on, inside row 46's corroborated Enneagram-cluster frame (fusion-or-annihilation)."
+  - page: wiki/mind/synthesis/transfer-comparative-2015-2026
+    type: evidenced-by
+    claim: "The both-survived aftermath leg runs on this page's 2026 transfer record: the August 18-20, 2026 activation - 708 messages in three days, 36% of eighteen years of channel traffic, with Ally a full participant on the 18th (154 of 375 messages hers) - is the record that the slot still loaded through the wiki-grant transaction: she audited the grant hostilely and the activation ran anyway, without the predicted annihilation."
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 34."
   - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-10-20: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."

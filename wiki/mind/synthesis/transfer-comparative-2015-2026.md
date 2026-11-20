@@ -7,7 +7,7 @@ status: active
 knowledge: earned
 layer: interpreted/synthesis
 date_created: 2026-09-13
-date_modified: 2026-11-19
+date_modified: 2026-11-20
 sources:
   - raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/message-csv/all_imessages_complete_dump.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -71,7 +71,11 @@ connections:
   - page: wiki/mind/journal/2026-10-05-the-dormant-slot
     type: evidences
     claim: "The 2026-10-05 entry 'The Dormant Slot' carries this page's Ally-burst record as the third leg of its onset-flood evidence (Leg 2, E2d): the 708-message August 2026 activation is the entry's strongest discriminator that the flood attaches to the loading event, not the occupant."
+  - page: wiki/mind/journal/2026-10-09-the-one-outsider
+    type: evidences
+    claim: "The 2026-10-09 entry 'The One Outsider' carries this page's August 18-20, 2026 activation record (708 messages, Ally a full participant on the 18th) as its both-survived aftermath leg: the slot loaded through the addressed wiki grant's hostile audit, completing the transaction the entry reads as the one-slot offering."
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 34."
   - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 31."
   - "2026-10-25: Declared framework-v2 layer interpreted/synthesis (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 ---

@@ -8,7 +8,7 @@ status: active
 knowledge: mixed
 layer: interpreted/synthesis
 date_created: 2026-10-03
-date_modified: 2026-11-17
+date_modified: 2026-11-20
 date_range_start: 2015-11-28
 date_range_end: 2026-06-05
 sources:
@@ -74,6 +74,9 @@ connections:
   - page: wiki/mind/journal/2026-10-29-the-sum-is-the-verdict
     type: evidences
     claim: "The 2026-10-29 entry 'The Sum Is the Verdict' carries this page's Kristin comparison case as the second carrier of its Leg 2: the synthesis's channel-level statement of the $40 ending and the held block is the entry's corroboration that the collapse was a gate closing, not a graded cooling."
+  - page: wiki/mind/journal/2026-10-09-the-formation-flare
+    type: evidences
+    claim: "The 2026-10-09 entry 'The Formation Flare' carries this page's origin dating as its spike-window leg: the corpus opening 2015-11-28 inside the first week and the introduction back-dated to about November 24, 2015 are what date the 7.86-per-1,000 spike to formation rather than to a later bond state."
 tags: [annie-ulmer, attachment, severance, corpus-scale, forensic-analysis]
 importance: 5
 synthesizes:
@@ -83,6 +86,8 @@ synthesizes:
   - wiki/mind/concepts/attachment-model
   - wiki/mind/synthesis/severance-2026
 changelog:
+  - date: 2026-11-20
+    change: "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 34."
   - date: 2026-11-17
     change: "2026-11-17: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-17 engine wave 28."
   - 2026-10-03: Restructured to canonical template v1; new page from kb/syntheses/annie-decade.md

@@ -8,8 +8,9 @@ knowledge: derived
 importance: high
 layer: interpreted/journal
 date_created: 2026-10-08
-date_modified: 2026-11-07
+date_modified: 2026-11-20
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 34."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 9."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
@@ -50,6 +51,9 @@ connections:
   - page: wiki/mind/synthesis/august-26-block-retraction
     type: evidenced-by
     claim: "The Aug 2026 field-test leg runs on this page's record: ~25 block/severance declarations across August 15-19, zero executed blocks, daily two-way texting August 27-September 7 - 765 messages in the final 72 hours - and Dan's verbatim confirmation 'there was never a block'; primary-verified as the profile-prior row 19 leg, with the 765/72h figure flagged counted-in-chat on the entry itself."
+  - page: wiki/people/valeria-iglesias-cid
+    type: evidenced-by
+    claim: "The mandatory counter-case's second distinction runs on this page's record: the 2021-22 era's actual stress event - the Valeria entanglement, detonated across seventeen days in May and June of 2022 - sits behind a nine-month message gap (August 2021 to May 2022) whose escalation ran on a channel the archive does not hold, WhatsApp the obvious candidate (inference flagged on her page), so the held instruments cannot observe the channel that was being loaded; the distinction sharpens this entry's falsifier rather than dodging the blackout."
 ---
 
 # Stress Loads the Failing Channel

@@ -7,7 +7,7 @@ aliases: ["voice", "stylometrics", "forensic intimacy"]
 status: stable
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-16
+date_modified: 2026-11-20
 sources:
   - raw/imessage/messages-part1-2011-2019.csv
   - raw/imessage/messages-part2-2019-2026.csv
@@ -21,6 +21,8 @@ sources:
   - raw/mind/captures/2026-08-27_013705_gap-linguistic-profile.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - bin/text-metrics (turn-level recomputation instrument)
 changelog:
+  - date: 2026-11-20
+    change: "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 34."
   - date: 2026-10-07
     change: "Expanded to major tier: restructured to canonical template (corrections moved to Conflicts in the record), merged turn-level structure from the deviance audit, added independent re-verification of fingerprint markers against the raw part-exports."
   - date: 2026-10-16
@@ -63,6 +65,9 @@ connections:
   - page: wiki/mind/profile/lexicon
     type: instantiates
     claim: "The 'forensic intimacy' register measured here — clinical detachment fused with raw personal confession, his register for crisis and self-analysis — is redeployed in the bespoke lexicon, deliberately and by design, as an affection-delivery mechanism rather than an analytical one."
+  - page: wiki/mind/journal/2026-10-09-the-generator-that-never-fired
+    type: evidences
+    claim: "The 2026-10-09 entry 'The Generator That Never Fired' carries this page's forensic-intimacy measurement as its Rival A discriminator: the register documented here since 2009 predates the bespoke lexicon generator, so the register's presence in Ally text is baseline, not a deployment instance of the generator."
 ---
 # Linguistic Profile — Voice, Register, Stylometrics
 
