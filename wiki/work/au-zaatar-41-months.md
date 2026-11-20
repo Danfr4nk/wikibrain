@@ -7,7 +7,7 @@ status: closed
 importance: critical
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-11-18
+date_modified: 2026-11-19
 date_range: ["2021-03-01", "2024-08-31"]
 tags: [nyc-era, career, employment, second-nyc-era, relationships, au-zaatar]
 sources:
@@ -69,7 +69,11 @@ connections:
   - page: wiki/mind/journal/2026-10-29-the-sum-is-the-verdict
     type: evidences
     claim: "The 2026-10-29 entry 'The Sum Is the Verdict' carries this page's tip-split record as the first half of its Leg 4 supporting register: the equal split's exact sameness is the entry's evidence that in work evaluation, as in bonds and demands, a figure functions as a measure and a gate rather than a negotiable price."
+  - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
+    type: evidences
+    claim: "The 2026-10-07 entry 'Collapse Is the Working Condition' carries this page's 41-month record as the first leg of its tenure test (D4): the tenure's durations and its three installed payloads (tip split, night-class fiction, shed cash custody) are the entry's primary case that a long scheduled tenure is endured via its payload, not inhabited as scheduled output."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 29."
   - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 22."

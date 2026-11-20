@@ -7,7 +7,7 @@ status: active
 knowledge: derived
 importance: medium
 date_created: 2026-10-06
-date_modified: 2026-10-18
+date_modified: 2026-11-19
 tier: major
 layer: interpreted/journal
 sources:
@@ -26,6 +26,7 @@ synthesizes:
   - wiki/work/bfs-foods
 tags: [idea-journal, personality-profile, forensic-analysis, anomaly-detection]
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-10-18: Expanded to major tier: story-first lede; Profile prior unpacked with the weighted rows' actual measurements; Evidence cluster deepened with dated instances and verbatim quotes (D5 texting-audit parallel, D6 estate-spine self-correction, D7 the J6 stop-condition); Theory given the mechanism's steps and checkable claims; rivals strengthened on their discriminators; gate re-verified with an honest provenance bound on the D1 discovery spine (dat:0666). No facts deleted."
 connections:
   - page: wiki/mind/journal/index
@@ -64,6 +65,9 @@ connections:
   - page: wiki/mind/synthesis/read-receipt-forensics
     type: parallels
     claim: "The Morgantown-audio case (dat:0057) is the input-side negative of the same shape: output stopped only when the pattern was abandoned for a re-read."
+  - page: wiki/mind/profile/intp
+    type: evidenced-by
+    claim: "Row 41 of this entry's profile prior and Rival C run on this page's record: the Ti-dominant stack (Ti 96% latent, Fe 10% valuing, AI-inferred and carried as such), the binary gates, and the 2026-08-18 gate-flip exception are the substrate this entry prices - Rival C's discriminator (deployment on the break inside a coherent record, silence where there is no break) is what keeps the substrate distinct from the jurisdiction claim."
 ---
 
 # Anomalies Are the Jurisdiction

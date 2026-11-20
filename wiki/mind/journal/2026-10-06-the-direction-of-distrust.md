@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-06
-date_modified: 2026-11-06
+date_modified: 2026-11-19
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 7."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
@@ -55,6 +56,12 @@ connections:
   - page: wiki/work/au-zaatar
     type: evidenced-by
     claim: "Leg D6, the work-tenure spine, runs on this page's record: 41 months (March 2021-August 2024) of staff-side audit posture, including Dan documented as saboteur within the vertical - the honesty-check counter-evidence that the forensic posture runs inside the structure too, not only against it."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "Leg D2's vertical half and leg D6 of this entry run on this page's record: the BFS drawer dispute - an unverified vertical claim whose missing paper trail was the point - was reconstructed the same day, the fastest audit latency in the entry's timing asymmetry; D6 carries the dispute as the architecture's cleanest micro-scale crystallization."
+  - page: wiki/people/tom
+    type: evidenced-by
+    claim: "Leg D2's lateral half of this entry runs on this page's record: Tom is the positive-case exhibit for the lateral-trusted half of the split - his model sat un-revised for roughly eighteen years and was revised only after the May 2026 supply failure, the failure-gated audit latency the entry's lead discriminator (D-A) prices against the BFS same-day reconstruction."
 ---
 
 # The Direction of Distrust

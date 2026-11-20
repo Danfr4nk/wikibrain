@@ -9,7 +9,7 @@ knowledge: derived
 importance: medium
 tier: major
 date_created: 2026-10-05
-date_modified: 2026-10-20
+date_modified: 2026-11-19
 sources:
   - kb/data/0081-explicit-commitment-architecture.md
   - kb/data/1292-block-unblock-loop-severance-recount-129-128.md
@@ -61,7 +61,11 @@ connections:
   - page: wiki/timeline/events/july-2026-recontact
     type: evidenced-by
     claim: "The Leviathan dashboards (July 2026) are the hostile second instance of the handed-mirror act — the same move at higher production value."
+  - page: wiki/people/ally-lubin
+    type: evidenced-by
+    claim: "The witness-event section of this entry runs on this page's record: the 2026-08-18 exchange in which Ally read the wiki, contested the figures on her own page, and narrowed the challenge until the gate moved ('Okay that's fair then,' ninety seconds) is the entry's one documented interruption of the binary verdict - the gate moved at a witness event, on this page's dated record; the witness-channel leg (six block claims addressed to Ally across Aug 28-Sep 7, 2026, while the direct channel carried live two-way traffic) likewise runs on declarations carried on this page."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-10-20: Added forward typed edges to forensic-method and july-2026-recontact (completing the Oct-18 connection set; reciprocals ship on the target pages)."
   - "2026-10-18: Expanded to major tier: added story-first lede and reader-visible layer line; deepened Profile prior with the instrument's actual measurements; added the James handed-mirror case (2025-07-11, 12m11s delivery-to-rupture, dat:0840), the Leviathan witnessed shutdown (2026-07-25/26, dat:0841), the Ally wiki-reading exchange, the confession trap as the inbound twin, and the Ally witness-channel declaration catalog; strengthened all three rivals with the binary-verdict page's edge cases; retired the forensic-method fetch flag (fetched 2026-10-18 from GitHub main). No facts deleted."
 ---

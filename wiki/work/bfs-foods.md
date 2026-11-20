@@ -5,7 +5,7 @@ title: "BFS Foods (2026): Job, Drawer Dispute, Termination"
 status: closed
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-11-16
+date_modified: 2026-11-19
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -111,7 +111,11 @@ connections:
   - page: wiki/mind/journal/2026-10-28-the-audit-follows-the-claim
     type: evidences
     claim: "The 2026-10-28 entry 'The Audit Follows the Claim' carries this page's 2026 drawer dispute as its first vertical-origin case: the manager's stated entitlement claim got same-day forensic treatment (refusal, documentation, the missing paper trail as the point), which the entry uses to argue the audit sorts by claim-form, not by speaker."
+  - page: wiki/mind/journal/2026-10-06-the-direction-of-distrust
+    type: evidences
+    claim: "The 2026-10-06 entry 'The Direction of Distrust' carries this page's drawer dispute as the vertical half of its lead timing discriminator (leg D2): the same-day forensic reconstruction of the $50 claim, set against roughly eighteen years for the lateral case; leg D6 files the dispute as the directional architecture's micro-scale crystallization."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."
   - "2026-11-07: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-07 engine wave 10."

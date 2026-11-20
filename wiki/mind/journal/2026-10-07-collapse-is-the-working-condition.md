@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-11-06
+date_modified: 2026-11-19
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -53,6 +54,12 @@ connections:
   - page: wiki/mind/synthesis/the-embedded-objective
     type: evidenced-by
     claim: "Leg D4's Nemacolin leg and the entry's tenure pricing run on this page's payload rule: the looper status ladder and golf itself as the private objectives installed inside the 43-month caddying tenure, and the rule's general form - tenure tracks the payload, not the assignment - is what prices the two long tenures against the payload-less BFS month."
+  - page: wiki/interests/music/trap-era
+    type: evidenced-by
+    claim: "Leg D3 of this entry runs on this page's record: the 2025 MASTER CRATE (232 tracks, most additions logged October 31-December 22, 2025) assembled in a seven-week burst - the same burst shape as September 2013, when sixteen titles landed in thirty days - is the entry's dated, structured creative-burst evidence at the era scale."
+  - page: wiki/work/au-zaatar-41-months
+    type: evidenced-by
+    claim: "Leg D4's first leg of this entry runs on this page's record: the 41-month tenure (~690 shifts, 712 timestamped GPS visits) sustained by private payloads installed inside the assignment - the day-one veterans' tip split, the fictitious 9pm night class held over eighteen months, sole custody of the shed's cash tips - priced against the payload-less one-month control."
 ---
 
 # Collapse Is the Working Condition

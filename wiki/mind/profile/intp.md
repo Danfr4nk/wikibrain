@@ -8,7 +8,7 @@ status: stable
 importance: high
 tier: major
 date_created: 2026-07-13
-date_modified: 2026-10-18
+date_modified: 2026-11-19
 sources:
   - raw/self/dox-md/FULL PROFILE 2026.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -117,7 +117,11 @@ connections:
   - page: wiki/interests/favorites/eclecticism
     type: evidences
     claim: "The dual architecture of the favorites CSV is this stack on leisure: auxiliary Ne keeps three music clusters live in parallel, dominant Ti closes observational sets through unique witnesses, and those opposite operations share a one-creator-per-entry surface that was misread as range."
+  - page: wiki/mind/journal/2026-10-06-anomalies-are-the-jurisdiction
+    type: evidences
+    claim: "The 2026-10-06 entry 'Anomalies Are the Jurisdiction' prices this page's Ti-dominant record as its Row 41 substrate (weight 9) and faces it as Rival C: the entry's discriminator - forensic deployment on the anomaly inside a coherent record, and no deployment where there is no break - is argued against this page's stack, and the 2026-08-18 exception is read there as a gate-flip on this page's binary-gate record."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-10-18: Declared framework-v2 layer (interpreted/profile). No edge changes — the neurodivergence connection is reciprocated."
   - 2026-10-06 — Restructured to canonical template v1
 ---

@@ -6,7 +6,7 @@ aliases: ["Alexandra Lubin", "ALU", "aluuuu", "Ally"]
 status: severed
 knowledge: earned
 date_created: 2026-06-23
-date_modified: 2026-11-18
+date_modified: 2026-11-19
 date_range_start: 2011-05-20
 date_range_end: 2026-09-21
 images:
@@ -117,7 +117,11 @@ connections:
   - page: wiki/mind/journal/2026-10-04-the-receipt-is-the-channel
     type: evidences
     claim: "The 2026-10-04 entry 'The Receipt Is the Channel' carries this page's $2,100 record as the worked case of its adversarial half: screenshot acceptance in 2019 and the 2026 contest are the entry's evidence that trust in a contested channel lives only at the artifact's fixed address."
+  - page: wiki/mind/journal/2026-10-05-the-handed-mirror
+    type: evidences
+    claim: "The 2026-10-05 entry 'The Handed Mirror' carries this page's 2026-08-18 wiki-reading exchange as its witness-event evidence: the one documented interruption of the binary verdict, where the gate moved when a counted witness received and contested the analysis; the entry's witness-channel leg also runs on the Aug-Sep 2026 block-claim catalog addressed to Ally."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 30."
   - "2026-11-13: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-13 engine wave 20."
   - "2026-11-09: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-09 engine wave 11."

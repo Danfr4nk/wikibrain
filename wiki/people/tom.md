@@ -4,7 +4,7 @@ page_type: entity
 title: "Tom Maison"
 status: active
 date_created: 2026-06-22
-date_modified: 2026-11-07
+date_modified: 2026-11-19
 sources: ["raw/self/dox-scan/dan tom 2010 2022.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-scan/Dan Profile.txt — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/MASTER_MESSAGES_DB_DUMP.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/message-csv/imessage_ALL_both_all_now.csv — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/operating_manual.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/tom_kristin_master_dossier.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/context-core/CONTEXT_CORE_EXPANDED.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/wiki/new-wiki/wikibrain/wiki/self/chats/gemini-18.md", "raw/self/dox-scan/DanAnnie_CompleteRecord_Final.docx — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/LIFE_EVENTS_CALENDAR.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/Cash register shortage explanation.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/_Deconstructing a Chaotic 24 Hours .md — ⚠ Source reference unresolved — original target no longer exists in current corpus.", "raw/self/dox-md/MAX_PRIME.md — ⚠ Source reference unresolved — original target no longer exists in current corpus."]
 tags: [addiction-recovery, dui, ai-collaboration, relationships, mental-health]
 infobox:
@@ -69,7 +69,11 @@ connections:
   - page: wiki/mind/journal/2026-10-04-selection-buys-delay
     type: evidences
     claim: "The 2026-10-04 entry 'Selection Buys Delay' takes this page's record as its lateral clock: the closest male friendship since about 2010, unaudited while it stood, its model revised binarily only when the May 2026 supply failure fired the deferred audit - the ~18-year lag that prices how load-bearing a selection defers its own audit."
+  - page: wiki/mind/journal/2026-10-06-the-direction-of-distrust
+    type: evidences
+    claim: "The 2026-10-06 entry 'The Direction of Distrust' carries this page's record as the lateral half of its lead timing discriminator (leg D2): the closest friendship since about 2010, unaudited while it stood, its model revised only when the May 2026 supply failure fired the deferred audit - the roughly eighteen-year latency the entry sets against the same-day vertical reconstruction."
 changelog:
+  - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-05: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-05 engine wave 6."
 ---
 # Tom
