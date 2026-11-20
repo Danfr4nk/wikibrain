@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-11-19
+date_modified: 2026-11-20
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 33."
   - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
@@ -60,6 +61,9 @@ connections:
   - page: wiki/work/au-zaatar-41-months
     type: evidenced-by
     claim: "Leg D4's first leg of this entry runs on this page's record: the 41-month tenure (~690 shifts, 712 timestamped GPS visits) sustained by private payloads installed inside the assignment - the day-one veterans' tip split, the fictitious 9pm night class held over eighteen months, sole custody of the shed's cash tips - priced against the payload-less one-month control."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "Leg D4's control leg of this entry runs on this page's record: the roughly one-month tenure with no institutional out installed and no private objective anywhere in the record of the job, ending at the first genuinely assigned demand, the $50 drawer payment - the payload-less control the entry prices against the 41- and 43-month payload-sustained tenures."
 ---
 
 # Collapse Is the Working Condition

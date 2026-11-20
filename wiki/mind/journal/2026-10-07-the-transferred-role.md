@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-11-06
+date_modified: 2026-11-20
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 33."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-20: Added reciprocal typed edge(s) to 2026-10-06-the-delegated-surface (framework-v2 link backfill; owed-reciprocals-20261018 ledger)."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
@@ -50,6 +51,12 @@ connections:
   - page: wiki/work/caviar-courier
     type: evidenced-by
     claim: "Leg D5, the negative case, runs on this page's record: 290 automated dispatches, dense April-July 2019, near-silent August-November 2019, not one human message in a year of courier work - an app-dispatch engagement with no human counterparty, where the advocate role is absent exactly as the thesis predicts: the role needs a counterparty the way the payload needs a host."
+  - page: wiki/work/bfs-foods
+    type: evidenced-by
+    claim: "Leg D3 of this entry runs on this page's record: inside the payload rule's one-month control tenure, the advocate role ran anyway - the ID-scan contradiction flagged honestly to Timmy against the ban, Brandon Hill assessed as salvageable rather than malicious, Marty's off-books logic treated as survival wisdom - the payload-less appearance the entry's cost-without-gain discriminator turns on."
+  - page: wiki/work/nemacolin-caddying
+    type: evidenced-by
+    claim: "Leg D4, the origin leg, of this entry runs on this page's record: the April 2016-November 2019 caddying tenure (43 months on the resume-derived span), the looper hierarchy and golf itself as his own sport - the caddie's structural advocacy for the golfer that the entry, on his own framing, reads as the role's native habitat, imported from here to Au Za'atar; the import direction is his testimony, carried as such."
 ---
 
 # The Transferred Role

@@ -7,7 +7,7 @@ status: closed
 importance: critical
 knowledge: mixed
 date_created: 2026-09-24
-date_modified: 2026-11-19
+date_modified: 2026-11-20
 date_range: ["2021-03-01", "2024-08-31"]
 tags: [nyc-era, career, employment, second-nyc-era, relationships, au-zaatar]
 sources:
@@ -72,7 +72,11 @@ connections:
   - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
     type: evidences
     claim: "The 2026-10-07 entry 'Collapse Is the Working Condition' carries this page's 41-month record as the first leg of its tenure test (D4): the tenure's durations and its three installed payloads (tip split, night-class fiction, shed cash custody) are the entry's primary case that a long scheduled tenure is endured via its payload, not inhabited as scheduled output."
+  - page: wiki/mind/journal/2026-10-07-the-two-registers
+    type: evidences
+    claim: "The 2026-10-07 entry 'The Two Registers' carries this page's record as its D4 discriminator leg: organization inside the imposed tenure tracks the three smuggled private objectives (tip split, night-class instrument, shed cash custody), with evasion at the imposed-pure sites (the closing shift, the hour-cutting non-response)."
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 33."
   - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-18: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-18 engine wave 29."
   - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."

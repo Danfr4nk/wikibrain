@@ -6,7 +6,7 @@ aliases: ["CATO", "operating manual", "master forensic prompt", "MAX"]
 status: active
 layer: interpreted/concept
 date_created: 2026-06-22
-date_modified: 2026-11-16
+date_modified: 2026-11-20
 knowledge: earned
 tier: major
 tags: [forensic-analysis, ai-collaboration, personality-profile]
@@ -81,7 +81,12 @@ connections:
   - page: wiki/mind/journal/2026-10-27-the-loop-closes-in-production-only
     type: evidences
     claim: "The 2026-10-27 entry 'The Loop Closes in Production Only' re-prices this page's exocortex claim: built instruments close loops in production (the Shape 1 check killed a journal framing before filing) and leave them open in decision (the manuals' override, written in the honored channel, never installed) - a two-layer verdict on the system this page catalogs."
+  - page: wiki/mind/journal/2026-10-07-the-two-registers
+    type: evidences
+    claim: "The 2026-10-07 entry 'The Two Registers' carries this page's exocortex record as the chosen-container leg (D3) of its domain-gating thesis: the bootloader and master-prompt artifacts and the running substrate are rigid organization in a system he chose and installed, priced against evasion at imposed surfaces."
 changelog:
+  - date: 2026-11-20
+    change: "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 33."
   - date: 2026-11-16
     change: "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 25."
   - date: 2026-10-27

@@ -5,7 +5,7 @@ title: "BFS Foods (2026): Job, Drawer Dispute, Termination"
 status: closed
 knowledge: mixed
 date_created: 2026-07-13
-date_modified: 2026-11-19
+date_modified: 2026-11-20
 sources:
   - raw/legal/bfs-dispute/BFS_BOOTLOADER_v2.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
   - raw/legal/bfs-dispute/BFS Anita Quagmire strategy and legal exposure.md — ⚠ Source reference unresolved — original target no longer exists in current corpus.
@@ -114,7 +114,14 @@ connections:
   - page: wiki/mind/journal/2026-10-06-the-direction-of-distrust
     type: evidences
     claim: "The 2026-10-06 entry 'The Direction of Distrust' carries this page's drawer dispute as the vertical half of its lead timing discriminator (leg D2): the same-day forensic reconstruction of the $50 claim, set against roughly eighteen years for the lateral case; leg D6 files the dispute as the directional architecture's micro-scale crystallization."
+  - page: wiki/mind/journal/2026-10-07-collapse-is-the-working-condition
+    type: evidences
+    claim: "The 2026-10-07 entry 'Collapse Is the Working Condition' carries this page's roughly one-month, payload-less tenure as the control leg (D4) of its tenure test: no institutional out, no private objective, ending at the first genuinely assigned demand - priced against the two long payload-sustained tenures."
+  - page: wiki/mind/journal/2026-10-07-the-transferred-role
+    type: evidences
+    claim: "The 2026-10-07 entry 'The Transferred Role' carries this page's record as its D3 leg: the advocate role running inside a payload-less one-month tenure (the honest flag to Timmy, Brandon Hill read as salvageable, Marty as survival wisdom), against the payload-costume rival."
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 33."
   - "2026-11-19: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-19 engine wave 32."
   - "2026-11-16: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-16 engine wave 26."
   - "2026-11-14: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-14 engine wave 21."

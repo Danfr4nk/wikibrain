@@ -8,8 +8,9 @@ knowledge: derived
 importance: medium
 layer: interpreted/journal
 date_created: 2026-10-07
-date_modified: 2026-11-06
+date_modified: 2026-11-20
 changelog:
+  - "2026-11-20: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-20 engine wave 33."
   - "2026-11-06: Fresh Jev backlink pass (jev-1.13.0, human full-read gate): added reciprocal typed connection from the 2026-11-06 engine wave 8."
   - "2026-10-19: Declared framework-v2 layer interpreted/journal (frontmatter `layer:` + reader-visible _Layer: line); part of the mind/self two-root sweep."
 sources:
@@ -43,6 +44,12 @@ connections:
   - page: wiki/mind/profile/big-five-psychometrics
     type: evidenced-by
     claim: "Leg D2 runs on this page's testimony-grade RLUEI readings: the dossier gloss recorded here - an unstructured exterior holding obsessive internal logical structure, working in intense bursts followed by complete collapse - already concedes the two-register shape, and this page records the dated first-person RLOEI self-typing (2024-11-04) contesting the SLOAN fourth letter the entry prices."
+  - page: wiki/work/au-zaatar-41-months
+    type: evidenced-by
+    claim: "Leg D4 of this entry runs on this page's record: inside the imposed 41-month container, rigid organization appears exactly at the three smuggled-choice sites (the day-one veterans' tip split, the eighteen-month fabricated night class, sole custody of the shed's cash tips) and evasion at the imposed-pure sites - he never closed once in forty-one months, and three months of deliberate hour-cutting in mid-2024 did not end the tenure - the discriminator pattern the entry prices."
+  - page: wiki/mind/concepts/exocortex
+    type: evidenced-by
+    claim: "Leg D3's chosen-container leg and row 10 of this entry run on this page's record: the exocortex artifacts - the bootloader and master-prompt layer (CATO v2.0 and its forensic pipeline among them), the memory layer, and the autonomous substrate running scheduled instruments by September 2026 - are the entry's largest chosen container, rigidly ordered by his own hand."
 ---
 
 # The Two Registers
